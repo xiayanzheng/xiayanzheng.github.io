@@ -7,26 +7,32 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 10 May 2026 20:34:31 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 10 May 2026 20:41:23 +0000</lastBuildDate>
     <item>
-      <title>[WhiteHouse] Today, we celebrate the mothers whose unwavering love, sacrifice, &amp; strength help mold the heart &amp; soul of our nation. To the millions of moms across America—&amp; to First Lady Melania Trump &amp; Second Lady Usha Vance—thank you. Happy Mother’s Day from the White House.</title>
+      <title>[@AnthropicAI] Teaching Claude: New research on reducing agentic misalignment</title>
+      <link>https://x.com/AnthropicAI/status/2052808801040859392</link>
+      <description>High-quality documents based on Claude’s constitution, combined with fictional stories that portray an aligned AI, can reduce agentic misalignment by more than a factor of three—despite being unrelated to the evaluation scenario.</description>
+      <guid isPermaLink="false">https://x.com/AnthropicAI/status/2052808801040859392</guid>
+      <pubDate>Fri, 08 May 2026 17:52:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>[@OpenAI] Preserving monitorability: Avoiding CoT grading in RL</title>
+      <link>https://x.com/OpenAI/status/2052845764507062349</link>
+      <description>Chain of thought monitors are a key layer of defense against AI agent misalignment. To preserve monitorability, we avoid penalizing misaligned reasoning during RL. We found a limited amount of accidental CoT grading which affected released models, and are sharing our analysis.</description>
+      <guid isPermaLink="false">https://x.com/OpenAI/status/2052845764507062349</guid>
+      <pubDate>Fri, 08 May 2026 20:19:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>[@WhiteHouse] Celebrating mothers on Mother’s Day</title>
       <link>https://x.com/WhiteHouse/status/2053466209568362908</link>
-      <description>Today, we celebrate the mothers whose unwavering love, sacrifice, &amp; strength help mold the heart &amp; soul of our nation.
-
-To the millions of moms across America—&amp; to First Lady Melania Trump &amp; Second Lady Usha Vance—thank you.
-
-Happy Mother’s Day from the White House. 💐🇺🇸</description>
+      <description>Today, we celebrate the mothers whose unwavering love, sacrifice, &amp; strength help mold the heart &amp; soul of our nation. To the millions of moms across America—&amp; to First Lady Melania Trump &amp; Second Lady Usha Vance—thank you. Happy Mother’s Day from the White House.</description>
       <guid isPermaLink="false">https://x.com/WhiteHouse/status/2053466209568362908</guid>
       <pubDate>Sun, 10 May 2026 13:24:30 +0000</pubDate>
     </item>
     <item>
-      <title>[WhiteHouse] 🤍 Happy Mother’s Day from the Trump Administration! To every mom shaping America’s future — thank you. Today we’re sharing heartfelt stories from @SLOTUS, Cabinet Secretaries &amp; their families — plus how President Trump is supporting families more than ever.</title>
+      <title>[@WhiteHouse] Happy Mother’s Day from the Trump Administration</title>
       <link>https://x.com/WhiteHouse/status/2053482165673869779</link>
-      <description>🤍 Happy Mother’s Day from the Trump Administration!
-
-To every mom shaping America’s future — thank you.
-
-Today we’re sharing heartfelt stories from @SLOTUS, Cabinet Secretaries &amp; their families — plus how President Trump is supporting families more than ever. WATCH ⬇️</description>
+      <description>🤍 Happy Mother’s Day from the Trump Administration! To every mom shaping America’s future — thank you. Today we’re sharing heartfelt stories from @SLOTUS, Cabinet Secretaries &amp; their families — plus how President Trump is supporting families more than ever.</description>
       <guid isPermaLink="false">https://x.com/WhiteHouse/status/2053482165673869779</guid>
       <pubDate>Sun, 10 May 2026 14:27:54 +0000</pubDate>
     </item>
@@ -59,13 +65,9 @@ Today we’re sharing heartfelt stories from @SLOTUS, Cabinet Secretaries &amp; 
       <pubDate>Sun, 10 May 2026 18:47:37 +0000</pubDate>
     </item>
     <item>
-      <title>[WhiteHouse] THE GIFT THAT KEEPS ON GIVING. The Trump Administration is supporting American families like never before with Trump Accounts, helping give the next generation a jumpstart toward their future.</title>
+      <title>[@WhiteHouse] Trump Accounts supporting American families</title>
       <link>https://x.com/WhiteHouse/status/2053547959447376012</link>
-      <description>THE GIFT THAT KEEPS ON GIVING. 
-
-The Trump Administration is supporting American families like never before with Trump Accounts, helping give the next generation a jumpstart toward their future. 
-
-https://trumpaccounts.gov/ 💸</description>
+      <description>THE GIFT THAT KEEPS ON GIVING. The Trump Administration is supporting American families like never before with Trump Accounts, helping give the next generation a jumpstart toward their future. https://trumpaccounts.gov/ 💸</description>
       <guid isPermaLink="false">https://x.com/WhiteHouse/status/2053547959447376012</guid>
       <pubDate>Sun, 10 May 2026 18:49:21 +0000</pubDate>
     </item>
@@ -91,7 +93,14 @@ https://trumpaccounts.gov/ 💸</description>
       <pubDate>Sun, 10 May 2026 19:43:49 +0000</pubDate>
     </item>
     <item>
-      <title>[Polymarket] JUST IN: Trump says Iran’s enriched uranium is being “surveilled” by the U.S.</title>
+      <title>[topic: AI] 12 Claude code concepts you need to know</title>
+      <link>https://x.com/RoundtableSpace/status/2053561963922559187</link>
+      <description>12 CLAUDE CODE CONCEPTS YOU NEED TO KNOW BEFORE YOU TOUCH ANYTHING ELSE: CLAUDE.md, Permissions, Plan Mode, Checkpoints, Skills, Hooks, MCP, Plugins, Context, Slash Commands, Compaction, Subagents. BOOKMARK THIS.</description>
+      <guid isPermaLink="false">https://x.com/RoundtableSpace/status/2053561963922559187</guid>
+      <pubDate>Sun, 10 May 2026 19:45:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[@Polymarket] JUST IN: Trump says Iran’s enriched uranium is being “surveilled”</title>
       <link>https://x.com/Polymarket/status/2053563889686585744</link>
       <description>JUST IN: Trump says Iran’s enriched uranium is being “surveilled” by the U.S.</description>
       <guid isPermaLink="false">https://x.com/Polymarket/status/2053563889686585744</guid>
@@ -105,7 +114,7 @@ https://trumpaccounts.gov/ 💸</description>
       <pubDate>Sun, 10 May 2026 19:58:45 +0000</pubDate>
     </item>
     <item>
-      <title>[Polymarket] JUST IN: Iran declares foreign powers “unwelcome” in the Persian Gulf.</title>
+      <title>[@Polymarket] JUST IN: Iran declares foreign powers “unwelcome” in the Persian Gulf</title>
       <link>https://x.com/Polymarket/status/2053568951515312428</link>
       <description>JUST IN: Iran declares foreign powers “unwelcome” in the Persian Gulf.</description>
       <guid isPermaLink="false">https://x.com/Polymarket/status/2053568951515312428</guid>
@@ -117,6 +126,13 @@ https://trumpaccounts.gov/ 💸</description>
       <description>67% chance the U.S. blockade persists into next month. https://polymarket.com/event/trump-announces-us-blockade-of-hormuz-lifted-by?via=x-afr2</description>
       <guid isPermaLink="false">https://x.com/Polymarket/status/2053572079333650585</guid>
       <pubDate>Sun, 10 May 2026 20:25:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>[trending] Oakland home values hit lowest in a decade</title>
+      <link>https://x.com/Polymarket/status/2053575369232437688</link>
+      <description>JUST IN: Oakland home values hit their lowest level in roughly a decade after falling 11.4% in a year.</description>
+      <guid isPermaLink="false">https://x.com/Polymarket/status/2053575369232437688</guid>
+      <pubDate>Sun, 10 May 2026 20:38:16 +0000</pubDate>
     </item>
   </channel>
 </rss>
