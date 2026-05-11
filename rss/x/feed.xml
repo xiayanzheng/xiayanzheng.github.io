@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 11 May 2026 00:38:23 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 11 May 2026 07:13:51 +0000</lastBuildDate>
     <item>
       <title>[@AnthropicAI] Teaching Claude: New research on reducing agentic misalignment</title>
       <link>https://x.com/AnthropicAI/status/2052808801040859392</link>
@@ -16,7 +16,7 @@
       <pubDate>Fri, 08 May 2026 17:52:12 +0000</pubDate>
     </item>
     <item>
-      <title>[@AnthropicAI] Interventions reduce blackmail rate</title>
+      <title>[@AnthropicAI] Interventions for harmlessness and alignment</title>
       <link>https://x.com/AnthropicAI/status/2052808806782964072</link>
       <description>Finally, simple updates that diversify a model’s training data can make a difference. We added unrelated tools and system prompts to a simple chat dataset targeting harmlessness, and this reduced the blackmail rate faster.</description>
       <guid isPermaLink="false">https://x.com/AnthropicAI/status/2052808806782964072</guid>
@@ -30,7 +30,7 @@
       <pubDate>Fri, 08 May 2026 17:52:14 +0000</pubDate>
     </item>
     <item>
-      <title>[@OpenAI] Preserving monitorability in CoT</title>
+      <title>[@OpenAI] Preserving monitorability: Avoiding accidental CoT grading in RL</title>
       <link>https://x.com/OpenAI/status/2052845764507062349</link>
       <description>Chain of thought monitors are a key layer of defense against AI agent misalignment. To preserve monitorability, we avoid penalizing misaligned reasoning during RL. We found a limited amount of accidental CoT grading which affected released models, and are sharing our analysis.</description>
       <guid isPermaLink="false">https://x.com/OpenAI/status/2052845764507062349</guid>
@@ -149,14 +149,14 @@
       <pubDate>Sun, 10 May 2026 20:38:16 +0000</pubDate>
     </item>
     <item>
-      <title>[@WhiteHouse] Mother's Day 2026</title>
+      <title>[@WhiteHouse] Mother's Day 2026 message from President Trump</title>
       <link>https://x.com/WhiteHouse/status/2053589102734217619</link>
       <description>Mother's Day 2026 at the White House 💐 "You have the most important job there is in America or any place else... I just want to wish you all a very happy Mother’s Day." - President Donald J. Trump</description>
       <guid isPermaLink="false">https://x.com/WhiteHouse/status/2053589102734217619</guid>
       <pubDate>Sun, 10 May 2026 21:32:50 +0000</pubDate>
     </item>
     <item>
-      <title>[@WhiteHouse] Trump Effect on economy</title>
+      <title>[@WhiteHouse] The Trump Effect on jobs and economy</title>
       <link>https://x.com/WhiteHouse/status/2053604130891964724</link>
       <description>The Trump Effect 📈🔥</description>
       <guid isPermaLink="false">https://x.com/WhiteHouse/status/2053604130891964724</guid>
@@ -196,6 +196,41 @@
       <description>Thank you all for the Mother's Day wishes! There's no bigger blessing than being a mommy❤️</description>
       <guid isPermaLink="false">https://x.com/daintylilsole1/status/2053635756061577521</guid>
       <pubDate>Mon, 11 May 2026 00:38:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>[@Polymarket] Hantavirus concerns on cruise ship</title>
+      <link>https://x.com/Polymarket/status/2053668415345135889</link>
+      <description>JUST IN: U.S. citizen tests “mildly positive” for hantavirus after departing from the MV Hondius cruise ship.</description>
+      <guid isPermaLink="false">https://x.com/Polymarket/status/2053668415345135889</guid>
+      <pubDate>Mon, 11 May 2026 02:48:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[@Polymarket] U.S. nuclear submarine spotted near Gibraltar</title>
+      <link>https://x.com/Polymarket/status/2053680495070753221</link>
+      <description>JUST IN: U.S. nuclear submarine reportedly spotted near Gibraltar.</description>
+      <guid isPermaLink="false">https://x.com/Polymarket/status/2053680495070753221</guid>
+      <pubDate>Mon, 11 May 2026 03:36:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[trending] BTS ARIRANG World Tour surprise songs</title>
+      <link>https://x.com/btschartsxdaily/status/2053684662120136711</link>
+      <description>#BTS_ARIRANG World Tour - Surprise Songs! 💜 [full list of songs by city and day]</description>
+      <guid isPermaLink="false">https://x.com/btschartsxdaily/status/2053684662120136711</guid>
+      <pubDate>Mon, 11 May 2026 03:52:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>[trending] BTS Yoongi acknowledges fans outside stadium</title>
+      <link>https://x.com/mhereonlyforbts/status/2053692252250165447</link>
+      <description>YOONGI ACKNOWLEDGING ALL THE ARMYS OUTSIDE THE STADIUM OMG🥹 🐱I think there are as many ARMYs outside the stadium as there are inside… Is there a bigger stadium in Mexico?</description>
+      <guid isPermaLink="false">https://x.com/mhereonlyforbts/status/2053692252250165447</guid>
+      <pubDate>Mon, 11 May 2026 04:22:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>[topic: AI] Google DeepMind AlphaEvolve breakthroughs</title>
+      <link>https://x.com/princedoesai/status/2053699963109118116</link>
+      <description>🚨 Breaking News Google DeepMind says AlphaEvolve cut DNA variant detection errors 30% and is now optimizing TPUs, grids and models. Builder take: coding agents are becoming algorithm search engines, not just app writers.</description>
+      <guid isPermaLink="false">https://x.com/princedoesai/status/2053699963109118116</guid>
+      <pubDate>Mon, 11 May 2026 04:53:21 +0000</pubDate>
     </item>
   </channel>
 </rss>
