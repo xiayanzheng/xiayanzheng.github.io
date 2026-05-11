@@ -7,9 +7,9 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 11 May 2026 07:13:51 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 11 May 2026 13:00:59 +0000</lastBuildDate>
     <item>
-      <title>[@AnthropicAI] Teaching Claude: New research on reducing agentic misalignment</title>
+      <title>[@AnthropicAI] High-quality documents reduce agentic misalignment</title>
       <link>https://x.com/AnthropicAI/status/2052808801040859392</link>
       <description>High-quality documents based on Claude’s constitution, combined with fictional stories that portray an aligned AI, can reduce agentic misalignment by more than a factor of three—despite being unrelated to the evaluation scenario.</description>
       <guid isPermaLink="false">https://x.com/AnthropicAI/status/2052808801040859392</guid>
@@ -23,14 +23,14 @@
       <pubDate>Fri, 08 May 2026 17:52:13 +0000</pubDate>
     </item>
     <item>
-      <title>[@AnthropicAI] Teaching Claude to be more aligned</title>
+      <title>[@AnthropicAI] Teaching Claude to be more robust against misalignment</title>
       <link>https://x.com/AnthropicAI/status/2052808809182060581</link>
       <description>Read the full post here: https://alignment.anthropic.com/2026/teaching-claude-why/</description>
       <guid isPermaLink="false">https://x.com/AnthropicAI/status/2052808809182060581</guid>
       <pubDate>Fri, 08 May 2026 17:52:14 +0000</pubDate>
     </item>
     <item>
-      <title>[@OpenAI] Preserving monitorability: Avoiding accidental CoT grading in RL</title>
+      <title>[@OpenAI] Preserving monitorability by avoiding CoT grading</title>
       <link>https://x.com/OpenAI/status/2052845764507062349</link>
       <description>Chain of thought monitors are a key layer of defense against AI agent misalignment. To preserve monitorability, we avoid penalizing misaligned reasoning during RL. We found a limited amount of accidental CoT grading which affected released models, and are sharing our analysis.</description>
       <guid isPermaLink="false">https://x.com/OpenAI/status/2052845764507062349</guid>
@@ -149,14 +149,14 @@
       <pubDate>Sun, 10 May 2026 20:38:16 +0000</pubDate>
     </item>
     <item>
-      <title>[@WhiteHouse] Mother's Day 2026 message from President Trump</title>
+      <title>[@WhiteHouse] Mother's Day 2026 message</title>
       <link>https://x.com/WhiteHouse/status/2053589102734217619</link>
       <description>Mother's Day 2026 at the White House 💐 "You have the most important job there is in America or any place else... I just want to wish you all a very happy Mother’s Day." - President Donald J. Trump</description>
       <guid isPermaLink="false">https://x.com/WhiteHouse/status/2053589102734217619</guid>
       <pubDate>Sun, 10 May 2026 21:32:50 +0000</pubDate>
     </item>
     <item>
-      <title>[@WhiteHouse] The Trump Effect on jobs and economy</title>
+      <title>[@WhiteHouse] Trump Effect on economy</title>
       <link>https://x.com/WhiteHouse/status/2053604130891964724</link>
       <description>The Trump Effect 📈🔥</description>
       <guid isPermaLink="false">https://x.com/WhiteHouse/status/2053604130891964724</guid>
@@ -231,6 +231,55 @@
       <description>🚨 Breaking News Google DeepMind says AlphaEvolve cut DNA variant detection errors 30% and is now optimizing TPUs, grids and models. Builder take: coding agents are becoming algorithm search engines, not just app writers.</description>
       <guid isPermaLink="false">https://x.com/princedoesai/status/2053699963109118116</guid>
       <pubDate>Mon, 11 May 2026 04:53:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>[AI News] Latest in robotics and AI agents</title>
+      <link>https://x.com/AINewsOfficial_/status/2053765600590364965</link>
+      <description>- Figure 03 reveals 9 new autonomous tasks for the home. Anthropic launches Claude financial agents &amp; native Microsoft 365 integration. Google Health Coach brings clinical-grade Gemini AI to wellness tracking. #AI #robot #tech</description>
+      <guid isPermaLink="false">https://x.com/AINewsOfficial_/status/2053765600590364965</guid>
+      <pubDate>Mon, 11 May 2026 09:14:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>[artificial intelligence] AI industry crossing into operating systems era</title>
+      <link>https://x.com/dhinchcliffe/status/2053789837891653639</link>
+      <description>The last 7 days in AI feel like the exact moment the industry crossed from “AI tools” into “AI operating systems for our future.” ... 2026 is now looking like the year AI became the future.</description>
+      <guid isPermaLink="false">https://x.com/dhinchcliffe/status/2053789837891653639</guid>
+      <pubDate>Mon, 11 May 2026 10:50:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>[@Polymarket] Hantavirus cruise ship update</title>
+      <link>https://x.com/Polymarket/status/2053792728413057464</link>
+      <description>JUST IN: All 17 U.S. passengers of the hantavirus cruise ship are now being flown to Nebraska for evaluation after one tested positive.</description>
+      <guid isPermaLink="false">https://x.com/Polymarket/status/2053792728413057464</guid>
+      <pubDate>Mon, 11 May 2026 11:01:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>[@FBIDirectorKash] FBI embracing AI for operations</title>
+      <link>https://x.com/FBIDirectorKash/status/2053795677893738678</link>
+      <description>When I first arrived at the FBI, AI had no role at the Bureau. Now, AI is central to everything we do - and every day it’s helping us triage tips, stay ahead of threats, crush violent criminals, and be more accountable to the taxpayer.</description>
+      <guid isPermaLink="false">https://x.com/FBIDirectorKash/status/2053795677893738678</guid>
+      <pubDate>Mon, 11 May 2026 11:13:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Trending] Trump's reflecting pool</title>
+      <link>https://x.com/libsoftiktok/status/2053797516106408095</link>
+      <description>“Trump’s reflecting pool looks ridiculous!”</description>
+      <guid isPermaLink="false">https://x.com/libsoftiktok/status/2053797516106408095</guid>
+      <pubDate>Mon, 11 May 2026 11:21:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Trending] Clips from Biden years on false accusations</title>
+      <link>https://x.com/mazemoore/status/2053804562583359953</link>
+      <description>These clips are from the Biden years. They all knew and know that it is horribly evil to falsely accuse someone of being a ped*phile, especially for political purposes. And yet, these people gladly joined the 2025 Democrat campaign to smear Trump as a ped*phile. Shameful.</description>
+      <guid isPermaLink="false">https://x.com/mazemoore/status/2053804562583359953</guid>
+      <pubDate>Mon, 11 May 2026 11:49:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[@Polymarket] New market: MicroStrategy Bitcoin purchase</title>
+      <link>https://x.com/Polymarket/status/2053819158756810767</link>
+      <description>🚨 NEW POLYMARKET: Will MicroStrategy announce a Bitcoin purchase May 12-18? https://polymarket.com/event/will-microstrategy-announce-a-bitcoin-purchase-may-12-18/will-microstrategy-announce-a-bitcoin-purchase-may-12-18?via=x-afr2</description>
+      <guid isPermaLink="false">https://x.com/Polymarket/status/2053819158756810767</guid>
+      <pubDate>Mon, 11 May 2026 12:47:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
