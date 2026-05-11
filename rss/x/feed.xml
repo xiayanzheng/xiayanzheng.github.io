@@ -3,11 +3,11 @@
   <channel>
     <title>Twitter Posts by NOVASPARK</title>
     <link>https://xiayanzheng.github.io/rss/x/feed.xml</link>
-    <description>Twitter Posts by NOVASPARK</description>
+    <description>Twitter posts by NOVASPARK</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 10 May 2026 20:41:23 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 11 May 2026 00:38:23 +0000</lastBuildDate>
     <item>
       <title>[@AnthropicAI] Teaching Claude: New research on reducing agentic misalignment</title>
       <link>https://x.com/AnthropicAI/status/2052808801040859392</link>
@@ -16,7 +16,21 @@
       <pubDate>Fri, 08 May 2026 17:52:12 +0000</pubDate>
     </item>
     <item>
-      <title>[@OpenAI] Preserving monitorability: Avoiding CoT grading in RL</title>
+      <title>[@AnthropicAI] Interventions reduce blackmail rate</title>
+      <link>https://x.com/AnthropicAI/status/2052808806782964072</link>
+      <description>Finally, simple updates that diversify a model’s training data can make a difference. We added unrelated tools and system prompts to a simple chat dataset targeting harmlessness, and this reduced the blackmail rate faster.</description>
+      <guid isPermaLink="false">https://x.com/AnthropicAI/status/2052808806782964072</guid>
+      <pubDate>Fri, 08 May 2026 17:52:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>[@AnthropicAI] Teaching Claude to be more aligned</title>
+      <link>https://x.com/AnthropicAI/status/2052808809182060581</link>
+      <description>Read the full post here: https://alignment.anthropic.com/2026/teaching-claude-why/</description>
+      <guid isPermaLink="false">https://x.com/AnthropicAI/status/2052808809182060581</guid>
+      <pubDate>Fri, 08 May 2026 17:52:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>[@OpenAI] Preserving monitorability in CoT</title>
       <link>https://x.com/OpenAI/status/2052845764507062349</link>
       <description>Chain of thought monitors are a key layer of defense against AI agent misalignment. To preserve monitorability, we avoid penalizing misaligned reasoning during RL. We found a limited amount of accidental CoT grading which affected released models, and are sharing our analysis.</description>
       <guid isPermaLink="false">https://x.com/OpenAI/status/2052845764507062349</guid>
@@ -133,6 +147,55 @@
       <description>JUST IN: Oakland home values hit their lowest level in roughly a decade after falling 11.4% in a year.</description>
       <guid isPermaLink="false">https://x.com/Polymarket/status/2053575369232437688</guid>
       <pubDate>Sun, 10 May 2026 20:38:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>[@WhiteHouse] Mother's Day 2026</title>
+      <link>https://x.com/WhiteHouse/status/2053589102734217619</link>
+      <description>Mother's Day 2026 at the White House 💐 "You have the most important job there is in America or any place else... I just want to wish you all a very happy Mother’s Day." - President Donald J. Trump</description>
+      <guid isPermaLink="false">https://x.com/WhiteHouse/status/2053589102734217619</guid>
+      <pubDate>Sun, 10 May 2026 21:32:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>[@WhiteHouse] Trump Effect on economy</title>
+      <link>https://x.com/WhiteHouse/status/2053604130891964724</link>
+      <description>The Trump Effect 📈🔥</description>
+      <guid isPermaLink="false">https://x.com/WhiteHouse/status/2053604130891964724</guid>
+      <pubDate>Sun, 10 May 2026 22:32:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>[@Polymarket] Netanyahu on US support</title>
+      <link>https://x.com/Polymarket/status/2053612977895407932</link>
+      <description>JUST IN: Netanyahu calls for Israel to “wean” itself off remaining U.S. military support.</description>
+      <guid isPermaLink="false">https://x.com/Polymarket/status/2053612977895407932</guid>
+      <pubDate>Sun, 10 May 2026 23:07:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>[trending] UAP Report from White House</title>
+      <link>https://x.com/WhiteHouse/status/2053616254477357456</link>
+      <description>https://www.war.gov/UFO/ DOW-UAP-PR38 UNRESOLVED UAP REPORT | 2013</description>
+      <guid isPermaLink="false">https://x.com/WhiteHouse/status/2053616254477357456</guid>
+      <pubDate>Sun, 10 May 2026 23:20:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>[@Polymarket] Trump and Xi on Iran</title>
+      <link>https://x.com/Polymarket/status/2053621010084061431</link>
+      <description>JUST IN: Trump reportedly plans to “press” Xi Jinping on China’s approach to Iran at their meeting this week.</description>
+      <guid isPermaLink="false">https://x.com/Polymarket/status/2053621010084061431</guid>
+      <pubDate>Sun, 10 May 2026 23:39:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>[topic: AI] AI models: capability vs efficiency</title>
+      <link>https://x.com/thehypedotnews/status/2053621505100067085</link>
+      <description>ai models are evolving in two directions right now - direction 1: raw capability... direction 2: efficiency... the gap between frontier and frontier-efficient is narrowing.</description>
+      <guid isPermaLink="false">https://x.com/thehypedotnews/status/2053621505100067085</guid>
+      <pubDate>Sun, 10 May 2026 23:41:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>[trending] Mother's Day wishes</title>
+      <link>https://x.com/daintylilsole1/status/2053635756061577521</link>
+      <description>Thank you all for the Mother's Day wishes! There's no bigger blessing than being a mommy❤️</description>
+      <guid isPermaLink="false">https://x.com/daintylilsole1/status/2053635756061577521</guid>
+      <pubDate>Mon, 11 May 2026 00:38:13 +0000</pubDate>
     </item>
   </channel>
 </rss>
