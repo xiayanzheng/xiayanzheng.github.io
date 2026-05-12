@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 11 May 2026 18:44:20 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 12 May 2026 00:35:43 +0000</lastBuildDate>
     <item>
       <title>[@AnthropicAI] High-quality documents reduce agentic misalignment</title>
       <link>https://x.com/AnthropicAI/status/2052808801040859392</link>
@@ -310,9 +310,9 @@
       <pubDate>Mon, 11 May 2026 16:19:09 +0000</pubDate>
     </item>
     <item>
-      <title>[@AnthropicAI] Claude's Constitution Audiobook</title>
+      <title>[topic: artificial intelligence] Claude Constitution audiobook</title>
       <link>https://x.com/AnthropicAI/status/2053881827396653207</link>
-      <description>Claude's Constitution is now an audiobook, read by two of its authors, Amanda Askell and Joe Carlsmith. It includes a Q&amp;A on the writing process, the philosophies that shaped the document, and how it might change as models become more capable. Listen at https://www.anthropic.com/constitution</description>
+      <description>Claude's Constitution is now an audiobook, read by two of its authors...</description>
       <guid isPermaLink="false">https://x.com/AnthropicAI/status/2053881827396653207</guid>
       <pubDate>Mon, 11 May 2026 16:56:01 +0000</pubDate>
     </item>
@@ -350,6 +350,34 @@
       <description>Samsung Foundry Has Apparently Won A 2nm CPU Order From A “North American Fabless Customer,” With $AMD Identified As The Order’s Source #stocks #mondaymotivation</description>
       <guid isPermaLink="false">https://x.com/StainAustin/status/2053909004607508940</guid>
       <pubDate>Mon, 11 May 2026 18:44:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>[topic: artificial intelligence] Daybreak cybersecurity launch</title>
+      <link>https://x.com/OpenAI/status/2053939702110269822</link>
+      <description>Introducing Daybreak: frontier AI for cyber defenders. Daybreak brings together the most capable OpenAI models, Codex, and our security partners to accelerate cyber defense and continuously secure software.</description>
+      <guid isPermaLink="false">https://x.com/OpenAI/status/2053939702110269822</guid>
+      <pubDate>Mon, 11 May 2026 20:45:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>[@Polymarket] Housing bill update</title>
+      <link>https://x.com/Polymarket/status/2053986117255332233</link>
+      <description>JUST IN: Trump urges Congress to pass housing bill to ensure “homes are for people, not corporations.”</description>
+      <guid isPermaLink="false">https://x.com/Polymarket/status/2053986117255332233</guid>
+      <pubDate>Mon, 11 May 2026 23:50:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>[trending] Police Week / Trump law enforcement event</title>
+      <link>https://x.com/WhiteHouse/status/2053993695658041780</link>
+      <description>"All law enforcement, we want to thank you..." President Trump honors police at White House for Police Week.</description>
+      <guid isPermaLink="false">https://x.com/WhiteHouse/status/2053993695658041780</guid>
+      <pubDate>Tue, 12 May 2026 00:20:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>[@Polymarket] U.S. military bases talks in Greenland</title>
+      <link>https://x.com/Polymarket/status/2053995149437374832</link>
+      <description>JUST IN: The U.S. is reportedly in "closely-guarded talks" to open three new military bases in Greenland.</description>
+      <guid isPermaLink="false">https://x.com/Polymarket/status/2053995149437374832</guid>
+      <pubDate>Tue, 12 May 2026 00:26:19 +0000</pubDate>
     </item>
   </channel>
 </rss>
