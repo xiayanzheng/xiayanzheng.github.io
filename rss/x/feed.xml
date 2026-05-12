@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 12 May 2026 00:35:43 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 12 May 2026 07:00:37 +0000</lastBuildDate>
     <item>
       <title>[@AnthropicAI] High-quality documents reduce agentic misalignment</title>
       <link>https://x.com/AnthropicAI/status/2052808801040859392</link>
@@ -310,9 +310,9 @@
       <pubDate>Mon, 11 May 2026 16:19:09 +0000</pubDate>
     </item>
     <item>
-      <title>[topic: artificial intelligence] Claude Constitution audiobook</title>
+      <title>[@AnthropicAI] Claude's Constitution audiobook</title>
       <link>https://x.com/AnthropicAI/status/2053881827396653207</link>
-      <description>Claude's Constitution is now an audiobook, read by two of its authors...</description>
+      <description>Claude's Constitution is now an audiobook, read by two of its authors, Amanda Askell and Joe Carlsmith. It includes a Q&amp;A on the writing process, the philosophies that shaped the document, and how it might change as models become more capable. Listen at https://www.anthropic.com/constitution</description>
       <guid isPermaLink="false">https://x.com/AnthropicAI/status/2053881827396653207</guid>
       <pubDate>Mon, 11 May 2026 16:56:01 +0000</pubDate>
     </item>
@@ -352,9 +352,9 @@
       <pubDate>Mon, 11 May 2026 18:44:01 +0000</pubDate>
     </item>
     <item>
-      <title>[topic: artificial intelligence] Daybreak cybersecurity launch</title>
+      <title>[@OpenAI] Introducing Daybreak: frontier AI for cyber defenders</title>
       <link>https://x.com/OpenAI/status/2053939702110269822</link>
-      <description>Introducing Daybreak: frontier AI for cyber defenders. Daybreak brings together the most capable OpenAI models, Codex, and our security partners to accelerate cyber defense and continuously secure software.</description>
+      <description>Introducing Daybreak: frontier AI for cyber defenders. Daybreak brings together the most capable OpenAI models, Codex, and our security partners to accelerate cyber defense and continuously secure software. A step toward a future where security teams can move at the speed defense demands.</description>
       <guid isPermaLink="false">https://x.com/OpenAI/status/2053939702110269822</guid>
       <pubDate>Mon, 11 May 2026 20:45:59 +0000</pubDate>
     </item>
@@ -366,9 +366,9 @@
       <pubDate>Mon, 11 May 2026 23:50:26 +0000</pubDate>
     </item>
     <item>
-      <title>[trending] Police Week / Trump law enforcement event</title>
+      <title>[@WhiteHouse] Police Week honors</title>
       <link>https://x.com/WhiteHouse/status/2053993695658041780</link>
-      <description>"All law enforcement, we want to thank you..." President Trump honors police at White House for Police Week.</description>
+      <description>"All law enforcement, we want to thank you. And thank you from the bottom of my heart." This police week, President Trump honors America's incredible police officers at the White House with a dinner in the Rose Garden. 🇺🇸🚔</description>
       <guid isPermaLink="false">https://x.com/WhiteHouse/status/2053993695658041780</guid>
       <pubDate>Tue, 12 May 2026 00:20:33 +0000</pubDate>
     </item>
@@ -378,6 +378,34 @@
       <description>JUST IN: The U.S. is reportedly in "closely-guarded talks" to open three new military bases in Greenland.</description>
       <guid isPermaLink="false">https://x.com/Polymarket/status/2053995149437374832</guid>
       <pubDate>Tue, 12 May 2026 00:26:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>[@WhiteHouse] Indiana Hoosiers Championship Ceremony</title>
+      <link>https://x.com/WhiteHouse/status/2054003628814340275</link>
+      <description>So much winning at the White House. 🇺🇸🏈 The Undefeated National Champion Indiana Hoosiers Football join President Trump for a ceremony on the South Lawn, highlighting their one of a kind season.</description>
+      <guid isPermaLink="false">https://x.com/WhiteHouse/status/2054003628814340275</guid>
+      <pubDate>Tue, 12 May 2026 01:00:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>[trending] Viral aging reversal claims</title>
+      <link>https://x.com/HustleBitch_/status/2054037429225468007</link>
+      <description>🚨 SURGEON WARNS THE BIGGEST BREAKTHROUGH IN HUMAN HISTORY IS HAPPENING RIGHT NOW — “BIGGER THAN AI” A surgeon is going viral after claiming scientists may have already discovered a way to partially REVERSE aging at the DNA level…</description>
+      <guid isPermaLink="false">https://x.com/HustleBitch_/status/2054037429225468007</guid>
+      <pubDate>Tue, 12 May 2026 03:14:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>[@Polymarket] House probe into Sam Altman</title>
+      <link>https://x.com/Polymarket/status/2054041886709391577</link>
+      <description>JUST IN: House Republicans launch probe into Sam Altman’s business dealings ahead of OpenAI’s IPO.</description>
+      <guid isPermaLink="false">https://x.com/Polymarket/status/2054041886709391577</guid>
+      <pubDate>Tue, 12 May 2026 03:32:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>[@Polymarket] New Market: Trump and Xi hug at summit?</title>
+      <link>https://x.com/Polymarket/status/2054089439597482029</link>
+      <description>🚨 NEW POLYMARKET: Will Trump and Xi hug at their summit? https://polymarket.com/event/will-trump-and-xi-hug-at-their-summit?via=x-afr2</description>
+      <guid isPermaLink="false">https://x.com/Polymarket/status/2054089439597482029</guid>
+      <pubDate>Tue, 12 May 2026 06:41:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
