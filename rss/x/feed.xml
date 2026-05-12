@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 12 May 2026 12:42:47 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 12 May 2026 18:38:37 +0000</lastBuildDate>
     <item>
       <title>[@AnthropicAI] High-quality documents reduce agentic misalignment</title>
       <link>https://x.com/AnthropicAI/status/2052808801040859392</link>
@@ -352,9 +352,9 @@
       <pubDate>Mon, 11 May 2026 18:44:01 +0000</pubDate>
     </item>
     <item>
-      <title>[@OpenAI] Introducing Daybreak: frontier AI for cyber defenders</title>
+      <title>[@OpenAI] Introducing Daybreak</title>
       <link>https://x.com/OpenAI/status/2053939702110269822</link>
-      <description>Introducing Daybreak: frontier AI for cyber defenders. Daybreak brings together the most capable OpenAI models, Codex, and our security partners to accelerate cyber defense and continuously secure software. A step toward a future where security teams can move at the speed defense demands.</description>
+      <description>Introducing Daybreak: frontier AI for cyber defenders. Daybreak brings together the most capable OpenAI models, Codex, and our security partners to accelerate cyber defense and continuously secure software.</description>
       <guid isPermaLink="false">https://x.com/OpenAI/status/2053939702110269822</guid>
       <pubDate>Mon, 11 May 2026 20:45:59 +0000</pubDate>
     </item>
@@ -441,6 +441,62 @@
       <description>Oklahoma resiste y barre a los Lakers de LeBron; Cavaliers igualan serie ante Detroit</description>
       <guid isPermaLink="false">https://x.com/hechoscomdo/status/2054180415397646496</guid>
       <pubDate>Tue, 12 May 2026 12:42:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>[topic: AI] Duchess of Edinburgh AI conference</title>
+      <link>https://x.com/Mari_Edinburghs/status/2054180544187961852</link>
+      <description>The Duchess of Edinburgh and King Frederick today in Copenhagen. His Majesty opened Save the Children's International Conference on Artificial Intelligence and the Impact of Social Media on the Well-being of Children and Young People.</description>
+      <guid isPermaLink="false">https://x.com/Mari_Edinburghs/status/2054180544187961852</guid>
+      <pubDate>Tue, 12 May 2026 12:43:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>[topic: AI] Herb Simon insight</title>
+      <link>https://x.com/sapinker/status/2054190026494243027</link>
+      <description>An old and worthy insight from the Nobel laureate and originator of cognitive psychology and artificial intelligence, Herb Simon: Don't spend 15 minutes figuring out a shortcut that will save you 10 minutes.</description>
+      <guid isPermaLink="false">https://x.com/sapinker/status/2054190026494243027</guid>
+      <pubDate>Tue, 12 May 2026 13:20:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>[@WhiteHouse] Lincoln Memorial</title>
+      <link>https://x.com/WhiteHouse/status/2054218563989230059</link>
+      <description>👀 (historical photo comparison)</description>
+      <guid isPermaLink="false">https://x.com/WhiteHouse/status/2054218563989230059</guid>
+      <pubDate>Tue, 12 May 2026 15:14:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>[topic: AI] Demi Moore on AI</title>
+      <link>https://x.com/MediumSizeMeech/status/2054229920612544602</link>
+      <description>I do think there’s a certain—how you say—cognitive dissonance to a woman who was nominated for many awards for a film about the struggle to stay young and relevant and how using an artificial substance ultimately eats you alive having this to say about AI</description>
+      <guid isPermaLink="false">https://x.com/MediumSizeMeech/status/2054229920612544602</guid>
+      <pubDate>Tue, 12 May 2026 15:59:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>[@WhiteHouse] Strong families</title>
+      <link>https://x.com/WhiteHouse/status/2054239660818194596</link>
+      <description>Strong families, a stronger America. President Trump is lowering costs, expanding access to fertility care, and putting moms and families FIRST.</description>
+      <guid isPermaLink="false">https://x.com/WhiteHouse/status/2054239660818194596</guid>
+      <pubDate>Tue, 12 May 2026 16:37:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>[@WhiteHouse] American Dream of Homeownership</title>
+      <link>https://x.com/WhiteHouse/status/2054249745221079374</link>
+      <description>The American dream of homeownership is under attack. President Trump is fighting to ensure homes are for PEOPLE, not corporations.</description>
+      <guid isPermaLink="false">https://x.com/WhiteHouse/status/2054249745221079374</guid>
+      <pubDate>Tue, 12 May 2026 17:18:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[@Polymarket] NYC Mayor Mamdani</title>
+      <link>https://x.com/Polymarket/status/2054264064495292626</link>
+      <description>JUST IN: NYC Mayor Mamdani announces New York City has cut the $12 billion budget deficit to zero.</description>
+      <guid isPermaLink="false">https://x.com/Polymarket/status/2054264064495292626</guid>
+      <pubDate>Tue, 12 May 2026 18:14:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>[@Polymarket] Sam Altman testimony</title>
+      <link>https://x.com/Polymarket/status/2054266857872372033</link>
+      <description>JUST IN: Sam Altman testifies his 2023 firing as OpenAI CEO came via a 10 to 20 minute Google Meet.</description>
+      <guid isPermaLink="false">https://x.com/Polymarket/status/2054266857872372033</guid>
+      <pubDate>Tue, 12 May 2026 18:26:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
