@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 12 May 2026 18:38:37 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2026 00:39:40 +0000</lastBuildDate>
     <item>
       <title>[@AnthropicAI] High-quality documents reduce agentic misalignment</title>
       <link>https://x.com/AnthropicAI/status/2052808801040859392</link>
@@ -310,9 +310,17 @@
       <pubDate>Mon, 11 May 2026 16:19:09 +0000</pubDate>
     </item>
     <item>
-      <title>[@AnthropicAI] Claude's Constitution audiobook</title>
+      <title>[AnthropicAI]Claude's Constitution is now an audiobook, read by two of its authors, Amanda Askell and Joe Carlsmith.
+
+It includes a Q&amp;A on the writing process, the philosophies that shaped the document, and how it might change as models become more capable.
+
+Listen at https://www.anthropic.com/constitution</title>
       <link>https://x.com/AnthropicAI/status/2053881827396653207</link>
-      <description>Claude's Constitution is now an audiobook, read by two of its authors, Amanda Askell and Joe Carlsmith. It includes a Q&amp;A on the writing process, the philosophies that shaped the document, and how it might change as models become more capable. Listen at https://www.anthropic.com/constitution</description>
+      <description>Claude's Constitution is now an audiobook, read by two of its authors, Amanda Askell and Joe Carlsmith.
+
+It includes a Q&amp;A on the writing process, the philosophies that shaped the document, and how it might change as models become more capable.
+
+Listen at https://www.anthropic.com/constitution</description>
       <guid isPermaLink="false">https://x.com/AnthropicAI/status/2053881827396653207</guid>
       <pubDate>Mon, 11 May 2026 16:56:01 +0000</pubDate>
     </item>
@@ -352,9 +360,17 @@
       <pubDate>Mon, 11 May 2026 18:44:01 +0000</pubDate>
     </item>
     <item>
-      <title>[@OpenAI] Introducing Daybreak</title>
+      <title>[OpenAI]Introducing Daybreak: frontier AI for cyber defenders.
+
+Daybreak brings together the most capable OpenAI models, Codex, and our security partners to accelerate cyber defense and continuously secure software.
+
+A step toward a future where security teams can move at the speed defense demands.</title>
       <link>https://x.com/OpenAI/status/2053939702110269822</link>
-      <description>Introducing Daybreak: frontier AI for cyber defenders. Daybreak brings together the most capable OpenAI models, Codex, and our security partners to accelerate cyber defense and continuously secure software.</description>
+      <description>Introducing Daybreak: frontier AI for cyber defenders.
+
+Daybreak brings together the most capable OpenAI models, Codex, and our security partners to accelerate cyber defense and continuously secure software.
+
+A step toward a future where security teams can move at the speed defense demands.</description>
       <guid isPermaLink="false">https://x.com/OpenAI/status/2053939702110269822</guid>
       <pubDate>Mon, 11 May 2026 20:45:59 +0000</pubDate>
     </item>
@@ -485,6 +501,13 @@
       <pubDate>Tue, 12 May 2026 17:18:00 +0000</pubDate>
     </item>
     <item>
+      <title>[justinsuntron]AI时代才刚刚开始。永远都有机会。 (AI era has just begun. There are always opportunities.)</title>
+      <link>https://x.com/justinsuntron/status/2054251433957163360</link>
+      <description>AI时代才刚刚开始。永远都有机会。 (AI era has just begun. There are always opportunities.)</description>
+      <guid isPermaLink="false">https://x.com/justinsuntron/status/2054251433957163360</guid>
+      <pubDate>Tue, 12 May 2026 17:24:42 +0000</pubDate>
+    </item>
+    <item>
       <title>[@Polymarket] NYC Mayor Mamdani</title>
       <link>https://x.com/Polymarket/status/2054264064495292626</link>
       <description>JUST IN: NYC Mayor Mamdani announces New York City has cut the $12 billion budget deficit to zero.</description>
@@ -497,6 +520,65 @@
       <description>JUST IN: Sam Altman testifies his 2023 firing as OpenAI CEO came via a 10 to 20 minute Google Meet.</description>
       <guid isPermaLink="false">https://x.com/Polymarket/status/2054266857872372033</guid>
       <pubDate>Tue, 12 May 2026 18:26:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[WhiteHouse]Back on the world stage. ✈️🇺🇸
+
+President Donald J. Trump heads to China, marking the first state visit by a U.S. president since his 2017 trip.</title>
+      <link>https://x.com/WhiteHouse/status/2054305958893920368</link>
+      <description>Back on the world stage. ✈️🇺🇸
+
+President Donald J. Trump heads to China, marking the first state visit by a U.S. president since his 2017 trip.</description>
+      <guid isPermaLink="false">https://x.com/WhiteHouse/status/2054305958893920368</guid>
+      <pubDate>Tue, 12 May 2026 21:01:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>[ClaudeDevs]How do you keep Claude working until the job is done? Claude Code helps with this in a few ways, including one we shipped recently: /goal.</title>
+      <link>https://x.com/ClaudeDevs/status/2054351031279186040</link>
+      <description>How do you keep Claude working until the job is done? Claude Code helps with this in a few ways, including one we shipped recently: /goal.</description>
+      <guid isPermaLink="false">https://x.com/ClaudeDevs/status/2054351031279186040</guid>
+      <pubDate>Wed, 13 May 2026 00:00:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Mrbankstips]AI is further blurring the lines of reality.
+Your eyes. Your ears. Your instincts. None of them were built for this.</title>
+      <link>https://x.com/Mrbankstips/status/2054355958583919024</link>
+      <description>AI is further blurring the lines of reality.
+Your eyes. Your ears. Your instincts. None of them were built for this.</description>
+      <guid isPermaLink="false">https://x.com/Mrbankstips/status/2054355958583919024</guid>
+      <pubDate>Wed, 13 May 2026 00:20:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>[TheStalwart]You're going to be debating the potential future impact of AI every single day for the rest of your life (if you're lucky).</title>
+      <link>https://x.com/TheStalwart/status/2054356703366320553</link>
+      <description>You're going to be debating the potential future impact of AI every single day for the rest of your life (if you're lucky).</description>
+      <guid isPermaLink="false">https://x.com/TheStalwart/status/2054356703366320553</guid>
+      <pubDate>Wed, 13 May 2026 00:23:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Polymarket]JUST IN: Lupita Nyong’o officially confirmed to play both Helen of Troy &amp; Clytemnestra in Christopher Nolan's The Odyssey.</title>
+      <link>https://x.com/Polymarket/status/2054357927008374808</link>
+      <description>JUST IN: Lupita Nyong’o officially confirmed to play both Helen of Troy &amp; Clytemnestra in Christopher Nolan's The Odyssey.</description>
+      <guid isPermaLink="false">https://x.com/Polymarket/status/2054357927008374808</guid>
+      <pubDate>Wed, 13 May 2026 00:27:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>[WhiteHouse]Under President Trump, replacement migration will never be the standard. The United States objects to the Global Compact on Migration and UN efforts to facilitate replacement migration.</title>
+      <link>https://x.com/WhiteHouse/status/2054358805199131027</link>
+      <description>Under President Trump, replacement migration will never be the standard. The United States objects to the Global Compact on Migration and UN efforts to facilitate replacement migration.</description>
+      <guid isPermaLink="false">https://x.com/WhiteHouse/status/2054358805199131027</guid>
+      <pubDate>Wed, 13 May 2026 00:31:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>[RepThomasMassie]My bill, the NICS Data Reporting Act, passed the House today.
+
+On the floor, I explained how the data we gather will help determine how many people are being unjustly denied their right to bear arms.</title>
+      <link>https://x.com/RepThomasMassie/status/2054359975682588924</link>
+      <description>My bill, the NICS Data Reporting Act, passed the House today.
+
+On the floor, I explained how the data we gather will help determine how many people are being unjustly denied their right to bear arms.</description>
+      <guid isPermaLink="false">https://x.com/RepThomasMassie/status/2054359975682588924</guid>
+      <pubDate>Wed, 13 May 2026 00:36:01 +0000</pubDate>
     </item>
   </channel>
 </rss>
