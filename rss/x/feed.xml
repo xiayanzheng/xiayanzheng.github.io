@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 14 May 2026 07:02:58 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 14 May 2026 12:39:05 +0000</lastBuildDate>
     <item>
       <title>[@AnthropicAI] High-quality documents reduce agentic misalignment</title>
       <link>https://x.com/AnthropicAI/status/2052808801040859392</link>
@@ -803,6 +803,62 @@ feels like AGI is approaching</description>
       <description>JUST IN: UK to spend 1 billion pounds on new howitzers for the British Army.</description>
       <guid isPermaLink="false">https://x.com/Polymarket/status/2054817990210900465</guid>
       <pubDate>Thu, 14 May 2026 06:56:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[justinsuntron]As AI becomes more agentic, the focus shifts from models to infrastructure. Payments, interoperability, and projects like @BAI_AGI are helping shape what that future could look like on TRON.</title>
+      <link>https://x.com/justinsuntron/status/2054844696229462479</link>
+      <description>As AI becomes more agentic, the focus shifts from models to infrastructure. Payments, interoperability, and projects like @BAI_AGI are helping shape what that future could look like on TRON.</description>
+      <guid isPermaLink="false">https://x.com/justinsuntron/status/2054844696229462479</guid>
+      <pubDate>Thu, 14 May 2026 08:42:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>[WhiteHouse]President Donald J. Trump meets with President Xi Jinping in China. 🇺🇸🇨🇳</title>
+      <link>https://x.com/WhiteHouse/status/2054865013370716412</link>
+      <description>President Donald J. Trump meets with President Xi Jinping in China. 🇺🇸🇨🇳</description>
+      <guid isPermaLink="false">https://x.com/WhiteHouse/status/2054865013370716412</guid>
+      <pubDate>Thu, 14 May 2026 10:02:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>[trikcode]i asked claude opus 4.7 to refactor a large codebase. 68 minutes, millions of tokens burned - it finished nothing worked. app completely broken</title>
+      <link>https://x.com/trikcode/status/2054886264092901777</link>
+      <description>i asked claude opus 4.7 to refactor a large codebase. 68 minutes, millions of tokens burned - it finished nothing worked. app completely broken</description>
+      <guid isPermaLink="false">https://x.com/trikcode/status/2054886264092901777</guid>
+      <pubDate>Thu, 14 May 2026 11:27:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>[kimmonismus]Rumors about the new Gemini Flash coming in. And holy, if true then big: 92% of GPT-5.5’s coding and reasoning performance, reportedly at 15–20x lower inference cost. And the latency? Sub-200ms for most queries.</title>
+      <link>https://x.com/kimmonismus/status/2054887891222802633</link>
+      <description>Rumors about the new Gemini Flash coming in. And holy, if true then big: 92% of GPT-5.5’s coding and reasoning performance, reportedly at 15–20x lower inference cost. And the latency? Sub-200ms for most queries.</description>
+      <guid isPermaLink="false">https://x.com/kimmonismus/status/2054887891222802633</guid>
+      <pubDate>Thu, 14 May 2026 11:33:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Pontifex]We must remain vigilant regarding the development and application of artificial intelligence in both military and civilian contexts, so that it does not remove human responsibility from decision-making or worsen the tragedy of conflicts.</title>
+      <link>https://x.com/Pontifex/status/2054888917392818622</link>
+      <description>We must remain vigilant regarding the development and application of artificial intelligence in both military and civilian contexts, so that it does not remove human responsibility from decision-making or worsen the tragedy of conflicts.</description>
+      <guid isPermaLink="false">https://x.com/Pontifex/status/2054888917392818622</guid>
+      <pubDate>Thu, 14 May 2026 11:37:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>[manus0024]Hey @grok what’s the story behind this grave?</title>
+      <link>https://x.com/manus0024/status/2054894293932716481</link>
+      <description>Hey @grok what’s the story behind this grave?</description>
+      <guid isPermaLink="false">https://x.com/manus0024/status/2054894293932716481</guid>
+      <pubDate>Thu, 14 May 2026 11:59:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Polymarket]JUST IN: Trump says the U.S.-China relationship is “one of the most consequential in world history.”</title>
+      <link>https://x.com/Polymarket/status/2054902699313746088</link>
+      <description>JUST IN: Trump says the U.S.-China relationship is “one of the most consequential in world history.”</description>
+      <guid isPermaLink="false">https://x.com/Polymarket/status/2054902699313746088</guid>
+      <pubDate>Thu, 14 May 2026 12:32:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Polymarket]64% chance Trump announces reduced tariffs on China.</title>
+      <link>https://x.com/Polymarket/status/2054902979057066481</link>
+      <description>64% chance Trump announces reduced tariffs on China.</description>
+      <guid isPermaLink="false">https://x.com/Polymarket/status/2054902979057066481</guid>
+      <pubDate>Thu, 14 May 2026 12:33:43 +0000</pubDate>
     </item>
   </channel>
 </rss>
