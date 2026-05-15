@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 14 May 2026 20:23:07 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 15 May 2026 00:38:29 +0000</lastBuildDate>
     <item>
       <title>[@AnthropicAI] High-quality documents reduce agentic misalignment</title>
       <link>https://x.com/AnthropicAI/status/2052808801040859392</link>
@@ -868,6 +868,13 @@ feels like AGI is approaching</description>
       <pubDate>Thu, 14 May 2026 12:33:43 +0000</pubDate>
     </item>
     <item>
+      <title>[justinsuntron]入乡随俗</title>
+      <link>https://x.com/justinsuntron/status/2054920164668588053</link>
+      <description>入乡随俗</description>
+      <guid isPermaLink="false">https://x.com/justinsuntron/status/2054920164668588053</guid>
+      <pubDate>Thu, 14 May 2026 13:42:00 +0000</pubDate>
+    </item>
+    <item>
       <title>[AnthropicAI]We’re partnering with the Gates Foundation, committing $200 million in grants, Claude credits, and technical support to programs in global health, life sciences, education, agriculture, and economic mobility.
 
 Read more: https://www.anthropic.com/news/gates-foundation-partnership</title>
@@ -924,6 +931,68 @@ Start new work, review outputs, steer execution, and approve next steps, all fro
       <description>NEW: Senator Elizabeth Warren claims the Crypto Clarity Act will “blow up the economy”</description>
       <guid isPermaLink="false">https://x.com/Polymarket/status/2055019264684257567</guid>
       <pubDate>Thu, 14 May 2026 20:15:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>[WhiteHouse]"When President Xi very elegantly referred to the United States as perhaps being a declining nation, he was referring to the tremendous damage we suffered during the four years of Sleepy Joe Biden... But now, the United States is the hottest Nation anywhere in the world" - President Donald J. Trump 🇺🇸</title>
+      <link>https://x.com/WhiteHouse/status/2055049458530877831</link>
+      <description>"When President Xi very elegantly referred to the United States as perhaps being a declining nation, he was referring to the tremendous damage we suffered during the four years of Sleepy Joe Biden... But now, the United States is the hottest Nation anywhere in the world" - President Donald J. Trump 🇺🇸</description>
+      <guid isPermaLink="false">https://x.com/WhiteHouse/status/2055049458530877831</guid>
+      <pubDate>Thu, 14 May 2026 22:15:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>[PrimeIntellect]Automating AI research is the next major step in AI
+
+We let Claude Code (Opus 4.7) and Codex (GPT 5.5) run autonomously on the nanoGPT speedrun optimizer track using our idle compute. ~10k runs, ~14k H200 hours
+
+Opus now holds the record at 2930 steps vs the 2990 human baseline</title>
+      <link>https://x.com/PrimeIntellect/status/2055056380881744365</link>
+      <description>Automating AI research is the next major step in AI
+
+We let Claude Code (Opus 4.7) and Codex (GPT 5.5) run autonomously on the nanoGPT speedrun optimizer track using our idle compute. ~10k runs, ~14k H200 hours
+
+Opus now holds the record at 2930 steps vs the 2990 human baseline</description>
+      <guid isPermaLink="false">https://x.com/PrimeIntellect/status/2055056380881744365</guid>
+      <pubDate>Thu, 14 May 2026 22:43:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>[ClaudeDevs]Useful tip to cut time-to-first-token on longer prompts in the API: pre-warm the prompt cache.
+
+Send your system prompt before the user prompt. Claude writes it to the cache, but skips generating any output.
+
+When the real user request lands, it'll hit a warm cache.</title>
+      <link>https://x.com/ClaudeDevs/status/2055069548672631218</link>
+      <description>Useful tip to cut time-to-first-token on longer prompts in the API: pre-warm the prompt cache.
+
+Send your system prompt before the user prompt. Claude writes it to the cache, but skips generating any output.
+
+When the real user request lands, it'll hit a warm cache.</description>
+      <guid isPermaLink="false">https://x.com/ClaudeDevs/status/2055069548672631218</guid>
+      <pubDate>Thu, 14 May 2026 23:35:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Polymarket]NEW: CIA Director Ratcliffe visits Havana for talks in the first trip by a CIA chief to Cuba since the 1953 communist revolution.</title>
+      <link>https://x.com/Polymarket/status/2055083107548577827</link>
+      <description>NEW: CIA Director Ratcliffe visits Havana for talks in the first trip by a CIA chief to Cuba since the 1953 communist revolution.</description>
+      <guid isPermaLink="false">https://x.com/Polymarket/status/2055083107548577827</guid>
+      <pubDate>Fri, 15 May 2026 00:29:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>[HipHopAllDay]Drake is the most-streamed artist of all time on Spotify, here are his top 100 most played songs on the platform 🔥🦉
+
+What is your personal favorite Drake song?</title>
+      <link>https://x.com/HipHopAllDay/status/2055083527004471553</link>
+      <description>Drake is the most-streamed artist of all time on Spotify, here are his top 100 most played songs on the platform 🔥🦉
+
+What is your personal favorite Drake song?</description>
+      <guid isPermaLink="false">https://x.com/HipHopAllDay/status/2055083527004471553</guid>
+      <pubDate>Fri, 15 May 2026 00:31:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Kurrco]Activity at the CN Tower is officially connected to Drake’s ‘ICEMAN,’ CP24 confirms 🦉</title>
+      <link>https://x.com/Kurrco/status/2055085008000548984</link>
+      <description>Activity at the CN Tower is officially connected to Drake’s ‘ICEMAN,’ CP24 confirms 🦉</description>
+      <guid isPermaLink="false">https://x.com/Kurrco/status/2055085008000548984</guid>
+      <pubDate>Fri, 15 May 2026 00:37:02 +0000</pubDate>
     </item>
   </channel>
 </rss>
