@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 15 May 2026 00:38:29 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 15 May 2026 12:39:08 +0000</lastBuildDate>
     <item>
       <title>[@AnthropicAI] High-quality documents reduce agentic misalignment</title>
       <link>https://x.com/AnthropicAI/status/2052808801040859392</link>
@@ -893,6 +893,17 @@ Read more: https://www.anthropic.com/news/gates-foundation-partnership</descript
       <pubDate>Thu, 14 May 2026 18:05:45 +0000</pubDate>
     </item>
     <item>
+      <title>[AnthropicAI]We've published a paper that explains our views on AI competition between the US and China.
+
+The US and democratic allies hold the lead in frontier AI today. Read more on what it’ll take to keep that lead: https://www.anthropic.com/research/2028-ai-leadership</title>
+      <link>https://x.com/AnthropicAI/status/2054987444664377374</link>
+      <description>We've published a paper that explains our views on AI competition between the US and China.
+
+The US and democratic allies hold the lead in frontier AI today. Read more on what it’ll take to keep that lead: https://www.anthropic.com/research/2028-ai-leadership</description>
+      <guid isPermaLink="false">https://x.com/AnthropicAI/status/2054987444664377374</guid>
+      <pubDate>Thu, 14 May 2026 18:09:21 +0000</pubDate>
+    </item>
+    <item>
       <title>[BernieSanders]71% of Americans oppose new AI data centers near them. They're right.
 
 So, why has Congress done nothing to address their concerns? Follow the money.</title>
@@ -993,6 +1004,71 @@ What is your personal favorite Drake song?</description>
       <description>Activity at the CN Tower is officially connected to Drake’s ‘ICEMAN,’ CP24 confirms 🦉</description>
       <guid isPermaLink="false">https://x.com/Kurrco/status/2055085008000548984</guid>
       <pubDate>Fri, 15 May 2026 00:37:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>[justinsuntron]Keep going!</title>
+      <link>https://x.com/justinsuntron/status/2055126445182300645</link>
+      <description>Keep going!</description>
+      <guid isPermaLink="false">https://x.com/justinsuntron/status/2055126445182300645</guid>
+      <pubDate>Fri, 15 May 2026 03:21:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Polymarket]JUST IN: Jerome Powell’s tenure as Fed chair ends today.</title>
+      <link>https://x.com/Polymarket/status/2055242538219688325</link>
+      <description>JUST IN: Jerome Powell’s tenure as Fed chair ends today.</description>
+      <guid isPermaLink="false">https://x.com/Polymarket/status/2055242538219688325</guid>
+      <pubDate>Fri, 15 May 2026 11:03:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Polymarket]🚨 NEW POLYMARKET: AI data center in space by...?
+
+https://polymarket.com/event/ai-data-center-in-space-by?via=x-afr2 — 🚨 NEW POLYMARKET: AI data center in space by...? https://polymarket.com/event/ai-data-center-in-space-by?via=x-afr2</title>
+      <link>https://x.com/Polymarket/status/2055250087849099758</link>
+      <description>🚨 NEW POLYMARKET: AI data center in space by...?
+
+https://polymarket.com/event/ai-data-center-in-space-by?via=x-afr2</description>
+      <guid isPermaLink="false">https://x.com/Polymarket/status/2055250087849099758</guid>
+      <pubDate>Fri, 15 May 2026 11:33:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[business]Trump said he discussed guardrails on artificial intelligence with Chinese leader Xi Jinping, while adding that Nvidia’s H200 chips also came up during a two-day summit in Beijing.</title>
+      <link>https://x.com/business/status/2055250595406123407</link>
+      <description>Trump said he discussed guardrails on artificial intelligence with Chinese leader Xi Jinping, while adding that Nvidia’s H200 chips also came up during a two-day summit in Beijing.</description>
+      <guid isPermaLink="false">https://x.com/business/status/2055250595406123407</guid>
+      <pubDate>Fri, 15 May 2026 11:35:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>[JacobsBen]Sir Jim Ratcliffe has now approved the appointment of Michael Carrick beyond this season.</title>
+      <link>https://x.com/JacobsBen/status/2055258976686624993</link>
+      <description>Sir Jim Ratcliffe has now approved the appointment of Michael Carrick beyond this season.</description>
+      <guid isPermaLink="false">https://x.com/JacobsBen/status/2055258976686624993</guid>
+      <pubDate>Fri, 15 May 2026 12:08:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>[StockSavvyShay]$AMZN is making the biggest strategic reset of the Jassy era with one clear goal to make AWS the infrastructure layer for the AI economy: 
+
+• Agreed to invest $50B in OpenAI
+• Already has own AI stack with Nova, Trainium &amp; Bedrock
+• Building $25B Mississippi data center cluster for Anthropic
+• Expanded Anthropic partnership to $13B with option for another $20B
+• Spending ~$200B this year across AI data centers, custom chips, networking, warehouse robotics &amp; satellites</title>
+      <link>https://x.com/StockSavvyShay/status/2055259538455220574</link>
+      <description>$AMZN is making the biggest strategic reset of the Jassy era with one clear goal to make AWS the infrastructure layer for the AI economy: 
+
+• Agreed to invest $50B in OpenAI
+• Already has own AI stack with Nova, Trainium &amp; Bedrock
+• Building $25B Mississippi data center cluster for Anthropic
+• Expanded Anthropic partnership to $13B with option for another $20B
+• Spending ~$200B this year across AI data centers, custom chips, networking, warehouse robotics &amp; satellites</description>
+      <guid isPermaLink="false">https://x.com/StockSavvyShay/status/2055259538455220574</guid>
+      <pubDate>Fri, 15 May 2026 12:10:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>[KobeissiLetter]BREAKING: President Trump provides an update on his 48-hour visit to China for the US-China summit with 15+ US public company CEOs.</title>
+      <link>https://x.com/KobeissiLetter/status/2055261139689246900</link>
+      <description>BREAKING: President Trump provides an update on his 48-hour visit to China for the US-China summit with 15+ US public company CEOs.</description>
+      <guid isPermaLink="false">https://x.com/KobeissiLetter/status/2055261139689246900</guid>
+      <pubDate>Fri, 15 May 2026 12:16:55 +0000</pubDate>
     </item>
   </channel>
 </rss>
