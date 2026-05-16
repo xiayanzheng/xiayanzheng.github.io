@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 16 May 2026 12:23:03 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 16 May 2026 18:20:40 +0000</lastBuildDate>
     <item>
       <title>[@AnthropicAI] High-quality documents reduce agentic misalignment</title>
       <link>https://x.com/AnthropicAI/status/2052808801040859392</link>
@@ -922,21 +922,6 @@ So, why has Congress done nothing to address their concerns? Follow the money.</
       <pubDate>Thu, 14 May 2026 19:03:06 +0000</pubDate>
     </item>
     <item>
-      <title>[OpenAI]Rolling out today as a preview on iOS and Android in all supported regions.
-
-Support for connecting your phone to the Codex app on Windows is coming soon.
-
-https://openai.com/index/work-with-codex-from-anywhere/</title>
-      <link>https://x.com/OpenAI/status/2055016852133417389</link>
-      <description>Rolling out today as a preview on iOS and Android in all supported regions.
-
-Support for connecting your phone to the Codex app on Windows is coming soon.
-
-https://openai.com/index/work-with-codex-from-anywhere/</description>
-      <guid isPermaLink="false">https://x.com/OpenAI/status/2055016852133417389</guid>
-      <pubDate>Thu, 14 May 2026 20:06:12 +0000</pubDate>
-    </item>
-    <item>
       <title>[OpenAI]You've been asking for this one...
 
 Now in preview: Codex in the ChatGPT mobile app.
@@ -949,6 +934,21 @@ Now in preview: Codex in the ChatGPT mobile app.
 
 Start new work, review outputs, steer execution, and approve next steps, all from the ChatGPT mobile app. Codex will keep running on your laptop, Mac mini, or devbox.</description>
       <guid isPermaLink="false">https://x.com/OpenAI/status/2055016850849993072</guid>
+      <pubDate>Thu, 14 May 2026 20:06:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>[OpenAI]Rolling out today as a preview on iOS and Android in all supported regions.
+
+Support for connecting your phone to the Codex app on Windows is coming soon.
+
+https://openai.com/index/work-with-codex-from-anywhere/</title>
+      <link>https://x.com/OpenAI/status/2055016852133417389</link>
+      <description>Rolling out today as a preview on iOS and Android in all supported regions.
+
+Support for connecting your phone to the Codex app on Windows is coming soon.
+
+https://openai.com/index/work-with-codex-from-anywhere/</description>
+      <guid isPermaLink="false">https://x.com/OpenAI/status/2055016852133417389</guid>
       <pubDate>Thu, 14 May 2026 20:06:12 +0000</pubDate>
     </item>
     <item>
@@ -1185,6 +1185,64 @@ AI已来，趁年轻，还能做点事情，就去做吧。</description>
       <description>JUST IN: Duterte drug war enforcer Ronald Dela Rosa escapes ICC arrest after fleeing into Philippine Senate.</description>
       <guid isPermaLink="false">https://x.com/Polymarket/status/2055593852636176852</guid>
       <pubDate>Sat, 16 May 2026 10:19:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[chamath]Anthropic needs to solve the computer/power problem or they will be the Friendster of the AI era. 
+
+I just ran a semi-complicated stock screening prompt on all four major AIs: Grok, Gemini, ChatGPT and Claude. 
+
+The first three returned comparable results. Claude refused to do the work. 
+
+Not the way to win guys…</title>
+      <link>https://x.com/chamath/status/2055676372526485594</link>
+      <description>Anthropic needs to solve the computer/power problem or they will be the Friendster of the AI era. 
+
+I just ran a semi-complicated stock screening prompt on all four major AIs: Grok, Gemini, ChatGPT and Claude. 
+
+The first three returned comparable results. Claude refused to do the work. 
+
+Not the way to win guys…</description>
+      <guid isPermaLink="false">https://x.com/chamath/status/2055676372526485594</guid>
+      <pubDate>Sat, 16 May 2026 15:43:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>[WhiteHouse]NO GAMES.</title>
+      <link>https://x.com/WhiteHouse/status/2055697898130551229</link>
+      <description>NO GAMES.</description>
+      <guid isPermaLink="false">https://x.com/WhiteHouse/status/2055697898130551229</guid>
+      <pubDate>Sat, 16 May 2026 17:12:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Polymarket]JUST IN:******* insists it’s already an independent nation &amp; does not need to declare formal independence, following Trump’s remarks.</title>
+      <link>https://x.com/Polymarket/status/2055702603221102945</link>
+      <description>JUST IN:******* insists it’s already an independent nation &amp; does not need to declare formal independence, following Trump’s remarks.</description>
+      <guid isPermaLink="false">https://x.com/Polymarket/status/2055702603221102945</guid>
+      <pubDate>Sat, 16 May 2026 17:31:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>[elonmusk]Grok is projecting the timeline in human years 😂</title>
+      <link>https://x.com/elonmusk/status/2055709274395869662</link>
+      <description>Grok is projecting the timeline in human years 😂</description>
+      <guid isPermaLink="false">https://x.com/elonmusk/status/2055709274395869662</guid>
+      <pubDate>Sat, 16 May 2026 17:57:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>[WhiteHouse]America’s best. 
+
+WELCOME HOME, PATRIOTS! 🇺🇸</title>
+      <link>https://x.com/WhiteHouse/status/2055709852387713030</link>
+      <description>America’s best. 
+
+WELCOME HOME, PATRIOTS! 🇺🇸</description>
+      <guid isPermaLink="false">https://x.com/WhiteHouse/status/2055709852387713030</guid>
+      <pubDate>Sat, 16 May 2026 17:59:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Polymarket]NEW: Spain now ranks as the world's baldest country, with over 44% of men having male pattern baldness.</title>
+      <link>https://x.com/Polymarket/status/2055711352262361595</link>
+      <description>NEW: Spain now ranks as the world's baldest country, with over 44% of men having male pattern baldness.</description>
+      <guid isPermaLink="false">https://x.com/Polymarket/status/2055711352262361595</guid>
+      <pubDate>Sat, 16 May 2026 18:05:54 +0000</pubDate>
     </item>
   </channel>
 </rss>
