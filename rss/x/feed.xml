@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 17 May 2026 12:21:53 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 17 May 2026 18:23:45 +0000</lastBuildDate>
     <item>
       <title>[@AnthropicAI] High-quality documents reduce agentic misalignment</title>
       <link>https://x.com/AnthropicAI/status/2052808801040859392</link>
@@ -893,9 +893,13 @@ Read more: https://www.anthropic.com/news/gates-foundation-partnership</descript
       <pubDate>Thu, 14 May 2026 18:05:45 +0000</pubDate>
     </item>
     <item>
-      <title>[AnthropicAI]We've published a paper that explains our views on AI competition between the US and China. The US and democratic allies hold the lead in frontier AI today.</title>
+      <title>[AnthropicAI]We’ve published a paper that explains our views on AI competition between the US and China.
+
+The US and democratic allies hold the lead in frontier AI today. Read more on what it’ll take to keep that lead: https://www.anthropic.com/research/2028-ai-leadership</title>
       <link>https://x.com/AnthropicAI/status/2054987444664377374</link>
-      <description>We've published a paper that explains our views on AI competition between the US and China. The US and democratic allies hold the lead in frontier AI today.</description>
+      <description>We’ve published a paper that explains our views on AI competition between the US and China.
+
+The US and democratic allies hold the lead in frontier AI today. Read more on what it’ll take to keep that lead: https://www.anthropic.com/research/2028-ai-leadership</description>
       <guid isPermaLink="false">https://x.com/AnthropicAI/status/2054987444664377374</guid>
       <pubDate>Thu, 14 May 2026 18:09:21 +0000</pubDate>
     </item>
@@ -918,21 +922,6 @@ So, why has Congress done nothing to address their concerns? Follow the money.</
       <pubDate>Thu, 14 May 2026 19:03:06 +0000</pubDate>
     </item>
     <item>
-      <title>[OpenAI]Rolling out today as a preview on iOS and Android in all supported regions.
-
-Support for connecting your phone to the Codex app on Windows is coming soon.
-
-https://openai.com/index/work-with-codex-from-anywhere/</title>
-      <link>https://x.com/OpenAI/status/2055016852133417389</link>
-      <description>Rolling out today as a preview on iOS and Android in all supported regions.
-
-Support for connecting your phone to the Codex app on Windows is coming soon.
-
-https://openai.com/index/work-with-codex-from-anywhere/</description>
-      <guid isPermaLink="false">https://x.com/OpenAI/status/2055016852133417389</guid>
-      <pubDate>Thu, 14 May 2026 20:06:12 +0000</pubDate>
-    </item>
-    <item>
       <title>[OpenAI]You've been asking for this one...
 
 Now in preview: Codex in the ChatGPT mobile app.
@@ -945,6 +934,21 @@ Now in preview: Codex in the ChatGPT mobile app.
 
 Start new work, review outputs, steer execution, and approve next steps, all from the ChatGPT mobile app. Codex will keep running on your laptop, Mac mini, or devbox.</description>
       <guid isPermaLink="false">https://x.com/OpenAI/status/2055016850849993072</guid>
+      <pubDate>Thu, 14 May 2026 20:06:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>[OpenAI]Rolling out today as a preview on iOS and Android in all supported regions.
+
+Support for connecting your phone to the Codex app on Windows is coming soon.
+
+https://openai.com/index/work-with-codex-from-anywhere/</title>
+      <link>https://x.com/OpenAI/status/2055016852133417389</link>
+      <description>Rolling out today as a preview on iOS and Android in all supported regions.
+
+Support for connecting your phone to the Codex app on Windows is coming soon.
+
+https://openai.com/index/work-with-codex-from-anywhere/</description>
+      <guid isPermaLink="false">https://x.com/OpenAI/status/2055016852133417389</guid>
       <pubDate>Thu, 14 May 2026 20:06:12 +0000</pubDate>
     </item>
     <item>
@@ -1346,6 +1350,49 @@ Claude, GPT, Kimi, DeepSeek — all in one place.</description>
       <description>In many countries, World Communications Day is being marked today, whose theme this year I have chosen as “Preserving Human Voices and Faces.” In this era of artificial intelligence, I encourage everyone to commit themselves to promoting forms of communication that always respect the truth of the human person, on which every technological innovation should be focused.</description>
       <guid isPermaLink="false">https://x.com/Pontifex/status/2055974109150843252</guid>
       <pubDate>Sun, 17 May 2026 11:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[WhiteHouse]Thousands of Americans are gathering on the National Mall TODAY for a powerful day of prayer, praise, and patriotism as we chart the course for America’s next 250 years and rededicate ourselves to ONE NATION UNDER GOD. 🇺🇸🙏</title>
+      <link>https://x.com/WhiteHouse/status/2056024954873712997</link>
+      <description>Thousands of Americans are gathering on the National Mall TODAY for a powerful day of prayer, praise, and patriotism as we chart the course for America’s next 250 years and rededicate ourselves to ONE NATION UNDER GOD. 🇺🇸🙏</description>
+      <guid isPermaLink="false">https://x.com/WhiteHouse/status/2056024954873712997</guid>
+      <pubDate>Sun, 17 May 2026 14:52:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Polymarket]NEW: Microsoft AI chief predicts AI will automate most white-collar work within 18 months.</title>
+      <link>https://x.com/Polymarket/status/2056057382724157490</link>
+      <description>NEW: Microsoft AI chief predicts AI will automate most white-collar work within 18 months.</description>
+      <guid isPermaLink="false">https://x.com/Polymarket/status/2056057382724157490</guid>
+      <pubDate>Sun, 17 May 2026 17:00:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>[WhiteHouse]“For Iran, the Clock is Ticking, and they better get moving, FAST, or there won’t be anything left of them. TIME IS OF THE ESSENCE!” - President Donald J. Trump</title>
+      <link>https://x.com/WhiteHouse/status/2056058474954436923</link>
+      <description>“For Iran, the Clock is Ticking, and they better get moving, FAST, or there won’t be anything left of them. TIME IS OF THE ESSENCE!” - President Donald J. Trump</description>
+      <guid isPermaLink="false">https://x.com/WhiteHouse/status/2056058474954436923</guid>
+      <pubDate>Sun, 17 May 2026 17:05:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Polymarket]JUST IN: Trump warns Iran “the clock is ticking” to make a deal.</title>
+      <link>https://x.com/Polymarket/status/2056066230503506184</link>
+      <description>JUST IN: Trump warns Iran “the clock is ticking” to make a deal.</description>
+      <guid isPermaLink="false">https://x.com/Polymarket/status/2056066230503506184</guid>
+      <pubDate>Sun, 17 May 2026 17:36:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>[DrNeilStone]Senator Cassidy @SenBillCassidy is out 
+
+Lost his primary 
+
+I will never forgive him for casting the crucial vote to confirm RFK Jr as Health Secretary despite knowing he was an anti vaxxer unsuitable for the job</title>
+      <link>https://x.com/DrNeilStone/status/2056070260583714856</link>
+      <description>Senator Cassidy @SenBillCassidy is out 
+
+Lost his primary 
+
+I will never forgive him for casting the crucial vote to confirm RFK Jr as Health Secretary despite knowing he was an anti vaxxer unsuitable for the job</description>
+      <guid isPermaLink="false">https://x.com/DrNeilStone/status/2056070260583714856</guid>
+      <pubDate>Sun, 17 May 2026 17:43:53 +0000</pubDate>
     </item>
   </channel>
 </rss>
