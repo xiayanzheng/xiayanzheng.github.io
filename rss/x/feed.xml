@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 18 May 2026 17:25:47 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 18 May 2026 18:38:23 +0000</lastBuildDate>
     <item>
       <title>[@AnthropicAI] High-quality documents reduce agentic misalignment</title>
       <link>https://x.com/AnthropicAI/status/2052808801040859392</link>
@@ -918,21 +918,6 @@ So, why has Congress done nothing to address their concerns? Follow the money.</
       <pubDate>Thu, 14 May 2026 19:03:06 +0000</pubDate>
     </item>
     <item>
-      <title>[OpenAI]You've been asking for this one...
-
-Now in preview: Codex in the ChatGPT mobile app.
-
-Start new work, review outputs, steer execution, and approve next steps, all from the ChatGPT mobile app. Codex will keep running on your laptop, Mac mini, or devbox.</title>
-      <link>https://x.com/OpenAI/status/2055016850849993072</link>
-      <description>You've been asking for this one...
-
-Now in preview: Codex in the ChatGPT mobile app.
-
-Start new work, review outputs, steer execution, and approve next steps, all from the ChatGPT mobile app. Codex will keep running on your laptop, Mac mini, or devbox.</description>
-      <guid isPermaLink="false">https://x.com/OpenAI/status/2055016850849993072</guid>
-      <pubDate>Thu, 14 May 2026 20:06:12 +0000</pubDate>
-    </item>
-    <item>
       <title>[OpenAI]Rolling out today as a preview on iOS and Android in all supported regions.
 
 Support for connecting your phone to the Codex app on Windows is coming soon.
@@ -945,6 +930,19 @@ Support for connecting your phone to the Codex app on Windows is coming soon.
 
 https://openai.com/index/work-with-codex-from-anywhere/</description>
       <guid isPermaLink="false">https://x.com/OpenAI/status/2055016852133417389</guid>
+      <pubDate>Thu, 14 May 2026 20:06:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>[OpenAI]You've been asking for this one...
+
+Now in preview: Codex in the ChatGPT mobile app.
+Start new work, review outputs, steer execution, and approve next steps, all from the ChatGPT mobile app. Codex will keep running on your laptop, Mac mini, or devbox.</title>
+      <link>https://x.com/OpenAI/status/2055016850849993072</link>
+      <description>You've been asking for this one...
+
+Now in preview: Codex in the ChatGPT mobile app.
+Start new work, review outputs, steer execution, and approve next steps, all from the ChatGPT mobile app. Codex will keep running on your laptop, Mac mini, or devbox.</description>
+      <guid isPermaLink="false">https://x.com/OpenAI/status/2055016850849993072</guid>
       <pubDate>Thu, 14 May 2026 20:06:12 +0000</pubDate>
     </item>
     <item>
@@ -1448,6 +1446,36 @@ I will never forgive him for casting the crucial vote to confirm RFK Jr as Healt
       <pubDate>Mon, 18 May 2026 15:12:00 +0000</pubDate>
     </item>
     <item>
+      <title>[ZabihullahAtal]🚨 BREAKING: Stanford University, OpenAI, Google DeepMind, and Anthropic researchers believe AI will soon able to build the next generation of AI itself.
+
+Not just assisting researchers… but contributing to new AI system development itself.</title>
+      <link>https://x.com/ZabihullahAtal/status/2056392574437658676</link>
+      <description>🚨 BREAKING: Stanford University, OpenAI, Google DeepMind, and Anthropic researchers believe AI will soon able to build the next generation of AI itself.
+
+Not just assisting researchers… but contributing to new AI system development itself.</description>
+      <guid isPermaLink="false">https://x.com/ZabihullahAtal/status/2056392574437658676</guid>
+      <pubDate>Mon, 18 May 2026 15:12:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>[zapped_ai]AI Roundup🚨
+
+- OpenAI’s courtroom fight with Elon Musk moved closer to a verdict.
+- Bumble is turning dating into an AI-guided product.
+- Anthropic is racing toward a near-$1T valuation.
+- Google I/O is about to reset the model race.
+- Microsoft AI chief gives white-collar work 18 months</title>
+      <link>https://x.com/zapped_ai/status/2056404130520813832</link>
+      <description>AI Roundup🚨
+
+- OpenAI’s courtroom fight with Elon Musk moved closer to a verdict.
+- Bumble is turning dating into an AI-guided product.
+- Anthropic is racing toward a near-$1T valuation.
+- Google I/O is about to reset the model race.
+- Microsoft AI chief gives white-collar work 18 months</description>
+      <guid isPermaLink="false">https://x.com/zapped_ai/status/2056404130520813832</guid>
+      <pubDate>Mon, 18 May 2026 15:58:45 +0000</pubDate>
+    </item>
+    <item>
       <title>[WhiteHouse]Career politicians betrayed American workers for decades with cheap foreign labor. But the tide has turned, the U.S. manufacturing boom is accelerating.🔥🇺🇸
 
 TODAY: @VP is in Kansas City, Missouri spotlighting the American manufacturing comeback!</title>
@@ -1494,9 +1522,13 @@ TODAY: @VP is in Kansas City, Missouri spotlighting the American manufacturing c
       <pubDate>Mon, 18 May 2026 16:57:40 +0000</pubDate>
     </item>
     <item>
-      <title>[AnthropicAI]Anthropic is acquiring @stainlessapi... [duplicate omitted for diversity]</title>
+      <title>[AnthropicAI]Anthropic is acquiring @stainlessapi, an SDK and MCP server platform that has powered every Anthropic SDK since the earliest days of our API.
+
+Read more: https://www.anthropic.com/news/anthropic-acquires-stainless</title>
       <link>https://x.com/AnthropicAI/status/2056419620643541012</link>
-      <description>Anthropic is acquiring @stainlessapi... [duplicate omitted for diversity]</description>
+      <description>Anthropic is acquiring @stainlessapi, an SDK and MCP server platform that has powered every Anthropic SDK since the earliest days of our API.
+
+Read more: https://www.anthropic.com/news/anthropic-acquires-stainless</description>
       <guid isPermaLink="false">https://x.com/AnthropicAI/status/2056419620643541012</guid>
       <pubDate>Mon, 18 May 2026 17:00:18 +0000</pubDate>
     </item>
@@ -1506,6 +1538,45 @@ TODAY: @VP is in Kansas City, Missouri spotlighting the American manufacturing c
       <description>$DELL $NVDA - DELL: ANNOUNCES BROAD SET OF ADVANCEMENTS TO DELL AI FACTORY WITH NVIDIA</description>
       <guid isPermaLink="false">https://x.com/DeItaone/status/2056419643141599605</guid>
       <pubDate>Mon, 18 May 2026 17:00:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>[WhiteHouse]Vice President JD Vance Delivers Remarks in Kansas City, Missouri https://twitter.com/i/broadcasts/1yxBeMoAOlOJN</title>
+      <link>https://x.com/WhiteHouse/status/2056432680577781893</link>
+      <description>Vice President JD Vance Delivers Remarks in Kansas City, Missouri https://twitter.com/i/broadcasts/1yxBeMoAOlOJN</description>
+      <guid isPermaLink="false">https://x.com/WhiteHouse/status/2056432680577781893</guid>
+      <pubDate>Mon, 18 May 2026 17:52:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Polymarket]JUST IN: Iran’s national football team arrives in Turkey for pre-World Cup training camp, with players still awaiting visas to enter the U.S.</title>
+      <link>https://x.com/Polymarket/status/2056437843774292398</link>
+      <description>JUST IN: Iran’s national football team arrives in Turkey for pre-World Cup training camp, with players still awaiting visas to enter the U.S.</description>
+      <guid isPermaLink="false">https://x.com/Polymarket/status/2056437843774292398</guid>
+      <pubDate>Mon, 18 May 2026 18:12:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Polymarket]JUST IN: NYC Mayor Mamdani to hold private meetings with Jamie Dimon &amp; David Solomon as he pushes higher taxes.</title>
+      <link>https://x.com/Polymarket/status/2056441043667579292</link>
+      <description>JUST IN: NYC Mayor Mamdani to hold private meetings with Jamie Dimon &amp; David Solomon as he pushes higher taxes.</description>
+      <guid isPermaLink="false">https://x.com/Polymarket/status/2056441043667579292</guid>
+      <pubDate>Mon, 18 May 2026 18:25:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>[WhiteHouse]"We stand and we ought to fight for you, not illegal alien criminals." @VP 🇺🇸</title>
+      <link>https://x.com/WhiteHouse/status/2056442785079627822</link>
+      <description>"We stand and we ought to fight for you, not illegal alien criminals." @VP 🇺🇸</description>
+      <guid isPermaLink="false">https://x.com/WhiteHouse/status/2056442785079627822</guid>
+      <pubDate>Mon, 18 May 2026 18:32:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>[doodles]doodles AI has gotten soooo much better with the latest update.
+
+really proud of the team for this one.</title>
+      <link>https://x.com/doodles/status/2056444223503671598</link>
+      <description>doodles AI has gotten soooo much better with the latest update.
+
+really proud of the team for this one.</description>
+      <guid isPermaLink="false">https://x.com/doodles/status/2056444223503671598</guid>
+      <pubDate>Mon, 18 May 2026 18:38:04 +0000</pubDate>
     </item>
   </channel>
 </rss>
