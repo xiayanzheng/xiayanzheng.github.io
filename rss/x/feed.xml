@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 19 May 2026 13:06:44 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2026 18:38:59 +0000</lastBuildDate>
     <item>
       <title>[@AnthropicAI] High-quality documents reduce agentic misalignment</title>
       <link>https://x.com/AnthropicAI/status/2052808801040859392</link>
@@ -918,13 +918,6 @@ So, why has Congress done nothing to address their concerns? Follow the money.</
       <pubDate>Thu, 14 May 2026 19:03:06 +0000</pubDate>
     </item>
     <item>
-      <title>[OpenAI]You've been asking for this one... Now in preview: Codex in the ChatGPT mobile app. Start new work, review outputs, steer execution, and approve next steps, all from the ChatGPT mobile app. Codex will keep running on your laptop, Mac mini, or devbox.</title>
-      <link>https://x.com/OpenAI/status/2055016850849993072</link>
-      <description>You've been asking for this one... Now in preview: Codex in the ChatGPT mobile app. Start new work, review outputs, steer execution, and approve next steps, all from the ChatGPT mobile app. Codex will keep running on your laptop, Mac mini, or devbox.</description>
-      <guid isPermaLink="false">https://x.com/OpenAI/status/2055016850849993072</guid>
-      <pubDate>Thu, 14 May 2026 20:06:12 +0000</pubDate>
-    </item>
-    <item>
       <title>[OpenAI]Rolling out today as a preview on iOS and Android in all supported regions.
 
 Support for connecting your phone to the Codex app on Windows is coming soon.
@@ -937,6 +930,13 @@ Support for connecting your phone to the Codex app on Windows is coming soon.
 
 https://openai.com/index/work-with-codex-from-anywhere/</description>
       <guid isPermaLink="false">https://x.com/OpenAI/status/2055016852133417389</guid>
+      <pubDate>Thu, 14 May 2026 20:06:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>[OpenAI]You've been asking for this one... Now in preview: Codex in the ChatGPT mobile app. Start new work, review outputs, steer execution, and approve next steps, all from the ChatGPT mobile app. Codex will keep running on your laptop, Mac mini, or devbox.</title>
+      <link>https://x.com/OpenAI/status/2055016850849993072</link>
+      <description>You've been asking for this one... Now in preview: Codex in the ChatGPT mobile app. Start new work, review outputs, steer execution, and approve next steps, all from the ChatGPT mobile app. Codex will keep running on your laptop, Mac mini, or devbox.</description>
+      <guid isPermaLink="false">https://x.com/OpenAI/status/2055016850849993072</guid>
       <pubDate>Thu, 14 May 2026 20:06:12 +0000</pubDate>
     </item>
     <item>
@@ -1720,6 +1720,69 @@ He became the YOUNGEST player in NBA history with 40+ points and 20+ rebounds in
       <description>89% of leaders say AI has not improved their company's labor productivity, despite widespread adoption, per Gallup.</description>
       <guid isPermaLink="false">https://x.com/unusual_whales/status/2056715745241751570</guid>
       <pubDate>Tue, 19 May 2026 12:37:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[justinsuntron]TRON processed nearly $2T in settlement volume while supporting $86B+ in stablecoin circulation. As the ecosystem continues to grow, projects like @BAI_AGI are exploring new experiences through AI agent wallets, seamless model access, and crypto native interactions.</title>
+      <link>https://x.com/justinsuntron/status/2056729389233222062</link>
+      <description>TRON processed nearly $2T in settlement volume while supporting $86B+ in stablecoin circulation. As the ecosystem continues to grow, projects like @BAI_AGI are exploring new experiences through AI agent wallets, seamless model access, and crypto native interactions.</description>
+      <guid isPermaLink="false">https://x.com/justinsuntron/status/2056729389233222062</guid>
+      <pubDate>Tue, 19 May 2026 13:31:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>[ClaudeDevs]We’ve added two security improvements to Claude Managed Agents. Self-hosted sandboxes keep the agent’s execution environment in your infrastructure or with a managed sandbox provider. MCP tunnels let the agent connect to services inside your security perimeter.</title>
+      <link>https://x.com/ClaudeDevs/status/2056740346529468717</link>
+      <description>We’ve added two security improvements to Claude Managed Agents. Self-hosted sandboxes keep the agent’s execution environment in your infrastructure or with a managed sandbox provider. MCP tunnels let the agent connect to services inside your security perimeter.</description>
+      <guid isPermaLink="false">https://x.com/ClaudeDevs/status/2056740346529468717</guid>
+      <pubDate>Tue, 19 May 2026 14:14:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>[karpathy]Personal update: I've joined Anthropic. I think the next few years at the frontier of LLMs will be especially formative. I am very excited to join the team here and get back to R&amp;D. I remain deeply passionate about education and plan to resume my work on it in time.</title>
+      <link>https://x.com/karpathy/status/2056753169888334312</link>
+      <description>Personal update: I've joined Anthropic. I think the next few years at the frontier of LLMs will be especially formative. I am very excited to join the team here and get back to R&amp;D. I remain deeply passionate about education and plan to resume my work on it in time.</description>
+      <guid isPermaLink="false">https://x.com/karpathy/status/2056753169888334312</guid>
+      <pubDate>Tue, 19 May 2026 15:05:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>[elonmusk]Bingo</title>
+      <link>https://x.com/elonmusk/status/2056774304193212606</link>
+      <description>Bingo</description>
+      <guid isPermaLink="false">https://x.com/elonmusk/status/2056774304193212606</guid>
+      <pubDate>Tue, 19 May 2026 16:29:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>[elonmusk]Join tunneling – the underground movement</title>
+      <link>https://x.com/elonmusk/status/2056774600252399621</link>
+      <description>Join tunneling – the underground movement</description>
+      <guid isPermaLink="false">https://x.com/elonmusk/status/2056774600252399621</guid>
+      <pubDate>Tue, 19 May 2026 16:30:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>[AndrewCurran_]Karpathy will be forming a new pre-training team focused on Recursive Self Improvement and will be teaching Claude to improve Claude's training, reporting from Axios.</title>
+      <link>https://x.com/AndrewCurran_/status/2056776839402795041</link>
+      <description>Karpathy will be forming a new pre-training team focused on Recursive Self Improvement and will be teaching Claude to improve Claude's training, reporting from Axios.</description>
+      <guid isPermaLink="false">https://x.com/AndrewCurran_/status/2056776839402795041</guid>
+      <pubDate>Tue, 19 May 2026 16:39:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>[WhiteHouse]The president who does it all.</title>
+      <link>https://x.com/WhiteHouse/status/2056784049931260080</link>
+      <description>The president who does it all.</description>
+      <guid isPermaLink="false">https://x.com/WhiteHouse/status/2056784049931260080</guid>
+      <pubDate>Tue, 19 May 2026 17:08:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>[OpenAI]We’re adding new ways for people to identify AI-generated images and understand where they came from. In addition to C2PA Content Credentials, images now also contain a SynthID watermark, and can be identified using a public verification tool to check whether an image was made by OpenAI products.</title>
+      <link>https://x.com/OpenAI/status/2056793648571011232</link>
+      <description>We’re adding new ways for people to identify AI-generated images and understand where they came from. In addition to C2PA Content Credentials, images now also contain a SynthID watermark, and can be identified using a public verification tool to check whether an image was made by OpenAI products.</description>
+      <guid isPermaLink="false">https://x.com/OpenAI/status/2056793648571011232</guid>
+      <pubDate>Tue, 19 May 2026 17:46:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Polymarket]JUST IN: Vice President Vance announces the DOJ is actively investigating Ilhan Omar’s marriage history.</title>
+      <link>https://x.com/Polymarket/status/2056806296079229019</link>
+      <description>JUST IN: Vice President Vance announces the DOJ is actively investigating Ilhan Omar’s marriage history.</description>
+      <guid isPermaLink="false">https://x.com/Polymarket/status/2056806296079229019</guid>
+      <pubDate>Tue, 19 May 2026 18:36:49 +0000</pubDate>
     </item>
   </channel>
 </rss>
