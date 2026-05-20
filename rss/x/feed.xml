@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 19 May 2026 18:38:59 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 00:43:42 +0000</lastBuildDate>
     <item>
       <title>[@AnthropicAI] High-quality documents reduce agentic misalignment</title>
       <link>https://x.com/AnthropicAI/status/2052808801040859392</link>
@@ -918,6 +918,13 @@ So, why has Congress done nothing to address their concerns? Follow the money.</
       <pubDate>Thu, 14 May 2026 19:03:06 +0000</pubDate>
     </item>
     <item>
+      <title>[OpenAI]You've been asking for this one... Now in preview: Codex in the ChatGPT mobile app. Start new work, review outputs, steer execution, and approve next steps, all from the ChatGPT mobile app. Codex will keep running on your laptop, Mac mini, or devbox.</title>
+      <link>https://x.com/OpenAI/status/2055016850849993072</link>
+      <description>You've been asking for this one... Now in preview: Codex in the ChatGPT mobile app. Start new work, review outputs, steer execution, and approve next steps, all from the ChatGPT mobile app. Codex will keep running on your laptop, Mac mini, or devbox.</description>
+      <guid isPermaLink="false">https://x.com/OpenAI/status/2055016850849993072</guid>
+      <pubDate>Thu, 14 May 2026 20:06:12 +0000</pubDate>
+    </item>
+    <item>
       <title>[OpenAI]Rolling out today as a preview on iOS and Android in all supported regions.
 
 Support for connecting your phone to the Codex app on Windows is coming soon.
@@ -930,13 +937,6 @@ Support for connecting your phone to the Codex app on Windows is coming soon.
 
 https://openai.com/index/work-with-codex-from-anywhere/</description>
       <guid isPermaLink="false">https://x.com/OpenAI/status/2055016852133417389</guid>
-      <pubDate>Thu, 14 May 2026 20:06:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>[OpenAI]You've been asking for this one... Now in preview: Codex in the ChatGPT mobile app. Start new work, review outputs, steer execution, and approve next steps, all from the ChatGPT mobile app. Codex will keep running on your laptop, Mac mini, or devbox.</title>
-      <link>https://x.com/OpenAI/status/2055016850849993072</link>
-      <description>You've been asking for this one... Now in preview: Codex in the ChatGPT mobile app. Start new work, review outputs, steer execution, and approve next steps, all from the ChatGPT mobile app. Codex will keep running on your laptop, Mac mini, or devbox.</description>
-      <guid isPermaLink="false">https://x.com/OpenAI/status/2055016850849993072</guid>
       <pubDate>Thu, 14 May 2026 20:06:12 +0000</pubDate>
     </item>
     <item>
@@ -1778,11 +1778,53 @@ He became the YOUNGEST player in NBA history with 40+ points and 20+ rebounds in
       <pubDate>Tue, 19 May 2026 17:46:33 +0000</pubDate>
     </item>
     <item>
+      <title>[sa_vatsa]Some crazy developments in AI in the last 24 hrs: Gemini 3.5 Andrej joins Anthropic Demis turned to be an angel in Anthropic Anthropic acquired stainless KPMG &amp; Anthropic launch digital gateway Elon loses lawsuit against Sama It's getting harder to keep up.</title>
+      <link>https://x.com/sa_vatsa/status/2056797069344710920</link>
+      <description>Some crazy developments in AI in the last 24 hrs: Gemini 3.5 Andrej joins Anthropic Demis turned to be an angel in Anthropic Anthropic acquired stainless KPMG &amp; Anthropic launch digital gateway Elon loses lawsuit against Sama It's getting harder to keep up.</description>
+      <guid isPermaLink="false">https://x.com/sa_vatsa/status/2056797069344710920</guid>
+      <pubDate>Tue, 19 May 2026 18:00:09 +0000</pubDate>
+    </item>
+    <item>
       <title>[Polymarket]JUST IN: Vice President Vance announces the DOJ is actively investigating Ilhan Omar’s marriage history.</title>
       <link>https://x.com/Polymarket/status/2056806296079229019</link>
       <description>JUST IN: Vice President Vance announces the DOJ is actively investigating Ilhan Omar’s marriage history.</description>
       <guid isPermaLink="false">https://x.com/Polymarket/status/2056806296079229019</guid>
       <pubDate>Tue, 19 May 2026 18:36:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>[OpenAI]Introducing OpenAI Guaranteed Capacity: a new offering that enables customers to guarantee long-term access to OpenAI compute. We’ve made long-term investments in infrastructure, partnerships, and capacity planning to help customers scale reliably.</title>
+      <link>https://x.com/OpenAI/status/2056823271774101907</link>
+      <description>Introducing OpenAI Guaranteed Capacity: a new offering that enables customers to guarantee long-term access to OpenAI compute. We’ve made long-term investments in infrastructure, partnerships, and capacity planning to help customers scale reliably.</description>
+      <guid isPermaLink="false">https://x.com/OpenAI/status/2056823271774101907</guid>
+      <pubDate>Tue, 19 May 2026 19:44:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Arsenal]The Arsenal. Your Premier League champions.</title>
+      <link>https://x.com/Arsenal/status/2056833519460999375</link>
+      <description>The Arsenal. Your Premier League champions.</description>
+      <guid isPermaLink="false">https://x.com/Arsenal/status/2056833519460999375</guid>
+      <pubDate>Tue, 19 May 2026 20:24:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>[WhiteHouse]President Trump’s Ratepayer Protection Pledge is putting America first. He’s calling on the nation’s leading AI companies to build, bring, or buy 100% of the energy they need for their data centers. No more sticking Americans with the bill. ⚡</title>
+      <link>https://x.com/WhiteHouse/status/2056846902604267904</link>
+      <description>President Trump’s Ratepayer Protection Pledge is putting America first. He’s calling on the nation’s leading AI companies to build, bring, or buy 100% of the energy they need for their data centers. No more sticking Americans with the bill. ⚡</description>
+      <guid isPermaLink="false">https://x.com/WhiteHouse/status/2056846902604267904</guid>
+      <pubDate>Tue, 19 May 2026 21:18:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>[WhiteHouse]President Trump and the First Lady Deliver Remarks at the Congressional Picnic</title>
+      <link>https://x.com/WhiteHouse/status/2056878637060649054</link>
+      <description>President Trump and the First Lady Deliver Remarks at the Congressional Picnic</description>
+      <guid isPermaLink="false">https://x.com/WhiteHouse/status/2056878637060649054</guid>
+      <pubDate>Tue, 19 May 2026 23:24:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Polymarket]JUST IN: Google to release its first smart glasses since the Google Glass flop more than a decade ago.</title>
+      <link>https://x.com/Polymarket/status/2056883349323710951</link>
+      <description>JUST IN: Google to release its first smart glasses since the Google Glass flop more than a decade ago.</description>
+      <guid isPermaLink="false">https://x.com/Polymarket/status/2056883349323710951</guid>
+      <pubDate>Tue, 19 May 2026 23:43:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
