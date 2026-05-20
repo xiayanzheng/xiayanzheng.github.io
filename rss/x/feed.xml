@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 20 May 2026 13:02:37 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 18:55:39 +0000</lastBuildDate>
     <item>
       <title>[@AnthropicAI] High-quality documents reduce agentic misalignment</title>
       <link>https://x.com/AnthropicAI/status/2052808801040859392</link>
@@ -918,6 +918,13 @@ So, why has Congress done nothing to address their concerns? Follow the money.</
       <pubDate>Thu, 14 May 2026 19:03:06 +0000</pubDate>
     </item>
     <item>
+      <title>[OpenAI]You've been asking for this one... Now in preview: Codex in the ChatGPT mobile app. Start new work, review outputs, steer execution, and approve next steps, all from the ChatGPT mobile app. Codex will keep running on your laptop, Mac mini, or devbox.</title>
+      <link>https://x.com/OpenAI/status/2055016850849993072</link>
+      <description>You've been asking for this one... Now in preview: Codex in the ChatGPT mobile app. Start new work, review outputs, steer execution, and approve next steps, all from the ChatGPT mobile app. Codex will keep running on your laptop, Mac mini, or devbox.</description>
+      <guid isPermaLink="false">https://x.com/OpenAI/status/2055016850849993072</guid>
+      <pubDate>Thu, 14 May 2026 20:06:12 +0000</pubDate>
+    </item>
+    <item>
       <title>[OpenAI]Rolling out today as a preview on iOS and Android in all supported regions.
 
 Support for connecting your phone to the Codex app on Windows is coming soon.
@@ -930,13 +937,6 @@ Support for connecting your phone to the Codex app on Windows is coming soon.
 
 https://openai.com/index/work-with-codex-from-anywhere/</description>
       <guid isPermaLink="false">https://x.com/OpenAI/status/2055016852133417389</guid>
-      <pubDate>Thu, 14 May 2026 20:06:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>[OpenAI]You've been asking for this one... Now in preview: Codex in the ChatGPT mobile app. Start new work, review outputs, steer execution, and approve next steps, all from the ChatGPT mobile app. Codex will keep running on your laptop, Mac mini, or devbox.</title>
-      <link>https://x.com/OpenAI/status/2055016850849993072</link>
-      <description>You've been asking for this one... Now in preview: Codex in the ChatGPT mobile app. Start new work, review outputs, steer execution, and approve next steps, all from the ChatGPT mobile app. Codex will keep running on your laptop, Mac mini, or devbox.</description>
-      <guid isPermaLink="false">https://x.com/OpenAI/status/2055016850849993072</guid>
       <pubDate>Thu, 14 May 2026 20:06:12 +0000</pubDate>
     </item>
     <item>
@@ -1537,13 +1537,9 @@ TODAY: @VP is in Kansas City, Missouri spotlighting the American manufacturing c
       <pubDate>Mon, 18 May 2026 16:57:40 +0000</pubDate>
     </item>
     <item>
-      <title>[AnthropicAI]Anthropic is acquiring @stainlessapi, an SDK and MCP server platform that has powered every Anthropic SDK since the earliest days of our API.
-
-Read more: https://www.anthropic.com/news/anthropic-acquires-stainless</title>
+      <title>[AnthropicAI]Anthropic is acquiring @stainlessapi, an SDK and MCP server platform that has powered every Anthropic SDK since the earliest days of our API.</title>
       <link>https://x.com/AnthropicAI/status/2056419620643541012</link>
-      <description>Anthropic is acquiring @stainlessapi, an SDK and MCP server platform that has powered every Anthropic SDK since the earliest days of our API.
-
-Read more: https://www.anthropic.com/news/anthropic-acquires-stainless</description>
+      <description>Anthropic is acquiring @stainlessapi, an SDK and MCP server platform that has powered every Anthropic SDK since the earliest days of our API.</description>
       <guid isPermaLink="false">https://x.com/AnthropicAI/status/2056419620643541012</guid>
       <pubDate>Mon, 18 May 2026 17:00:18 +0000</pubDate>
     </item>
@@ -1722,9 +1718,9 @@ He became the YOUNGEST player in NBA history with 40+ points and 20+ rebounds in
       <pubDate>Tue, 19 May 2026 12:37:00 +0000</pubDate>
     </item>
     <item>
-      <title>[justinsuntron]TRON processed nearly $2T in settlement volume while supporting $86B+ in stablecoin circulation. As the ecosystem continues to grow, projects like @BAI_AGI are exploring new experiences through AI agent wallets, seamless model access, and crypto native interactions.</title>
+      <title>[justinsuntron]TRON processed nearly $2T in settlement volume while supporting $86B+ in stablecoin circulation. As the ecosystem continues to grow, projects like @BAI_AGI are exploring new experiences through AI agent wallets.</title>
       <link>https://x.com/justinsuntron/status/2056729389233222062</link>
-      <description>TRON processed nearly $2T in settlement volume while supporting $86B+ in stablecoin circulation. As the ecosystem continues to grow, projects like @BAI_AGI are exploring new experiences through AI agent wallets, seamless model access, and crypto native interactions.</description>
+      <description>TRON processed nearly $2T in settlement volume while supporting $86B+ in stablecoin circulation. As the ecosystem continues to grow, projects like @BAI_AGI are exploring new experiences through AI agent wallets.</description>
       <guid isPermaLink="false">https://x.com/justinsuntron/status/2056729389233222062</guid>
       <pubDate>Tue, 19 May 2026 13:31:13 +0000</pubDate>
     </item>
@@ -1771,9 +1767,9 @@ He became the YOUNGEST player in NBA history with 40+ points and 20+ rebounds in
       <pubDate>Tue, 19 May 2026 17:08:25 +0000</pubDate>
     </item>
     <item>
-      <title>[OpenAI]We’re adding new ways for people to identify AI-generated images and understand where they came from. In addition to C2PA Content Credentials, images now also contain a SynthID watermark, and can be identified using a public verification tool to check whether an image was made by OpenAI products.</title>
+      <title>[OpenAI]We’re adding new ways for people to identify AI-generated images and understand where they came from. In addition to C2PA Content Credentials, images now also contain a SynthID watermark.</title>
       <link>https://x.com/OpenAI/status/2056793648571011232</link>
-      <description>We’re adding new ways for people to identify AI-generated images and understand where they came from. In addition to C2PA Content Credentials, images now also contain a SynthID watermark, and can be identified using a public verification tool to check whether an image was made by OpenAI products.</description>
+      <description>We’re adding new ways for people to identify AI-generated images and understand where they came from. In addition to C2PA Content Credentials, images now also contain a SynthID watermark.</description>
       <guid isPermaLink="false">https://x.com/OpenAI/status/2056793648571011232</guid>
       <pubDate>Tue, 19 May 2026 17:46:33 +0000</pubDate>
     </item>
@@ -1792,9 +1788,16 @@ He became the YOUNGEST player in NBA history with 40+ points and 20+ rebounds in
       <pubDate>Tue, 19 May 2026 18:36:49 +0000</pubDate>
     </item>
     <item>
-      <title>[Nature]Artificial intelligence is poised to take on a more-active role in the laboratory: two new systems, described today in Nature1,2, use teams of AI agents to develop hypotheses, propose experiments and analyse data.</title>
+      <title>[AUaussieF]Big news: Google adds new AI smarts to Search - delivers richer, conversational and multimodal results, instant summaries and deeper context.</title>
+      <link>https://x.com/AUaussieF/status/2056807617415258535</link>
+      <description>Big news: Google adds new AI smarts to Search - delivers richer, conversational and multimodal results, instant summaries and deeper context.</description>
+      <guid isPermaLink="false">https://x.com/AUaussieF/status/2056807617415258535</guid>
+      <pubDate>Tue, 19 May 2026 18:42:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Nature]Artificial intelligence is poised to take on a more-active role in the laboratory: two new systems, described today in Nature, use teams of AI agents to develop hypotheses, propose experiments and analyse data.</title>
       <link>https://x.com/Nature/status/2056814278368284954</link>
-      <description>Artificial intelligence is poised to take on a more-active role in the laboratory: two new systems, described today in Nature1,2, use teams of AI agents to develop hypotheses, propose experiments and analyse data.</description>
+      <description>Artificial intelligence is poised to take on a more-active role in the laboratory: two new systems, described today in Nature, use teams of AI agents to develop hypotheses, propose experiments and analyse data.</description>
       <guid isPermaLink="false">https://x.com/Nature/status/2056814278368284954</guid>
       <pubDate>Tue, 19 May 2026 19:08:32 +0000</pubDate>
     </item>
@@ -1848,9 +1851,9 @@ He became the YOUNGEST player in NBA history with 40+ points and 20+ rebounds in
       <pubDate>Tue, 19 May 2026 23:24:16 +0000</pubDate>
     </item>
     <item>
-      <title>[AnthropicAI]Over the past few months, we've been holding dialogues with scholars, philosophers, clergy, and ethicists on the questions AI raises—starting with how good character forms. Read more about how we’re widening the conversation on frontier AI: https://www.anthropic.com/news/widening-conversation-ai</title>
+      <title>[AnthropicAI]Over the past few months, we've been holding dialogues with scholars, philosophers, clergy, and ethicists on the questions AI raises—starting with how good character forms. Read more about how we’re widening the conversation on frontier AI.</title>
       <link>https://x.com/AnthropicAI/status/2056880308851708233</link>
-      <description>Over the past few months, we've been holding dialogues with scholars, philosophers, clergy, and ethicists on the questions AI raises—starting with how good character forms. Read more about how we’re widening the conversation on frontier AI: https://www.anthropic.com/news/widening-conversation-ai</description>
+      <description>Over the past few months, we've been holding dialogues with scholars, philosophers, clergy, and ethicists on the questions AI raises—starting with how good character forms. Read more about how we’re widening the conversation on frontier AI.</description>
       <guid isPermaLink="false">https://x.com/AnthropicAI/status/2056880308851708233</guid>
       <pubDate>Tue, 19 May 2026 23:30:55 +0000</pubDate>
     </item>
@@ -1930,6 +1933,41 @@ He became the YOUNGEST player in NBA history with 40+ points and 20+ rebounds in
       <description>Gemini 3.5 Flash is live on https://b.ai/</description>
       <guid isPermaLink="false">https://x.com/justinsuntron/status/2057082902001938610</guid>
       <pubDate>Wed, 20 May 2026 12:55:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>[elonmusk]Amazing price for performance!</title>
+      <link>https://x.com/elonmusk/status/2057106187938853180</link>
+      <description>Amazing price for performance!</description>
+      <guid isPermaLink="false">https://x.com/elonmusk/status/2057106187938853180</guid>
+      <pubDate>Wed, 20 May 2026 14:28:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>[elonmusk]There were massive international protests over George Floyd and those police involved were severely punished with long prison sentences, yet the police responsible here did not even lose their jobs! An incredibly unjust double-standard!</title>
+      <link>https://x.com/elonmusk/status/2057133365145608511</link>
+      <description>There were massive international protests over George Floyd and those police involved were severely punished with long prison sentences, yet the police responsible here did not even lose their jobs! An incredibly unjust double-standard!</description>
+      <guid isPermaLink="false">https://x.com/elonmusk/status/2057133365145608511</guid>
+      <pubDate>Wed, 20 May 2026 16:16:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>[WhiteHouse]In just eight months, President Trump's Intel deal has surged in value to more than $50 billion, a direct windfall for American taxpayers and a major boost for domestic manufacturing. 🇺🇸</title>
+      <link>https://x.com/WhiteHouse/status/2057150756310978623</link>
+      <description>In just eight months, President Trump's Intel deal has surged in value to more than $50 billion, a direct windfall for American taxpayers and a major boost for domestic manufacturing. 🇺🇸</description>
+      <guid isPermaLink="false">https://x.com/WhiteHouse/status/2057150756310978623</guid>
+      <pubDate>Wed, 20 May 2026 17:25:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>[WhiteHouse]🚨 The U.S. Department of Justice announces the indictment of Raúl Castro and several others with conspiracy to kill U.S. nationals. THE UNITED STATES &amp; PRESIDENT TRUMP WILL NOT FORGET ITS CITIZENS.</title>
+      <link>https://x.com/WhiteHouse/status/2057159651263652146</link>
+      <description>🚨 The U.S. Department of Justice announces the indictment of Raúl Castro and several others with conspiracy to kill U.S. nationals. THE UNITED STATES &amp; PRESIDENT TRUMP WILL NOT FORGET ITS CITIZENS.</description>
+      <guid isPermaLink="false">https://x.com/WhiteHouse/status/2057159651263652146</guid>
+      <pubDate>Wed, 20 May 2026 18:00:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Polymarket]NEW: Harvard faculty vote to cap the number of A grades to curb “grade inflation” after a report found A’s made up 60% of undergraduate grades in 2025.</title>
+      <link>https://x.com/Polymarket/status/2057171699750064572</link>
+      <description>NEW: Harvard faculty vote to cap the number of A grades to curb “grade inflation” after a report found A’s made up 60% of undergraduate grades in 2025.</description>
+      <guid isPermaLink="false">https://x.com/Polymarket/status/2057171699750064572</guid>
+      <pubDate>Wed, 20 May 2026 18:48:48 +0000</pubDate>
     </item>
   </channel>
 </rss>
