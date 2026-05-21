@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 21 May 2026 13:19:39 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 21 May 2026 18:44:37 +0000</lastBuildDate>
     <item>
       <title>[@AnthropicAI] High-quality documents reduce agentic misalignment</title>
       <link>https://x.com/AnthropicAI/status/2052808801040859392</link>
@@ -918,6 +918,13 @@ So, why has Congress done nothing to address their concerns? Follow the money.</
       <pubDate>Thu, 14 May 2026 19:03:06 +0000</pubDate>
     </item>
     <item>
+      <title>[OpenAI]You've been asking for this one... Now in preview: Codex in the ChatGPT mobile app. Start new work, review outputs, steer execution, and approve next steps, all from the ChatGPT mobile app. Codex will keep running on your laptop, Mac mini, or devbox.</title>
+      <link>https://x.com/OpenAI/status/2055016850849993072</link>
+      <description>You've been asking for this one... Now in preview: Codex in the ChatGPT mobile app. Start new work, review outputs, steer execution, and approve next steps, all from the ChatGPT mobile app. Codex will keep running on your laptop, Mac mini, or devbox.</description>
+      <guid isPermaLink="false">https://x.com/OpenAI/status/2055016850849993072</guid>
+      <pubDate>Thu, 14 May 2026 20:06:12 +0000</pubDate>
+    </item>
+    <item>
       <title>[OpenAI]Rolling out today as a preview on iOS and Android in all supported regions.
 
 Support for connecting your phone to the Codex app on Windows is coming soon.
@@ -930,13 +937,6 @@ Support for connecting your phone to the Codex app on Windows is coming soon.
 
 https://openai.com/index/work-with-codex-from-anywhere/</description>
       <guid isPermaLink="false">https://x.com/OpenAI/status/2055016852133417389</guid>
-      <pubDate>Thu, 14 May 2026 20:06:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>[OpenAI]You've been asking for this one... Now in preview: Codex in the ChatGPT mobile app. Start new work, review outputs, steer execution, and approve next steps, all from the ChatGPT mobile app. Codex will keep running on your laptop, Mac mini, or devbox.</title>
-      <link>https://x.com/OpenAI/status/2055016850849993072</link>
-      <description>You've been asking for this one... Now in preview: Codex in the ChatGPT mobile app. Start new work, review outputs, steer execution, and approve next steps, all from the ChatGPT mobile app. Codex will keep running on your laptop, Mac mini, or devbox.</description>
-      <guid isPermaLink="false">https://x.com/OpenAI/status/2055016850849993072</guid>
       <pubDate>Thu, 14 May 2026 20:06:12 +0000</pubDate>
     </item>
     <item>
@@ -1970,17 +1970,17 @@ He became the YOUNGEST player in NBA history with 40+ points and 20+ rebounds in
       <pubDate>Wed, 20 May 2026 18:48:48 +0000</pubDate>
     </item>
     <item>
-      <title>[OpenAI]The proof came from a general-purpose reasoning model, not a system built specifically to solve math problems or this problem in particular, and represents an important milestone for the math and AI communities. https://openai.com/index/model-disproves-discrete-geometry-conjecture/</title>
-      <link>https://x.com/OpenAI/status/2057176203166171317</link>
-      <description>The proof came from a general-purpose reasoning model, not a system built specifically to solve math problems or this problem in particular, and represents an important milestone for the math and AI communities. https://openai.com/index/model-disproves-discrete-geometry-conjecture/</description>
-      <guid isPermaLink="false">https://x.com/OpenAI/status/2057176203166171317</guid>
-      <pubDate>Wed, 20 May 2026 19:06:41 +0000</pubDate>
-    </item>
-    <item>
       <title>[OpenAI]Today, we share a breakthrough on the planar unit distance problem, a famous open question first posed by Paul Erdős in 1946. For nearly 80 years, mathematicians believed the best possible solutions looked roughly like square grids. An OpenAI model has now disproved that belief, discovering an entirely new family of constructions that performs better. This marks the first time AI has autonomously solved a prominent open problem central to a field of mathematics.</title>
       <link>https://x.com/OpenAI/status/2057176201782075690</link>
       <description>Today, we share a breakthrough on the planar unit distance problem, a famous open question first posed by Paul Erdős in 1946. For nearly 80 years, mathematicians believed the best possible solutions looked roughly like square grids. An OpenAI model has now disproved that belief, discovering an entirely new family of constructions that performs better. This marks the first time AI has autonomously solved a prominent open problem central to a field of mathematics.</description>
       <guid isPermaLink="false">https://x.com/OpenAI/status/2057176201782075690</guid>
+      <pubDate>Wed, 20 May 2026 19:06:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>[OpenAI]The proof came from a general-purpose reasoning model, not a system built specifically to solve math problems or this problem in particular, and represents an important milestone for the math and AI communities. https://openai.com/index/model-disproves-discrete-geometry-conjecture/</title>
+      <link>https://x.com/OpenAI/status/2057176203166171317</link>
+      <description>The proof came from a general-purpose reasoning model, not a system built specifically to solve math problems or this problem in particular, and represents an important milestone for the math and AI communities. https://openai.com/index/model-disproves-discrete-geometry-conjecture/</description>
+      <guid isPermaLink="false">https://x.com/OpenAI/status/2057176203166171317</guid>
       <pubDate>Wed, 20 May 2026 19:06:41 +0000</pubDate>
     </item>
     <item>
@@ -2075,6 +2075,13 @@ He became the YOUNGEST player in NBA history with 40+ points and 20+ rebounds in
       <pubDate>Thu, 21 May 2026 09:49:31 +0000</pubDate>
     </item>
     <item>
+      <title>[daniel_mac8]GPT-Next is OpenAI's answer to Claude Mythos. A "general-purpose reasoning model", not trained specifically for mathematics, solved an Erdős problem that we worked on for 80 years with no luck. That's emergence.</title>
+      <link>https://x.com/daniel_mac8/status/2057421575482200540</link>
+      <description>GPT-Next is OpenAI's answer to Claude Mythos. A "general-purpose reasoning model", not trained specifically for mathematics, solved an Erdős problem that we worked on for 80 years with no luck. That's emergence.</description>
+      <guid isPermaLink="false">https://x.com/daniel_mac8/status/2057421575482200540</guid>
+      <pubDate>Thu, 21 May 2026 11:21:43 +0000</pubDate>
+    </item>
+    <item>
       <title>[Polymarket]JUST IN: U.S. government is reportedly taking equity stakes in quantum-computing firms as part of a $2 billion grant program.</title>
       <link>https://x.com/Polymarket/status/2057441828597629258</link>
       <description>JUST IN: U.S. government is reportedly taking equity stakes in quantum-computing firms as part of a $2 billion grant program.</description>
@@ -2087,6 +2094,41 @@ He became the YOUNGEST player in NBA history with 40+ points and 20+ rebounds in
       <description>NEW: HHS launches a “sweeping review” using AI to crack down on Medicaid fraud.</description>
       <guid isPermaLink="false">https://x.com/Polymarket/status/2057450569636212961</guid>
       <pubDate>Thu, 21 May 2026 13:16:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>[lvwerra]We released physics-intern: a simple harness for science problems! It gets models like Gemini 3.1 Pro to go from 17.7 -&gt; 31.4, thus beating GPT 5.5 Pro.</title>
+      <link>https://x.com/lvwerra/status/2057476832664953225</link>
+      <description>We released physics-intern: a simple harness for science problems! It gets models like Gemini 3.1 Pro to go from 17.7 -&gt; 31.4, thus beating GPT 5.5 Pro.</description>
+      <guid isPermaLink="false">https://x.com/lvwerra/status/2057476832664953225</guid>
+      <pubDate>Thu, 21 May 2026 15:01:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>[WhiteHouse]Another day, another costly Biden-era policy terminated. $2.4 BILLION SAVED ✅</title>
+      <link>https://x.com/WhiteHouse/status/2057500431371096306</link>
+      <description>Another day, another costly Biden-era policy terminated. $2.4 BILLION SAVED ✅</description>
+      <guid isPermaLink="false">https://x.com/WhiteHouse/status/2057500431371096306</guid>
+      <pubDate>Thu, 21 May 2026 16:35:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>[elonmusk]It is the answer</title>
+      <link>https://x.com/elonmusk/status/2057502564627681295</link>
+      <description>It is the answer</description>
+      <guid isPermaLink="false">https://x.com/elonmusk/status/2057502564627681295</guid>
+      <pubDate>Thu, 21 May 2026 16:43:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>[zerohedge]Stocks spike, oil slides after AI Arabiya says it TV obtaining what it describes as final draft of US-Iran agreement</title>
+      <link>https://x.com/zerohedge/status/2057512120950948230</link>
+      <description>Stocks spike, oil slides after AI Arabiya says it TV obtaining what it describes as final draft of US-Iran agreement</description>
+      <guid isPermaLink="false">https://x.com/zerohedge/status/2057512120950948230</guid>
+      <pubDate>Thu, 21 May 2026 17:21:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Polymarket]NEW: “The Mandalorian and Grogu” debuts with a 61% critic score on Rotten Tomatoes.</title>
+      <link>https://x.com/Polymarket/status/2057531371392811076</link>
+      <description>NEW: “The Mandalorian and Grogu” debuts with a 61% critic score on Rotten Tomatoes.</description>
+      <guid isPermaLink="false">https://x.com/Polymarket/status/2057531371392811076</guid>
+      <pubDate>Thu, 21 May 2026 18:38:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
