@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 21 May 2026 00:58:45 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 21 May 2026 07:26:07 +0000</lastBuildDate>
     <item>
       <title>[@AnthropicAI] High-quality documents reduce agentic misalignment</title>
       <link>https://x.com/AnthropicAI/status/2052808801040859392</link>
@@ -918,6 +918,13 @@ So, why has Congress done nothing to address their concerns? Follow the money.</
       <pubDate>Thu, 14 May 2026 19:03:06 +0000</pubDate>
     </item>
     <item>
+      <title>[OpenAI]You've been asking for this one... Now in preview: Codex in the ChatGPT mobile app. Start new work, review outputs, steer execution, and approve next steps, all from the ChatGPT mobile app. Codex will keep running on your laptop, Mac mini, or devbox.</title>
+      <link>https://x.com/OpenAI/status/2055016850849993072</link>
+      <description>You've been asking for this one... Now in preview: Codex in the ChatGPT mobile app. Start new work, review outputs, steer execution, and approve next steps, all from the ChatGPT mobile app. Codex will keep running on your laptop, Mac mini, or devbox.</description>
+      <guid isPermaLink="false">https://x.com/OpenAI/status/2055016850849993072</guid>
+      <pubDate>Thu, 14 May 2026 20:06:12 +0000</pubDate>
+    </item>
+    <item>
       <title>[OpenAI]Rolling out today as a preview on iOS and Android in all supported regions.
 
 Support for connecting your phone to the Codex app on Windows is coming soon.
@@ -930,13 +937,6 @@ Support for connecting your phone to the Codex app on Windows is coming soon.
 
 https://openai.com/index/work-with-codex-from-anywhere/</description>
       <guid isPermaLink="false">https://x.com/OpenAI/status/2055016852133417389</guid>
-      <pubDate>Thu, 14 May 2026 20:06:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>[OpenAI]You've been asking for this one... Now in preview: Codex in the ChatGPT mobile app. Start new work, review outputs, steer execution, and approve next steps, all from the ChatGPT mobile app. Codex will keep running on your laptop, Mac mini, or devbox.</title>
-      <link>https://x.com/OpenAI/status/2055016850849993072</link>
-      <description>You've been asking for this one... Now in preview: Codex in the ChatGPT mobile app. Start new work, review outputs, steer execution, and approve next steps, all from the ChatGPT mobile app. Codex will keep running on your laptop, Mac mini, or devbox.</description>
-      <guid isPermaLink="false">https://x.com/OpenAI/status/2055016850849993072</guid>
       <pubDate>Thu, 14 May 2026 20:06:12 +0000</pubDate>
     </item>
     <item>
@@ -1851,9 +1851,9 @@ He became the YOUNGEST player in NBA history with 40+ points and 20+ rebounds in
       <pubDate>Tue, 19 May 2026 23:24:16 +0000</pubDate>
     </item>
     <item>
-      <title>[AnthropicAI]Over the past few months, we've been holding dialogues with scholars, philosophers, clergy, and ethicists on the questions AI raises—starting with how good character forms. Read more about how we’re widening the conversation on frontier AI: https://www.anthropic.com/news/widening-conversation-ai</title>
+      <title>[AnthropicAI]Over the past few months, we've been holding dialogues with scholars, philosophers, clergy, and ethicists on the questions AI raises—starting with how good character forms.</title>
       <link>https://x.com/AnthropicAI/status/2056880308851708233</link>
-      <description>Over the past few months, we've been holding dialogues with scholars, philosophers, clergy, and ethicists on the questions AI raises—starting with how good character forms. Read more about how we’re widening the conversation on frontier AI: https://www.anthropic.com/news/widening-conversation-ai</description>
+      <description>Over the past few months, we've been holding dialogues with scholars, philosophers, clergy, and ethicists on the questions AI raises—starting with how good character forms.</description>
       <guid isPermaLink="false">https://x.com/AnthropicAI/status/2056880308851708233</guid>
       <pubDate>Tue, 19 May 2026 23:30:55 +0000</pubDate>
     </item>
@@ -1970,6 +1970,13 @@ He became the YOUNGEST player in NBA history with 40+ points and 20+ rebounds in
       <pubDate>Wed, 20 May 2026 18:48:48 +0000</pubDate>
     </item>
     <item>
+      <title>[OpenAI]Today, we share a breakthrough on the planar unit distance problem, a famous open question first posed by Paul Erdős in 1946. For nearly 80 years, mathematicians believed the best possible solutions looked roughly like square grids. An OpenAI model has now disproved that belief, discovering an entirely new family of constructions that performs better. This marks the first time AI has autonomously solved a prominent open problem central to a field of mathematics.</title>
+      <link>https://x.com/OpenAI/status/2057176201782075690</link>
+      <description>Today, we share a breakthrough on the planar unit distance problem, a famous open question first posed by Paul Erdős in 1946. For nearly 80 years, mathematicians believed the best possible solutions looked roughly like square grids. An OpenAI model has now disproved that belief, discovering an entirely new family of constructions that performs better. This marks the first time AI has autonomously solved a prominent open problem central to a field of mathematics.</description>
+      <guid isPermaLink="false">https://x.com/OpenAI/status/2057176201782075690</guid>
+      <pubDate>Wed, 20 May 2026 19:06:41 +0000</pubDate>
+    </item>
+    <item>
       <title>[OpenAI]This result points to something larger: AI systems are becoming capable of holding together long, difficult chains of reasoning, connecting ideas across distant fields, and surfacing paths researchers may not have explored.</title>
       <link>https://x.com/OpenAI/status/2057176204541866087</link>
       <description>This result points to something larger: AI systems are becoming capable of holding together long, difficult chains of reasoning, connecting ideas across distant fields, and surfacing paths researchers may not have explored.</description>
@@ -2010,6 +2017,34 @@ He became the YOUNGEST player in NBA history with 40+ points and 20+ rebounds in
       <description>The SpaceX team is incredible!</description>
       <guid isPermaLink="false">https://x.com/elonmusk/status/2057263027326717970</guid>
       <pubDate>Thu, 21 May 2026 00:51:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>[elonmusk]SpaceX is actively hiring world-class engineers/physicists for SpaceXAI, even if you have zero prior experience in AI. Smart humans figure it out fast. Please send an email with ~3 bullet points demonstrating evidence of exceptional ability to ai_eng@spacex.com.</title>
+      <link>https://x.com/elonmusk/status/2057327547411570907</link>
+      <description>SpaceX is actively hiring world-class engineers/physicists for SpaceXAI, even if you have zero prior experience in AI. Smart humans figure it out fast. Please send an email with ~3 bullet points demonstrating evidence of exceptional ability to ai_eng@spacex.com.</description>
+      <guid isPermaLink="false">https://x.com/elonmusk/status/2057327547411570907</guid>
+      <pubDate>Thu, 21 May 2026 05:08:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Polymarket]NEW: Former Austrian intelligence officer found guilty of spying for Russia.</title>
+      <link>https://x.com/Polymarket/status/2057332056099901486</link>
+      <description>NEW: Former Austrian intelligence officer found guilty of spying for Russia.</description>
+      <guid isPermaLink="false">https://x.com/Polymarket/status/2057332056099901486</guid>
+      <pubDate>Thu, 21 May 2026 05:26:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[justinsuntron]WBTC and HTX are now live on https://b.ai/</title>
+      <link>https://x.com/justinsuntron/status/2057338969202049069</link>
+      <description>WBTC and HTX are now live on https://b.ai/</description>
+      <guid isPermaLink="false">https://x.com/justinsuntron/status/2057338969202049069</guid>
+      <pubDate>Thu, 21 May 2026 05:53:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Polymarket]JUST IN: China is reportedly refusing to approve a Pentagon official’s Beijing visit until Trump decides whether to proceed with a $14 billion arms package for*******.</title>
+      <link>https://x.com/Polymarket/status/2057347407159984350</link>
+      <description>JUST IN: China is reportedly refusing to approve a Pentagon official’s Beijing visit until Trump decides whether to proceed with a $14 billion arms package for*******.</description>
+      <guid isPermaLink="false">https://x.com/Polymarket/status/2057347407159984350</guid>
+      <pubDate>Thu, 21 May 2026 06:27:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
