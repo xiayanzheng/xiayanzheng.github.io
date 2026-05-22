@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 22 May 2026 00:57:01 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 22 May 2026 07:22:29 +0000</lastBuildDate>
     <item>
       <title>[@AnthropicAI] High-quality documents reduce agentic misalignment</title>
       <link>https://x.com/AnthropicAI/status/2052808801040859392</link>
@@ -918,6 +918,13 @@ So, why has Congress done nothing to address their concerns? Follow the money.</
       <pubDate>Thu, 14 May 2026 19:03:06 +0000</pubDate>
     </item>
     <item>
+      <title>[OpenAI]You've been asking for this one... Now in preview: Codex in the ChatGPT mobile app. Start new work, review outputs, steer execution, and approve next steps, all from the ChatGPT mobile app. Codex will keep running on your laptop, Mac mini, or devbox.</title>
+      <link>https://x.com/OpenAI/status/2055016850849993072</link>
+      <description>You've been asking for this one... Now in preview: Codex in the ChatGPT mobile app. Start new work, review outputs, steer execution, and approve next steps, all from the ChatGPT mobile app. Codex will keep running on your laptop, Mac mini, or devbox.</description>
+      <guid isPermaLink="false">https://x.com/OpenAI/status/2055016850849993072</guid>
+      <pubDate>Thu, 14 May 2026 20:06:12 +0000</pubDate>
+    </item>
+    <item>
       <title>[OpenAI]Rolling out today as a preview on iOS and Android in all supported regions.
 
 Support for connecting your phone to the Codex app on Windows is coming soon.
@@ -930,13 +937,6 @@ Support for connecting your phone to the Codex app on Windows is coming soon.
 
 https://openai.com/index/work-with-codex-from-anywhere/</description>
       <guid isPermaLink="false">https://x.com/OpenAI/status/2055016852133417389</guid>
-      <pubDate>Thu, 14 May 2026 20:06:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>[OpenAI]You've been asking for this one... Now in preview: Codex in the ChatGPT mobile app. Start new work, review outputs, steer execution, and approve next steps, all from the ChatGPT mobile app. Codex will keep running on your laptop, Mac mini, or devbox.</title>
-      <link>https://x.com/OpenAI/status/2055016850849993072</link>
-      <description>You've been asking for this one... Now in preview: Codex in the ChatGPT mobile app. Start new work, review outputs, steer execution, and approve next steps, all from the ChatGPT mobile app. Codex will keep running on your laptop, Mac mini, or devbox.</description>
-      <guid isPermaLink="false">https://x.com/OpenAI/status/2055016850849993072</guid>
       <pubDate>Thu, 14 May 2026 20:06:12 +0000</pubDate>
     </item>
     <item>
@@ -1732,9 +1732,9 @@ He became the YOUNGEST player in NBA history with 40+ points and 20+ rebounds in
       <pubDate>Tue, 19 May 2026 14:14:45 +0000</pubDate>
     </item>
     <item>
-      <title>[karpathy]Personal update: I've joined Anthropic. I think the next few years at the frontier of LLMs will be especially formative. I am very excited to join the team here and get back to R&amp;D. I remain deeply passionate about education and plan to resume my work on it in time.</title>
+      <title>[karpathy]Personal update: I've joined Anthropic. I think the next few years at the frontier of LLMs will be especially formative. I am very excited to join the team here and get back to R&amp;D.</title>
       <link>https://x.com/karpathy/status/2056753169888334312</link>
-      <description>Personal update: I've joined Anthropic. I think the next few years at the frontier of LLMs will be especially formative. I am very excited to join the team here and get back to R&amp;D. I remain deeply passionate about education and plan to resume my work on it in time.</description>
+      <description>Personal update: I've joined Anthropic. I think the next few years at the frontier of LLMs will be especially formative. I am very excited to join the team here and get back to R&amp;D.</description>
       <guid isPermaLink="false">https://x.com/karpathy/status/2056753169888334312</guid>
       <pubDate>Tue, 19 May 2026 15:05:42 +0000</pubDate>
     </item>
@@ -1970,17 +1970,17 @@ He became the YOUNGEST player in NBA history with 40+ points and 20+ rebounds in
       <pubDate>Wed, 20 May 2026 18:48:48 +0000</pubDate>
     </item>
     <item>
-      <title>[OpenAI]The proof came from a general-purpose reasoning model, not a system built specifically to solve math problems or this problem in particular, and represents an important milestone for the math and AI communities. https://openai.com/index/model-disproves-discrete-geometry-conjecture/</title>
-      <link>https://x.com/OpenAI/status/2057176203166171317</link>
-      <description>The proof came from a general-purpose reasoning model, not a system built specifically to solve math problems or this problem in particular, and represents an important milestone for the math and AI communities. https://openai.com/index/model-disproves-discrete-geometry-conjecture/</description>
-      <guid isPermaLink="false">https://x.com/OpenAI/status/2057176203166171317</guid>
-      <pubDate>Wed, 20 May 2026 19:06:41 +0000</pubDate>
-    </item>
-    <item>
       <title>[OpenAI]Today, we share a breakthrough on the planar unit distance problem, a famous open question first posed by Paul Erdős in 1946. For nearly 80 years, mathematicians believed the best possible solutions looked roughly like square grids. An OpenAI model has now disproved that belief, discovering an entirely new family of constructions that performs better. This marks the first time AI has autonomously solved a prominent open problem central to a field of mathematics.</title>
       <link>https://x.com/OpenAI/status/2057176201782075690</link>
       <description>Today, we share a breakthrough on the planar unit distance problem, a famous open question first posed by Paul Erdős in 1946. For nearly 80 years, mathematicians believed the best possible solutions looked roughly like square grids. An OpenAI model has now disproved that belief, discovering an entirely new family of constructions that performs better. This marks the first time AI has autonomously solved a prominent open problem central to a field of mathematics.</description>
       <guid isPermaLink="false">https://x.com/OpenAI/status/2057176201782075690</guid>
+      <pubDate>Wed, 20 May 2026 19:06:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>[OpenAI]The proof came from a general-purpose reasoning model, not a system built specifically to solve math problems or this problem in particular, and represents an important milestone for the math and AI communities. https://openai.com/index/model-disproves-discrete-geometry-conjecture/</title>
+      <link>https://x.com/OpenAI/status/2057176203166171317</link>
+      <description>The proof came from a general-purpose reasoning model, not a system built specifically to solve math problems or this problem in particular, and represents an important milestone for the math and AI communities. https://openai.com/index/model-disproves-discrete-geometry-conjecture/</description>
+      <guid isPermaLink="false">https://x.com/OpenAI/status/2057176203166171317</guid>
       <pubDate>Wed, 20 May 2026 19:06:41 +0000</pubDate>
     </item>
     <item>
@@ -2178,6 +2178,48 @@ He became the YOUNGEST player in NBA history with 40+ points and 20+ rebounds in
       <description>Daily Grok Build bug fixes</description>
       <guid isPermaLink="false">https://x.com/elonmusk/status/2057625354592792807</guid>
       <pubDate>Fri, 22 May 2026 00:51:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>[elonmusk]“Nowak attempted to flee the scene, climbing over a fence while Digwa was still stabbing him” This is a clear case of murder.</title>
+      <link>https://x.com/elonmusk/status/2057625863038894318</link>
+      <description>“Nowak attempted to flee the scene, climbing over a fence while Digwa was still stabbing him” This is a clear case of murder.</description>
+      <guid isPermaLink="false">https://x.com/elonmusk/status/2057625863038894318</guid>
+      <pubDate>Fri, 22 May 2026 00:53:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>[WhiteHouse]This is the way</title>
+      <link>https://x.com/WhiteHouse/status/2057651230101422240</link>
+      <description>This is the way</description>
+      <guid isPermaLink="false">https://x.com/WhiteHouse/status/2057651230101422240</guid>
+      <pubDate>Fri, 22 May 2026 02:34:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>[SpencerAlthouse]LOL Stephen Colbert is making his band play licensed music during his final show so CBS – who fired him – will get sued and have to pay millions</title>
+      <link>https://x.com/SpencerAlthouse/status/2057673496625287188</link>
+      <description>LOL Stephen Colbert is making his band play licensed music during his final show so CBS – who fired him – will get sued and have to pay millions</description>
+      <guid isPermaLink="false">https://x.com/SpencerAlthouse/status/2057673496625287188</guid>
+      <pubDate>Fri, 22 May 2026 04:02:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Polymarket]JUST IN: China suspends beef imports from three Brazilian meat plants over banned hormone use.</title>
+      <link>https://x.com/Polymarket/status/2057701742087750133</link>
+      <description>JUST IN: China suspends beef imports from three Brazilian meat plants over banned hormone use.</description>
+      <guid isPermaLink="false">https://x.com/Polymarket/status/2057701742087750133</guid>
+      <pubDate>Fri, 22 May 2026 05:55:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Echoplex25]Honestly, they'll probably force Bungie to work on something else as like their "last chance" thing. And now that Bungie is finally free of Destiny and hopefully free of an extraction shooter slop, they can actually work on something different</title>
+      <link>https://x.com/Echoplex25/status/2057723685499265115</link>
+      <description>Honestly, they'll probably force Bungie to work on something else as like their "last chance" thing. And now that Bungie is finally free of Destiny and hopefully free of an extraction shooter slop, they can actually work on something different</description>
+      <guid isPermaLink="false">https://x.com/Echoplex25/status/2057723685499265115</guid>
+      <pubDate>Fri, 22 May 2026 07:22:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>[business]Chinese regulators are scrutinizing recent stock rallies that have been fueled by artificial intelligence optimism</title>
+      <link>https://x.com/business/status/2057723687067914403</link>
+      <description>Chinese regulators are scrutinizing recent stock rallies that have been fueled by artificial intelligence optimism</description>
+      <guid isPermaLink="false">https://x.com/business/status/2057723687067914403</guid>
+      <pubDate>Fri, 22 May 2026 07:22:12 +0000</pubDate>
     </item>
   </channel>
 </rss>
