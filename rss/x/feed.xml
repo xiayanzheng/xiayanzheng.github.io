@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 21 May 2026 18:44:37 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 22 May 2026 00:57:01 +0000</lastBuildDate>
     <item>
       <title>[@AnthropicAI] High-quality documents reduce agentic misalignment</title>
       <link>https://x.com/AnthropicAI/status/2052808801040859392</link>
@@ -918,13 +918,6 @@ So, why has Congress done nothing to address their concerns? Follow the money.</
       <pubDate>Thu, 14 May 2026 19:03:06 +0000</pubDate>
     </item>
     <item>
-      <title>[OpenAI]You've been asking for this one... Now in preview: Codex in the ChatGPT mobile app. Start new work, review outputs, steer execution, and approve next steps, all from the ChatGPT mobile app. Codex will keep running on your laptop, Mac mini, or devbox.</title>
-      <link>https://x.com/OpenAI/status/2055016850849993072</link>
-      <description>You've been asking for this one... Now in preview: Codex in the ChatGPT mobile app. Start new work, review outputs, steer execution, and approve next steps, all from the ChatGPT mobile app. Codex will keep running on your laptop, Mac mini, or devbox.</description>
-      <guid isPermaLink="false">https://x.com/OpenAI/status/2055016850849993072</guid>
-      <pubDate>Thu, 14 May 2026 20:06:12 +0000</pubDate>
-    </item>
-    <item>
       <title>[OpenAI]Rolling out today as a preview on iOS and Android in all supported regions.
 
 Support for connecting your phone to the Codex app on Windows is coming soon.
@@ -937,6 +930,13 @@ Support for connecting your phone to the Codex app on Windows is coming soon.
 
 https://openai.com/index/work-with-codex-from-anywhere/</description>
       <guid isPermaLink="false">https://x.com/OpenAI/status/2055016852133417389</guid>
+      <pubDate>Thu, 14 May 2026 20:06:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>[OpenAI]You've been asking for this one... Now in preview: Codex in the ChatGPT mobile app. Start new work, review outputs, steer execution, and approve next steps, all from the ChatGPT mobile app. Codex will keep running on your laptop, Mac mini, or devbox.</title>
+      <link>https://x.com/OpenAI/status/2055016850849993072</link>
+      <description>You've been asking for this one... Now in preview: Codex in the ChatGPT mobile app. Start new work, review outputs, steer execution, and approve next steps, all from the ChatGPT mobile app. Codex will keep running on your laptop, Mac mini, or devbox.</description>
+      <guid isPermaLink="false">https://x.com/OpenAI/status/2055016850849993072</guid>
       <pubDate>Thu, 14 May 2026 20:06:12 +0000</pubDate>
     </item>
     <item>
@@ -1537,9 +1537,9 @@ TODAY: @VP is in Kansas City, Missouri spotlighting the American manufacturing c
       <pubDate>Mon, 18 May 2026 16:57:40 +0000</pubDate>
     </item>
     <item>
-      <title>[AnthropicAI]Anthropic is acquiring @stainlessapi, an SDK and MCP server platform that has powered every Anthropic SDK since the earliest days of our API.</title>
+      <title>[AnthropicAI]Anthropic is acquiring @stainlessapi, an SDK and MCP server platform that has powered every Anthropic SDK since the earliest days of our API. Read more: https://www.anthropic.com/news/anthropic-acquires-stainless</title>
       <link>https://x.com/AnthropicAI/status/2056419620643541012</link>
-      <description>Anthropic is acquiring @stainlessapi, an SDK and MCP server platform that has powered every Anthropic SDK since the earliest days of our API.</description>
+      <description>Anthropic is acquiring @stainlessapi, an SDK and MCP server platform that has powered every Anthropic SDK since the earliest days of our API. Read more: https://www.anthropic.com/news/anthropic-acquires-stainless</description>
       <guid isPermaLink="false">https://x.com/AnthropicAI/status/2056419620643541012</guid>
       <pubDate>Mon, 18 May 2026 17:00:18 +0000</pubDate>
     </item>
@@ -1970,17 +1970,17 @@ He became the YOUNGEST player in NBA history with 40+ points and 20+ rebounds in
       <pubDate>Wed, 20 May 2026 18:48:48 +0000</pubDate>
     </item>
     <item>
-      <title>[OpenAI]Today, we share a breakthrough on the planar unit distance problem, a famous open question first posed by Paul Erdős in 1946. For nearly 80 years, mathematicians believed the best possible solutions looked roughly like square grids. An OpenAI model has now disproved that belief, discovering an entirely new family of constructions that performs better. This marks the first time AI has autonomously solved a prominent open problem central to a field of mathematics.</title>
-      <link>https://x.com/OpenAI/status/2057176201782075690</link>
-      <description>Today, we share a breakthrough on the planar unit distance problem, a famous open question first posed by Paul Erdős in 1946. For nearly 80 years, mathematicians believed the best possible solutions looked roughly like square grids. An OpenAI model has now disproved that belief, discovering an entirely new family of constructions that performs better. This marks the first time AI has autonomously solved a prominent open problem central to a field of mathematics.</description>
-      <guid isPermaLink="false">https://x.com/OpenAI/status/2057176201782075690</guid>
-      <pubDate>Wed, 20 May 2026 19:06:41 +0000</pubDate>
-    </item>
-    <item>
       <title>[OpenAI]The proof came from a general-purpose reasoning model, not a system built specifically to solve math problems or this problem in particular, and represents an important milestone for the math and AI communities. https://openai.com/index/model-disproves-discrete-geometry-conjecture/</title>
       <link>https://x.com/OpenAI/status/2057176203166171317</link>
       <description>The proof came from a general-purpose reasoning model, not a system built specifically to solve math problems or this problem in particular, and represents an important milestone for the math and AI communities. https://openai.com/index/model-disproves-discrete-geometry-conjecture/</description>
       <guid isPermaLink="false">https://x.com/OpenAI/status/2057176203166171317</guid>
+      <pubDate>Wed, 20 May 2026 19:06:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>[OpenAI]Today, we share a breakthrough on the planar unit distance problem, a famous open question first posed by Paul Erdős in 1946. For nearly 80 years, mathematicians believed the best possible solutions looked roughly like square grids. An OpenAI model has now disproved that belief, discovering an entirely new family of constructions that performs better. This marks the first time AI has autonomously solved a prominent open problem central to a field of mathematics.</title>
+      <link>https://x.com/OpenAI/status/2057176201782075690</link>
+      <description>Today, we share a breakthrough on the planar unit distance problem, a famous open question first posed by Paul Erdős in 1946. For nearly 80 years, mathematicians believed the best possible solutions looked roughly like square grids. An OpenAI model has now disproved that belief, discovering an entirely new family of constructions that performs better. This marks the first time AI has autonomously solved a prominent open problem central to a field of mathematics.</description>
+      <guid isPermaLink="false">https://x.com/OpenAI/status/2057176201782075690</guid>
       <pubDate>Wed, 20 May 2026 19:06:41 +0000</pubDate>
     </item>
     <item>
@@ -2129,6 +2129,55 @@ He became the YOUNGEST player in NBA history with 40+ points and 20+ rebounds in
       <description>NEW: “The Mandalorian and Grogu” debuts with a 61% critic score on Rotten Tomatoes.</description>
       <guid isPermaLink="false">https://x.com/Polymarket/status/2057531371392811076</guid>
       <pubDate>Thu, 21 May 2026 18:38:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Polymarket]JUST IN: Waymo suspends robotaxi service on freeways nationwide as it updates software due to issues.</title>
+      <link>https://x.com/Polymarket/status/2057610641716699214</link>
+      <description>JUST IN: Waymo suspends robotaxi service on freeways nationwide as it updates software due to issues.</description>
+      <guid isPermaLink="false">https://x.com/Polymarket/status/2057610641716699214</guid>
+      <pubDate>Thu, 21 May 2026 23:53:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[SawyerMerritt]Meta will use ~$200 million of @Tesla Megapack batteries to help power their AI datacenters in Wyoming. This is another example of Tesla Energy becoming critical infrastructure for the AI boom.</title>
+      <link>https://x.com/SawyerMerritt/status/2057613328386494919</link>
+      <description>Meta will use ~$200 million of @Tesla Megapack batteries to help power their AI datacenters in Wyoming. This is another example of Tesla Energy becoming critical infrastructure for the AI boom.</description>
+      <guid isPermaLink="false">https://x.com/SawyerMerritt/status/2057613328386494919</guid>
+      <pubDate>Fri, 22 May 2026 00:03:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>[sama]what problem do you most hope AI will solve in the future? maybe we can help!</title>
+      <link>https://x.com/sama/status/2057614780727480741</link>
+      <description>what problem do you most hope AI will solve in the future? maybe we can help!</description>
+      <guid isPermaLink="false">https://x.com/sama/status/2057614780727480741</guid>
+      <pubDate>Fri, 22 May 2026 00:09:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>[OpenAI]Highlights from today’s Codex Thursday launches: 1️⃣ Codex can now securely use apps on your Mac from your phone, even when your Mac is locked and the screen is off. https://developers.openai.com/codex/app/computer-use</title>
+      <link>https://x.com/OpenAI/status/2057617844800794878</link>
+      <description>Highlights from today’s Codex Thursday launches: 1️⃣ Codex can now securely use apps on your Mac from your phone, even when your Mac is locked and the screen is off. https://developers.openai.com/codex/app/computer-use</description>
+      <guid isPermaLink="false">https://x.com/OpenAI/status/2057617844800794878</guid>
+      <pubDate>Fri, 22 May 2026 00:21:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Polymarket]NEW: Former Trump National Security Advisor John Bolton calls Iran talks a “waste of oxygen”</title>
+      <link>https://x.com/Polymarket/status/2057618946472190326</link>
+      <description>NEW: Former Trump National Security Advisor John Bolton calls Iran talks a “waste of oxygen”</description>
+      <guid isPermaLink="false">https://x.com/Polymarket/status/2057618946472190326</guid>
+      <pubDate>Fri, 22 May 2026 00:26:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[WhiteHouse]"One of the most prestigious military academies anywhere in the world... God bless the Coast Guard Academy, the class of 2026, God bless the United States military, and God bless the United States of America." - President Donald J. Trump 🇺🇸</title>
+      <link>https://x.com/WhiteHouse/status/2057619827406020715</link>
+      <description>"One of the most prestigious military academies anywhere in the world... God bless the Coast Guard Academy, the class of 2026, God bless the United States military, and God bless the United States of America." - President Donald J. Trump 🇺🇸</description>
+      <guid isPermaLink="false">https://x.com/WhiteHouse/status/2057619827406020715</guid>
+      <pubDate>Fri, 22 May 2026 00:29:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>[elonmusk]Daily Grok Build bug fixes</title>
+      <link>https://x.com/elonmusk/status/2057625354592792807</link>
+      <description>Daily Grok Build bug fixes</description>
+      <guid isPermaLink="false">https://x.com/elonmusk/status/2057625354592792807</guid>
+      <pubDate>Fri, 22 May 2026 00:51:28 +0000</pubDate>
     </item>
   </channel>
 </rss>
