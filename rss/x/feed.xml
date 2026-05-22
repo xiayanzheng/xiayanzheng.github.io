@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 22 May 2026 12:58:16 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 22 May 2026 18:43:08 +0000</lastBuildDate>
     <item>
       <title>[@AnthropicAI] High-quality documents reduce agentic misalignment</title>
       <link>https://x.com/AnthropicAI/status/2052808801040859392</link>
@@ -918,6 +918,13 @@ So, why has Congress done nothing to address their concerns? Follow the money.</
       <pubDate>Thu, 14 May 2026 19:03:06 +0000</pubDate>
     </item>
     <item>
+      <title>[OpenAI]You've been asking for this one... Now in preview: Codex in the ChatGPT mobile app. Start new work, review outputs, steer execution, and approve next steps, all from the ChatGPT mobile app. Codex will keep running on your laptop, Mac mini, or devbox.</title>
+      <link>https://x.com/OpenAI/status/2055016850849993072</link>
+      <description>You've been asking for this one... Now in preview: Codex in the ChatGPT mobile app. Start new work, review outputs, steer execution, and approve next steps, all from the ChatGPT mobile app. Codex will keep running on your laptop, Mac mini, or devbox.</description>
+      <guid isPermaLink="false">https://x.com/OpenAI/status/2055016850849993072</guid>
+      <pubDate>Thu, 14 May 2026 20:06:12 +0000</pubDate>
+    </item>
+    <item>
       <title>[OpenAI]Rolling out today as a preview on iOS and Android in all supported regions.
 
 Support for connecting your phone to the Codex app on Windows is coming soon.
@@ -930,13 +937,6 @@ Support for connecting your phone to the Codex app on Windows is coming soon.
 
 https://openai.com/index/work-with-codex-from-anywhere/</description>
       <guid isPermaLink="false">https://x.com/OpenAI/status/2055016852133417389</guid>
-      <pubDate>Thu, 14 May 2026 20:06:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>[OpenAI]You've been asking for this one... Now in preview: Codex in the ChatGPT mobile app. Start new work, review outputs, steer execution, and approve next steps, all from the ChatGPT mobile app. Codex will keep running on your laptop, Mac mini, or devbox.</title>
-      <link>https://x.com/OpenAI/status/2055016850849993072</link>
-      <description>You've been asking for this one... Now in preview: Codex in the ChatGPT mobile app. Start new work, review outputs, steer execution, and approve next steps, all from the ChatGPT mobile app. Codex will keep running on your laptop, Mac mini, or devbox.</description>
-      <guid isPermaLink="false">https://x.com/OpenAI/status/2055016850849993072</guid>
       <pubDate>Thu, 14 May 2026 20:06:12 +0000</pubDate>
     </item>
     <item>
@@ -1970,17 +1970,17 @@ He became the YOUNGEST player in NBA history with 40+ points and 20+ rebounds in
       <pubDate>Wed, 20 May 2026 18:48:48 +0000</pubDate>
     </item>
     <item>
-      <title>[OpenAI]The proof came from a general-purpose reasoning model, not a system built specifically to solve math problems or this problem in particular, and represents an important milestone for the math and AI communities. https://openai.com/index/model-disproves-discrete-geometry-conjecture/</title>
-      <link>https://x.com/OpenAI/status/2057176203166171317</link>
-      <description>The proof came from a general-purpose reasoning model, not a system built specifically to solve math problems or this problem in particular, and represents an important milestone for the math and AI communities. https://openai.com/index/model-disproves-discrete-geometry-conjecture/</description>
-      <guid isPermaLink="false">https://x.com/OpenAI/status/2057176203166171317</guid>
-      <pubDate>Wed, 20 May 2026 19:06:41 +0000</pubDate>
-    </item>
-    <item>
       <title>[OpenAI]Today, we share a breakthrough on the planar unit distance problem, a famous open question first posed by Paul Erdős in 1946. For nearly 80 years, mathematicians believed the best possible solutions looked roughly like square grids. An OpenAI model has now disproved that belief, discovering an entirely new family of constructions that performs better. This marks the first time AI has autonomously solved a prominent open problem central to a field of mathematics.</title>
       <link>https://x.com/OpenAI/status/2057176201782075690</link>
       <description>Today, we share a breakthrough on the planar unit distance problem, a famous open question first posed by Paul Erdős in 1946. For nearly 80 years, mathematicians believed the best possible solutions looked roughly like square grids. An OpenAI model has now disproved that belief, discovering an entirely new family of constructions that performs better. This marks the first time AI has autonomously solved a prominent open problem central to a field of mathematics.</description>
       <guid isPermaLink="false">https://x.com/OpenAI/status/2057176201782075690</guid>
+      <pubDate>Wed, 20 May 2026 19:06:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>[OpenAI]The proof came from a general-purpose reasoning model, not a system built specifically to solve math problems or this problem in particular, and represents an important milestone for the math and AI communities. https://openai.com/index/model-disproves-discrete-geometry-conjecture/</title>
+      <link>https://x.com/OpenAI/status/2057176203166171317</link>
+      <description>The proof came from a general-purpose reasoning model, not a system built specifically to solve math problems or this problem in particular, and represents an important milestone for the math and AI communities. https://openai.com/index/model-disproves-discrete-geometry-conjecture/</description>
+      <guid isPermaLink="false">https://x.com/OpenAI/status/2057176203166171317</guid>
       <pubDate>Wed, 20 May 2026 19:06:41 +0000</pubDate>
     </item>
     <item>
@@ -2152,9 +2152,9 @@ He became the YOUNGEST player in NBA history with 40+ points and 20+ rebounds in
       <pubDate>Fri, 22 May 2026 00:09:27 +0000</pubDate>
     </item>
     <item>
-      <title>[OpenAI]Highlights from today’s Codex Thursday launches: 1️⃣ Codex can now securely use apps on your Mac from your phone, even when your Mac is locked and the screen is off. https://developers.openai.com/codex/app/computer-use</title>
+      <title>[OpenAI]Highlights from today’s Codex Thursday launches: 1️⃣ Codex can now securely use apps on your Mac from your phone, even when your Mac is locked and the screen is off.</title>
       <link>https://x.com/OpenAI/status/2057617844800794878</link>
-      <description>Highlights from today’s Codex Thursday launches: 1️⃣ Codex can now securely use apps on your Mac from your phone, even when your Mac is locked and the screen is off. https://developers.openai.com/codex/app/computer-use</description>
+      <description>Highlights from today’s Codex Thursday launches: 1️⃣ Codex can now securely use apps on your Mac from your phone, even when your Mac is locked and the screen is off.</description>
       <guid isPermaLink="false">https://x.com/OpenAI/status/2057617844800794878</guid>
       <pubDate>Fri, 22 May 2026 00:21:37 +0000</pubDate>
     </item>
@@ -2257,6 +2257,13 @@ He became the YOUNGEST player in NBA history with 40+ points and 20+ rebounds in
       <pubDate>Fri, 22 May 2026 12:53:57 +0000</pubDate>
     </item>
     <item>
+      <title>[HugoBlotFR]Price/performance is going to matter a lot for daily AI workflows. The winning model isn’t always the smartest one. It’s the one people can use often enough to actually change how they execute</title>
+      <link>https://x.com/HugoBlotFR/status/2057808206118653980</link>
+      <description>Price/performance is going to matter a lot for daily AI workflows. The winning model isn’t always the smartest one. It’s the one people can use often enough to actually change how they execute</description>
+      <guid isPermaLink="false">https://x.com/HugoBlotFR/status/2057808206118653980</guid>
+      <pubDate>Fri, 22 May 2026 12:58:03 +0000</pubDate>
+    </item>
+    <item>
       <title>[gideonfip]If you want to become AI-native, start by removing one painful, soul-sucking bottleneck by outsourcing that task to AI.</title>
       <link>https://x.com/gideonfip/status/2057808205582049764</link>
       <description>If you want to become AI-native, start by removing one painful, soul-sucking bottleneck by outsourcing that task to AI.</description>
@@ -2264,11 +2271,53 @@ He became the YOUNGEST player in NBA history with 40+ points and 20+ rebounds in
       <pubDate>Fri, 22 May 2026 12:58:03 +0000</pubDate>
     </item>
     <item>
-      <title>[HugoBlotFR]Price/performance is going to matter a lot for daily AI workflows. The winning model isn’t always the smartest one. It’s the one people can use often enough to actually change how they execute</title>
-      <link>https://x.com/HugoBlotFR/status/2057808206118653980</link>
-      <description>Price/performance is going to matter a lot for daily AI workflows. The winning model isn’t always the smartest one. It’s the one people can use often enough to actually change how they execute</description>
-      <guid isPermaLink="false">https://x.com/HugoBlotFR/status/2057808206118653980</guid>
-      <pubDate>Fri, 22 May 2026 12:58:03 +0000</pubDate>
+      <title>[elonmusk]https://t.co/yjHT8jvxKJ</title>
+      <link>https://x.com/elonmusk/status/2057839480350834878</link>
+      <description>https://t.co/yjHT8jvxKJ</description>
+      <guid isPermaLink="false">https://x.com/elonmusk/status/2057839480350834878</guid>
+      <pubDate>Fri, 22 May 2026 15:02:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>[elonmusk]Try it out!</title>
+      <link>https://x.com/elonmusk/status/2057842724649209878</link>
+      <description>Try it out!</description>
+      <guid isPermaLink="false">https://x.com/elonmusk/status/2057842724649209878</guid>
+      <pubDate>Fri, 22 May 2026 15:15:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>[WhiteHouse]Stop playing games and PASS THE SAVE AMERICA ACT!</title>
+      <link>https://x.com/WhiteHouse/status/2057881055231619322</link>
+      <description>Stop playing games and PASS THE SAVE AMERICA ACT!</description>
+      <guid isPermaLink="false">https://x.com/WhiteHouse/status/2057881055231619322</guid>
+      <pubDate>Fri, 22 May 2026 17:47:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Polymarket]JUST IN: The Enhanced Games are set to debut this weekend in Las Vegas, with athletes allowed to use steroids, testosterone, HGH, &amp; other banned substances.</title>
+      <link>https://x.com/Polymarket/status/2057889432259203163</link>
+      <description>JUST IN: The Enhanced Games are set to debut this weekend in Las Vegas, with athletes allowed to use steroids, testosterone, HGH, &amp; other banned substances.</description>
+      <guid isPermaLink="false">https://x.com/Polymarket/status/2057889432259203163</guid>
+      <pubDate>Fri, 22 May 2026 18:20:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Polymarket]NEW: President Trump abruptly cancels trip to Trump National in Bedminster, NJ, will instead immediately return to the White House following a speech in NY.</title>
+      <link>https://x.com/Polymarket/status/2057894722161586533</link>
+      <description>NEW: President Trump abruptly cancels trip to Trump National in Bedminster, NJ, will instead immediately return to the White House following a speech in NY.</description>
+      <guid isPermaLink="false">https://x.com/Polymarket/status/2057894722161586533</guid>
+      <pubDate>Fri, 22 May 2026 18:41:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>[0xdaddy_hey]Autonomous AI agents could revolutionize trading and DeFi efficiency.</title>
+      <link>https://x.com/0xdaddy_hey/status/2057894979767550255</link>
+      <description>Autonomous AI agents could revolutionize trading and DeFi efficiency.</description>
+      <guid isPermaLink="false">https://x.com/0xdaddy_hey/status/2057894979767550255</guid>
+      <pubDate>Fri, 22 May 2026 18:42:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>[ClearEdgeTrades]AI and automotive megatrends will fuel wafer demand significantly.</title>
+      <link>https://x.com/ClearEdgeTrades/status/2057894981168160944</link>
+      <description>AI and automotive megatrends will fuel wafer demand significantly.</description>
+      <guid isPermaLink="false">https://x.com/ClearEdgeTrades/status/2057894981168160944</guid>
+      <pubDate>Fri, 22 May 2026 18:42:52 +0000</pubDate>
     </item>
   </channel>
 </rss>
