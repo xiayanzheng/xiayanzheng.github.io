@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 23 May 2026 07:02:11 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 23 May 2026 12:28:15 +0000</lastBuildDate>
     <item>
       <title>[@AnthropicAI] High-quality documents reduce agentic misalignment</title>
       <link>https://x.com/AnthropicAI/status/2052808801040859392</link>
@@ -918,13 +918,6 @@ So, why has Congress done nothing to address their concerns? Follow the money.</
       <pubDate>Thu, 14 May 2026 19:03:06 +0000</pubDate>
     </item>
     <item>
-      <title>[OpenAI]You've been asking for this one... Now in preview: Codex in the ChatGPT mobile app. Start new work, review outputs, steer execution, and approve next steps, all from the ChatGPT mobile app. Codex will keep running on your laptop, Mac mini, or devbox.</title>
-      <link>https://x.com/OpenAI/status/2055016850849993072</link>
-      <description>You've been asking for this one... Now in preview: Codex in the ChatGPT mobile app. Start new work, review outputs, steer execution, and approve next steps, all from the ChatGPT mobile app. Codex will keep running on your laptop, Mac mini, or devbox.</description>
-      <guid isPermaLink="false">https://x.com/OpenAI/status/2055016850849993072</guid>
-      <pubDate>Thu, 14 May 2026 20:06:12 +0000</pubDate>
-    </item>
-    <item>
       <title>[OpenAI]Rolling out today as a preview on iOS and Android in all supported regions.
 
 Support for connecting your phone to the Codex app on Windows is coming soon.
@@ -937,6 +930,13 @@ Support for connecting your phone to the Codex app on Windows is coming soon.
 
 https://openai.com/index/work-with-codex-from-anywhere/</description>
       <guid isPermaLink="false">https://x.com/OpenAI/status/2055016852133417389</guid>
+      <pubDate>Thu, 14 May 2026 20:06:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>[OpenAI]You've been asking for this one... Now in preview: Codex in the ChatGPT mobile app. Start new work, review outputs, steer execution, and approve next steps, all from the ChatGPT mobile app. Codex will keep running on your laptop, Mac mini, or devbox.</title>
+      <link>https://x.com/OpenAI/status/2055016850849993072</link>
+      <description>You've been asking for this one... Now in preview: Codex in the ChatGPT mobile app. Start new work, review outputs, steer execution, and approve next steps, all from the ChatGPT mobile app. Codex will keep running on your laptop, Mac mini, or devbox.</description>
+      <guid isPermaLink="false">https://x.com/OpenAI/status/2055016850849993072</guid>
       <pubDate>Thu, 14 May 2026 20:06:12 +0000</pubDate>
     </item>
     <item>
@@ -1732,9 +1732,9 @@ He became the YOUNGEST player in NBA history with 40+ points and 20+ rebounds in
       <pubDate>Tue, 19 May 2026 14:14:45 +0000</pubDate>
     </item>
     <item>
-      <title>[karpathy]Personal update: I've joined Anthropic. I think the next few years at the frontier of LLMs will be especially formative. I am very excited to join the team here and get back to R&amp;D.</title>
+      <title>[karpathy]Personal update: I've joined Anthropic. I think the next few years at the frontier of LLMs will be especially formative.</title>
       <link>https://x.com/karpathy/status/2056753169888334312</link>
-      <description>Personal update: I've joined Anthropic. I think the next few years at the frontier of LLMs will be especially formative. I am very excited to join the team here and get back to R&amp;D.</description>
+      <description>Personal update: I've joined Anthropic. I think the next few years at the frontier of LLMs will be especially formative.</description>
       <guid isPermaLink="false">https://x.com/karpathy/status/2056753169888334312</guid>
       <pubDate>Tue, 19 May 2026 15:05:42 +0000</pubDate>
     </item>
@@ -1970,17 +1970,17 @@ He became the YOUNGEST player in NBA history with 40+ points and 20+ rebounds in
       <pubDate>Wed, 20 May 2026 18:48:48 +0000</pubDate>
     </item>
     <item>
-      <title>[OpenAI]Today, we share a breakthrough on the planar unit distance problem, a famous open question first posed by Paul Erdős in 1946. For nearly 80 years, mathematicians believed the best possible solutions looked roughly like square grids. An OpenAI model has now disproved that belief, discovering an entirely new family of constructions that performs better. This marks the first time AI has autonomously solved a prominent open problem central to a field of mathematics.</title>
-      <link>https://x.com/OpenAI/status/2057176201782075690</link>
-      <description>Today, we share a breakthrough on the planar unit distance problem, a famous open question first posed by Paul Erdős in 1946. For nearly 80 years, mathematicians believed the best possible solutions looked roughly like square grids. An OpenAI model has now disproved that belief, discovering an entirely new family of constructions that performs better. This marks the first time AI has autonomously solved a prominent open problem central to a field of mathematics.</description>
-      <guid isPermaLink="false">https://x.com/OpenAI/status/2057176201782075690</guid>
-      <pubDate>Wed, 20 May 2026 19:06:41 +0000</pubDate>
-    </item>
-    <item>
       <title>[OpenAI]The proof came from a general-purpose reasoning model, not a system built specifically to solve math problems or this problem in particular, and represents an important milestone for the math and AI communities. https://openai.com/index/model-disproves-discrete-geometry-conjecture/</title>
       <link>https://x.com/OpenAI/status/2057176203166171317</link>
       <description>The proof came from a general-purpose reasoning model, not a system built specifically to solve math problems or this problem in particular, and represents an important milestone for the math and AI communities. https://openai.com/index/model-disproves-discrete-geometry-conjecture/</description>
       <guid isPermaLink="false">https://x.com/OpenAI/status/2057176203166171317</guid>
+      <pubDate>Wed, 20 May 2026 19:06:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>[OpenAI]Today, we share a breakthrough on the planar unit distance problem, a famous open question first posed by Paul Erdős in 1946. For nearly 80 years, mathematicians believed the best possible solutions looked roughly like square grids. An OpenAI model has now disproved that belief, discovering an entirely new family of constructions that performs better. This marks the first time AI has autonomously solved a prominent open problem central to a field of mathematics.</title>
+      <link>https://x.com/OpenAI/status/2057176201782075690</link>
+      <description>Today, we share a breakthrough on the planar unit distance problem, a famous open question first posed by Paul Erdős in 1946. For nearly 80 years, mathematicians believed the best possible solutions looked roughly like square grids. An OpenAI model has now disproved that belief, discovering an entirely new family of constructions that performs better. This marks the first time AI has autonomously solved a prominent open problem central to a field of mathematics.</description>
+      <guid isPermaLink="false">https://x.com/OpenAI/status/2057176201782075690</guid>
       <pubDate>Wed, 20 May 2026 19:06:41 +0000</pubDate>
     </item>
     <item>
@@ -2159,6 +2159,13 @@ He became the YOUNGEST player in NBA history with 40+ points and 20+ rebounds in
       <pubDate>Fri, 22 May 2026 00:21:37 +0000</pubDate>
     </item>
     <item>
+      <title>[OpenAI]We’re taking suggestions on what you want to see next week ✍️</title>
+      <link>https://x.com/OpenAI/status/2057617863977165173</link>
+      <description>We’re taking suggestions on what you want to see next week ✍️</description>
+      <guid isPermaLink="false">https://x.com/OpenAI/status/2057617863977165173</guid>
+      <pubDate>Fri, 22 May 2026 00:21:42 +0000</pubDate>
+    </item>
+    <item>
       <title>[Polymarket]NEW: Former Trump National Security Advisor John Bolton calls Iran talks a “waste of oxygen”</title>
       <link>https://x.com/Polymarket/status/2057618946472190326</link>
       <description>NEW: Former Trump National Security Advisor John Bolton calls Iran talks a “waste of oxygen”</description>
@@ -2229,6 +2236,13 @@ He became the YOUNGEST player in NBA history with 40+ points and 20+ rebounds in
       <pubDate>Fri, 22 May 2026 07:22:12 +0000</pubDate>
     </item>
     <item>
+      <title>[elonmusk]Grok progress</title>
+      <link>https://x.com/elonmusk/status/2057726307346039282</link>
+      <description>Grok progress</description>
+      <guid isPermaLink="false">https://x.com/elonmusk/status/2057726307346039282</guid>
+      <pubDate>Fri, 22 May 2026 07:32:37 +0000</pubDate>
+    </item>
+    <item>
       <title>[justinsuntron]You can now check $TRX price on X!</title>
       <link>https://x.com/justinsuntron/status/2057754802214637942</link>
       <description>You can now check $TRX price on X!</description>
@@ -2264,17 +2278,17 @@ He became the YOUNGEST player in NBA history with 40+ points and 20+ rebounds in
       <pubDate>Fri, 22 May 2026 12:53:57 +0000</pubDate>
     </item>
     <item>
-      <title>[HugoBlotFR]Price/performance is going to matter a lot for daily AI workflows. The winning model isn’t always the smartest one. It’s the one people can use often enough to actually change how they execute</title>
-      <link>https://x.com/HugoBlotFR/status/2057808206118653980</link>
-      <description>Price/performance is going to matter a lot for daily AI workflows. The winning model isn’t always the smartest one. It’s the one people can use often enough to actually change how they execute</description>
-      <guid isPermaLink="false">https://x.com/HugoBlotFR/status/2057808206118653980</guid>
-      <pubDate>Fri, 22 May 2026 12:58:03 +0000</pubDate>
-    </item>
-    <item>
       <title>[gideonfip]If you want to become AI-native, start by removing one painful, soul-sucking bottleneck by outsourcing that task to AI.</title>
       <link>https://x.com/gideonfip/status/2057808205582049764</link>
       <description>If you want to become AI-native, start by removing one painful, soul-sucking bottleneck by outsourcing that task to AI.</description>
       <guid isPermaLink="false">https://x.com/gideonfip/status/2057808205582049764</guid>
+      <pubDate>Fri, 22 May 2026 12:58:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>[HugoBlotFR]Price/performance is going to matter a lot for daily AI workflows. The winning model isn’t always the smartest one. It’s the one people can use often enough to actually change how they execute</title>
+      <link>https://x.com/HugoBlotFR/status/2057808206118653980</link>
+      <description>Price/performance is going to matter a lot for daily AI workflows. The winning model isn’t always the smartest one. It’s the one people can use often enough to actually change how they execute</description>
+      <guid isPermaLink="false">https://x.com/HugoBlotFR/status/2057808206118653980</guid>
       <pubDate>Fri, 22 May 2026 12:58:03 +0000</pubDate>
     </item>
     <item>
@@ -2355,6 +2369,13 @@ He became the YOUNGEST player in NBA history with 40+ points and 20+ rebounds in
       <pubDate>Fri, 22 May 2026 19:38:59 +0000</pubDate>
     </item>
     <item>
+      <title>[nicksortor]Trump is in NY SLAMMING Mamdani and Hochul for chasing TAXPAYERS OUT while pandering to illegals</title>
+      <link>https://x.com/nicksortor/status/2057913677840613601</link>
+      <description>Trump is in NY SLAMMING Mamdani and Hochul for chasing TAXPAYERS OUT while pandering to illegals</description>
+      <guid isPermaLink="false">https://x.com/nicksortor/status/2057913677840613601</guid>
+      <pubDate>Fri, 22 May 2026 19:57:09 +0000</pubDate>
+    </item>
+    <item>
       <title>[Polymarket]NEW: Starship V3 successfully completes controlled splashdown in the Indian Ocean.</title>
       <link>https://x.com/Polymarket/status/2057980529165652096</link>
       <description>NEW: Starship V3 successfully completes controlled splashdown in the Indian Ocean.</description>
@@ -2374,6 +2395,13 @@ He became the YOUNGEST player in NBA history with 40+ points and 20+ rebounds in
       <description>An electrifying speech on American jobs, the economy, border security, and more in President Donald J. Trump's home state of New York. 🔥🇺🇸</description>
       <guid isPermaLink="false">https://x.com/WhiteHouse/status/2057986829761077310</guid>
       <pubDate>Sat, 23 May 2026 00:47:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>[WhiteHouse]🇺🇸</title>
+      <link>https://x.com/WhiteHouse/status/2057986846915748115</link>
+      <description>🇺🇸</description>
+      <guid isPermaLink="false">https://x.com/WhiteHouse/status/2057986846915748115</guid>
+      <pubDate>Sat, 23 May 2026 00:47:54 +0000</pubDate>
     </item>
     <item>
       <title>[techday_au]OpenAI has widened its ChatGPT ads pilot with a new beta self-serve portal. Businesses can access more advertising tools and track campaign performance without viewing user chats. #OpenAI #ChatGPT #Advertising #AI</title>
@@ -2402,6 +2430,20 @@ He became the YOUNGEST player in NBA history with 40+ points and 20+ rebounds in
       <description>Breathtakingly Beautiful</description>
       <guid isPermaLink="false">https://x.com/elonmusk/status/2058039896279745004</guid>
       <pubDate>Sat, 23 May 2026 04:18:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>[CryptoNobler]🚨 BREAKING 🇺🇸 TRUMP TO MAKE AN EMERGENCY ANNOUNCEMENT TODAY AT 4:30 PM ET.</title>
+      <link>https://x.com/CryptoNobler/status/2058067496398143901</link>
+      <description>🚨 BREAKING 🇺🇸 TRUMP TO MAKE AN EMERGENCY ANNOUNCEMENT TODAY AT 4:30 PM ET.</description>
+      <guid isPermaLink="false">https://x.com/CryptoNobler/status/2058067496398143901</guid>
+      <pubDate>Sat, 23 May 2026 06:08:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Polymarket]🚨 NEW POLYMARKET: Who will Trump announce as next Director of National Intelligence?</title>
+      <link>https://x.com/Polymarket/status/2058159005285892277</link>
+      <description>🚨 NEW POLYMARKET: Who will Trump announce as next Director of National Intelligence?</description>
+      <guid isPermaLink="false">https://x.com/Polymarket/status/2058159005285892277</guid>
+      <pubDate>Sat, 23 May 2026 12:12:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
