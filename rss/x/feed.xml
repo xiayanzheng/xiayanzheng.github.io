@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 23 May 2026 12:28:15 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 23 May 2026 18:26:53 +0000</lastBuildDate>
     <item>
       <title>[@AnthropicAI] High-quality documents reduce agentic misalignment</title>
       <link>https://x.com/AnthropicAI/status/2052808801040859392</link>
@@ -918,6 +918,13 @@ So, why has Congress done nothing to address their concerns? Follow the money.</
       <pubDate>Thu, 14 May 2026 19:03:06 +0000</pubDate>
     </item>
     <item>
+      <title>[OpenAI]You've been asking for this one... Now in preview: Codex in the ChatGPT mobile app. Start new work, review outputs, steer execution, and approve next steps, all from the ChatGPT mobile app. Codex will keep running on your laptop, Mac mini, or devbox.</title>
+      <link>https://x.com/OpenAI/status/2055016850849993072</link>
+      <description>You've been asking for this one... Now in preview: Codex in the ChatGPT mobile app. Start new work, review outputs, steer execution, and approve next steps, all from the ChatGPT mobile app. Codex will keep running on your laptop, Mac mini, or devbox.</description>
+      <guid isPermaLink="false">https://x.com/OpenAI/status/2055016850849993072</guid>
+      <pubDate>Thu, 14 May 2026 20:06:12 +0000</pubDate>
+    </item>
+    <item>
       <title>[OpenAI]Rolling out today as a preview on iOS and Android in all supported regions.
 
 Support for connecting your phone to the Codex app on Windows is coming soon.
@@ -930,13 +937,6 @@ Support for connecting your phone to the Codex app on Windows is coming soon.
 
 https://openai.com/index/work-with-codex-from-anywhere/</description>
       <guid isPermaLink="false">https://x.com/OpenAI/status/2055016852133417389</guid>
-      <pubDate>Thu, 14 May 2026 20:06:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>[OpenAI]You've been asking for this one... Now in preview: Codex in the ChatGPT mobile app. Start new work, review outputs, steer execution, and approve next steps, all from the ChatGPT mobile app. Codex will keep running on your laptop, Mac mini, or devbox.</title>
-      <link>https://x.com/OpenAI/status/2055016850849993072</link>
-      <description>You've been asking for this one... Now in preview: Codex in the ChatGPT mobile app. Start new work, review outputs, steer execution, and approve next steps, all from the ChatGPT mobile app. Codex will keep running on your laptop, Mac mini, or devbox.</description>
-      <guid isPermaLink="false">https://x.com/OpenAI/status/2055016850849993072</guid>
       <pubDate>Thu, 14 May 2026 20:06:12 +0000</pubDate>
     </item>
     <item>
@@ -1970,17 +1970,17 @@ He became the YOUNGEST player in NBA history with 40+ points and 20+ rebounds in
       <pubDate>Wed, 20 May 2026 18:48:48 +0000</pubDate>
     </item>
     <item>
-      <title>[OpenAI]The proof came from a general-purpose reasoning model, not a system built specifically to solve math problems or this problem in particular, and represents an important milestone for the math and AI communities. https://openai.com/index/model-disproves-discrete-geometry-conjecture/</title>
-      <link>https://x.com/OpenAI/status/2057176203166171317</link>
-      <description>The proof came from a general-purpose reasoning model, not a system built specifically to solve math problems or this problem in particular, and represents an important milestone for the math and AI communities. https://openai.com/index/model-disproves-discrete-geometry-conjecture/</description>
-      <guid isPermaLink="false">https://x.com/OpenAI/status/2057176203166171317</guid>
-      <pubDate>Wed, 20 May 2026 19:06:41 +0000</pubDate>
-    </item>
-    <item>
       <title>[OpenAI]Today, we share a breakthrough on the planar unit distance problem, a famous open question first posed by Paul Erdős in 1946. For nearly 80 years, mathematicians believed the best possible solutions looked roughly like square grids. An OpenAI model has now disproved that belief, discovering an entirely new family of constructions that performs better. This marks the first time AI has autonomously solved a prominent open problem central to a field of mathematics.</title>
       <link>https://x.com/OpenAI/status/2057176201782075690</link>
       <description>Today, we share a breakthrough on the planar unit distance problem, a famous open question first posed by Paul Erdős in 1946. For nearly 80 years, mathematicians believed the best possible solutions looked roughly like square grids. An OpenAI model has now disproved that belief, discovering an entirely new family of constructions that performs better. This marks the first time AI has autonomously solved a prominent open problem central to a field of mathematics.</description>
       <guid isPermaLink="false">https://x.com/OpenAI/status/2057176201782075690</guid>
+      <pubDate>Wed, 20 May 2026 19:06:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>[OpenAI]The proof came from a general-purpose reasoning model, not a system built specifically to solve math problems or this problem in particular, and represents an important milestone for the math and AI communities. https://openai.com/index/model-disproves-discrete-geometry-conjecture/</title>
+      <link>https://x.com/OpenAI/status/2057176203166171317</link>
+      <description>The proof came from a general-purpose reasoning model, not a system built specifically to solve math problems or this problem in particular, and represents an important milestone for the math and AI communities. https://openai.com/index/model-disproves-discrete-geometry-conjecture/</description>
+      <guid isPermaLink="false">https://x.com/OpenAI/status/2057176203166171317</guid>
       <pubDate>Wed, 20 May 2026 19:06:41 +0000</pubDate>
     </item>
     <item>
@@ -2278,17 +2278,17 @@ He became the YOUNGEST player in NBA history with 40+ points and 20+ rebounds in
       <pubDate>Fri, 22 May 2026 12:53:57 +0000</pubDate>
     </item>
     <item>
-      <title>[gideonfip]If you want to become AI-native, start by removing one painful, soul-sucking bottleneck by outsourcing that task to AI.</title>
-      <link>https://x.com/gideonfip/status/2057808205582049764</link>
-      <description>If you want to become AI-native, start by removing one painful, soul-sucking bottleneck by outsourcing that task to AI.</description>
-      <guid isPermaLink="false">https://x.com/gideonfip/status/2057808205582049764</guid>
-      <pubDate>Fri, 22 May 2026 12:58:03 +0000</pubDate>
-    </item>
-    <item>
       <title>[HugoBlotFR]Price/performance is going to matter a lot for daily AI workflows. The winning model isn’t always the smartest one. It’s the one people can use often enough to actually change how they execute</title>
       <link>https://x.com/HugoBlotFR/status/2057808206118653980</link>
       <description>Price/performance is going to matter a lot for daily AI workflows. The winning model isn’t always the smartest one. It’s the one people can use often enough to actually change how they execute</description>
       <guid isPermaLink="false">https://x.com/HugoBlotFR/status/2057808206118653980</guid>
+      <pubDate>Fri, 22 May 2026 12:58:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>[gideonfip]If you want to become AI-native, start by removing one painful, soul-sucking bottleneck by outsourcing that task to AI.</title>
+      <link>https://x.com/gideonfip/status/2057808205582049764</link>
+      <description>If you want to become AI-native, start by removing one painful, soul-sucking bottleneck by outsourcing that task to AI.</description>
+      <guid isPermaLink="false">https://x.com/gideonfip/status/2057808205582049764</guid>
       <pubDate>Fri, 22 May 2026 12:58:03 +0000</pubDate>
     </item>
     <item>
@@ -2444,6 +2444,55 @@ He became the YOUNGEST player in NBA history with 40+ points and 20+ rebounds in
       <description>🚨 NEW POLYMARKET: Who will Trump announce as next Director of National Intelligence?</description>
       <guid isPermaLink="false">https://x.com/Polymarket/status/2058159005285892277</guid>
       <pubDate>Sat, 23 May 2026 12:12:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[WhiteHouse]Kevin Warsh has been sworn in as the 17th Chairman of the Federal Reserve. 🇺🇸</title>
+      <link>https://x.com/WhiteHouse/status/2058216465359110473</link>
+      <description>Kevin Warsh has been sworn in as the 17th Chairman of the Federal Reserve. 🇺🇸</description>
+      <guid isPermaLink="false">https://x.com/WhiteHouse/status/2058216465359110473</guid>
+      <pubDate>Sat, 23 May 2026 16:00:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>[WatcherGuru]JUST IN: Trump administration and Anthropic finalizing deal to let US spy agencies use its AI tools.</title>
+      <link>https://x.com/WatcherGuru/status/2058219136874959285</link>
+      <description>JUST IN: Trump administration and Anthropic finalizing deal to let US spy agencies use its AI tools.</description>
+      <guid isPermaLink="false">https://x.com/WatcherGuru/status/2058219136874959285</guid>
+      <pubDate>Sat, 23 May 2026 16:10:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>[InTheAssembly]Jensen Huang, CEO of Nvidia, is telling you where to invest in 2026. He has personally directed Nvidia's capital into 8 specific companies for a combined total of over $45 BILLION.</title>
+      <link>https://x.com/InTheAssembly/status/2058221350968242598</link>
+      <description>Jensen Huang, CEO of Nvidia, is telling you where to invest in 2026. He has personally directed Nvidia's capital into 8 specific companies for a combined total of over $45 BILLION.</description>
+      <guid isPermaLink="false">https://x.com/InTheAssembly/status/2058221350968242598</guid>
+      <pubDate>Sat, 23 May 2026 16:19:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Polymarket]JUST IN: Turkish YouTuber sentenced to 45,376 years in prison for convincing over 100,000 people to invest in virtual cows.</title>
+      <link>https://x.com/Polymarket/status/2058237477626724657</link>
+      <description>JUST IN: Turkish YouTuber sentenced to 45,376 years in prison for convincing over 100,000 people to invest in virtual cows.</description>
+      <guid isPermaLink="false">https://x.com/Polymarket/status/2058237477626724657</guid>
+      <pubDate>Sat, 23 May 2026 17:23:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>[RealJamesWoods]The two disparate views of Seattle pictured below might as well be of every Democrat city in America.</title>
+      <link>https://x.com/RealJamesWoods/status/2058246686754111968</link>
+      <description>The two disparate views of Seattle pictured below might as well be of every Democrat city in America.</description>
+      <guid isPermaLink="false">https://x.com/RealJamesWoods/status/2058246686754111968</guid>
+      <pubDate>Sat, 23 May 2026 18:00:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>[nicksortor]🚨 BREAKING: Trump and Iran are reportedly VERY close to a deal ending the war, and are now working out “wording” on certain points.</title>
+      <link>https://x.com/nicksortor/status/2058251074142613529</link>
+      <description>🚨 BREAKING: Trump and Iran are reportedly VERY close to a deal ending the war, and are now working out “wording” on certain points.</description>
+      <guid isPermaLink="false">https://x.com/nicksortor/status/2058251074142613529</guid>
+      <pubDate>Sat, 23 May 2026 18:17:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>[elonmusk]Boring Company’s goal is to solve traffic in cities and one day build Hyperloop high-speed transit between city centers</title>
+      <link>https://x.com/elonmusk/status/2058252485823750516</link>
+      <description>Boring Company’s goal is to solve traffic in cities and one day build Hyperloop high-speed transit between city centers</description>
+      <guid isPermaLink="false">https://x.com/elonmusk/status/2058252485823750516</guid>
+      <pubDate>Sat, 23 May 2026 18:23:27 +0000</pubDate>
     </item>
   </channel>
 </rss>
