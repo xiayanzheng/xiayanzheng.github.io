@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 23 May 2026 00:54:49 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 23 May 2026 07:02:11 +0000</lastBuildDate>
     <item>
       <title>[@AnthropicAI] High-quality documents reduce agentic misalignment</title>
       <link>https://x.com/AnthropicAI/status/2052808801040859392</link>
@@ -918,6 +918,13 @@ So, why has Congress done nothing to address their concerns? Follow the money.</
       <pubDate>Thu, 14 May 2026 19:03:06 +0000</pubDate>
     </item>
     <item>
+      <title>[OpenAI]You've been asking for this one... Now in preview: Codex in the ChatGPT mobile app. Start new work, review outputs, steer execution, and approve next steps, all from the ChatGPT mobile app. Codex will keep running on your laptop, Mac mini, or devbox.</title>
+      <link>https://x.com/OpenAI/status/2055016850849993072</link>
+      <description>You've been asking for this one... Now in preview: Codex in the ChatGPT mobile app. Start new work, review outputs, steer execution, and approve next steps, all from the ChatGPT mobile app. Codex will keep running on your laptop, Mac mini, or devbox.</description>
+      <guid isPermaLink="false">https://x.com/OpenAI/status/2055016850849993072</guid>
+      <pubDate>Thu, 14 May 2026 20:06:12 +0000</pubDate>
+    </item>
+    <item>
       <title>[OpenAI]Rolling out today as a preview on iOS and Android in all supported regions.
 
 Support for connecting your phone to the Codex app on Windows is coming soon.
@@ -930,13 +937,6 @@ Support for connecting your phone to the Codex app on Windows is coming soon.
 
 https://openai.com/index/work-with-codex-from-anywhere/</description>
       <guid isPermaLink="false">https://x.com/OpenAI/status/2055016852133417389</guid>
-      <pubDate>Thu, 14 May 2026 20:06:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>[OpenAI]You've been asking for this one... Now in preview: Codex in the ChatGPT mobile app. Start new work, review outputs, steer execution, and approve next steps, all from the ChatGPT mobile app. Codex will keep running on your laptop, Mac mini, or devbox.</title>
-      <link>https://x.com/OpenAI/status/2055016850849993072</link>
-      <description>You've been asking for this one... Now in preview: Codex in the ChatGPT mobile app. Start new work, review outputs, steer execution, and approve next steps, all from the ChatGPT mobile app. Codex will keep running on your laptop, Mac mini, or devbox.</description>
-      <guid isPermaLink="false">https://x.com/OpenAI/status/2055016850849993072</guid>
       <pubDate>Thu, 14 May 2026 20:06:12 +0000</pubDate>
     </item>
     <item>
@@ -1970,17 +1970,17 @@ He became the YOUNGEST player in NBA history with 40+ points and 20+ rebounds in
       <pubDate>Wed, 20 May 2026 18:48:48 +0000</pubDate>
     </item>
     <item>
-      <title>[OpenAI]The proof came from a general-purpose reasoning model, not a system built specifically to solve math problems or this problem in particular, and represents an important milestone for the math and AI communities. https://openai.com/index/model-disproves-discrete-geometry-conjecture/</title>
-      <link>https://x.com/OpenAI/status/2057176203166171317</link>
-      <description>The proof came from a general-purpose reasoning model, not a system built specifically to solve math problems or this problem in particular, and represents an important milestone for the math and AI communities. https://openai.com/index/model-disproves-discrete-geometry-conjecture/</description>
-      <guid isPermaLink="false">https://x.com/OpenAI/status/2057176203166171317</guid>
-      <pubDate>Wed, 20 May 2026 19:06:41 +0000</pubDate>
-    </item>
-    <item>
       <title>[OpenAI]Today, we share a breakthrough on the planar unit distance problem, a famous open question first posed by Paul Erdős in 1946. For nearly 80 years, mathematicians believed the best possible solutions looked roughly like square grids. An OpenAI model has now disproved that belief, discovering an entirely new family of constructions that performs better. This marks the first time AI has autonomously solved a prominent open problem central to a field of mathematics.</title>
       <link>https://x.com/OpenAI/status/2057176201782075690</link>
       <description>Today, we share a breakthrough on the planar unit distance problem, a famous open question first posed by Paul Erdős in 1946. For nearly 80 years, mathematicians believed the best possible solutions looked roughly like square grids. An OpenAI model has now disproved that belief, discovering an entirely new family of constructions that performs better. This marks the first time AI has autonomously solved a prominent open problem central to a field of mathematics.</description>
       <guid isPermaLink="false">https://x.com/OpenAI/status/2057176201782075690</guid>
+      <pubDate>Wed, 20 May 2026 19:06:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>[OpenAI]The proof came from a general-purpose reasoning model, not a system built specifically to solve math problems or this problem in particular, and represents an important milestone for the math and AI communities. https://openai.com/index/model-disproves-discrete-geometry-conjecture/</title>
+      <link>https://x.com/OpenAI/status/2057176203166171317</link>
+      <description>The proof came from a general-purpose reasoning model, not a system built specifically to solve math problems or this problem in particular, and represents an important milestone for the math and AI communities. https://openai.com/index/model-disproves-discrete-geometry-conjecture/</description>
+      <guid isPermaLink="false">https://x.com/OpenAI/status/2057176203166171317</guid>
       <pubDate>Wed, 20 May 2026 19:06:41 +0000</pubDate>
     </item>
     <item>
@@ -2173,6 +2173,13 @@ He became the YOUNGEST player in NBA history with 40+ points and 20+ rebounds in
       <pubDate>Fri, 22 May 2026 00:29:30 +0000</pubDate>
     </item>
     <item>
+      <title>[AIStopWatch]In today's Digest: * OpenAI, Anthropic, SpaceX race to file IPO. * The AI executive order is postponed. * AI makes a breakthrough in mathematics.</title>
+      <link>https://x.com/AIStopWatch/status/2057624855089168866</link>
+      <description>In today's Digest: * OpenAI, Anthropic, SpaceX race to file IPO. * The AI executive order is postponed. * AI makes a breakthrough in mathematics.</description>
+      <guid isPermaLink="false">https://x.com/AIStopWatch/status/2057624855089168866</guid>
+      <pubDate>Fri, 22 May 2026 00:49:28 +0000</pubDate>
+    </item>
+    <item>
       <title>[elonmusk]Daily Grok Build bug fixes</title>
       <link>https://x.com/elonmusk/status/2057625354592792807</link>
       <description>Daily Grok Build bug fixes</description>
@@ -2257,6 +2264,13 @@ He became the YOUNGEST player in NBA history with 40+ points and 20+ rebounds in
       <pubDate>Fri, 22 May 2026 12:53:57 +0000</pubDate>
     </item>
     <item>
+      <title>[HugoBlotFR]Price/performance is going to matter a lot for daily AI workflows. The winning model isn’t always the smartest one. It’s the one people can use often enough to actually change how they execute</title>
+      <link>https://x.com/HugoBlotFR/status/2057808206118653980</link>
+      <description>Price/performance is going to matter a lot for daily AI workflows. The winning model isn’t always the smartest one. It’s the one people can use often enough to actually change how they execute</description>
+      <guid isPermaLink="false">https://x.com/HugoBlotFR/status/2057808206118653980</guid>
+      <pubDate>Fri, 22 May 2026 12:58:03 +0000</pubDate>
+    </item>
+    <item>
       <title>[gideonfip]If you want to become AI-native, start by removing one painful, soul-sucking bottleneck by outsourcing that task to AI.</title>
       <link>https://x.com/gideonfip/status/2057808205582049764</link>
       <description>If you want to become AI-native, start by removing one painful, soul-sucking bottleneck by outsourcing that task to AI.</description>
@@ -2264,11 +2278,11 @@ He became the YOUNGEST player in NBA history with 40+ points and 20+ rebounds in
       <pubDate>Fri, 22 May 2026 12:58:03 +0000</pubDate>
     </item>
     <item>
-      <title>[HugoBlotFR]Price/performance is going to matter a lot for daily AI workflows. The winning model isn’t always the smartest one. It’s the one people can use often enough to actually change how they execute</title>
-      <link>https://x.com/HugoBlotFR/status/2057808206118653980</link>
-      <description>Price/performance is going to matter a lot for daily AI workflows. The winning model isn’t always the smartest one. It’s the one people can use often enough to actually change how they execute</description>
-      <guid isPermaLink="false">https://x.com/HugoBlotFR/status/2057808206118653980</guid>
-      <pubDate>Fri, 22 May 2026 12:58:03 +0000</pubDate>
+      <title>[pmainardi]Artificial intelligence has transitioned from a data processor to an original scientific engine. • OpenAI models have autonomously solved a decade-old geometry conjecture.</title>
+      <link>https://x.com/pmainardi/status/2057825352156647884</link>
+      <description>Artificial intelligence has transitioned from a data processor to an original scientific engine. • OpenAI models have autonomously solved a decade-old geometry conjecture.</description>
+      <guid isPermaLink="false">https://x.com/pmainardi/status/2057825352156647884</guid>
+      <pubDate>Fri, 22 May 2026 14:06:11 +0000</pubDate>
     </item>
     <item>
       <title>[elonmusk]https://t.co/yjHT8jvxKJ</title>
@@ -2283,6 +2297,13 @@ He became the YOUNGEST player in NBA history with 40+ points and 20+ rebounds in
       <description>Try it out!</description>
       <guid isPermaLink="false">https://x.com/elonmusk/status/2057842724649209878</guid>
       <pubDate>Fri, 22 May 2026 15:15:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>[zapped_ai]AI Roundup🚨 - Anthropic stays at the center of the compute war. - OpenAI vs Apple escalates into legal pressure.</title>
+      <link>https://x.com/zapped_ai/status/2057868372340355486</link>
+      <description>AI Roundup🚨 - Anthropic stays at the center of the compute war. - OpenAI vs Apple escalates into legal pressure.</description>
+      <guid isPermaLink="false">https://x.com/zapped_ai/status/2057868372340355486</guid>
+      <pubDate>Fri, 22 May 2026 16:57:07 +0000</pubDate>
     </item>
     <item>
       <title>[WhiteHouse]Stop playing games and PASS THE SAVE AMERICA ACT!</title>
@@ -2360,6 +2381,27 @@ He became the YOUNGEST player in NBA history with 40+ points and 20+ rebounds in
       <description>OpenAI has widened its ChatGPT ads pilot with a new beta self-serve portal. Businesses can access more advertising tools and track campaign performance without viewing user chats. #OpenAI #ChatGPT #Advertising #AI</description>
       <guid isPermaLink="false">https://x.com/techday_au/status/2057988468232667485</guid>
       <pubDate>Sat, 23 May 2026 00:54:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>[justinsuntron]TRON’s growth keeps expanding across the ecosystem.</title>
+      <link>https://x.com/justinsuntron/status/2058019233720934826</link>
+      <description>TRON’s growth keeps expanding across the ecosystem.</description>
+      <guid isPermaLink="false">https://x.com/justinsuntron/status/2058019233720934826</guid>
+      <pubDate>Sat, 23 May 2026 02:56:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Polymarket]JUST IN: U.S. Secretary of State Marco Rubio lands in India for four-day trip.</title>
+      <link>https://x.com/Polymarket/status/2058022925014356283</link>
+      <description>JUST IN: U.S. Secretary of State Marco Rubio lands in India for four-day trip.</description>
+      <guid isPermaLink="false">https://x.com/Polymarket/status/2058022925014356283</guid>
+      <pubDate>Sat, 23 May 2026 03:11:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>[elonmusk]Breathtakingly Beautiful</title>
+      <link>https://x.com/elonmusk/status/2058039896279745004</link>
+      <description>Breathtakingly Beautiful</description>
+      <guid isPermaLink="false">https://x.com/elonmusk/status/2058039896279745004</guid>
+      <pubDate>Sat, 23 May 2026 04:18:42 +0000</pubDate>
     </item>
   </channel>
 </rss>
