@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 24 May 2026 12:30:58 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 24 May 2026 18:28:09 +0000</lastBuildDate>
     <item>
       <title>[@AnthropicAI] High-quality documents reduce agentic misalignment</title>
       <link>https://x.com/AnthropicAI/status/2052808801040859392</link>
@@ -918,6 +918,13 @@ So, why has Congress done nothing to address their concerns? Follow the money.</
       <pubDate>Thu, 14 May 2026 19:03:06 +0000</pubDate>
     </item>
     <item>
+      <title>[OpenAI]You've been asking for this one... Now in preview: Codex in the ChatGPT mobile app. Start new work, review outputs, steer execution, and approve next steps, all from the ChatGPT mobile app. Codex will keep running on your laptop, Mac mini, or devbox.</title>
+      <link>https://x.com/OpenAI/status/2055016850849993072</link>
+      <description>You've been asking for this one... Now in preview: Codex in the ChatGPT mobile app. Start new work, review outputs, steer execution, and approve next steps, all from the ChatGPT mobile app. Codex will keep running on your laptop, Mac mini, or devbox.</description>
+      <guid isPermaLink="false">https://x.com/OpenAI/status/2055016850849993072</guid>
+      <pubDate>Thu, 14 May 2026 20:06:12 +0000</pubDate>
+    </item>
+    <item>
       <title>[OpenAI]Rolling out today as a preview on iOS and Android in all supported regions.
 
 Support for connecting your phone to the Codex app on Windows is coming soon.
@@ -930,13 +937,6 @@ Support for connecting your phone to the Codex app on Windows is coming soon.
 
 https://openai.com/index/work-with-codex-from-anywhere/</description>
       <guid isPermaLink="false">https://x.com/OpenAI/status/2055016852133417389</guid>
-      <pubDate>Thu, 14 May 2026 20:06:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>[OpenAI]You've been asking for this one... Now in preview: Codex in the ChatGPT mobile app. Start new work, review outputs, steer execution, and approve next steps, all from the ChatGPT mobile app. Codex will keep running on your laptop, Mac mini, or devbox.</title>
-      <link>https://x.com/OpenAI/status/2055016850849993072</link>
-      <description>You've been asking for this one... Now in preview: Codex in the ChatGPT mobile app. Start new work, review outputs, steer execution, and approve next steps, all from the ChatGPT mobile app. Codex will keep running on your laptop, Mac mini, or devbox.</description>
-      <guid isPermaLink="false">https://x.com/OpenAI/status/2055016850849993072</guid>
       <pubDate>Thu, 14 May 2026 20:06:12 +0000</pubDate>
     </item>
     <item>
@@ -1537,9 +1537,9 @@ TODAY: @VP is in Kansas City, Missouri spotlighting the American manufacturing c
       <pubDate>Mon, 18 May 2026 16:57:40 +0000</pubDate>
     </item>
     <item>
-      <title>[AnthropicAI]Anthropic is acquiring @stainlessapi, an SDK and MCP server platform that has powered every Anthropic SDK since the earliest days of our API. Read more: https://www.anthropic.com/news/anthropic-acquires-stainless</title>
+      <title>[AnthropicAI]Anthropic is acquiring @stainlessapi, an SDK and MCP server platform that has powered every Anthropic SDK since the earliest days of our API.</title>
       <link>https://x.com/AnthropicAI/status/2056419620643541012</link>
-      <description>Anthropic is acquiring @stainlessapi, an SDK and MCP server platform that has powered every Anthropic SDK since the earliest days of our API. Read more: https://www.anthropic.com/news/anthropic-acquires-stainless</description>
+      <description>Anthropic is acquiring @stainlessapi, an SDK and MCP server platform that has powered every Anthropic SDK since the earliest days of our API.</description>
       <guid isPermaLink="false">https://x.com/AnthropicAI/status/2056419620643541012</guid>
       <pubDate>Mon, 18 May 2026 17:00:18 +0000</pubDate>
     </item>
@@ -1970,17 +1970,17 @@ He became the YOUNGEST player in NBA history with 40+ points and 20+ rebounds in
       <pubDate>Wed, 20 May 2026 18:48:48 +0000</pubDate>
     </item>
     <item>
-      <title>[OpenAI]The proof came from a general-purpose reasoning model, not a system built specifically to solve math problems or this problem in particular, and represents an important milestone for the math and AI communities. https://openai.com/index/model-disproves-discrete-geometry-conjecture/</title>
-      <link>https://x.com/OpenAI/status/2057176203166171317</link>
-      <description>The proof came from a general-purpose reasoning model, not a system built specifically to solve math problems or this problem in particular, and represents an important milestone for the math and AI communities. https://openai.com/index/model-disproves-discrete-geometry-conjecture/</description>
-      <guid isPermaLink="false">https://x.com/OpenAI/status/2057176203166171317</guid>
-      <pubDate>Wed, 20 May 2026 19:06:41 +0000</pubDate>
-    </item>
-    <item>
       <title>[OpenAI]Today, we share a breakthrough on the planar unit distance problem, a famous open question first posed by Paul Erdős in 1946. For nearly 80 years, mathematicians believed the best possible solutions looked roughly like square grids. An OpenAI model has now disproved that belief, discovering an entirely new family of constructions that performs better. This marks the first time AI has autonomously solved a prominent open problem central to a field of mathematics.</title>
       <link>https://x.com/OpenAI/status/2057176201782075690</link>
       <description>Today, we share a breakthrough on the planar unit distance problem, a famous open question first posed by Paul Erdős in 1946. For nearly 80 years, mathematicians believed the best possible solutions looked roughly like square grids. An OpenAI model has now disproved that belief, discovering an entirely new family of constructions that performs better. This marks the first time AI has autonomously solved a prominent open problem central to a field of mathematics.</description>
       <guid isPermaLink="false">https://x.com/OpenAI/status/2057176201782075690</guid>
+      <pubDate>Wed, 20 May 2026 19:06:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>[OpenAI]The proof came from a general-purpose reasoning model, not a system built specifically to solve math problems or this problem in particular, and represents an important milestone for the math and AI communities. https://openai.com/index/model-disproves-discrete-geometry-conjecture/</title>
+      <link>https://x.com/OpenAI/status/2057176203166171317</link>
+      <description>The proof came from a general-purpose reasoning model, not a system built specifically to solve math problems or this problem in particular, and represents an important milestone for the math and AI communities. https://openai.com/index/model-disproves-discrete-geometry-conjecture/</description>
+      <guid isPermaLink="false">https://x.com/OpenAI/status/2057176203166171317</guid>
       <pubDate>Wed, 20 May 2026 19:06:41 +0000</pubDate>
     </item>
     <item>
@@ -2278,17 +2278,17 @@ He became the YOUNGEST player in NBA history with 40+ points and 20+ rebounds in
       <pubDate>Fri, 22 May 2026 12:53:57 +0000</pubDate>
     </item>
     <item>
-      <title>[gideonfip]If you want to become AI-native, start by removing one painful, soul-sucking bottleneck by outsourcing that task to AI.</title>
-      <link>https://x.com/gideonfip/status/2057808205582049764</link>
-      <description>If you want to become AI-native, start by removing one painful, soul-sucking bottleneck by outsourcing that task to AI.</description>
-      <guid isPermaLink="false">https://x.com/gideonfip/status/2057808205582049764</guid>
-      <pubDate>Fri, 22 May 2026 12:58:03 +0000</pubDate>
-    </item>
-    <item>
       <title>[HugoBlotFR]Price/performance is going to matter a lot for daily AI workflows. The winning model isn’t always the smartest one. It’s the one people can use often enough to actually change how they execute</title>
       <link>https://x.com/HugoBlotFR/status/2057808206118653980</link>
       <description>Price/performance is going to matter a lot for daily AI workflows. The winning model isn’t always the smartest one. It’s the one people can use often enough to actually change how they execute</description>
       <guid isPermaLink="false">https://x.com/HugoBlotFR/status/2057808206118653980</guid>
+      <pubDate>Fri, 22 May 2026 12:58:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>[gideonfip]If you want to become AI-native, start by removing one painful, soul-sucking bottleneck by outsourcing that task to AI.</title>
+      <link>https://x.com/gideonfip/status/2057808205582049764</link>
+      <description>If you want to become AI-native, start by removing one painful, soul-sucking bottleneck by outsourcing that task to AI.</description>
+      <guid isPermaLink="false">https://x.com/gideonfip/status/2057808205582049764</guid>
       <pubDate>Fri, 22 May 2026 12:58:03 +0000</pubDate>
     </item>
     <item>
@@ -2495,6 +2495,13 @@ He became the YOUNGEST player in NBA history with 40+ points and 20+ rebounds in
       <pubDate>Sat, 23 May 2026 18:23:27 +0000</pubDate>
     </item>
     <item>
+      <title>[WhiteHouse]A FULL year of ZERO releases at the border. PROMISES MADE, PROMISES KEPT. ✅</title>
+      <link>https://x.com/WhiteHouse/status/2058277584337559574</link>
+      <description>A FULL year of ZERO releases at the border. PROMISES MADE, PROMISES KEPT. ✅</description>
+      <guid isPermaLink="false">https://x.com/WhiteHouse/status/2058277584337559574</guid>
+      <pubDate>Sat, 23 May 2026 20:03:11 +0000</pubDate>
+    </item>
+    <item>
       <title>[cjzafir]Do something different this weekend. Become a PRO in AI Model Fine-tuning. Paste this prompt in Codex/ChatGPT/Claude/Grok. [full teaching prompt]</title>
       <link>https://x.com/cjzafir/status/2058281787743445416</link>
       <description>Do something different this weekend. Become a PRO in AI Model Fine-tuning. Paste this prompt in Codex/ChatGPT/Claude/Grok. [full teaching prompt]</description>
@@ -2535,6 +2542,13 @@ He became the YOUNGEST player in NBA history with 40+ points and 20+ rebounds in
       <description>🌍 | Dai Dai (Official Video) FIFA World Cup by Shakira x Burna Boy debuts at #1 in Global Trending on YouTube. #1 in United States</description>
       <guid isPermaLink="false">https://x.com/SP_Fabiii/status/2058337555062378944</guid>
       <pubDate>Sun, 24 May 2026 00:01:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>[TheTuringPost]AI for science just had its ChatGPT moment • OpenAI tackled a famous math conjecture • DeepMind generated leukemia drug candidates • FutureHouse proposed a new blindness treatment</title>
+      <link>https://x.com/TheTuringPost/status/2058340530480640453</link>
+      <description>AI for science just had its ChatGPT moment • OpenAI tackled a famous math conjecture • DeepMind generated leukemia drug candidates • FutureHouse proposed a new blindness treatment</description>
+      <guid isPermaLink="false">https://x.com/TheTuringPost/status/2058340530480640453</guid>
+      <pubDate>Sun, 24 May 2026 00:13:19 +0000</pubDate>
     </item>
     <item>
       <title>[elonmusk]Real-time video of Starship from Starlink</title>
@@ -2619,6 +2633,41 @@ He became the YOUNGEST player in NBA history with 40+ points and 20+ rebounds in
       <description>Highest Rank... #เสน่หาวาโยตอนที่2 #1 - 🇸🇻 etc.</description>
       <guid isPermaLink="false">https://x.com/TrendForFB/status/2058521236528140401</guid>
       <pubDate>Sun, 24 May 2026 12:11:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>[karpathy]It’s refreshing to see a company of this size successfully call bs on the whole thing to this extent. One group of MTS on a mission, clean.</title>
+      <link>https://x.com/karpathy/status/2058576120870789173</link>
+      <description>It’s refreshing to see a company of this size successfully call bs on the whole thing to this extent. One group of MTS on a mission, clean.</description>
+      <guid isPermaLink="false">https://x.com/karpathy/status/2058576120870789173</guid>
+      <pubDate>Sun, 24 May 2026 15:49:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>[WhiteHouse]“The negotiations are proceeding in an orderly and constructive manner, and I have informed my representatives not to rush into a deal in that time is on our side… Both sides must take their time and get it right. There can be no mistakes!” - President Donald J. Trump 🇺🇸</title>
+      <link>https://x.com/WhiteHouse/status/2058585535036145738</link>
+      <description>“The negotiations are proceeding in an orderly and constructive manner, and I have informed my representatives not to rush into a deal in that time is on our side… Both sides must take their time and get it right. There can be no mistakes!” - President Donald J. Trump 🇺🇸</description>
+      <guid isPermaLink="false">https://x.com/WhiteHouse/status/2058585535036145738</guid>
+      <pubDate>Sun, 24 May 2026 16:26:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>[elonmusk]His execution should be immediate. No waiting for years.</title>
+      <link>https://x.com/elonmusk/status/2058609007430922586</link>
+      <description>His execution should be immediate. No waiting for years.</description>
+      <guid isPermaLink="false">https://x.com/elonmusk/status/2058609007430922586</guid>
+      <pubDate>Sun, 24 May 2026 18:00:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>[elonmusk]Restore Britain</title>
+      <link>https://x.com/elonmusk/status/2058610237603508522</link>
+      <description>Restore Britain</description>
+      <guid isPermaLink="false">https://x.com/elonmusk/status/2058610237603508522</guid>
+      <pubDate>Sun, 24 May 2026 18:05:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Polymarket]JUST IN: 2 million-barrel Iraqi oil supertanker bound for China passes through the Strait of Hormuz.</title>
+      <link>https://x.com/Polymarket/status/2058610969006207269</link>
+      <description>JUST IN: 2 million-barrel Iraqi oil supertanker bound for China passes through the Strait of Hormuz.</description>
+      <guid isPermaLink="false">https://x.com/Polymarket/status/2058610969006207269</guid>
+      <pubDate>Sun, 24 May 2026 18:07:56 +0000</pubDate>
     </item>
   </channel>
 </rss>
