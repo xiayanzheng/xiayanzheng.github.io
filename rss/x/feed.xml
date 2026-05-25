@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 25 May 2026 07:44:22 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 25 May 2026 13:17:45 +0000</lastBuildDate>
     <item>
       <title>[@AnthropicAI] High-quality documents reduce agentic misalignment</title>
       <link>https://x.com/AnthropicAI/status/2052808801040859392</link>
@@ -918,13 +918,6 @@ So, why has Congress done nothing to address their concerns? Follow the money.</
       <pubDate>Thu, 14 May 2026 19:03:06 +0000</pubDate>
     </item>
     <item>
-      <title>[OpenAI]You've been asking for this one... Now in preview: Codex in the ChatGPT mobile app. Start new work, review outputs, steer execution, and approve next steps, all from the ChatGPT mobile app. Codex will keep running on your laptop, Mac mini, or devbox.</title>
-      <link>https://x.com/OpenAI/status/2055016850849993072</link>
-      <description>You've been asking for this one... Now in preview: Codex in the ChatGPT mobile app. Start new work, review outputs, steer execution, and approve next steps, all from the ChatGPT mobile app. Codex will keep running on your laptop, Mac mini, or devbox.</description>
-      <guid isPermaLink="false">https://x.com/OpenAI/status/2055016850849993072</guid>
-      <pubDate>Thu, 14 May 2026 20:06:12 +0000</pubDate>
-    </item>
-    <item>
       <title>[OpenAI]Rolling out today as a preview on iOS and Android in all supported regions.
 
 Support for connecting your phone to the Codex app on Windows is coming soon.
@@ -937,6 +930,13 @@ Support for connecting your phone to the Codex app on Windows is coming soon.
 
 https://openai.com/index/work-with-codex-from-anywhere/</description>
       <guid isPermaLink="false">https://x.com/OpenAI/status/2055016852133417389</guid>
+      <pubDate>Thu, 14 May 2026 20:06:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>[OpenAI]You've been asking for this one... Now in preview: Codex in the ChatGPT mobile app. Start new work, review outputs, steer execution, and approve next steps, all from the ChatGPT mobile app. Codex will keep running on your laptop, Mac mini, or devbox.</title>
+      <link>https://x.com/OpenAI/status/2055016850849993072</link>
+      <description>You've been asking for this one... Now in preview: Codex in the ChatGPT mobile app. Start new work, review outputs, steer execution, and approve next steps, all from the ChatGPT mobile app. Codex will keep running on your laptop, Mac mini, or devbox.</description>
+      <guid isPermaLink="false">https://x.com/OpenAI/status/2055016850849993072</guid>
       <pubDate>Thu, 14 May 2026 20:06:12 +0000</pubDate>
     </item>
     <item>
@@ -1970,17 +1970,17 @@ He became the YOUNGEST player in NBA history with 40+ points and 20+ rebounds in
       <pubDate>Wed, 20 May 2026 18:48:48 +0000</pubDate>
     </item>
     <item>
-      <title>[OpenAI]Today, we share a breakthrough on the planar unit distance problem, a famous open question first posed by Paul Erdős in 1946. An OpenAI model has now disproved that belief.</title>
-      <link>https://x.com/OpenAI/status/2057176201782075690</link>
-      <description>Today, we share a breakthrough on the planar unit distance problem, a famous open question first posed by Paul Erdős in 1946. An OpenAI model has now disproved that belief.</description>
-      <guid isPermaLink="false">https://x.com/OpenAI/status/2057176201782075690</guid>
-      <pubDate>Wed, 20 May 2026 19:06:41 +0000</pubDate>
-    </item>
-    <item>
       <title>[OpenAI]The proof came from a general-purpose reasoning model, not a system built specifically to solve math problems or this problem in particular, and represents an important milestone for the math and AI communities. https://openai.com/index/model-disproves-discrete-geometry-conjecture/</title>
       <link>https://x.com/OpenAI/status/2057176203166171317</link>
       <description>The proof came from a general-purpose reasoning model, not a system built specifically to solve math problems or this problem in particular, and represents an important milestone for the math and AI communities. https://openai.com/index/model-disproves-discrete-geometry-conjecture/</description>
       <guid isPermaLink="false">https://x.com/OpenAI/status/2057176203166171317</guid>
+      <pubDate>Wed, 20 May 2026 19:06:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>[OpenAI]Today, we share a breakthrough on the planar unit distance problem, a famous open question first posed by Paul Erdős in 1946. An OpenAI model has now disproved that belief.</title>
+      <link>https://x.com/OpenAI/status/2057176201782075690</link>
+      <description>Today, we share a breakthrough on the planar unit distance problem, a famous open question first posed by Paul Erdős in 1946. An OpenAI model has now disproved that belief.</description>
+      <guid isPermaLink="false">https://x.com/OpenAI/status/2057176201782075690</guid>
       <pubDate>Wed, 20 May 2026 19:06:41 +0000</pubDate>
     </item>
     <item>
@@ -2278,17 +2278,17 @@ He became the YOUNGEST player in NBA history with 40+ points and 20+ rebounds in
       <pubDate>Fri, 22 May 2026 12:53:57 +0000</pubDate>
     </item>
     <item>
-      <title>[HugoBlotFR]Price/performance is going to matter a lot for daily AI workflows. The winning model isn’t always the smartest one. It’s the one people can use often enough to actually change how they execute</title>
-      <link>https://x.com/HugoBlotFR/status/2057808206118653980</link>
-      <description>Price/performance is going to matter a lot for daily AI workflows. The winning model isn’t always the smartest one. It’s the one people can use often enough to actually change how they execute</description>
-      <guid isPermaLink="false">https://x.com/HugoBlotFR/status/2057808206118653980</guid>
-      <pubDate>Fri, 22 May 2026 12:58:03 +0000</pubDate>
-    </item>
-    <item>
       <title>[gideonfip]If you want to become AI-native, start by removing one painful, soul-sucking bottleneck by outsourcing that task to AI.</title>
       <link>https://x.com/gideonfip/status/2057808205582049764</link>
       <description>If you want to become AI-native, start by removing one painful, soul-sucking bottleneck by outsourcing that task to AI.</description>
       <guid isPermaLink="false">https://x.com/gideonfip/status/2057808205582049764</guid>
+      <pubDate>Fri, 22 May 2026 12:58:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>[HugoBlotFR]Price/performance is going to matter a lot for daily AI workflows. The winning model isn’t always the smartest one. It’s the one people can use often enough to actually change how they execute</title>
+      <link>https://x.com/HugoBlotFR/status/2057808206118653980</link>
+      <description>Price/performance is going to matter a lot for daily AI workflows. The winning model isn’t always the smartest one. It’s the one people can use often enough to actually change how they execute</description>
+      <guid isPermaLink="false">https://x.com/HugoBlotFR/status/2057808206118653980</guid>
       <pubDate>Fri, 22 May 2026 12:58:03 +0000</pubDate>
     </item>
     <item>
@@ -2516,9 +2516,9 @@ He became the YOUNGEST player in NBA history with 40+ points and 20+ rebounds in
       <pubDate>Sat, 23 May 2026 20:19:53 +0000</pubDate>
     </item>
     <item>
-      <title>[WhiteHouse]🚨 "An Agreement has been largely negotiated, subject to finalization between the United States of America, the Islamic Republic of Iran, and the various other Countries, as listed..." - President Donald J. Trump</title>
+      <title>[WhiteHouse]“An Agreement has been largely negotiated, subject to finalization between the United States of America, the Islamic Republic of Iran, and the various other Countries, as listed...” - President Donald J. Trump</title>
       <link>https://x.com/WhiteHouse/status/2058287270373855556</link>
-      <description>🚨 "An Agreement has been largely negotiated, subject to finalization between the United States of America, the Islamic Republic of Iran, and the various other Countries, as listed..." - President Donald J. Trump</description>
+      <description>“An Agreement has been largely negotiated, subject to finalization between the United States of America, the Islamic Republic of Iran, and the various other Countries, as listed...” - President Donald J. Trump</description>
       <guid isPermaLink="false">https://x.com/WhiteHouse/status/2058287270373855556</guid>
       <pubDate>Sat, 23 May 2026 20:41:41 +0000</pubDate>
     </item>
@@ -2705,11 +2705,46 @@ He became the YOUNGEST player in NBA history with 40+ points and 20+ rebounds in
       <pubDate>Mon, 25 May 2026 00:58:38 +0000</pubDate>
     </item>
     <item>
+      <title>[elonmusk]Much better at coding</title>
+      <link>https://x.com/elonmusk/status/2058794505508110755</link>
+      <description>Much better at coding</description>
+      <guid isPermaLink="false">https://x.com/elonmusk/status/2058794505508110755</guid>
+      <pubDate>Mon, 25 May 2026 06:17:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>[elonmusk]We will open source the 0.5T model towards the end of this year. It should still be quite useful.</title>
+      <link>https://x.com/elonmusk/status/2058796067592736866</link>
+      <description>We will open source the 0.5T model towards the end of this year. It should still be quite useful.</description>
+      <guid isPermaLink="false">https://x.com/elonmusk/status/2058796067592736866</guid>
+      <pubDate>Mon, 25 May 2026 06:23:27 +0000</pubDate>
+    </item>
+    <item>
       <title>[Polymarket]JUST IN: Syria holds legislative elections in its Kurdish northeast for the first time since the region was brought back under government control.</title>
       <link>https://x.com/Polymarket/status/2058798720460988889</link>
       <description>JUST IN: Syria holds legislative elections in its Kurdish northeast for the first time since the region was brought back under government control.</description>
       <guid isPermaLink="false">https://x.com/Polymarket/status/2058798720460988889</guid>
       <pubDate>Mon, 25 May 2026 06:34:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[justinsuntron]美股期货火币正式上线！</title>
+      <link>https://x.com/justinsuntron/status/2058836871128699198</link>
+      <description>美股期货火币正式上线！</description>
+      <guid isPermaLink="false">https://x.com/justinsuntron/status/2058836871128699198</guid>
+      <pubDate>Mon, 25 May 2026 09:05:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>[rubenhassid]Forget 3-hour Claude tutorials on YouTube. This 7-day checklist fits on your phone (save this): [full checklist on using Claude effectively]</title>
+      <link>https://x.com/rubenhassid/status/2058865671103013221</link>
+      <description>Forget 3-hour Claude tutorials on YouTube. This 7-day checklist fits on your phone (save this): [full checklist on using Claude effectively]</description>
+      <guid isPermaLink="false">https://x.com/rubenhassid/status/2058865671103013221</guid>
+      <pubDate>Mon, 25 May 2026 11:00:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Polymarket]NEW: Trump asks Saudi Arabia, Qatar, Pakistan, Turkey, Egypt, Jordan, &amp; Bahrain to join the Abraham Accords.</title>
+      <link>https://x.com/Polymarket/status/2058892128307069421</link>
+      <description>NEW: Trump asks Saudi Arabia, Qatar, Pakistan, Turkey, Egypt, Jordan, &amp; Bahrain to join the Abraham Accords.</description>
+      <guid isPermaLink="false">https://x.com/Polymarket/status/2058892128307069421</guid>
+      <pubDate>Mon, 25 May 2026 12:45:10 +0000</pubDate>
     </item>
   </channel>
 </rss>
