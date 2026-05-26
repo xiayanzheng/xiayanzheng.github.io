@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 25 May 2026 18:41:01 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2026 00:55:51 +0000</lastBuildDate>
     <item>
       <title>[@AnthropicAI] High-quality documents reduce agentic misalignment</title>
       <link>https://x.com/AnthropicAI/status/2052808801040859392</link>
@@ -918,13 +918,6 @@ So, why has Congress done nothing to address their concerns? Follow the money.</
       <pubDate>Thu, 14 May 2026 19:03:06 +0000</pubDate>
     </item>
     <item>
-      <title>[OpenAI]You've been asking for this one... Now in preview: Codex in the ChatGPT mobile app. Start new work, review outputs, steer execution, and approve next steps, all from the ChatGPT mobile app. Codex will keep running on your laptop, Mac mini, or devbox.</title>
-      <link>https://x.com/OpenAI/status/2055016850849993072</link>
-      <description>You've been asking for this one... Now in preview: Codex in the ChatGPT mobile app. Start new work, review outputs, steer execution, and approve next steps, all from the ChatGPT mobile app. Codex will keep running on your laptop, Mac mini, or devbox.</description>
-      <guid isPermaLink="false">https://x.com/OpenAI/status/2055016850849993072</guid>
-      <pubDate>Thu, 14 May 2026 20:06:12 +0000</pubDate>
-    </item>
-    <item>
       <title>[OpenAI]Rolling out today as a preview on iOS and Android in all supported regions.
 
 Support for connecting your phone to the Codex app on Windows is coming soon.
@@ -937,6 +930,13 @@ Support for connecting your phone to the Codex app on Windows is coming soon.
 
 https://openai.com/index/work-with-codex-from-anywhere/</description>
       <guid isPermaLink="false">https://x.com/OpenAI/status/2055016852133417389</guid>
+      <pubDate>Thu, 14 May 2026 20:06:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>[OpenAI]You've been asking for this one... Now in preview: Codex in the ChatGPT mobile app. Start new work, review outputs, steer execution, and approve next steps, all from the ChatGPT mobile app. Codex will keep running on your laptop, Mac mini, or devbox.</title>
+      <link>https://x.com/OpenAI/status/2055016850849993072</link>
+      <description>You've been asking for this one... Now in preview: Codex in the ChatGPT mobile app. Start new work, review outputs, steer execution, and approve next steps, all from the ChatGPT mobile app. Codex will keep running on your laptop, Mac mini, or devbox.</description>
+      <guid isPermaLink="false">https://x.com/OpenAI/status/2055016850849993072</guid>
       <pubDate>Thu, 14 May 2026 20:06:12 +0000</pubDate>
     </item>
     <item>
@@ -1732,9 +1732,9 @@ He became the YOUNGEST player in NBA history with 40+ points and 20+ rebounds in
       <pubDate>Tue, 19 May 2026 14:14:45 +0000</pubDate>
     </item>
     <item>
-      <title>[karpathy]Personal update: I've joined Anthropic. I think the next few years at the frontier of LLMs will be especially formative.</title>
+      <title>[karpathy]Personal update: I've joined Anthropic. I think the next few years at the frontier of LLMs will be especially formative. I am very excited to join the team here and get back to R&amp;D.</title>
       <link>https://x.com/karpathy/status/2056753169888334312</link>
-      <description>Personal update: I've joined Anthropic. I think the next few years at the frontier of LLMs will be especially formative.</description>
+      <description>Personal update: I've joined Anthropic. I think the next few years at the frontier of LLMs will be especially formative. I am very excited to join the team here and get back to R&amp;D.</description>
       <guid isPermaLink="false">https://x.com/karpathy/status/2056753169888334312</guid>
       <pubDate>Tue, 19 May 2026 15:05:42 +0000</pubDate>
     </item>
@@ -1970,17 +1970,17 @@ He became the YOUNGEST player in NBA history with 40+ points and 20+ rebounds in
       <pubDate>Wed, 20 May 2026 18:48:48 +0000</pubDate>
     </item>
     <item>
-      <title>[OpenAI]Today, we share a breakthrough on the planar unit distance problem, a famous open question first posed by Paul Erdős in 1946. An OpenAI model has now disproved that belief.</title>
-      <link>https://x.com/OpenAI/status/2057176201782075690</link>
-      <description>Today, we share a breakthrough on the planar unit distance problem, a famous open question first posed by Paul Erdős in 1946. An OpenAI model has now disproved that belief.</description>
-      <guid isPermaLink="false">https://x.com/OpenAI/status/2057176201782075690</guid>
-      <pubDate>Wed, 20 May 2026 19:06:41 +0000</pubDate>
-    </item>
-    <item>
       <title>[OpenAI]The proof came from a general-purpose reasoning model, not a system built specifically to solve math problems or this problem in particular, and represents an important milestone for the math and AI communities. https://openai.com/index/model-disproves-discrete-geometry-conjecture/</title>
       <link>https://x.com/OpenAI/status/2057176203166171317</link>
       <description>The proof came from a general-purpose reasoning model, not a system built specifically to solve math problems or this problem in particular, and represents an important milestone for the math and AI communities. https://openai.com/index/model-disproves-discrete-geometry-conjecture/</description>
       <guid isPermaLink="false">https://x.com/OpenAI/status/2057176203166171317</guid>
+      <pubDate>Wed, 20 May 2026 19:06:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>[OpenAI]Today, we share a breakthrough on the planar unit distance problem, a famous open question first posed by Paul Erdős in 1946. An OpenAI model has now disproved that belief.</title>
+      <link>https://x.com/OpenAI/status/2057176201782075690</link>
+      <description>Today, we share a breakthrough on the planar unit distance problem, a famous open question first posed by Paul Erdős in 1946. An OpenAI model has now disproved that belief.</description>
+      <guid isPermaLink="false">https://x.com/OpenAI/status/2057176201782075690</guid>
       <pubDate>Wed, 20 May 2026 19:06:41 +0000</pubDate>
     </item>
     <item>
@@ -2278,17 +2278,17 @@ He became the YOUNGEST player in NBA history with 40+ points and 20+ rebounds in
       <pubDate>Fri, 22 May 2026 12:53:57 +0000</pubDate>
     </item>
     <item>
-      <title>[HugoBlotFR]Price/performance is going to matter a lot for daily AI workflows. The winning model isn’t always the smartest one. It’s the one people can use often enough to actually change how they execute</title>
-      <link>https://x.com/HugoBlotFR/status/2057808206118653980</link>
-      <description>Price/performance is going to matter a lot for daily AI workflows. The winning model isn’t always the smartest one. It’s the one people can use often enough to actually change how they execute</description>
-      <guid isPermaLink="false">https://x.com/HugoBlotFR/status/2057808206118653980</guid>
-      <pubDate>Fri, 22 May 2026 12:58:03 +0000</pubDate>
-    </item>
-    <item>
       <title>[gideonfip]If you want to become AI-native, start by removing one painful, soul-sucking bottleneck by outsourcing that task to AI.</title>
       <link>https://x.com/gideonfip/status/2057808205582049764</link>
       <description>If you want to become AI-native, start by removing one painful, soul-sucking bottleneck by outsourcing that task to AI.</description>
       <guid isPermaLink="false">https://x.com/gideonfip/status/2057808205582049764</guid>
+      <pubDate>Fri, 22 May 2026 12:58:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>[HugoBlotFR]Price/performance is going to matter a lot for daily AI workflows. The winning model isn’t always the smartest one. It’s the one people can use often enough to actually change how they execute</title>
+      <link>https://x.com/HugoBlotFR/status/2057808206118653980</link>
+      <description>Price/performance is going to matter a lot for daily AI workflows. The winning model isn’t always the smartest one. It’s the one people can use often enough to actually change how they execute</description>
+      <guid isPermaLink="false">https://x.com/HugoBlotFR/status/2057808206118653980</guid>
       <pubDate>Fri, 22 May 2026 12:58:03 +0000</pubDate>
     </item>
     <item>
@@ -2726,6 +2726,13 @@ He became the YOUNGEST player in NBA history with 40+ points and 20+ rebounds in
       <pubDate>Mon, 25 May 2026 06:34:00 +0000</pubDate>
     </item>
     <item>
+      <title>[gbiondizoccai]Artificial intelligence is poised to take on a more-active role in the laboratory: two new systems, described in Nature, use teams of AI agents to develop hypotheses, propose experiments and analyse data</title>
+      <link>https://x.com/gbiondizoccai/status/2058803135594848554</link>
+      <description>Artificial intelligence is poised to take on a more-active role in the laboratory: two new systems, described in Nature, use teams of AI agents to develop hypotheses, propose experiments and analyse data</description>
+      <guid isPermaLink="false">https://x.com/gbiondizoccai/status/2058803135594848554</guid>
+      <pubDate>Mon, 25 May 2026 06:51:32 +0000</pubDate>
+    </item>
+    <item>
       <title>[justinsuntron]USDD is on @pendle_fi !</title>
       <link>https://x.com/justinsuntron/status/2058825232803418258</link>
       <description>USDD is on @pendle_fi !</description>
@@ -2768,6 +2775,13 @@ He became the YOUNGEST player in NBA history with 40+ points and 20+ rebounds in
       <pubDate>Mon, 25 May 2026 14:08:50 +0000</pubDate>
     </item>
     <item>
+      <title>[zapped_ai]AI Roundup🚨 - Anthropic is locked in a massive $45B compute pact with SpaceX. - Google pushed Search deeper into AI agents.</title>
+      <link>https://x.com/zapped_ai/status/2058958141644066968</link>
+      <description>AI Roundup🚨 - Anthropic is locked in a massive $45B compute pact with SpaceX. - Google pushed Search deeper into AI agents.</description>
+      <guid isPermaLink="false">https://x.com/zapped_ai/status/2058958141644066968</guid>
+      <pubDate>Mon, 25 May 2026 17:07:29 +0000</pubDate>
+    </item>
+    <item>
       <title>[IMS]Fro, meet racing immortality 🤝 @frosenqvist | #Indy500</title>
       <link>https://x.com/IMS/status/2058963808735916325</link>
       <description>Fro, meet racing immortality 🤝 @frosenqvist | #Indy500</description>
@@ -2801,6 +2815,48 @@ He became the YOUNGEST player in NBA history with 40+ points and 20+ rebounds in
       <description>"They haven't lost in a month!" Led by Jalen Brunson the Knicks are ROLLING</description>
       <guid isPermaLink="false">https://x.com/NBA/status/2058975132710994070</guid>
       <pubDate>Mon, 25 May 2026 18:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[AnthropicAI]Anthropic co-founder Chris Olah was invited to speak at today's presentation of Pope Leo XIV's encyclical "Magnifica humanitas." Read the full text of his remarks: https://www.anthropic.com/news/chris-olah-pope-leo-encyclical</title>
+      <link>https://x.com/AnthropicAI/status/2058983299092009421</link>
+      <description>Anthropic co-founder Chris Olah was invited to speak at today's presentation of Pope Leo XIV's encyclical "Magnifica humanitas." Read the full text of his remarks: https://www.anthropic.com/news/chris-olah-pope-leo-encyclical</description>
+      <guid isPermaLink="false">https://x.com/AnthropicAI/status/2058983299092009421</guid>
+      <pubDate>Mon, 25 May 2026 18:47:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>[elonmusk]Grok Build is still in beta for another month or so, but is already quite useful for production tasks</title>
+      <link>https://x.com/elonmusk/status/2059016015644614797</link>
+      <description>Grok Build is still in beta for another month or so, but is already quite useful for production tasks</description>
+      <guid isPermaLink="false">https://x.com/elonmusk/status/2059016015644614797</guid>
+      <pubDate>Mon, 25 May 2026 20:57:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>[elonmusk]Starlink now in Kyrgyz Republic! 🇰🇬</title>
+      <link>https://x.com/elonmusk/status/2059023760510828816</link>
+      <description>Starlink now in Kyrgyz Republic! 🇰🇬</description>
+      <guid isPermaLink="false">https://x.com/elonmusk/status/2059023760510828816</guid>
+      <pubDate>Mon, 25 May 2026 21:28:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>[ZeekArkham]As a black man, George Floyd has never represented me, will never represent me, and does not represent me. I’m tired of white liberals, the NAACP, BLM, and leftists trying to say he does.</title>
+      <link>https://x.com/ZeekArkham/status/2059058533916647618</link>
+      <description>As a black man, George Floyd has never represented me, will never represent me, and does not represent me. I’m tired of white liberals, the NAACP, BLM, and leftists trying to say he does.</description>
+      <guid isPermaLink="false">https://x.com/ZeekArkham/status/2059058533916647618</guid>
+      <pubDate>Mon, 25 May 2026 23:46:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Tectone]People pretending that George Floyd and Charlie Kirk’s death were the same are full blown retarded</title>
+      <link>https://x.com/Tectone/status/2059060754561532224</link>
+      <description>People pretending that George Floyd and Charlie Kirk’s death were the same are full blown retarded</description>
+      <guid isPermaLink="false">https://x.com/Tectone/status/2059060754561532224</guid>
+      <pubDate>Mon, 25 May 2026 23:55:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Polymarket]NEW: Protesters march toward Bolivia’s presidential palace demanding President Rodrigo Paz resign.</title>
+      <link>https://x.com/Polymarket/status/2059072894160785630</link>
+      <description>NEW: Protesters march toward Bolivia’s presidential palace demanding President Rodrigo Paz resign.</description>
+      <guid isPermaLink="false">https://x.com/Polymarket/status/2059072894160785630</guid>
+      <pubDate>Tue, 26 May 2026 00:43:28 +0000</pubDate>
     </item>
   </channel>
 </rss>
