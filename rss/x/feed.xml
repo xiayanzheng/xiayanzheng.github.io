@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 28 May 2026 13:24:08 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 28 May 2026 18:59:17 +0000</lastBuildDate>
     <item>
       <title>[@AnthropicAI] High-quality documents reduce agentic misalignment</title>
       <link>https://x.com/AnthropicAI/status/2052808801040859392</link>
@@ -918,13 +918,6 @@ So, why has Congress done nothing to address their concerns? Follow the money.</
       <pubDate>Thu, 14 May 2026 19:03:06 +0000</pubDate>
     </item>
     <item>
-      <title>[OpenAI]You've been asking for this one... Now in preview: Codex in the ChatGPT mobile app. Start new work, review outputs, steer execution, and approve next steps, all from the ChatGPT mobile app. Codex will keep running on your laptop, Mac mini, or devbox.</title>
-      <link>https://x.com/OpenAI/status/2055016850849993072</link>
-      <description>You've been asking for this one... Now in preview: Codex in the ChatGPT mobile app. Start new work, review outputs, steer execution, and approve next steps, all from the ChatGPT mobile app. Codex will keep running on your laptop, Mac mini, or devbox.</description>
-      <guid isPermaLink="false">https://x.com/OpenAI/status/2055016850849993072</guid>
-      <pubDate>Thu, 14 May 2026 20:06:12 +0000</pubDate>
-    </item>
-    <item>
       <title>[OpenAI]Rolling out today as a preview on iOS and Android in all supported regions.
 
 Support for connecting your phone to the Codex app on Windows is coming soon.
@@ -937,6 +930,13 @@ Support for connecting your phone to the Codex app on Windows is coming soon.
 
 https://openai.com/index/work-with-codex-from-anywhere/</description>
       <guid isPermaLink="false">https://x.com/OpenAI/status/2055016852133417389</guid>
+      <pubDate>Thu, 14 May 2026 20:06:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>[OpenAI]You've been asking for this one... Now in preview: Codex in the ChatGPT mobile app. Start new work, review outputs, steer execution, and approve next steps, all from the ChatGPT mobile app. Codex will keep running on your laptop, Mac mini, or devbox.</title>
+      <link>https://x.com/OpenAI/status/2055016850849993072</link>
+      <description>You've been asking for this one... Now in preview: Codex in the ChatGPT mobile app. Start new work, review outputs, steer execution, and approve next steps, all from the ChatGPT mobile app. Codex will keep running on your laptop, Mac mini, or devbox.</description>
+      <guid isPermaLink="false">https://x.com/OpenAI/status/2055016850849993072</guid>
       <pubDate>Thu, 14 May 2026 20:06:12 +0000</pubDate>
     </item>
     <item>
@@ -1970,17 +1970,17 @@ He became the YOUNGEST player in NBA history with 40+ points and 20+ rebounds in
       <pubDate>Wed, 20 May 2026 18:48:48 +0000</pubDate>
     </item>
     <item>
-      <title>[OpenAI]Today, we share a breakthrough on the planar unit distance problem, a famous open question first posed by Paul Erdős in 1946. An OpenAI model has now disproved that belief.</title>
-      <link>https://x.com/OpenAI/status/2057176201782075690</link>
-      <description>Today, we share a breakthrough on the planar unit distance problem, a famous open question first posed by Paul Erdős in 1946. An OpenAI model has now disproved that belief.</description>
-      <guid isPermaLink="false">https://x.com/OpenAI/status/2057176201782075690</guid>
-      <pubDate>Wed, 20 May 2026 19:06:41 +0000</pubDate>
-    </item>
-    <item>
       <title>[OpenAI]The proof came from a general-purpose reasoning model, not a system built specifically to solve math problems or this problem in particular, and represents an important milestone for the math and AI communities. https://openai.com/index/model-disproves-discrete-geometry-conjecture/</title>
       <link>https://x.com/OpenAI/status/2057176203166171317</link>
       <description>The proof came from a general-purpose reasoning model, not a system built specifically to solve math problems or this problem in particular, and represents an important milestone for the math and AI communities. https://openai.com/index/model-disproves-discrete-geometry-conjecture/</description>
       <guid isPermaLink="false">https://x.com/OpenAI/status/2057176203166171317</guid>
+      <pubDate>Wed, 20 May 2026 19:06:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>[OpenAI]Today, we share a breakthrough on the planar unit distance problem, a famous open question first posed by Paul Erdős in 1946. An OpenAI model has now disproved that belief.</title>
+      <link>https://x.com/OpenAI/status/2057176201782075690</link>
+      <description>Today, we share a breakthrough on the planar unit distance problem, a famous open question first posed by Paul Erdős in 1946. An OpenAI model has now disproved that belief.</description>
+      <guid isPermaLink="false">https://x.com/OpenAI/status/2057176201782075690</guid>
       <pubDate>Wed, 20 May 2026 19:06:41 +0000</pubDate>
     </item>
     <item>
@@ -2278,17 +2278,17 @@ He became the YOUNGEST player in NBA history with 40+ points and 20+ rebounds in
       <pubDate>Fri, 22 May 2026 12:53:57 +0000</pubDate>
     </item>
     <item>
-      <title>[HugoBlotFR]Price/performance is going to matter a lot for daily AI workflows. The winning model isn’t always the smartest one. It’s the one people can use often enough to actually change how they execute</title>
-      <link>https://x.com/HugoBlotFR/status/2057808206118653980</link>
-      <description>Price/performance is going to matter a lot for daily AI workflows. The winning model isn’t always the smartest one. It’s the one people can use often enough to actually change how they execute</description>
-      <guid isPermaLink="false">https://x.com/HugoBlotFR/status/2057808206118653980</guid>
-      <pubDate>Fri, 22 May 2026 12:58:03 +0000</pubDate>
-    </item>
-    <item>
       <title>[gideonfip]If you want to become AI-native, start by removing one painful, soul-sucking bottleneck by outsourcing that task to AI.</title>
       <link>https://x.com/gideonfip/status/2057808205582049764</link>
       <description>If you want to become AI-native, start by removing one painful, soul-sucking bottleneck by outsourcing that task to AI.</description>
       <guid isPermaLink="false">https://x.com/gideonfip/status/2057808205582049764</guid>
+      <pubDate>Fri, 22 May 2026 12:58:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>[HugoBlotFR]Price/performance is going to matter a lot for daily AI workflows. The winning model isn’t always the smartest one. It’s the one people can use often enough to actually change how they execute</title>
+      <link>https://x.com/HugoBlotFR/status/2057808206118653980</link>
+      <description>Price/performance is going to matter a lot for daily AI workflows. The winning model isn’t always the smartest one. It’s the one people can use often enough to actually change how they execute</description>
+      <guid isPermaLink="false">https://x.com/HugoBlotFR/status/2057808206118653980</guid>
       <pubDate>Fri, 22 May 2026 12:58:03 +0000</pubDate>
     </item>
     <item>
@@ -3095,6 +3095,60 @@ The Indian Institute of Management Sambalpur is inviting applications for its 4-
       <description>Most SMB software was built to help teams stay organized. The next wave of software will help businesses operate autonomously. #AI</description>
       <guid isPermaLink="false">https://x.com/dreamcloserapp/status/2059989014938030216</guid>
       <pubDate>Thu, 28 May 2026 13:23:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>[elonmusk]Absolutely</title>
+      <link>https://x.com/elonmusk/status/2060051133427798087</link>
+      <description>Absolutely</description>
+      <guid isPermaLink="false">https://x.com/elonmusk/status/2060051133427798087</guid>
+      <pubDate>Thu, 28 May 2026 17:30:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>[elonmusk]It’s essential or we simply cannot be competitive</title>
+      <link>https://x.com/elonmusk/status/2060051546684174559</link>
+      <description>It’s essential or we simply cannot be competitive</description>
+      <guid isPermaLink="false">https://x.com/elonmusk/status/2060051546684174559</guid>
+      <pubDate>Thu, 28 May 2026 17:32:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>[elonmusk]It’s not that we’ve discovered some magic bullet, but rather that JAX, or at least the open source version of it, is mostly optimized for small to medium-sized training runs on Google TPUs, whereas we need the massive training runs on Nvidia GPUs. 
+
+Pipeline parallelism is essential and crushes fully-sharded data parallelism at scale.
+
+And C will compile to the most efficient binary short of assembly. Maybe we will do a little assembly too.</title>
+      <link>https://x.com/elonmusk/status/2060053334103617944</link>
+      <description>It’s not that we’ve discovered some magic bullet, but rather that JAX, or at least the open source version of it, is mostly optimized for small to medium-sized training runs on Google TPUs, whereas we need the massive training runs on Nvidia GPUs. 
+
+Pipeline parallelism is essential and crushes fully-sharded data parallelism at scale.
+
+And C will compile to the most efficient binary short of assembly. Maybe we will do a little assembly too.</description>
+      <guid isPermaLink="false">https://x.com/elonmusk/status/2060053334103617944</guid>
+      <pubDate>Thu, 28 May 2026 17:39:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>[AnthropicAI]We’ve raised $65 billion in Series H funding at a $965 billion post-money valuation, led by @AltimeterCap, Dragoneer, @Greenoaks, and @sequoia.
+
+This investment will help us advance our research and expand our capacity to meet growing demand for Claude.</title>
+      <link>https://x.com/AnthropicAI/status/2060061347522433422</link>
+      <description>We’ve raised $65 billion in Series H funding at a $965 billion post-money valuation, led by @AltimeterCap, Dragoneer, @Greenoaks, and @sequoia.
+
+This investment will help us advance our research and expand our capacity to meet growing demand for Claude.</description>
+      <guid isPermaLink="false">https://x.com/AnthropicAI/status/2060061347522433422</guid>
+      <pubDate>Thu, 28 May 2026 18:11:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Polymarket]NEW: Waymo announces its “Ojai” model will soon rollout in Los Angeles, Phoenix, &amp; San Francisco.</title>
+      <link>https://x.com/Polymarket/status/2060062338263183715</link>
+      <description>NEW: Waymo announces its “Ojai” model will soon rollout in Los Angeles, Phoenix, &amp; San Francisco.</description>
+      <guid isPermaLink="false">https://x.com/Polymarket/status/2060062338263183715</guid>
+      <pubDate>Thu, 28 May 2026 18:15:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Polymarket]JUST IN: Anthropic raises $65 billion at a $965 billion valuation, officially surpassing OpenAI.</title>
+      <link>https://x.com/Polymarket/status/2060066017913475136</link>
+      <description>JUST IN: Anthropic raises $65 billion at a $965 billion valuation, officially surpassing OpenAI.</description>
+      <guid isPermaLink="false">https://x.com/Polymarket/status/2060066017913475136</guid>
+      <pubDate>Thu, 28 May 2026 18:29:47 +0000</pubDate>
     </item>
   </channel>
 </rss>
