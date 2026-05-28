@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 28 May 2026 00:52:54 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 28 May 2026 07:30:07 +0000</lastBuildDate>
     <item>
       <title>[@AnthropicAI] High-quality documents reduce agentic misalignment</title>
       <link>https://x.com/AnthropicAI/status/2052808801040859392</link>
@@ -918,13 +918,6 @@ So, why has Congress done nothing to address their concerns? Follow the money.</
       <pubDate>Thu, 14 May 2026 19:03:06 +0000</pubDate>
     </item>
     <item>
-      <title>[OpenAI]You've been asking for this one... Now in preview: Codex in the ChatGPT mobile app. Start new work, review outputs, steer execution, and approve next steps, all from the ChatGPT mobile app. Codex will keep running on your laptop, Mac mini, or devbox.</title>
-      <link>https://x.com/OpenAI/status/2055016850849993072</link>
-      <description>You've been asking for this one... Now in preview: Codex in the ChatGPT mobile app. Start new work, review outputs, steer execution, and approve next steps, all from the ChatGPT mobile app. Codex will keep running on your laptop, Mac mini, or devbox.</description>
-      <guid isPermaLink="false">https://x.com/OpenAI/status/2055016850849993072</guid>
-      <pubDate>Thu, 14 May 2026 20:06:12 +0000</pubDate>
-    </item>
-    <item>
       <title>[OpenAI]Rolling out today as a preview on iOS and Android in all supported regions.
 
 Support for connecting your phone to the Codex app on Windows is coming soon.
@@ -937,6 +930,13 @@ Support for connecting your phone to the Codex app on Windows is coming soon.
 
 https://openai.com/index/work-with-codex-from-anywhere/</description>
       <guid isPermaLink="false">https://x.com/OpenAI/status/2055016852133417389</guid>
+      <pubDate>Thu, 14 May 2026 20:06:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>[OpenAI]You've been asking for this one... Now in preview: Codex in the ChatGPT mobile app. Start new work, review outputs, steer execution, and approve next steps, all from the ChatGPT mobile app. Codex will keep running on your laptop, Mac mini, or devbox.</title>
+      <link>https://x.com/OpenAI/status/2055016850849993072</link>
+      <description>You've been asking for this one... Now in preview: Codex in the ChatGPT mobile app. Start new work, review outputs, steer execution, and approve next steps, all from the ChatGPT mobile app. Codex will keep running on your laptop, Mac mini, or devbox.</description>
+      <guid isPermaLink="false">https://x.com/OpenAI/status/2055016850849993072</guid>
       <pubDate>Thu, 14 May 2026 20:06:12 +0000</pubDate>
     </item>
     <item>
@@ -1970,17 +1970,17 @@ He became the YOUNGEST player in NBA history with 40+ points and 20+ rebounds in
       <pubDate>Wed, 20 May 2026 18:48:48 +0000</pubDate>
     </item>
     <item>
-      <title>[OpenAI]Today, we share a breakthrough on the planar unit distance problem, a famous open question first posed by Paul Erdős in 1946. An OpenAI model has now disproved that belief.</title>
-      <link>https://x.com/OpenAI/status/2057176201782075690</link>
-      <description>Today, we share a breakthrough on the planar unit distance problem, a famous open question first posed by Paul Erdős in 1946. An OpenAI model has now disproved that belief.</description>
-      <guid isPermaLink="false">https://x.com/OpenAI/status/2057176201782075690</guid>
-      <pubDate>Wed, 20 May 2026 19:06:41 +0000</pubDate>
-    </item>
-    <item>
       <title>[OpenAI]The proof came from a general-purpose reasoning model, not a system built specifically to solve math problems or this problem in particular, and represents an important milestone for the math and AI communities. https://openai.com/index/model-disproves-discrete-geometry-conjecture/</title>
       <link>https://x.com/OpenAI/status/2057176203166171317</link>
       <description>The proof came from a general-purpose reasoning model, not a system built specifically to solve math problems or this problem in particular, and represents an important milestone for the math and AI communities. https://openai.com/index/model-disproves-discrete-geometry-conjecture/</description>
       <guid isPermaLink="false">https://x.com/OpenAI/status/2057176203166171317</guid>
+      <pubDate>Wed, 20 May 2026 19:06:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>[OpenAI]Today, we share a breakthrough on the planar unit distance problem, a famous open question first posed by Paul Erdős in 1946. An OpenAI model has now disproved that belief.</title>
+      <link>https://x.com/OpenAI/status/2057176201782075690</link>
+      <description>Today, we share a breakthrough on the planar unit distance problem, a famous open question first posed by Paul Erdős in 1946. An OpenAI model has now disproved that belief.</description>
+      <guid isPermaLink="false">https://x.com/OpenAI/status/2057176201782075690</guid>
       <pubDate>Wed, 20 May 2026 19:06:41 +0000</pubDate>
     </item>
     <item>
@@ -2278,17 +2278,17 @@ He became the YOUNGEST player in NBA history with 40+ points and 20+ rebounds in
       <pubDate>Fri, 22 May 2026 12:53:57 +0000</pubDate>
     </item>
     <item>
-      <title>[HugoBlotFR]Price/performance is going to matter a lot for daily AI workflows. The winning model isn’t always the smartest one. It’s the one people can use often enough to actually change how they execute</title>
-      <link>https://x.com/HugoBlotFR/status/2057808206118653980</link>
-      <description>Price/performance is going to matter a lot for daily AI workflows. The winning model isn’t always the smartest one. It’s the one people can use often enough to actually change how they execute</description>
-      <guid isPermaLink="false">https://x.com/HugoBlotFR/status/2057808206118653980</guid>
-      <pubDate>Fri, 22 May 2026 12:58:03 +0000</pubDate>
-    </item>
-    <item>
       <title>[gideonfip]If you want to become AI-native, start by removing one painful, soul-sucking bottleneck by outsourcing that task to AI.</title>
       <link>https://x.com/gideonfip/status/2057808205582049764</link>
       <description>If you want to become AI-native, start by removing one painful, soul-sucking bottleneck by outsourcing that task to AI.</description>
       <guid isPermaLink="false">https://x.com/gideonfip/status/2057808205582049764</guid>
+      <pubDate>Fri, 22 May 2026 12:58:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>[HugoBlotFR]Price/performance is going to matter a lot for daily AI workflows. The winning model isn’t always the smartest one. It’s the one people can use often enough to actually change how they execute</title>
+      <link>https://x.com/HugoBlotFR/status/2057808206118653980</link>
+      <description>Price/performance is going to matter a lot for daily AI workflows. The winning model isn’t always the smartest one. It’s the one people can use often enough to actually change how they execute</description>
+      <guid isPermaLink="false">https://x.com/HugoBlotFR/status/2057808206118653980</guid>
       <pubDate>Fri, 22 May 2026 12:58:03 +0000</pubDate>
     </item>
     <item>
@@ -2906,6 +2906,153 @@ He became the YOUNGEST player in NBA history with 40+ points and 20+ rebounds in
       <description>President Trump expresses tremendous gratitude to the outgoing Director of @ODNIgov, @TulsiGabbard. 🇺🇸</description>
       <guid isPermaLink="false">https://x.com/WhiteHouse/status/2059674475382051086</guid>
       <pubDate>Wed, 27 May 2026 16:33:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>[WhiteHouse]There's no place like the United States of America.</title>
+      <link>https://x.com/WhiteHouse/status/2059748527366980016</link>
+      <description>There's no place like the United States of America.</description>
+      <guid isPermaLink="false">https://x.com/WhiteHouse/status/2059748527366980016</guid>
+      <pubDate>Wed, 27 May 2026 21:28:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Polymarket]JUST IN: The Pentagon has reportedly assembled the troops &amp; weapons needed to “act immediately” against Cuba, awaiting Trump’s orders.</title>
+      <link>https://x.com/Polymarket/status/2059829987851526190</link>
+      <description>JUST IN: The Pentagon has reportedly assembled the troops &amp; weapons needed to “act immediately” against Cuba, awaiting Trump’s orders.</description>
+      <guid isPermaLink="false">https://x.com/Polymarket/status/2059829987851526190</guid>
+      <pubDate>Thu, 28 May 2026 02:51:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Polymarket]JUST IN: Australian woman charged with allegedly joining the Islamic State in Syria.</title>
+      <link>https://x.com/Polymarket/status/2059839766217085089</link>
+      <description>JUST IN: Australian woman charged with allegedly joining the Islamic State in Syria.</description>
+      <guid isPermaLink="false">https://x.com/Polymarket/status/2059839766217085089</guid>
+      <pubDate>Thu, 28 May 2026 03:30:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Polymarket]NEW: ICC sets November 30 as the ​start date for the trial of former Philippine ‌president Rodrigo Duterte.</title>
+      <link>https://x.com/Polymarket/status/2059848638793163124</link>
+      <description>NEW: ICC sets November 30 as the ​start date for the trial of former Philippine ‌president Rodrigo Duterte.</description>
+      <guid isPermaLink="false">https://x.com/Polymarket/status/2059848638793163124</guid>
+      <pubDate>Thu, 28 May 2026 04:06:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Polymarket]JUST IN: Ethereum crashes below $2,000.</title>
+      <link>https://x.com/Polymarket/status/2059851935977558423</link>
+      <description>JUST IN: Ethereum crashes below $2,000.</description>
+      <guid isPermaLink="false">https://x.com/Polymarket/status/2059851935977558423</guid>
+      <pubDate>Thu, 28 May 2026 04:19:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Polymarket]54% chance ETH crashes below $1,500 by the end of the year. https://polymarket.com/event/what-price-will-ethereum-hit-before-2027?via=x-afr2</title>
+      <link>https://x.com/Polymarket/status/2059852164369936647</link>
+      <description>54% chance ETH crashes below $1,500 by the end of the year. https://polymarket.com/event/what-price-will-ethereum-hit-before-2027?via=x-afr2</description>
+      <guid isPermaLink="false">https://x.com/Polymarket/status/2059852164369936647</guid>
+      <pubDate>Thu, 28 May 2026 04:20:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Polymarket]JUST IN: Australia is suing U.S. firm 3M for $2 billion, alleging its firefighting foam contaminated dozens of defense sites with “forever chemicals.”</title>
+      <link>https://x.com/Polymarket/status/2059853671522046040</link>
+      <description>JUST IN: Australia is suing U.S. firm 3M for $2 billion, alleging its firefighting foam contaminated dozens of defense sites with “forever chemicals.”</description>
+      <guid isPermaLink="false">https://x.com/Polymarket/status/2059853671522046040</guid>
+      <pubDate>Thu, 28 May 2026 04:26:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Polymarket]48% chance a diplomatic meeting is held by the end of next month. https://polymarket.com/event/us-x-cuba-diplomatic-meeting-by-763?via=x-afr2</title>
+      <link>https://x.com/Polymarket/status/2059855797635403846</link>
+      <description>48% chance a diplomatic meeting is held by the end of next month. https://polymarket.com/event/us-x-cuba-diplomatic-meeting-by-763?via=x-afr2</description>
+      <guid isPermaLink="false">https://x.com/Polymarket/status/2059855797635403846</guid>
+      <pubDate>Thu, 28 May 2026 04:34:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Polymarket]JUST IN: NIO CEO says China’s auto industry is past its “golden era”</title>
+      <link>https://x.com/Polymarket/status/2059870029559337430</link>
+      <description>JUST IN: NIO CEO says China’s auto industry is past its “golden era”</description>
+      <guid isPermaLink="false">https://x.com/Polymarket/status/2059870029559337430</guid>
+      <pubDate>Thu, 28 May 2026 05:31:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[elonmusk]Grok Build improvements</title>
+      <link>https://x.com/elonmusk/status/2059873440212124071</link>
+      <description>Grok Build improvements</description>
+      <guid isPermaLink="false">https://x.com/elonmusk/status/2059873440212124071</guid>
+      <pubDate>Thu, 28 May 2026 05:44:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>[elonmusk]SpaceX has not committed to leasing Colossus for years, although it’s possible that may be what happens.
+
+This is a 180 day lease with 90 day notice mutual cancellation thereafter. The short term was our request, not Anthropic’s. 
+
+We won’t leave them hanging and will provide a reasonable off-ramp, but if compute gets super tight I said we might need it back at some point.</title>
+      <link>https://x.com/elonmusk/status/2059880289514696927</link>
+      <description>SpaceX has not committed to leasing Colossus for years, although it’s possible that may be what happens.
+
+This is a 180 day lease with 90 day notice mutual cancellation thereafter. The short term was our request, not Anthropic’s. 
+
+We won’t leave them hanging and will provide a reasonable off-ramp, but if compute gets super tight I said we might need it back at some point.</description>
+      <guid isPermaLink="false">https://x.com/elonmusk/status/2059880289514696927</guid>
+      <pubDate>Thu, 28 May 2026 06:11:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>[elonmusk]SpaceX has almost finished writing V1.0 of an in-house AI training stack in C that exact-maps to 220k GB300s with 800G NICs, making heavy use of pipeline parallelism and getting as close to bare metal as possible.
+
+The potential speed improvement vs JAX for large training runs is over an order of magnitude.</title>
+      <link>https://x.com/elonmusk/status/2059884150187053488</link>
+      <description>SpaceX has almost finished writing V1.0 of an in-house AI training stack in C that exact-maps to 220k GB300s with 800G NICs, making heavy use of pipeline parallelism and getting as close to bare metal as possible.
+
+The potential speed improvement vs JAX for large training runs is over an order of magnitude.</description>
+      <guid isPermaLink="false">https://x.com/elonmusk/status/2059884150187053488</guid>
+      <pubDate>Thu, 28 May 2026 06:27:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>[elonmusk]Grok 1.5T is trending well</title>
+      <link>https://x.com/elonmusk/status/2059886998262047227</link>
+      <description>Grok 1.5T is trending well</description>
+      <guid isPermaLink="false">https://x.com/elonmusk/status/2059886998262047227</guid>
+      <pubDate>Thu, 28 May 2026 06:38:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Polymarket]NEW: Estonia intensifies battle drills and drone training as it braces for the risk of wider war with Russia.</title>
+      <link>https://x.com/Polymarket/status/2059888400363299192</link>
+      <description>NEW: Estonia intensifies battle drills and drone training as it braces for the risk of wider war with Russia.</description>
+      <guid isPermaLink="false">https://x.com/Polymarket/status/2059888400363299192</guid>
+      <pubDate>Thu, 28 May 2026 06:44:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Millionareum]The artificial intelligence application called mylabcorp has been launched. So what could happen? Do you think this AI is powerful enough to take over everything?
+
+Labcorp Launches MyLabcorp, an AI-Powered App for Understanding Lab Results
+
+Summary: Labcorp launched MyLabcorp, a HIPAA-compliant mobile app that uses OpenAI's reasoning models to help consumers understand their lab results through conversational AI, track health trends over time, and access clinically reviewed educational content across areas like cardiometabolic health and kidney function.
+
+A Labcorp survey found that 55% of consumers view AI as important for understanding healthcare information, and 41% already use it to interpret lab results. The app is available on iOS and Android, with additional features rolling out on an ongoing basis.</title>
+      <link>https://x.com/Millionareum/status/2059897963753730184</link>
+      <description>The artificial intelligence application called mylabcorp has been launched. So what could happen? Do you think this AI is powerful enough to take over everything?
+
+Labcorp Launches MyLabcorp, an AI-Powered App for Understanding Lab Results
+
+Summary: Labcorp launched MyLabcorp, a HIPAA-compliant mobile app that uses OpenAI's reasoning models to help consumers understand their lab results through conversational AI, track health trends over time, and access clinically reviewed educational content across areas like cardiometabolic health and kidney function.
+
+A Labcorp survey found that 55% of consumers view AI as important for understanding healthcare information, and 41% already use it to interpret lab results. The app is available on iOS and Android, with additional features rolling out on an ongoing basis.</description>
+      <guid isPermaLink="false">https://x.com/Millionareum/status/2059897963753730184</guid>
+      <pubDate>Thu, 28 May 2026 07:22:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[cnsquawk]Beijing is set to draft regulations for the artificial intelligence industry, with the first review of the draft ordinance planned for November.</title>
+      <link>https://x.com/cnsquawk/status/2059898127683817812</link>
+      <description>Beijing is set to draft regulations for the artificial intelligence industry, with the first review of the draft ordinance planned for November.</description>
+      <guid isPermaLink="false">https://x.com/cnsquawk/status/2059898127683817812</guid>
+      <pubDate>Thu, 28 May 2026 07:22:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>[iim_sambalpur]Applications Closing Soon 2026 | Bachelor of Science (B.S.) in Data Science &amp; Artificial Intelligence.
+
+The Indian Institute of Management Sambalpur is inviting applications for its 4-year fully residential undergraduate programme in Data Science &amp; Artificial Intelligence,</title>
+      <link>https://x.com/iim_sambalpur/status/2059899274868195718</link>
+      <description>Applications Closing Soon 2026 | Bachelor of Science (B.S.) in Data Science &amp; Artificial Intelligence.
+
+The Indian Institute of Management Sambalpur is inviting applications for its 4-year fully residential undergraduate programme in Data Science &amp; Artificial Intelligence,</description>
+      <guid isPermaLink="false">https://x.com/iim_sambalpur/status/2059899274868195718</guid>
+      <pubDate>Thu, 28 May 2026 07:27:12 +0000</pubDate>
     </item>
   </channel>
 </rss>
