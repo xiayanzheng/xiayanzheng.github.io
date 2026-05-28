@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 28 May 2026 07:30:07 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 28 May 2026 13:24:08 +0000</lastBuildDate>
     <item>
       <title>[@AnthropicAI] High-quality documents reduce agentic misalignment</title>
       <link>https://x.com/AnthropicAI/status/2052808801040859392</link>
@@ -918,6 +918,13 @@ So, why has Congress done nothing to address their concerns? Follow the money.</
       <pubDate>Thu, 14 May 2026 19:03:06 +0000</pubDate>
     </item>
     <item>
+      <title>[OpenAI]You've been asking for this one... Now in preview: Codex in the ChatGPT mobile app. Start new work, review outputs, steer execution, and approve next steps, all from the ChatGPT mobile app. Codex will keep running on your laptop, Mac mini, or devbox.</title>
+      <link>https://x.com/OpenAI/status/2055016850849993072</link>
+      <description>You've been asking for this one... Now in preview: Codex in the ChatGPT mobile app. Start new work, review outputs, steer execution, and approve next steps, all from the ChatGPT mobile app. Codex will keep running on your laptop, Mac mini, or devbox.</description>
+      <guid isPermaLink="false">https://x.com/OpenAI/status/2055016850849993072</guid>
+      <pubDate>Thu, 14 May 2026 20:06:12 +0000</pubDate>
+    </item>
+    <item>
       <title>[OpenAI]Rolling out today as a preview on iOS and Android in all supported regions.
 
 Support for connecting your phone to the Codex app on Windows is coming soon.
@@ -930,13 +937,6 @@ Support for connecting your phone to the Codex app on Windows is coming soon.
 
 https://openai.com/index/work-with-codex-from-anywhere/</description>
       <guid isPermaLink="false">https://x.com/OpenAI/status/2055016852133417389</guid>
-      <pubDate>Thu, 14 May 2026 20:06:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>[OpenAI]You've been asking for this one... Now in preview: Codex in the ChatGPT mobile app. Start new work, review outputs, steer execution, and approve next steps, all from the ChatGPT mobile app. Codex will keep running on your laptop, Mac mini, or devbox.</title>
-      <link>https://x.com/OpenAI/status/2055016850849993072</link>
-      <description>You've been asking for this one... Now in preview: Codex in the ChatGPT mobile app. Start new work, review outputs, steer execution, and approve next steps, all from the ChatGPT mobile app. Codex will keep running on your laptop, Mac mini, or devbox.</description>
-      <guid isPermaLink="false">https://x.com/OpenAI/status/2055016850849993072</guid>
       <pubDate>Thu, 14 May 2026 20:06:12 +0000</pubDate>
     </item>
     <item>
@@ -1732,9 +1732,9 @@ He became the YOUNGEST player in NBA history with 40+ points and 20+ rebounds in
       <pubDate>Tue, 19 May 2026 14:14:45 +0000</pubDate>
     </item>
     <item>
-      <title>[karpathy]Personal update: I've joined Anthropic. I think the next few years at the frontier of LLMs will be especially formative. I am very excited to join the team here and get back to R&amp;D.</title>
+      <title>[karpathy]Personal update: I've joined Anthropic. I think the next few years at the frontier of LLMs will be especially formative.</title>
       <link>https://x.com/karpathy/status/2056753169888334312</link>
-      <description>Personal update: I've joined Anthropic. I think the next few years at the frontier of LLMs will be especially formative. I am very excited to join the team here and get back to R&amp;D.</description>
+      <description>Personal update: I've joined Anthropic. I think the next few years at the frontier of LLMs will be especially formative.</description>
       <guid isPermaLink="false">https://x.com/karpathy/status/2056753169888334312</guid>
       <pubDate>Tue, 19 May 2026 15:05:42 +0000</pubDate>
     </item>
@@ -1970,17 +1970,17 @@ He became the YOUNGEST player in NBA history with 40+ points and 20+ rebounds in
       <pubDate>Wed, 20 May 2026 18:48:48 +0000</pubDate>
     </item>
     <item>
-      <title>[OpenAI]The proof came from a general-purpose reasoning model, not a system built specifically to solve math problems or this problem in particular, and represents an important milestone for the math and AI communities. https://openai.com/index/model-disproves-discrete-geometry-conjecture/</title>
-      <link>https://x.com/OpenAI/status/2057176203166171317</link>
-      <description>The proof came from a general-purpose reasoning model, not a system built specifically to solve math problems or this problem in particular, and represents an important milestone for the math and AI communities. https://openai.com/index/model-disproves-discrete-geometry-conjecture/</description>
-      <guid isPermaLink="false">https://x.com/OpenAI/status/2057176203166171317</guid>
-      <pubDate>Wed, 20 May 2026 19:06:41 +0000</pubDate>
-    </item>
-    <item>
       <title>[OpenAI]Today, we share a breakthrough on the planar unit distance problem, a famous open question first posed by Paul Erdős in 1946. An OpenAI model has now disproved that belief.</title>
       <link>https://x.com/OpenAI/status/2057176201782075690</link>
       <description>Today, we share a breakthrough on the planar unit distance problem, a famous open question first posed by Paul Erdős in 1946. An OpenAI model has now disproved that belief.</description>
       <guid isPermaLink="false">https://x.com/OpenAI/status/2057176201782075690</guid>
+      <pubDate>Wed, 20 May 2026 19:06:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>[OpenAI]The proof came from a general-purpose reasoning model, not a system built specifically to solve math problems or this problem in particular, and represents an important milestone for the math and AI communities. https://openai.com/index/model-disproves-discrete-geometry-conjecture/</title>
+      <link>https://x.com/OpenAI/status/2057176203166171317</link>
+      <description>The proof came from a general-purpose reasoning model, not a system built specifically to solve math problems or this problem in particular, and represents an important milestone for the math and AI communities. https://openai.com/index/model-disproves-discrete-geometry-conjecture/</description>
+      <guid isPermaLink="false">https://x.com/OpenAI/status/2057176203166171317</guid>
       <pubDate>Wed, 20 May 2026 19:06:41 +0000</pubDate>
     </item>
     <item>
@@ -2152,9 +2152,9 @@ He became the YOUNGEST player in NBA history with 40+ points and 20+ rebounds in
       <pubDate>Fri, 22 May 2026 00:09:27 +0000</pubDate>
     </item>
     <item>
-      <title>[OpenAI]Highlights from today’s Codex Thursday launches: 1️⃣ Codex can now securely use apps on your Mac from your phone, even when your Mac is locked and the screen is off. https://developers.openai.com/codex/app/computer-use</title>
+      <title>[OpenAI]Highlights from today’s Codex Thursday launches: 1️⃣ Codex can now securely use apps on your Mac from your phone, even when your Mac is locked and the screen is off.</title>
       <link>https://x.com/OpenAI/status/2057617844800794878</link>
-      <description>Highlights from today’s Codex Thursday launches: 1️⃣ Codex can now securely use apps on your Mac from your phone, even when your Mac is locked and the screen is off. https://developers.openai.com/codex/app/computer-use</description>
+      <description>Highlights from today’s Codex Thursday launches: 1️⃣ Codex can now securely use apps on your Mac from your phone, even when your Mac is locked and the screen is off.</description>
       <guid isPermaLink="false">https://x.com/OpenAI/status/2057617844800794878</guid>
       <pubDate>Fri, 22 May 2026 00:21:37 +0000</pubDate>
     </item>
@@ -2278,17 +2278,17 @@ He became the YOUNGEST player in NBA history with 40+ points and 20+ rebounds in
       <pubDate>Fri, 22 May 2026 12:53:57 +0000</pubDate>
     </item>
     <item>
-      <title>[gideonfip]If you want to become AI-native, start by removing one painful, soul-sucking bottleneck by outsourcing that task to AI.</title>
-      <link>https://x.com/gideonfip/status/2057808205582049764</link>
-      <description>If you want to become AI-native, start by removing one painful, soul-sucking bottleneck by outsourcing that task to AI.</description>
-      <guid isPermaLink="false">https://x.com/gideonfip/status/2057808205582049764</guid>
-      <pubDate>Fri, 22 May 2026 12:58:03 +0000</pubDate>
-    </item>
-    <item>
       <title>[HugoBlotFR]Price/performance is going to matter a lot for daily AI workflows. The winning model isn’t always the smartest one. It’s the one people can use often enough to actually change how they execute</title>
       <link>https://x.com/HugoBlotFR/status/2057808206118653980</link>
       <description>Price/performance is going to matter a lot for daily AI workflows. The winning model isn’t always the smartest one. It’s the one people can use often enough to actually change how they execute</description>
       <guid isPermaLink="false">https://x.com/HugoBlotFR/status/2057808206118653980</guid>
+      <pubDate>Fri, 22 May 2026 12:58:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>[gideonfip]If you want to become AI-native, start by removing one painful, soul-sucking bottleneck by outsourcing that task to AI.</title>
+      <link>https://x.com/gideonfip/status/2057808205582049764</link>
+      <description>If you want to become AI-native, start by removing one painful, soul-sucking bottleneck by outsourcing that task to AI.</description>
+      <guid isPermaLink="false">https://x.com/gideonfip/status/2057808205582049764</guid>
       <pubDate>Fri, 22 May 2026 12:58:03 +0000</pubDate>
     </item>
     <item>
@@ -2901,6 +2901,13 @@ He became the YOUNGEST player in NBA history with 40+ points and 20+ rebounds in
       <pubDate>Tue, 26 May 2026 19:09:35 +0000</pubDate>
     </item>
     <item>
+      <title>[justinsuntron]Wen $30T?</title>
+      <link>https://x.com/justinsuntron/status/2059508616827376070</link>
+      <description>Wen $30T?</description>
+      <guid isPermaLink="false">https://x.com/justinsuntron/status/2059508616827376070</guid>
+      <pubDate>Wed, 27 May 2026 05:34:52 +0000</pubDate>
+    </item>
+    <item>
       <title>[WhiteHouse]President Trump expresses tremendous gratitude to the outgoing Director of @ODNIgov, @TulsiGabbard. 🇺🇸</title>
       <link>https://x.com/WhiteHouse/status/2059674475382051086</link>
       <description>President Trump expresses tremendous gratitude to the outgoing Director of @ODNIgov, @TulsiGabbard. 🇺🇸</description>
@@ -2913,6 +2920,13 @@ He became the YOUNGEST player in NBA history with 40+ points and 20+ rebounds in
       <description>There's no place like the United States of America.</description>
       <guid isPermaLink="false">https://x.com/WhiteHouse/status/2059748527366980016</guid>
       <pubDate>Wed, 27 May 2026 21:28:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>[WhiteHouse]Today, we remember a legend. On this day in history, Harambe would have celebrated another birthday.</title>
+      <link>https://x.com/WhiteHouse/status/2059779450275864710</link>
+      <description>Today, we remember a legend. On this day in history, Harambe would have celebrated another birthday.</description>
+      <guid isPermaLink="false">https://x.com/WhiteHouse/status/2059779450275864710</guid>
+      <pubDate>Wed, 27 May 2026 23:31:04 +0000</pubDate>
     </item>
     <item>
       <title>[Polymarket]JUST IN: The Pentagon has reportedly assembled the troops &amp; weapons needed to “act immediately” against Cuba, awaiting Trump’s orders.</title>
@@ -2976,6 +2990,13 @@ He became the YOUNGEST player in NBA history with 40+ points and 20+ rebounds in
       <description>Grok Build improvements</description>
       <guid isPermaLink="false">https://x.com/elonmusk/status/2059873440212124071</guid>
       <pubDate>Thu, 28 May 2026 05:44:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>[KATSEYEBASE]KATSEYE’s official “PINKY UP” performance from the 2026 AMAs is now the most viewed performance video from this year’s show on YouTube, surpassing 2.7M views. It’s also currently the No.1 trending music video worldwide and in the USA.</title>
+      <link>https://x.com/KATSEYEBASE/status/2059879823263313982</link>
+      <description>KATSEYE’s official “PINKY UP” performance from the 2026 AMAs is now the most viewed performance video from this year’s show on YouTube, surpassing 2.7M views. It’s also currently the No.1 trending music video worldwide and in the USA.</description>
+      <guid isPermaLink="false">https://x.com/KATSEYEBASE/status/2059879823263313982</guid>
+      <pubDate>Thu, 28 May 2026 06:09:55 +0000</pubDate>
     </item>
     <item>
       <title>[elonmusk]SpaceX has not committed to leasing Colossus for years, although it’s possible that may be what happens.
@@ -3053,6 +3074,27 @@ The Indian Institute of Management Sambalpur is inviting applications for its 4-
 The Indian Institute of Management Sambalpur is inviting applications for its 4-year fully residential undergraduate programme in Data Science &amp; Artificial Intelligence,</description>
       <guid isPermaLink="false">https://x.com/iim_sambalpur/status/2059899274868195718</guid>
       <pubDate>Thu, 28 May 2026 07:27:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>[SarcasticLayla]Hey @grok, try swapping the costumes perfectly !!</title>
+      <link>https://x.com/SarcasticLayla/status/2059960194969583718</link>
+      <description>Hey @grok, try swapping the costumes perfectly !!</description>
+      <guid isPermaLink="false">https://x.com/SarcasticLayla/status/2059960194969583718</guid>
+      <pubDate>Thu, 28 May 2026 10:45:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Polymarket]JUST IN: U.S. Treasury officially launches the Trump Accounts app.</title>
+      <link>https://x.com/Polymarket/status/2059986328167542939</link>
+      <description>JUST IN: U.S. Treasury officially launches the Trump Accounts app.</description>
+      <guid isPermaLink="false">https://x.com/Polymarket/status/2059986328167542939</guid>
+      <pubDate>Thu, 28 May 2026 13:13:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>[dreamcloserapp]Most SMB software was built to help teams stay organized. The next wave of software will help businesses operate autonomously. #AI</title>
+      <link>https://x.com/dreamcloserapp/status/2059989014938030216</link>
+      <description>Most SMB software was built to help teams stay organized. The next wave of software will help businesses operate autonomously. #AI</description>
+      <guid isPermaLink="false">https://x.com/dreamcloserapp/status/2059989014938030216</guid>
+      <pubDate>Thu, 28 May 2026 13:23:48 +0000</pubDate>
     </item>
   </channel>
 </rss>
