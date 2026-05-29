@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 29 May 2026 07:29:12 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 29 May 2026 13:15:54 +0000</lastBuildDate>
     <item>
       <title>[@AnthropicAI] High-quality documents reduce agentic misalignment</title>
       <link>https://x.com/AnthropicAI/status/2052808801040859392</link>
@@ -918,6 +918,13 @@ So, why has Congress done nothing to address their concerns? Follow the money.</
       <pubDate>Thu, 14 May 2026 19:03:06 +0000</pubDate>
     </item>
     <item>
+      <title>[OpenAI]You've been asking for this one... Now in preview: Codex in the ChatGPT mobile app. Start new work, review outputs, steer execution, and approve next steps, all from the ChatGPT mobile app. Codex will keep running on your laptop, Mac mini, or devbox.</title>
+      <link>https://x.com/OpenAI/status/2055016850849993072</link>
+      <description>You've been asking for this one... Now in preview: Codex in the ChatGPT mobile app. Start new work, review outputs, steer execution, and approve next steps, all from the ChatGPT mobile app. Codex will keep running on your laptop, Mac mini, or devbox.</description>
+      <guid isPermaLink="false">https://x.com/OpenAI/status/2055016850849993072</guid>
+      <pubDate>Thu, 14 May 2026 20:06:12 +0000</pubDate>
+    </item>
+    <item>
       <title>[OpenAI]Rolling out today as a preview on iOS and Android in all supported regions.
 
 Support for connecting your phone to the Codex app on Windows is coming soon.
@@ -930,13 +937,6 @@ Support for connecting your phone to the Codex app on Windows is coming soon.
 
 https://openai.com/index/work-with-codex-from-anywhere/</description>
       <guid isPermaLink="false">https://x.com/OpenAI/status/2055016852133417389</guid>
-      <pubDate>Thu, 14 May 2026 20:06:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>[OpenAI]You've been asking for this one... Now in preview: Codex in the ChatGPT mobile app. Start new work, review outputs, steer execution, and approve next steps, all from the ChatGPT mobile app. Codex will keep running on your laptop, Mac mini, or devbox.</title>
-      <link>https://x.com/OpenAI/status/2055016850849993072</link>
-      <description>You've been asking for this one... Now in preview: Codex in the ChatGPT mobile app. Start new work, review outputs, steer execution, and approve next steps, all from the ChatGPT mobile app. Codex will keep running on your laptop, Mac mini, or devbox.</description>
-      <guid isPermaLink="false">https://x.com/OpenAI/status/2055016850849993072</guid>
       <pubDate>Thu, 14 May 2026 20:06:12 +0000</pubDate>
     </item>
     <item>
@@ -1732,9 +1732,9 @@ He became the YOUNGEST player in NBA history with 40+ points and 20+ rebounds in
       <pubDate>Tue, 19 May 2026 14:14:45 +0000</pubDate>
     </item>
     <item>
-      <title>[karpathy]Personal update: I've joined Anthropic. I think the next few years at the frontier of LLMs will be especially formative.</title>
+      <title>[karpathy]Personal update: I've joined Anthropic. I think the next few years at the frontier of LLMs will be especially formative. I am very excited to join the team here and get back to R&amp;D. I remain deeply passionate about education and plan to resume my work on it in time.</title>
       <link>https://x.com/karpathy/status/2056753169888334312</link>
-      <description>Personal update: I've joined Anthropic. I think the next few years at the frontier of LLMs will be especially formative.</description>
+      <description>Personal update: I've joined Anthropic. I think the next few years at the frontier of LLMs will be especially formative. I am very excited to join the team here and get back to R&amp;D. I remain deeply passionate about education and plan to resume my work on it in time.</description>
       <guid isPermaLink="false">https://x.com/karpathy/status/2056753169888334312</guid>
       <pubDate>Tue, 19 May 2026 15:05:42 +0000</pubDate>
     </item>
@@ -1970,17 +1970,17 @@ He became the YOUNGEST player in NBA history with 40+ points and 20+ rebounds in
       <pubDate>Wed, 20 May 2026 18:48:48 +0000</pubDate>
     </item>
     <item>
-      <title>[OpenAI]The proof came from a general-purpose reasoning model, not a system built specifically to solve math problems or this problem in particular, and represents an important milestone for the math and AI communities. https://openai.com/index/model-disproves-discrete-geometry-conjecture/</title>
-      <link>https://x.com/OpenAI/status/2057176203166171317</link>
-      <description>The proof came from a general-purpose reasoning model, not a system built specifically to solve math problems or this problem in particular, and represents an important milestone for the math and AI communities. https://openai.com/index/model-disproves-discrete-geometry-conjecture/</description>
-      <guid isPermaLink="false">https://x.com/OpenAI/status/2057176203166171317</guid>
-      <pubDate>Wed, 20 May 2026 19:06:41 +0000</pubDate>
-    </item>
-    <item>
       <title>[OpenAI]Today, we share a breakthrough on the planar unit distance problem, a famous open question first posed by Paul Erdős in 1946. An OpenAI model has now disproved that belief.</title>
       <link>https://x.com/OpenAI/status/2057176201782075690</link>
       <description>Today, we share a breakthrough on the planar unit distance problem, a famous open question first posed by Paul Erdős in 1946. An OpenAI model has now disproved that belief.</description>
       <guid isPermaLink="false">https://x.com/OpenAI/status/2057176201782075690</guid>
+      <pubDate>Wed, 20 May 2026 19:06:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>[OpenAI]The proof came from a general-purpose reasoning model, not a system built specifically to solve math problems or this problem in particular, and represents an important milestone for the math and AI communities. https://openai.com/index/model-disproves-discrete-geometry-conjecture/</title>
+      <link>https://x.com/OpenAI/status/2057176203166171317</link>
+      <description>The proof came from a general-purpose reasoning model, not a system built specifically to solve math problems or this problem in particular, and represents an important milestone for the math and AI communities. https://openai.com/index/model-disproves-discrete-geometry-conjecture/</description>
+      <guid isPermaLink="false">https://x.com/OpenAI/status/2057176203166171317</guid>
       <pubDate>Wed, 20 May 2026 19:06:41 +0000</pubDate>
     </item>
     <item>
@@ -2278,17 +2278,17 @@ He became the YOUNGEST player in NBA history with 40+ points and 20+ rebounds in
       <pubDate>Fri, 22 May 2026 12:53:57 +0000</pubDate>
     </item>
     <item>
-      <title>[gideonfip]If you want to become AI-native, start by removing one painful, soul-sucking bottleneck by outsourcing that task to AI.</title>
-      <link>https://x.com/gideonfip/status/2057808205582049764</link>
-      <description>If you want to become AI-native, start by removing one painful, soul-sucking bottleneck by outsourcing that task to AI.</description>
-      <guid isPermaLink="false">https://x.com/gideonfip/status/2057808205582049764</guid>
-      <pubDate>Fri, 22 May 2026 12:58:03 +0000</pubDate>
-    </item>
-    <item>
       <title>[HugoBlotFR]Price/performance is going to matter a lot for daily AI workflows. The winning model isn’t always the smartest one. It’s the one people can use often enough to actually change how they execute</title>
       <link>https://x.com/HugoBlotFR/status/2057808206118653980</link>
       <description>Price/performance is going to matter a lot for daily AI workflows. The winning model isn’t always the smartest one. It’s the one people can use often enough to actually change how they execute</description>
       <guid isPermaLink="false">https://x.com/HugoBlotFR/status/2057808206118653980</guid>
+      <pubDate>Fri, 22 May 2026 12:58:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>[gideonfip]If you want to become AI-native, start by removing one painful, soul-sucking bottleneck by outsourcing that task to AI.</title>
+      <link>https://x.com/gideonfip/status/2057808205582049764</link>
+      <description>If you want to become AI-native, start by removing one painful, soul-sucking bottleneck by outsourcing that task to AI.</description>
+      <guid isPermaLink="false">https://x.com/gideonfip/status/2057808205582049764</guid>
       <pubDate>Fri, 22 May 2026 12:58:03 +0000</pubDate>
     </item>
     <item>
@@ -3126,11 +3126,11 @@ And C will compile to the most efficient binary short of assembly. Maybe we will
       <pubDate>Thu, 28 May 2026 17:39:23 +0000</pubDate>
     </item>
     <item>
-      <title>[AnthropicAI]We’ve raised $65 billion in Series H funding at a $965 billion post-money valuation, led by @AltimeterCap, Dragoneer, @Greenoaks, and @sequoia.
+      <title>[AnthropicAI]We've raised $65 billion in Series H funding at a $965 billion post-money valuation, led by @AltimeterCap, Dragoneer, @Greenoaks, and @sequoia.
 
 This investment will help us advance our research and expand our capacity to meet growing demand for Claude.</title>
       <link>https://x.com/AnthropicAI/status/2060061347522433422</link>
-      <description>We’ve raised $65 billion in Series H funding at a $965 billion post-money valuation, led by @AltimeterCap, Dragoneer, @Greenoaks, and @sequoia.
+      <description>We've raised $65 billion in Series H funding at a $965 billion post-money valuation, led by @AltimeterCap, Dragoneer, @Greenoaks, and @sequoia.
 
 This investment will help us advance our research and expand our capacity to meet growing demand for Claude.</description>
       <guid isPermaLink="false">https://x.com/AnthropicAI/status/2060061347522433422</guid>
@@ -3149,6 +3149,17 @@ This investment will help us advance our research and expand our capacity to mee
       <description>JUST IN: Anthropic raises $65 billion at a $965 billion valuation, officially surpassing OpenAI.</description>
       <guid isPermaLink="false">https://x.com/Polymarket/status/2060066017913475136</guid>
       <pubDate>Thu, 28 May 2026 18:29:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>[WhiteHouse]They walk among us. 
+
+https://www.whitehouse.gov/aliens/</title>
+      <link>https://x.com/WhiteHouse/status/2060127126611718214</link>
+      <description>They walk among us. 
+
+https://www.whitehouse.gov/aliens/</description>
+      <guid isPermaLink="false">https://x.com/WhiteHouse/status/2060127126611718214</guid>
+      <pubDate>Thu, 28 May 2026 22:32:36 +0000</pubDate>
     </item>
     <item>
       <title>[Polymarket]JUST IN: White House's "aliens.​gov" domain revealed to be an illegal immigrant reporting site.</title>
@@ -3306,6 +3317,13 @@ The truth has dropped ➡️ https://www.whitehouse.gov/aliens/</description>
       <pubDate>Fri, 29 May 2026 03:04:58 +0000</pubDate>
     </item>
     <item>
+      <title>[justinsuntron]Adoption is measured in usage. 5.2M daily active accounts on TRON.</title>
+      <link>https://x.com/justinsuntron/status/2060232270816321576</link>
+      <description>Adoption is measured in usage. 5.2M daily active accounts on TRON.</description>
+      <guid isPermaLink="false">https://x.com/justinsuntron/status/2060232270816321576</guid>
+      <pubDate>Fri, 29 May 2026 04:50:41 +0000</pubDate>
+    </item>
+    <item>
       <title>[justinsuntron]5.2M daily active accounts on TRON.</title>
       <link>https://x.com/justinsuntron/status/2060222270816321576</link>
       <description>5.2M daily active accounts on TRON.</description>
@@ -3399,6 +3417,43 @@ https://www.tiktok.com/@with_love_manshi/video/7644175788761287943?_r=1&amp;_t=Z
 #CAD #ForexTrading #CanadaGDP #trending</description>
       <guid isPermaLink="false">https://x.com/finowizprime/status/2060262113718002142</guid>
       <pubDate>Fri, 29 May 2026 07:29:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[elonmusk]Pretty much 😂
+https://grok.com/share/bGVnYWN5_30c6e4d3-7465-4d20-a0a6-273f662301df</title>
+      <link>https://x.com/elonmusk/status/2060269907271438452</link>
+      <description>Pretty much 😂
+https://grok.com/share/bGVnYWN5_30c6e4d3-7465-4d20-a0a6-273f662301df</description>
+      <guid isPermaLink="false">https://x.com/elonmusk/status/2060269907271438452</guid>
+      <pubDate>Fri, 29 May 2026 07:59:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Pontifex]#AI can be a valuable tool and, at the same time, it calls for a measured and vigilant approach. The speed and simplicity with which practical assistance can be accessed undoubtedly makes life easier. Yet they can also encourage excessive reliance and the search for ready-made answers, and weaken personal creativity and judgment. #MagnificaHumanitas</title>
+      <link>https://x.com/Pontifex/status/2060320168119861620</link>
+      <description>#AI can be a valuable tool and, at the same time, it calls for a measured and vigilant approach. The speed and simplicity with which practical assistance can be accessed undoubtedly makes life easier. Yet they can also encourage excessive reliance and the search for ready-made answers, and weaken personal creativity and judgment. #MagnificaHumanitas</description>
+      <guid isPermaLink="false">https://x.com/Pontifex/status/2060320168119861620</guid>
+      <pubDate>Fri, 29 May 2026 11:32:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>[DailyLoud]Nvidia will now pay you to put a mini AI data center on your house making you close to $22,000 a year</title>
+      <link>https://x.com/DailyLoud/status/2060333992050840029</link>
+      <description>Nvidia will now pay you to put a mini AI data center on your house making you close to $22,000 a year</description>
+      <guid isPermaLink="false">https://x.com/DailyLoud/status/2060333992050840029</guid>
+      <pubDate>Fri, 29 May 2026 12:11:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>[KobeissiLetter]BREAKING: South Korea's stock market rises to a fresh record high, now up +101% in 2026, as AI stocks surge.</title>
+      <link>https://x.com/KobeissiLetter/status/2060336967699542062</link>
+      <description>BREAKING: South Korea's stock market rises to a fresh record high, now up +101% in 2026, as AI stocks surge.</description>
+      <guid isPermaLink="false">https://x.com/KobeissiLetter/status/2060336967699542062</guid>
+      <pubDate>Fri, 29 May 2026 12:26:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Polymarket]NEW: Canada posted a second straight quarter of annualized GDP decline after its economy contracted 0.1% in Q1.</title>
+      <link>https://x.com/Polymarket/status/2060346811282252182</link>
+      <description>NEW: Canada posted a second straight quarter of annualized GDP decline after its economy contracted 0.1% in Q1.</description>
+      <guid isPermaLink="false">https://x.com/Polymarket/status/2060346811282252182</guid>
+      <pubDate>Fri, 29 May 2026 13:05:33 +0000</pubDate>
     </item>
   </channel>
 </rss>
