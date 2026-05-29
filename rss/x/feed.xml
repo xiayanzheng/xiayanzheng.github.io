@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 29 May 2026 13:15:54 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 29 May 2026 18:59:04 +0000</lastBuildDate>
     <item>
       <title>[@AnthropicAI] High-quality documents reduce agentic misalignment</title>
       <link>https://x.com/AnthropicAI/status/2052808801040859392</link>
@@ -918,13 +918,6 @@ So, why has Congress done nothing to address their concerns? Follow the money.</
       <pubDate>Thu, 14 May 2026 19:03:06 +0000</pubDate>
     </item>
     <item>
-      <title>[OpenAI]You've been asking for this one... Now in preview: Codex in the ChatGPT mobile app. Start new work, review outputs, steer execution, and approve next steps, all from the ChatGPT mobile app. Codex will keep running on your laptop, Mac mini, or devbox.</title>
-      <link>https://x.com/OpenAI/status/2055016850849993072</link>
-      <description>You've been asking for this one... Now in preview: Codex in the ChatGPT mobile app. Start new work, review outputs, steer execution, and approve next steps, all from the ChatGPT mobile app. Codex will keep running on your laptop, Mac mini, or devbox.</description>
-      <guid isPermaLink="false">https://x.com/OpenAI/status/2055016850849993072</guid>
-      <pubDate>Thu, 14 May 2026 20:06:12 +0000</pubDate>
-    </item>
-    <item>
       <title>[OpenAI]Rolling out today as a preview on iOS and Android in all supported regions.
 
 Support for connecting your phone to the Codex app on Windows is coming soon.
@@ -937,6 +930,13 @@ Support for connecting your phone to the Codex app on Windows is coming soon.
 
 https://openai.com/index/work-with-codex-from-anywhere/</description>
       <guid isPermaLink="false">https://x.com/OpenAI/status/2055016852133417389</guid>
+      <pubDate>Thu, 14 May 2026 20:06:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>[OpenAI]You've been asking for this one... Now in preview: Codex in the ChatGPT mobile app. Start new work, review outputs, steer execution, and approve next steps, all from the ChatGPT mobile app. Codex will keep running on your laptop, Mac mini, or devbox.</title>
+      <link>https://x.com/OpenAI/status/2055016850849993072</link>
+      <description>You've been asking for this one... Now in preview: Codex in the ChatGPT mobile app. Start new work, review outputs, steer execution, and approve next steps, all from the ChatGPT mobile app. Codex will keep running on your laptop, Mac mini, or devbox.</description>
+      <guid isPermaLink="false">https://x.com/OpenAI/status/2055016850849993072</guid>
       <pubDate>Thu, 14 May 2026 20:06:12 +0000</pubDate>
     </item>
     <item>
@@ -1732,9 +1732,9 @@ He became the YOUNGEST player in NBA history with 40+ points and 20+ rebounds in
       <pubDate>Tue, 19 May 2026 14:14:45 +0000</pubDate>
     </item>
     <item>
-      <title>[karpathy]Personal update: I've joined Anthropic. I think the next few years at the frontier of LLMs will be especially formative. I am very excited to join the team here and get back to R&amp;D. I remain deeply passionate about education and plan to resume my work on it in time.</title>
+      <title>[karpathy]Personal update: I've joined Anthropic. I think the next few years at the frontier of LLMs will be especially formative. I am very excited to join the team here and get back to R&amp;D.</title>
       <link>https://x.com/karpathy/status/2056753169888334312</link>
-      <description>Personal update: I've joined Anthropic. I think the next few years at the frontier of LLMs will be especially formative. I am very excited to join the team here and get back to R&amp;D. I remain deeply passionate about education and plan to resume my work on it in time.</description>
+      <description>Personal update: I've joined Anthropic. I think the next few years at the frontier of LLMs will be especially formative. I am very excited to join the team here and get back to R&amp;D.</description>
       <guid isPermaLink="false">https://x.com/karpathy/status/2056753169888334312</guid>
       <pubDate>Tue, 19 May 2026 15:05:42 +0000</pubDate>
     </item>
@@ -1970,17 +1970,17 @@ He became the YOUNGEST player in NBA history with 40+ points and 20+ rebounds in
       <pubDate>Wed, 20 May 2026 18:48:48 +0000</pubDate>
     </item>
     <item>
-      <title>[OpenAI]Today, we share a breakthrough on the planar unit distance problem, a famous open question first posed by Paul Erdős in 1946. An OpenAI model has now disproved that belief.</title>
-      <link>https://x.com/OpenAI/status/2057176201782075690</link>
-      <description>Today, we share a breakthrough on the planar unit distance problem, a famous open question first posed by Paul Erdős in 1946. An OpenAI model has now disproved that belief.</description>
-      <guid isPermaLink="false">https://x.com/OpenAI/status/2057176201782075690</guid>
-      <pubDate>Wed, 20 May 2026 19:06:41 +0000</pubDate>
-    </item>
-    <item>
       <title>[OpenAI]The proof came from a general-purpose reasoning model, not a system built specifically to solve math problems or this problem in particular, and represents an important milestone for the math and AI communities. https://openai.com/index/model-disproves-discrete-geometry-conjecture/</title>
       <link>https://x.com/OpenAI/status/2057176203166171317</link>
       <description>The proof came from a general-purpose reasoning model, not a system built specifically to solve math problems or this problem in particular, and represents an important milestone for the math and AI communities. https://openai.com/index/model-disproves-discrete-geometry-conjecture/</description>
       <guid isPermaLink="false">https://x.com/OpenAI/status/2057176203166171317</guid>
+      <pubDate>Wed, 20 May 2026 19:06:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>[OpenAI]Today, we share a breakthrough on the planar unit distance problem, a famous open question first posed by Paul Erdős in 1946. An OpenAI model has now disproved that belief.</title>
+      <link>https://x.com/OpenAI/status/2057176201782075690</link>
+      <description>Today, we share a breakthrough on the planar unit distance problem, a famous open question first posed by Paul Erdős in 1946. An OpenAI model has now disproved that belief.</description>
+      <guid isPermaLink="false">https://x.com/OpenAI/status/2057176201782075690</guid>
       <pubDate>Wed, 20 May 2026 19:06:41 +0000</pubDate>
     </item>
     <item>
@@ -2278,17 +2278,17 @@ He became the YOUNGEST player in NBA history with 40+ points and 20+ rebounds in
       <pubDate>Fri, 22 May 2026 12:53:57 +0000</pubDate>
     </item>
     <item>
-      <title>[HugoBlotFR]Price/performance is going to matter a lot for daily AI workflows. The winning model isn’t always the smartest one. It’s the one people can use often enough to actually change how they execute</title>
-      <link>https://x.com/HugoBlotFR/status/2057808206118653980</link>
-      <description>Price/performance is going to matter a lot for daily AI workflows. The winning model isn’t always the smartest one. It’s the one people can use often enough to actually change how they execute</description>
-      <guid isPermaLink="false">https://x.com/HugoBlotFR/status/2057808206118653980</guid>
-      <pubDate>Fri, 22 May 2026 12:58:03 +0000</pubDate>
-    </item>
-    <item>
       <title>[gideonfip]If you want to become AI-native, start by removing one painful, soul-sucking bottleneck by outsourcing that task to AI.</title>
       <link>https://x.com/gideonfip/status/2057808205582049764</link>
       <description>If you want to become AI-native, start by removing one painful, soul-sucking bottleneck by outsourcing that task to AI.</description>
       <guid isPermaLink="false">https://x.com/gideonfip/status/2057808205582049764</guid>
+      <pubDate>Fri, 22 May 2026 12:58:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>[HugoBlotFR]Price/performance is going to matter a lot for daily AI workflows. The winning model isn’t always the smartest one. It’s the one people can use often enough to actually change how they execute</title>
+      <link>https://x.com/HugoBlotFR/status/2057808206118653980</link>
+      <description>Price/performance is going to matter a lot for daily AI workflows. The winning model isn’t always the smartest one. It’s the one people can use often enough to actually change how they execute</description>
+      <guid isPermaLink="false">https://x.com/HugoBlotFR/status/2057808206118653980</guid>
       <pubDate>Fri, 22 May 2026 12:58:03 +0000</pubDate>
     </item>
     <item>
@@ -3317,17 +3317,17 @@ The truth has dropped ➡️ https://www.whitehouse.gov/aliens/</description>
       <pubDate>Fri, 29 May 2026 03:04:58 +0000</pubDate>
     </item>
     <item>
-      <title>[justinsuntron]Adoption is measured in usage. 5.2M daily active accounts on TRON.</title>
-      <link>https://x.com/justinsuntron/status/2060232270816321576</link>
-      <description>Adoption is measured in usage. 5.2M daily active accounts on TRON.</description>
-      <guid isPermaLink="false">https://x.com/justinsuntron/status/2060232270816321576</guid>
-      <pubDate>Fri, 29 May 2026 04:50:41 +0000</pubDate>
-    </item>
-    <item>
       <title>[justinsuntron]5.2M daily active accounts on TRON.</title>
       <link>https://x.com/justinsuntron/status/2060222270816321576</link>
       <description>5.2M daily active accounts on TRON.</description>
       <guid isPermaLink="false">https://x.com/justinsuntron/status/2060222270816321576</guid>
+      <pubDate>Fri, 29 May 2026 04:50:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>[justinsuntron]Adoption is measured in usage. 5.2M daily active accounts on TRON.</title>
+      <link>https://x.com/justinsuntron/status/2060232270816321576</link>
+      <description>Adoption is measured in usage. 5.2M daily active accounts on TRON.</description>
+      <guid isPermaLink="false">https://x.com/justinsuntron/status/2060232270816321576</guid>
       <pubDate>Fri, 29 May 2026 04:50:41 +0000</pubDate>
     </item>
     <item>
@@ -3454,6 +3454,59 @@ https://grok.com/share/bGVnYWN5_30c6e4d3-7465-4d20-a0a6-273f662301df</descriptio
       <description>NEW: Canada posted a second straight quarter of annualized GDP decline after its economy contracted 0.1% in Q1.</description>
       <guid isPermaLink="false">https://x.com/Polymarket/status/2060346811282252182</guid>
       <pubDate>Fri, 29 May 2026 13:05:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>[elonmusk]Yes, arrest them all</title>
+      <link>https://x.com/elonmusk/status/2060364619856695309</link>
+      <description>Yes, arrest them all</description>
+      <guid isPermaLink="false">https://x.com/elonmusk/status/2060364619856695309</guid>
+      <pubDate>Fri, 29 May 2026 14:16:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>[mexopolis]I have decided to drop out of the AI program at Amazon. I will not be making a Punky Duck series. Actions speak louder than words. 
+
+My intent was to showcase artists... My sincerest apology to those I upset.</title>
+      <link>https://x.com/mexopolis/status/2060368285687042063</link>
+      <description>I have decided to drop out of the AI program at Amazon. I will not be making a Punky Duck series. Actions speak louder than words. 
+
+My intent was to showcase artists... My sincerest apology to those I upset.</description>
+      <guid isPermaLink="false">https://x.com/mexopolis/status/2060368285687042063</guid>
+      <pubDate>Fri, 29 May 2026 14:30:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>[WhiteHouse]"Iran must agree that they will never have a Nuclear Weapon or Bomb...  I will be meeting now, in the Situation Room, to make a final determination." - President Donald J. Trump 🇺🇸</title>
+      <link>https://x.com/WhiteHouse/status/2060375230183333897</link>
+      <description>"Iran must agree that they will never have a Nuclear Weapon or Bomb...  I will be meeting now, in the Situation Room, to make a final determination." - President Donald J. Trump 🇺🇸</description>
+      <guid isPermaLink="false">https://x.com/WhiteHouse/status/2060375230183333897</guid>
+      <pubDate>Fri, 29 May 2026 14:58:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_lies]Daily reminder that AI detectors are a scam and literally do not work.</title>
+      <link>https://x.com/reddit_lies/status/2060391977611301317</link>
+      <description>Daily reminder that AI detectors are a scam and literally do not work.</description>
+      <guid isPermaLink="false">https://x.com/reddit_lies/status/2060391977611301317</guid>
+      <pubDate>Fri, 29 May 2026 16:05:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BankXRP]SEC Chair Paul Atkins expressed confidence that Congress will pass crypto market structure legislation, which he believes President Trump will sign into law.</title>
+      <link>https://x.com/BankXRP/status/2060416202422493426</link>
+      <description>SEC Chair Paul Atkins expressed confidence that Congress will pass crypto market structure legislation, which he believes President Trump will sign into law.</description>
+      <guid isPermaLink="false">https://x.com/BankXRP/status/2060416202422493426</guid>
+      <pubDate>Fri, 29 May 2026 17:41:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>[justinsuntron]Having flown with Blue Origin, I’ve seen how much work and discipline goes into spaceflight. Glad everyone is safe.</title>
+      <link>https://x.com/justinsuntron/status/2060422887853498840</link>
+      <description>Having flown with Blue Origin, I’ve seen how much work and discipline goes into spaceflight. Glad everyone is safe.</description>
+      <guid isPermaLink="false">https://x.com/justinsuntron/status/2060422887853498840</guid>
+      <pubDate>Fri, 29 May 2026 18:07:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Polymarket]JUST IN: Louisiana lawmakers approve new House map eliminating a Democratic majority-Black seat.</title>
+      <link>https://x.com/Polymarket/status/2060429836640793061</link>
+      <description>JUST IN: Louisiana lawmakers approve new House map eliminating a Democratic majority-Black seat.</description>
+      <guid isPermaLink="false">https://x.com/Polymarket/status/2060429836640793061</guid>
+      <pubDate>Fri, 29 May 2026 18:35:28 +0000</pubDate>
     </item>
   </channel>
 </rss>
