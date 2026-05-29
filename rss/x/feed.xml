@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 29 May 2026 01:00:48 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 29 May 2026 07:29:12 +0000</lastBuildDate>
     <item>
       <title>[@AnthropicAI] High-quality documents reduce agentic misalignment</title>
       <link>https://x.com/AnthropicAI/status/2052808801040859392</link>
@@ -918,13 +918,6 @@ So, why has Congress done nothing to address their concerns? Follow the money.</
       <pubDate>Thu, 14 May 2026 19:03:06 +0000</pubDate>
     </item>
     <item>
-      <title>[OpenAI]You've been asking for this one... Now in preview: Codex in the ChatGPT mobile app. Start new work, review outputs, steer execution, and approve next steps, all from the ChatGPT mobile app. Codex will keep running on your laptop, Mac mini, or devbox.</title>
-      <link>https://x.com/OpenAI/status/2055016850849993072</link>
-      <description>You've been asking for this one... Now in preview: Codex in the ChatGPT mobile app. Start new work, review outputs, steer execution, and approve next steps, all from the ChatGPT mobile app. Codex will keep running on your laptop, Mac mini, or devbox.</description>
-      <guid isPermaLink="false">https://x.com/OpenAI/status/2055016850849993072</guid>
-      <pubDate>Thu, 14 May 2026 20:06:12 +0000</pubDate>
-    </item>
-    <item>
       <title>[OpenAI]Rolling out today as a preview on iOS and Android in all supported regions.
 
 Support for connecting your phone to the Codex app on Windows is coming soon.
@@ -937,6 +930,13 @@ Support for connecting your phone to the Codex app on Windows is coming soon.
 
 https://openai.com/index/work-with-codex-from-anywhere/</description>
       <guid isPermaLink="false">https://x.com/OpenAI/status/2055016852133417389</guid>
+      <pubDate>Thu, 14 May 2026 20:06:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>[OpenAI]You've been asking for this one... Now in preview: Codex in the ChatGPT mobile app. Start new work, review outputs, steer execution, and approve next steps, all from the ChatGPT mobile app. Codex will keep running on your laptop, Mac mini, or devbox.</title>
+      <link>https://x.com/OpenAI/status/2055016850849993072</link>
+      <description>You've been asking for this one... Now in preview: Codex in the ChatGPT mobile app. Start new work, review outputs, steer execution, and approve next steps, all from the ChatGPT mobile app. Codex will keep running on your laptop, Mac mini, or devbox.</description>
+      <guid isPermaLink="false">https://x.com/OpenAI/status/2055016850849993072</guid>
       <pubDate>Thu, 14 May 2026 20:06:12 +0000</pubDate>
     </item>
     <item>
@@ -1970,17 +1970,17 @@ He became the YOUNGEST player in NBA history with 40+ points and 20+ rebounds in
       <pubDate>Wed, 20 May 2026 18:48:48 +0000</pubDate>
     </item>
     <item>
-      <title>[OpenAI]Today, we share a breakthrough on the planar unit distance problem, a famous open question first posed by Paul Erdős in 1946. An OpenAI model has now disproved that belief.</title>
-      <link>https://x.com/OpenAI/status/2057176201782075690</link>
-      <description>Today, we share a breakthrough on the planar unit distance problem, a famous open question first posed by Paul Erdős in 1946. An OpenAI model has now disproved that belief.</description>
-      <guid isPermaLink="false">https://x.com/OpenAI/status/2057176201782075690</guid>
-      <pubDate>Wed, 20 May 2026 19:06:41 +0000</pubDate>
-    </item>
-    <item>
       <title>[OpenAI]The proof came from a general-purpose reasoning model, not a system built specifically to solve math problems or this problem in particular, and represents an important milestone for the math and AI communities. https://openai.com/index/model-disproves-discrete-geometry-conjecture/</title>
       <link>https://x.com/OpenAI/status/2057176203166171317</link>
       <description>The proof came from a general-purpose reasoning model, not a system built specifically to solve math problems or this problem in particular, and represents an important milestone for the math and AI communities. https://openai.com/index/model-disproves-discrete-geometry-conjecture/</description>
       <guid isPermaLink="false">https://x.com/OpenAI/status/2057176203166171317</guid>
+      <pubDate>Wed, 20 May 2026 19:06:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>[OpenAI]Today, we share a breakthrough on the planar unit distance problem, a famous open question first posed by Paul Erdős in 1946. An OpenAI model has now disproved that belief.</title>
+      <link>https://x.com/OpenAI/status/2057176201782075690</link>
+      <description>Today, we share a breakthrough on the planar unit distance problem, a famous open question first posed by Paul Erdős in 1946. An OpenAI model has now disproved that belief.</description>
+      <guid isPermaLink="false">https://x.com/OpenAI/status/2057176201782075690</guid>
       <pubDate>Wed, 20 May 2026 19:06:41 +0000</pubDate>
     </item>
     <item>
@@ -2278,17 +2278,17 @@ He became the YOUNGEST player in NBA history with 40+ points and 20+ rebounds in
       <pubDate>Fri, 22 May 2026 12:53:57 +0000</pubDate>
     </item>
     <item>
-      <title>[HugoBlotFR]Price/performance is going to matter a lot for daily AI workflows. The winning model isn’t always the smartest one. It’s the one people can use often enough to actually change how they execute</title>
-      <link>https://x.com/HugoBlotFR/status/2057808206118653980</link>
-      <description>Price/performance is going to matter a lot for daily AI workflows. The winning model isn’t always the smartest one. It’s the one people can use often enough to actually change how they execute</description>
-      <guid isPermaLink="false">https://x.com/HugoBlotFR/status/2057808206118653980</guid>
-      <pubDate>Fri, 22 May 2026 12:58:03 +0000</pubDate>
-    </item>
-    <item>
       <title>[gideonfip]If you want to become AI-native, start by removing one painful, soul-sucking bottleneck by outsourcing that task to AI.</title>
       <link>https://x.com/gideonfip/status/2057808205582049764</link>
       <description>If you want to become AI-native, start by removing one painful, soul-sucking bottleneck by outsourcing that task to AI.</description>
       <guid isPermaLink="false">https://x.com/gideonfip/status/2057808205582049764</guid>
+      <pubDate>Fri, 22 May 2026 12:58:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>[HugoBlotFR]Price/performance is going to matter a lot for daily AI workflows. The winning model isn’t always the smartest one. It’s the one people can use often enough to actually change how they execute</title>
+      <link>https://x.com/HugoBlotFR/status/2057808206118653980</link>
+      <description>Price/performance is going to matter a lot for daily AI workflows. The winning model isn’t always the smartest one. It’s the one people can use often enough to actually change how they execute</description>
+      <guid isPermaLink="false">https://x.com/HugoBlotFR/status/2057808206118653980</guid>
       <pubDate>Fri, 22 May 2026 12:58:03 +0000</pubDate>
     </item>
     <item>
@@ -3290,6 +3290,115 @@ The truth has dropped ➡️ https://www.whitehouse.gov/aliens/</description>
       <description>The market has been absolutely HOT the last few months and when the market is hot this is when you press. There are weeks that will make your year and months that will do nothing for you sometimes in trading. When we are trending take advantage.</description>
       <guid isPermaLink="false">https://x.com/PBInvesting/status/2060164311897543035</guid>
       <pubDate>Fri, 29 May 2026 01:00:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Polymarket]JUST IN: Dell boosts its AI server sales outlook to $60,000,000,000.00 for fiscal 2027.</title>
+      <link>https://x.com/Polymarket/status/2060180010422386992</link>
+      <description>JUST IN: Dell boosts its AI server sales outlook to $60,000,000,000.00 for fiscal 2027.</description>
+      <guid isPermaLink="false">https://x.com/Polymarket/status/2060180010422386992</guid>
+      <pubDate>Fri, 29 May 2026 02:02:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Polymarket]NEW: Japan’s largest banks are reportedly gaining access to OpenAI’s newest unreleased model for cyber defense.</title>
+      <link>https://x.com/Polymarket/status/2060195666157011283</link>
+      <description>NEW: Japan’s largest banks are reportedly gaining access to OpenAI’s newest unreleased model for cyber defense.</description>
+      <guid isPermaLink="false">https://x.com/Polymarket/status/2060195666157011283</guid>
+      <pubDate>Fri, 29 May 2026 03:04:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>[justinsuntron]5.2M daily active accounts on TRON.</title>
+      <link>https://x.com/justinsuntron/status/2060222270816321576</link>
+      <description>5.2M daily active accounts on TRON.</description>
+      <guid isPermaLink="false">https://x.com/justinsuntron/status/2060222270816321576</guid>
+      <pubDate>Fri, 29 May 2026 04:50:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>[elonmusk]Ad astra per aspera</title>
+      <link>https://x.com/elonmusk/status/2060247189574869013</link>
+      <description>Ad astra per aspera</description>
+      <guid isPermaLink="false">https://x.com/elonmusk/status/2060247189574869013</guid>
+      <pubDate>Fri, 29 May 2026 06:29:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>[elonmusk]They should be prosecuted</title>
+      <link>https://x.com/elonmusk/status/2060247787628020194</link>
+      <description>They should be prosecuted</description>
+      <guid isPermaLink="false">https://x.com/elonmusk/status/2060247787628020194</guid>
+      <pubDate>Fri, 29 May 2026 06:32:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>[elonmusk]True</title>
+      <link>https://x.com/elonmusk/status/2060252944541639028</link>
+      <description>True</description>
+      <guid isPermaLink="false">https://x.com/elonmusk/status/2060252944541639028</guid>
+      <pubDate>Fri, 29 May 2026 06:52:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>[elonmusk]The officers should face prosecution</title>
+      <link>https://x.com/elonmusk/status/2060253492049297793</link>
+      <description>The officers should face prosecution</description>
+      <guid isPermaLink="false">https://x.com/elonmusk/status/2060253492049297793</guid>
+      <pubDate>Fri, 29 May 2026 06:54:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>[elonmusk]Good</title>
+      <link>https://x.com/elonmusk/status/2060253765685669905</link>
+      <description>Good</description>
+      <guid isPermaLink="false">https://x.com/elonmusk/status/2060253765685669905</guid>
+      <pubDate>Fri, 29 May 2026 06:55:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>[elonmusk]Yes, their story simply does not add up. If Nowak was bleeding so badly that he was minutes away from death, why was he handcuffed and dragged across the gravel??</title>
+      <link>https://x.com/elonmusk/status/2060257648151314739</link>
+      <description>Yes, their story simply does not add up. If Nowak was bleeding so badly that he was minutes away from death, why was he handcuffed and dragged across the gravel??</description>
+      <guid isPermaLink="false">https://x.com/elonmusk/status/2060257648151314739</guid>
+      <pubDate>Fri, 29 May 2026 07:11:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>[elonmusk]True</title>
+      <link>https://x.com/elonmusk/status/2060257930281165059</link>
+      <description>True</description>
+      <guid isPermaLink="false">https://x.com/elonmusk/status/2060257930281165059</guid>
+      <pubDate>Fri, 29 May 2026 07:12:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Colorvzgj]#NINGNING
+
+Ningning is trending in the US. She truly deserves all the love!
+
+MUCHAS GRACIAS MI AMOR
+#NINGNING</title>
+      <link>https://x.com/Colorvzgj/status/2060261826110034378</link>
+      <description>#NINGNING
+
+Ningning is trending in the US. She truly deserves all the love!
+
+MUCHAS GRACIAS MI AMOR
+#NINGNING</description>
+      <guid isPermaLink="false">https://x.com/Colorvzgj/status/2060261826110034378</guid>
+      <pubDate>Fri, 29 May 2026 07:27:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>[itboypop]i love how jimins braids were so cute it's now becoming a trending hairstyle
+
+https://www.tiktok.com/@with_love_manshi/video/7644175788761287943?_r=1&amp;_t=ZS-96l88YCzAkn</title>
+      <link>https://x.com/itboypop/status/2060261887523373365</link>
+      <description>i love how jimins braids were so cute it's now becoming a trending hairstyle
+
+https://www.tiktok.com/@with_love_manshi/video/7644175788761287943?_r=1&amp;_t=ZS-96l88YCzAkn</description>
+      <guid isPermaLink="false">https://x.com/itboypop/status/2060261887523373365</guid>
+      <pubDate>Fri, 29 May 2026 07:28:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>[finowizprime]Canada's economy faces a key test as March GDP data approaches. Economists expect growth of +0.1%, while oil prices near $90 continue to support exports and the Canadian dollar. Start Trading With Finowiz Prime.
+
+#CAD #ForexTrading #CanadaGDP #trending</title>
+      <link>https://x.com/finowizprime/status/2060262113718002142</link>
+      <description>Canada's economy faces a key test as March GDP data approaches. Economists expect growth of +0.1%, while oil prices near $90 continue to support exports and the Canadian dollar. Start Trading With Finowiz Prime.
+
+#CAD #ForexTrading #CanadaGDP #trending</description>
+      <guid isPermaLink="false">https://x.com/finowizprime/status/2060262113718002142</guid>
+      <pubDate>Fri, 29 May 2026 07:29:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
