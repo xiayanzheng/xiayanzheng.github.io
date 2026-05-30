@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 30 May 2026 00:56:22 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 30 May 2026 07:08:22 +0000</lastBuildDate>
     <item>
       <title>[@AnthropicAI] High-quality documents reduce agentic misalignment</title>
       <link>https://x.com/AnthropicAI/status/2052808801040859392</link>
@@ -918,13 +918,6 @@ So, why has Congress done nothing to address their concerns? Follow the money.</
       <pubDate>Thu, 14 May 2026 19:03:06 +0000</pubDate>
     </item>
     <item>
-      <title>[OpenAI]You've been asking for this one... Now in preview: Codex in the ChatGPT mobile app. Start new work, review outputs, steer execution, and approve next steps, all from the ChatGPT mobile app. Codex will keep running on your laptop, Mac mini, or devbox.</title>
-      <link>https://x.com/OpenAI/status/2055016850849993072</link>
-      <description>You've been asking for this one... Now in preview: Codex in the ChatGPT mobile app. Start new work, review outputs, steer execution, and approve next steps, all from the ChatGPT mobile app. Codex will keep running on your laptop, Mac mini, or devbox.</description>
-      <guid isPermaLink="false">https://x.com/OpenAI/status/2055016850849993072</guid>
-      <pubDate>Thu, 14 May 2026 20:06:12 +0000</pubDate>
-    </item>
-    <item>
       <title>[OpenAI]Rolling out today as a preview on iOS and Android in all supported regions.
 
 Support for connecting your phone to the Codex app on Windows is coming soon.
@@ -937,6 +930,13 @@ Support for connecting your phone to the Codex app on Windows is coming soon.
 
 https://openai.com/index/work-with-codex-from-anywhere/</description>
       <guid isPermaLink="false">https://x.com/OpenAI/status/2055016852133417389</guid>
+      <pubDate>Thu, 14 May 2026 20:06:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>[OpenAI]You've been asking for this one... Now in preview: Codex in the ChatGPT mobile app. Start new work, review outputs, steer execution, and approve next steps, all from the ChatGPT mobile app. Codex will keep running on your laptop, Mac mini, or devbox.</title>
+      <link>https://x.com/OpenAI/status/2055016850849993072</link>
+      <description>You've been asking for this one... Now in preview: Codex in the ChatGPT mobile app. Start new work, review outputs, steer execution, and approve next steps, all from the ChatGPT mobile app. Codex will keep running on your laptop, Mac mini, or devbox.</description>
+      <guid isPermaLink="false">https://x.com/OpenAI/status/2055016850849993072</guid>
       <pubDate>Thu, 14 May 2026 20:06:12 +0000</pubDate>
     </item>
     <item>
@@ -1732,9 +1732,9 @@ He became the YOUNGEST player in NBA history with 40+ points and 20+ rebounds in
       <pubDate>Tue, 19 May 2026 14:14:45 +0000</pubDate>
     </item>
     <item>
-      <title>[karpathy]Personal update: I've joined Anthropic. I think the next few years at the frontier of LLMs will be especially formative. I am very excited to join the team here and get back to R&amp;D.</title>
+      <title>[karpathy]Personal update: I've joined Anthropic. I think the next few years at the frontier of LLMs will be especially formative. I am very excited to join the team here and get back to R&amp;D. I remain deeply passionate about education and plan to resume my work on it in time.</title>
       <link>https://x.com/karpathy/status/2056753169888334312</link>
-      <description>Personal update: I've joined Anthropic. I think the next few years at the frontier of LLMs will be especially formative. I am very excited to join the team here and get back to R&amp;D.</description>
+      <description>Personal update: I've joined Anthropic. I think the next few years at the frontier of LLMs will be especially formative. I am very excited to join the team here and get back to R&amp;D. I remain deeply passionate about education and plan to resume my work on it in time.</description>
       <guid isPermaLink="false">https://x.com/karpathy/status/2056753169888334312</guid>
       <pubDate>Tue, 19 May 2026 15:05:42 +0000</pubDate>
     </item>
@@ -1970,17 +1970,17 @@ He became the YOUNGEST player in NBA history with 40+ points and 20+ rebounds in
       <pubDate>Wed, 20 May 2026 18:48:48 +0000</pubDate>
     </item>
     <item>
-      <title>[OpenAI]Today, we share a breakthrough on the planar unit distance problem, a famous open question first posed by Paul Erdős in 1946. An OpenAI model has now disproved that belief.</title>
-      <link>https://x.com/OpenAI/status/2057176201782075690</link>
-      <description>Today, we share a breakthrough on the planar unit distance problem, a famous open question first posed by Paul Erdős in 1946. An OpenAI model has now disproved that belief.</description>
-      <guid isPermaLink="false">https://x.com/OpenAI/status/2057176201782075690</guid>
-      <pubDate>Wed, 20 May 2026 19:06:41 +0000</pubDate>
-    </item>
-    <item>
       <title>[OpenAI]The proof came from a general-purpose reasoning model, not a system built specifically to solve math problems or this problem in particular, and represents an important milestone for the math and AI communities. https://openai.com/index/model-disproves-discrete-geometry-conjecture/</title>
       <link>https://x.com/OpenAI/status/2057176203166171317</link>
       <description>The proof came from a general-purpose reasoning model, not a system built specifically to solve math problems or this problem in particular, and represents an important milestone for the math and AI communities. https://openai.com/index/model-disproves-discrete-geometry-conjecture/</description>
       <guid isPermaLink="false">https://x.com/OpenAI/status/2057176203166171317</guid>
+      <pubDate>Wed, 20 May 2026 19:06:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>[OpenAI]Today, we share a breakthrough on the planar unit distance problem, a famous open question first posed by Paul Erdős in 1946. An OpenAI model has now disproved that belief.</title>
+      <link>https://x.com/OpenAI/status/2057176201782075690</link>
+      <description>Today, we share a breakthrough on the planar unit distance problem, a famous open question first posed by Paul Erdős in 1946. An OpenAI model has now disproved that belief.</description>
+      <guid isPermaLink="false">https://x.com/OpenAI/status/2057176201782075690</guid>
       <pubDate>Wed, 20 May 2026 19:06:41 +0000</pubDate>
     </item>
     <item>
@@ -2278,17 +2278,17 @@ He became the YOUNGEST player in NBA history with 40+ points and 20+ rebounds in
       <pubDate>Fri, 22 May 2026 12:53:57 +0000</pubDate>
     </item>
     <item>
-      <title>[HugoBlotFR]Price/performance is going to matter a lot for daily AI workflows. The winning model isn’t always the smartest one. It’s the one people can use often enough to actually change how they execute</title>
-      <link>https://x.com/HugoBlotFR/status/2057808206118653980</link>
-      <description>Price/performance is going to matter a lot for daily AI workflows. The winning model isn’t always the smartest one. It’s the one people can use often enough to actually change how they execute</description>
-      <guid isPermaLink="false">https://x.com/HugoBlotFR/status/2057808206118653980</guid>
-      <pubDate>Fri, 22 May 2026 12:58:03 +0000</pubDate>
-    </item>
-    <item>
       <title>[gideonfip]If you want to become AI-native, start by removing one painful, soul-sucking bottleneck by outsourcing that task to AI.</title>
       <link>https://x.com/gideonfip/status/2057808205582049764</link>
       <description>If you want to become AI-native, start by removing one painful, soul-sucking bottleneck by outsourcing that task to AI.</description>
       <guid isPermaLink="false">https://x.com/gideonfip/status/2057808205582049764</guid>
+      <pubDate>Fri, 22 May 2026 12:58:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>[HugoBlotFR]Price/performance is going to matter a lot for daily AI workflows. The winning model isn’t always the smartest one. It’s the one people can use often enough to actually change how they execute</title>
+      <link>https://x.com/HugoBlotFR/status/2057808206118653980</link>
+      <description>Price/performance is going to matter a lot for daily AI workflows. The winning model isn’t always the smartest one. It’s the one people can use often enough to actually change how they execute</description>
+      <guid isPermaLink="false">https://x.com/HugoBlotFR/status/2057808206118653980</guid>
       <pubDate>Fri, 22 May 2026 12:58:03 +0000</pubDate>
     </item>
     <item>
@@ -3324,17 +3324,17 @@ The truth has dropped ➡️ https://www.whitehouse.gov/aliens/</description>
       <pubDate>Fri, 29 May 2026 03:22:09 +0000</pubDate>
     </item>
     <item>
-      <title>[justinsuntron]Adoption is measured in usage. 5.2M daily active accounts on TRON.</title>
-      <link>https://x.com/justinsuntron/status/2060232270816321576</link>
-      <description>Adoption is measured in usage. 5.2M daily active accounts on TRON.</description>
-      <guid isPermaLink="false">https://x.com/justinsuntron/status/2060232270816321576</guid>
-      <pubDate>Fri, 29 May 2026 04:50:41 +0000</pubDate>
-    </item>
-    <item>
       <title>[justinsuntron]5.2M daily active accounts on TRON.</title>
       <link>https://x.com/justinsuntron/status/2060222270816321576</link>
       <description>5.2M daily active accounts on TRON.</description>
       <guid isPermaLink="false">https://x.com/justinsuntron/status/2060222270816321576</guid>
+      <pubDate>Fri, 29 May 2026 04:50:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>[justinsuntron]Adoption is measured in usage. 5.2M daily active accounts on TRON.</title>
+      <link>https://x.com/justinsuntron/status/2060232270816321576</link>
+      <description>Adoption is measured in usage. 5.2M daily active accounts on TRON.</description>
+      <guid isPermaLink="false">https://x.com/justinsuntron/status/2060232270816321576</guid>
       <pubDate>Fri, 29 May 2026 04:50:41 +0000</pubDate>
     </item>
     <item>
@@ -3602,17 +3602,13 @@ Download now to set your children up for success:
 
 Computer use now works on Windows, so Codex can take action on your Windows computer.
 
-And with Windows support for Codex in the ChatGPT mobile app, you can start, review, and steer tasks on the go while work continues on your Windows machine.
-
-An early experience, but we’re working on more ways to keep your work moving, wherever you are.</title>
+And with Windows support for Codex in the ChatGPT mobile app, you can start, review, and steer tasks on the go while work continues on your Windows machine.</title>
       <link>https://x.com/OpenAI/status/2060428604727771421</link>
       <description>Windows users, this one’s for you.
 
 Computer use now works on Windows, so Codex can take action on your Windows computer.
 
-And with Windows support for Codex in the ChatGPT mobile app, you can start, review, and steer tasks on the go while work continues on your Windows machine.
-
-An early experience, but we’re working on more ways to keep your work moving, wherever you are.</description>
+And with Windows support for Codex in the ChatGPT mobile app, you can start, review, and steer tasks on the go while work continues on your Windows machine.</description>
       <guid isPermaLink="false">https://x.com/OpenAI/status/2060428604727771421</guid>
       <pubDate>Fri, 29 May 2026 18:30:34 +0000</pubDate>
     </item>
@@ -3624,13 +3620,11 @@ An early experience, but we’re working on more ways to keep your work moving, 
       <pubDate>Fri, 29 May 2026 18:35:28 +0000</pubDate>
     </item>
     <item>
-      <title>[OpenAI]In conversation with OpenAI’s @markchen90, Terence reflects on a future where AI reduces the cognitive friction of research, helps preserve the paths behind discovery, and expands what mathematicians and scientists can attempt. 
-https://forum.openai.com/public/videos/event-replay-terence-tao-and-mark-chen-on-ai-and-mathatical-discovery-2026-03-11</title>
-      <link>https://x.com/OpenAI/status/2060451760033214653</link>
-      <description>In conversation with OpenAI’s @markchen90, Terence reflects on a future where AI reduces the cognitive friction of research, helps preserve the paths behind discovery, and expands what mathematicians and scientists can attempt. 
-https://forum.openai.com/public/videos/event-replay-terence-tao-and-mark-chen-on-ai-and-mathatical-discovery-2026-03-11</description>
-      <guid isPermaLink="false">https://x.com/OpenAI/status/2060451760033214653</guid>
-      <pubDate>Fri, 29 May 2026 20:02:35 +0000</pubDate>
+      <title>[WhiteHouse]Promises made, promises kept. LAW AND ORDER restored.</title>
+      <link>https://x.com/WhiteHouse/status/2060447084130509076</link>
+      <description>Promises made, promises kept. LAW AND ORDER restored.</description>
+      <guid isPermaLink="false">https://x.com/WhiteHouse/status/2060447084130509076</guid>
+      <pubDate>Fri, 29 May 2026 19:44:00 +0000</pubDate>
     </item>
     <item>
       <title>[OpenAI]AI can give researchers the freedom to pursue “crazier” ideas.
@@ -3641,6 +3635,15 @@ For Terence Tao, AI creates more room to experiment, test unexpected paths, and 
 
 For Terence Tao, AI creates more room to experiment, test unexpected paths, and discover what might otherwise stay out of reach.</description>
       <guid isPermaLink="false">https://x.com/OpenAI/status/2060451757818601808</guid>
+      <pubDate>Fri, 29 May 2026 20:02:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>[OpenAI]In conversation with OpenAI’s @markchen90, Terence reflects on a future where AI reduces the cognitive friction of research, helps preserve the paths behind discovery, and expands what mathematicians and scientists can attempt. 
+https://forum.openai.com/public/videos/event-replay-terence-tao-and-mark-chen-on-ai-and-mathatical-discovery-2026-03-11</title>
+      <link>https://x.com/OpenAI/status/2060451760033214653</link>
+      <description>In conversation with OpenAI’s @markchen90, Terence reflects on a future where AI reduces the cognitive friction of research, helps preserve the paths behind discovery, and expands what mathematicians and scientists can attempt. 
+https://forum.openai.com/public/videos/event-replay-terence-tao-and-mark-chen-on-ai-and-mathatical-discovery-2026-03-11</description>
+      <guid isPermaLink="false">https://x.com/OpenAI/status/2060451760033214653</guid>
       <pubDate>Fri, 29 May 2026 20:02:35 +0000</pubDate>
     </item>
     <item>
@@ -3676,6 +3679,41 @@ For Terence Tao, AI creates more room to experiment, test unexpected paths, and 
       <description>38% chance an AI safety bill is enacted this year. https://polymarket.com/event/us-enacts-ai-safety-bill-before-2027?via=x-afr2</description>
       <guid isPermaLink="false">https://x.com/Polymarket/status/2060506235787510177</guid>
       <pubDate>Fri, 29 May 2026 23:39:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>[justinsuntron]Keep going. Buy the dip</title>
+      <link>https://x.com/justinsuntron/status/2060564290667700337</link>
+      <description>Keep going. Buy the dip</description>
+      <guid isPermaLink="false">https://x.com/justinsuntron/status/2060564290667700337</guid>
+      <pubDate>Sat, 30 May 2026 03:29:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Polymarket]NEW: New Zealand’s defense minister calls for a “conversation” about the country’s anti-nuclear stance.</title>
+      <link>https://x.com/Polymarket/status/2060589219400102396</link>
+      <description>NEW: New Zealand’s defense minister calls for a “conversation” about the country’s anti-nuclear stance.</description>
+      <guid isPermaLink="false">https://x.com/Polymarket/status/2060589219400102396</guid>
+      <pubDate>Sat, 30 May 2026 05:08:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>[elonmusk]Their talk shows are awesome</title>
+      <link>https://x.com/elonmusk/status/2060610643305103429</link>
+      <description>Their talk shows are awesome</description>
+      <guid isPermaLink="false">https://x.com/elonmusk/status/2060610643305103429</guid>
+      <pubDate>Sat, 30 May 2026 06:33:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>[elonmusk]Impressive new drugs coming from Lilly!</title>
+      <link>https://x.com/elonmusk/status/2060610940924522986</link>
+      <description>Impressive new drugs coming from Lilly!</description>
+      <guid isPermaLink="false">https://x.com/elonmusk/status/2060610940924522986</guid>
+      <pubDate>Sat, 30 May 2026 06:35:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>[elonmusk]Very big upside</title>
+      <link>https://x.com/elonmusk/status/2060611306571403589</link>
+      <description>Very big upside</description>
+      <guid isPermaLink="false">https://x.com/elonmusk/status/2060611306571403589</guid>
+      <pubDate>Sat, 30 May 2026 06:36:34 +0000</pubDate>
     </item>
   </channel>
 </rss>
