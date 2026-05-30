@@ -7,91 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 30 May 2026 12:32:41 +0000</lastBuildDate>
-    <item>
-      <title>[@AnthropicAI] High-quality documents reduce agentic misalignment</title>
-      <link>https://x.com/AnthropicAI/status/2052808801040859392</link>
-      <description>High-quality documents based on Claude’s constitution, combined with fictional stories that portray an aligned AI, can reduce agentic misalignment by more than a factor of three—despite being unrelated to the evaluation scenario.</description>
-      <guid isPermaLink="false">https://x.com/AnthropicAI/status/2052808801040859392</guid>
-      <pubDate>Fri, 08 May 2026 17:52:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>[@AnthropicAI] Interventions for harmlessness and alignment</title>
-      <link>https://x.com/AnthropicAI/status/2052808806782964072</link>
-      <description>Finally, simple updates that diversify a model’s training data can make a difference. We added unrelated tools and system prompts to a simple chat dataset targeting harmlessness, and this reduced the blackmail rate faster.</description>
-      <guid isPermaLink="false">https://x.com/AnthropicAI/status/2052808806782964072</guid>
-      <pubDate>Fri, 08 May 2026 17:52:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>[@AnthropicAI] Teaching Claude to be more robust against misalignment</title>
-      <link>https://x.com/AnthropicAI/status/2052808809182060581</link>
-      <description>Read the full post here: https://alignment.anthropic.com/2026/teaching-claude-why/</description>
-      <guid isPermaLink="false">https://x.com/AnthropicAI/status/2052808809182060581</guid>
-      <pubDate>Fri, 08 May 2026 17:52:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>[@OpenAI] Preserving monitorability by avoiding CoT grading</title>
-      <link>https://x.com/OpenAI/status/2052845764507062349</link>
-      <description>Chain of thought monitors are a key layer of defense against AI agent misalignment. To preserve monitorability, we avoid penalizing misaligned reasoning during RL. We found a limited amount of accidental CoT grading which affected released models, and are sharing our analysis.</description>
-      <guid isPermaLink="false">https://x.com/OpenAI/status/2052845764507062349</guid>
-      <pubDate>Fri, 08 May 2026 20:19:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>[@WhiteHouse] Celebrating mothers on Mother’s Day</title>
-      <link>https://x.com/WhiteHouse/status/2053466209568362908</link>
-      <description>Today, we celebrate the mothers whose unwavering love, sacrifice, &amp; strength help mold the heart &amp; soul of our nation. To the millions of moms across America—&amp; to First Lady Melania Trump &amp; Second Lady Usha Vance—thank you. Happy Mother’s Day from the White House.</description>
-      <guid isPermaLink="false">https://x.com/WhiteHouse/status/2053466209568362908</guid>
-      <pubDate>Sun, 10 May 2026 13:24:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>[@WhiteHouse] Happy Mother’s Day from the Trump Administration</title>
-      <link>https://x.com/WhiteHouse/status/2053482165673869779</link>
-      <description>🤍 Happy Mother’s Day from the Trump Administration! To every mom shaping America’s future — thank you. Today we’re sharing heartfelt stories from @SLOTUS, Cabinet Secretaries &amp; their families — plus how President Trump is supporting families more than ever.</description>
-      <guid isPermaLink="false">https://x.com/WhiteHouse/status/2053482165673869779</guid>
-      <pubDate>Sun, 10 May 2026 14:27:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>[WhiteHouse] "At the very heart of America’s strength lies the boundless love and quiet power of mothers." - First Lady Melania Trump</title>
-      <link>https://x.com/WhiteHouse/status/2053512118368911749</link>
-      <description>"At the very heart of America’s strength lies the boundless love and quiet power of mothers." - First Lady Melania Trump</description>
-      <guid isPermaLink="false">https://x.com/WhiteHouse/status/2053512118368911749</guid>
-      <pubDate>Sun, 10 May 2026 16:26:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>[WhiteHouse] They will be laughing no longer!</title>
-      <link>https://x.com/WhiteHouse/status/2053535660376535453</link>
-      <description>They will be laughing no longer!</description>
-      <guid isPermaLink="false">https://x.com/WhiteHouse/status/2053535660376535453</guid>
-      <pubDate>Sun, 10 May 2026 18:00:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Polymarket] JUST IN: Trump reportedly plans to host Xi Jinping for a U.S. visit later in 2026.</title>
-      <link>https://x.com/Polymarket/status/2053547328435376580</link>
-      <description>JUST IN: Trump reportedly plans to host Xi Jinping for a U.S. visit later in 2026.</description>
-      <guid isPermaLink="false">https://x.com/Polymarket/status/2053547328435376580</guid>
-      <pubDate>Sun, 10 May 2026 18:46:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Polymarket] 73% chance Xi visits the U.S. this year.</title>
-      <link>https://x.com/Polymarket/status/2053547526263824700</link>
-      <description>73% chance Xi visits the U.S. this year. https://polymarket.com/event/will-xi-jinping-visit-us-before-2027/will-xi-jinping-visit-us-before-2027?via=x-afr2</description>
-      <guid isPermaLink="false">https://x.com/Polymarket/status/2053547526263824700</guid>
-      <pubDate>Sun, 10 May 2026 18:47:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>[@WhiteHouse] Trump Accounts supporting American families</title>
-      <link>https://x.com/WhiteHouse/status/2053547959447376012</link>
-      <description>THE GIFT THAT KEEPS ON GIVING. The Trump Administration is supporting American families like never before with Trump Accounts, helping give the next generation a jumpstart toward their future. https://trumpaccounts.gov/ 💸</description>
-      <guid isPermaLink="false">https://x.com/WhiteHouse/status/2053547959447376012</guid>
-      <pubDate>Sun, 10 May 2026 18:49:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Polymarket] JUST IN: Iran reportedly proposes to transfer “some” of its enriched uranium to a third country.</title>
-      <link>https://x.com/Polymarket/status/2053555129505239324</link>
-      <description>JUST IN: Iran reportedly proposes to transfer “some” of its enriched uranium to a third country.</description>
-      <guid isPermaLink="false">https://x.com/Polymarket/status/2053555129505239324</guid>
-      <pubDate>Sun, 10 May 2026 19:17:50 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 30 May 2026 18:31:08 +0000</lastBuildDate>
     <item>
       <title>[Polymarket] 12% chance Iran agrees to surrender its enriched uranium by the end of the month.</title>
       <link>https://x.com/Polymarket/status/2053555522599575601</link>
@@ -918,13 +834,6 @@ So, why has Congress done nothing to address their concerns? Follow the money.</
       <pubDate>Thu, 14 May 2026 19:03:06 +0000</pubDate>
     </item>
     <item>
-      <title>[OpenAI]You've been asking for this one... Now in preview: Codex in the ChatGPT mobile app. Start new work, review outputs, steer execution, and approve next steps, all from the ChatGPT mobile app. Codex will keep running on your laptop, Mac mini, or devbox.</title>
-      <link>https://x.com/OpenAI/status/2055016850849993072</link>
-      <description>You've been asking for this one... Now in preview: Codex in the ChatGPT mobile app. Start new work, review outputs, steer execution, and approve next steps, all from the ChatGPT mobile app. Codex will keep running on your laptop, Mac mini, or devbox.</description>
-      <guid isPermaLink="false">https://x.com/OpenAI/status/2055016850849993072</guid>
-      <pubDate>Thu, 14 May 2026 20:06:12 +0000</pubDate>
-    </item>
-    <item>
       <title>[OpenAI]Rolling out today as a preview on iOS and Android in all supported regions.
 
 Support for connecting your phone to the Codex app on Windows is coming soon.
@@ -937,6 +846,13 @@ Support for connecting your phone to the Codex app on Windows is coming soon.
 
 https://openai.com/index/work-with-codex-from-anywhere/</description>
       <guid isPermaLink="false">https://x.com/OpenAI/status/2055016852133417389</guid>
+      <pubDate>Thu, 14 May 2026 20:06:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>[OpenAI]You've been asking for this one... Now in preview: Codex in the ChatGPT mobile app. Start new work, review outputs, steer execution, and approve next steps, all from the ChatGPT mobile app. Codex will keep running on your laptop, Mac mini, or devbox.</title>
+      <link>https://x.com/OpenAI/status/2055016850849993072</link>
+      <description>You've been asking for this one... Now in preview: Codex in the ChatGPT mobile app. Start new work, review outputs, steer execution, and approve next steps, all from the ChatGPT mobile app. Codex will keep running on your laptop, Mac mini, or devbox.</description>
+      <guid isPermaLink="false">https://x.com/OpenAI/status/2055016850849993072</guid>
       <pubDate>Thu, 14 May 2026 20:06:12 +0000</pubDate>
     </item>
     <item>
@@ -1970,17 +1886,17 @@ He became the YOUNGEST player in NBA history with 40+ points and 20+ rebounds in
       <pubDate>Wed, 20 May 2026 18:48:48 +0000</pubDate>
     </item>
     <item>
-      <title>[OpenAI]Today, we share a breakthrough on the planar unit distance problem, a famous open question first posed by Paul Erdős in 1946. An OpenAI model has now disproved that belief.</title>
-      <link>https://x.com/OpenAI/status/2057176201782075690</link>
-      <description>Today, we share a breakthrough on the planar unit distance problem, a famous open question first posed by Paul Erdős in 1946. An OpenAI model has now disproved that belief.</description>
-      <guid isPermaLink="false">https://x.com/OpenAI/status/2057176201782075690</guid>
-      <pubDate>Wed, 20 May 2026 19:06:41 +0000</pubDate>
-    </item>
-    <item>
       <title>[OpenAI]The proof came from a general-purpose reasoning model, not a system built specifically to solve math problems or this problem in particular, and represents an important milestone for the math and AI communities. https://openai.com/index/model-disproves-discrete-geometry-conjecture/</title>
       <link>https://x.com/OpenAI/status/2057176203166171317</link>
       <description>The proof came from a general-purpose reasoning model, not a system built specifically to solve math problems or this problem in particular, and represents an important milestone for the math and AI communities. https://openai.com/index/model-disproves-discrete-geometry-conjecture/</description>
       <guid isPermaLink="false">https://x.com/OpenAI/status/2057176203166171317</guid>
+      <pubDate>Wed, 20 May 2026 19:06:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>[OpenAI]Today, we share a breakthrough on the planar unit distance problem, a famous open question first posed by Paul Erdős in 1946. An OpenAI model has now disproved that belief.</title>
+      <link>https://x.com/OpenAI/status/2057176201782075690</link>
+      <description>Today, we share a breakthrough on the planar unit distance problem, a famous open question first posed by Paul Erdős in 1946. An OpenAI model has now disproved that belief.</description>
+      <guid isPermaLink="false">https://x.com/OpenAI/status/2057176201782075690</guid>
       <pubDate>Wed, 20 May 2026 19:06:41 +0000</pubDate>
     </item>
     <item>
@@ -2278,17 +2194,17 @@ He became the YOUNGEST player in NBA history with 40+ points and 20+ rebounds in
       <pubDate>Fri, 22 May 2026 12:53:57 +0000</pubDate>
     </item>
     <item>
-      <title>[HugoBlotFR]Price/performance is going to matter a lot for daily AI workflows. The winning model isn’t always the smartest one. It’s the one people can use often enough to actually change how they execute</title>
-      <link>https://x.com/HugoBlotFR/status/2057808206118653980</link>
-      <description>Price/performance is going to matter a lot for daily AI workflows. The winning model isn’t always the smartest one. It’s the one people can use often enough to actually change how they execute</description>
-      <guid isPermaLink="false">https://x.com/HugoBlotFR/status/2057808206118653980</guid>
-      <pubDate>Fri, 22 May 2026 12:58:03 +0000</pubDate>
-    </item>
-    <item>
       <title>[gideonfip]If you want to become AI-native, start by removing one painful, soul-sucking bottleneck by outsourcing that task to AI.</title>
       <link>https://x.com/gideonfip/status/2057808205582049764</link>
       <description>If you want to become AI-native, start by removing one painful, soul-sucking bottleneck by outsourcing that task to AI.</description>
       <guid isPermaLink="false">https://x.com/gideonfip/status/2057808205582049764</guid>
+      <pubDate>Fri, 22 May 2026 12:58:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>[HugoBlotFR]Price/performance is going to matter a lot for daily AI workflows. The winning model isn’t always the smartest one. It’s the one people can use often enough to actually change how they execute</title>
+      <link>https://x.com/HugoBlotFR/status/2057808206118653980</link>
+      <description>Price/performance is going to matter a lot for daily AI workflows. The winning model isn’t always the smartest one. It’s the one people can use often enough to actually change how they execute</description>
+      <guid isPermaLink="false">https://x.com/HugoBlotFR/status/2057808206118653980</guid>
       <pubDate>Fri, 22 May 2026 12:58:03 +0000</pubDate>
     </item>
     <item>
@@ -3324,17 +3240,17 @@ The truth has dropped ➡️ https://www.whitehouse.gov/aliens/</description>
       <pubDate>Fri, 29 May 2026 03:22:09 +0000</pubDate>
     </item>
     <item>
-      <title>[justinsuntron]Adoption is measured in usage. 5.2M daily active accounts on TRON.</title>
-      <link>https://x.com/justinsuntron/status/2060232270816321576</link>
-      <description>Adoption is measured in usage. 5.2M daily active accounts on TRON.</description>
-      <guid isPermaLink="false">https://x.com/justinsuntron/status/2060232270816321576</guid>
-      <pubDate>Fri, 29 May 2026 04:50:41 +0000</pubDate>
-    </item>
-    <item>
       <title>[justinsuntron]5.2M daily active accounts on TRON.</title>
       <link>https://x.com/justinsuntron/status/2060222270816321576</link>
       <description>5.2M daily active accounts on TRON.</description>
       <guid isPermaLink="false">https://x.com/justinsuntron/status/2060222270816321576</guid>
+      <pubDate>Fri, 29 May 2026 04:50:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>[justinsuntron]Adoption is measured in usage. 5.2M daily active accounts on TRON.</title>
+      <link>https://x.com/justinsuntron/status/2060232270816321576</link>
+      <description>Adoption is measured in usage. 5.2M daily active accounts on TRON.</description>
+      <guid isPermaLink="false">https://x.com/justinsuntron/status/2060232270816321576</guid>
       <pubDate>Fri, 29 May 2026 04:50:41 +0000</pubDate>
     </item>
     <item>
@@ -3630,15 +3546,6 @@ And with Windows support for Codex in the ChatGPT mobile app, you can start, rev
       <pubDate>Fri, 29 May 2026 19:44:00 +0000</pubDate>
     </item>
     <item>
-      <title>[OpenAI]In conversation with OpenAI’s @markchen90, Terence reflects on a future where AI reduces the cognitive friction of research, helps preserve the paths behind discovery, and expands what mathematicians and scientists can attempt. 
-https://forum.openai.com/public/videos/event-replay-terence-tao-and-mark-chen-on-ai-and-mathatical-discovery-2026-03-11</title>
-      <link>https://x.com/OpenAI/status/2060451760033214653</link>
-      <description>In conversation with OpenAI’s @markchen90, Terence reflects on a future where AI reduces the cognitive friction of research, helps preserve the paths behind discovery, and expands what mathematicians and scientists can attempt. 
-https://forum.openai.com/public/videos/event-replay-terence-tao-and-mark-chen-on-ai-and-mathatical-discovery-2026-03-11</description>
-      <guid isPermaLink="false">https://x.com/OpenAI/status/2060451760033214653</guid>
-      <pubDate>Fri, 29 May 2026 20:02:35 +0000</pubDate>
-    </item>
-    <item>
       <title>[OpenAI]AI can give researchers the freedom to pursue “crazier” ideas.
 
 For Terence Tao, AI creates more room to experiment, test unexpected paths, and discover what might otherwise stay out of reach.</title>
@@ -3647,6 +3554,15 @@ For Terence Tao, AI creates more room to experiment, test unexpected paths, and 
 
 For Terence Tao, AI creates more room to experiment, test unexpected paths, and discover what might otherwise stay out of reach.</description>
       <guid isPermaLink="false">https://x.com/OpenAI/status/2060451757818601808</guid>
+      <pubDate>Fri, 29 May 2026 20:02:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>[OpenAI]In conversation with OpenAI’s @markchen90, Terence reflects on a future where AI reduces the cognitive friction of research, helps preserve the paths behind discovery, and expands what mathematicians and scientists can attempt. 
+https://forum.openai.com/public/videos/event-replay-terence-tao-and-mark-chen-on-ai-and-mathatical-discovery-2026-03-11</title>
+      <link>https://x.com/OpenAI/status/2060451760033214653</link>
+      <description>In conversation with OpenAI’s @markchen90, Terence reflects on a future where AI reduces the cognitive friction of research, helps preserve the paths behind discovery, and expands what mathematicians and scientists can attempt. 
+https://forum.openai.com/public/videos/event-replay-terence-tao-and-mark-chen-on-ai-and-mathatical-discovery-2026-03-11</description>
+      <guid isPermaLink="false">https://x.com/OpenAI/status/2060451760033214653</guid>
       <pubDate>Fri, 29 May 2026 20:02:35 +0000</pubDate>
     </item>
     <item>
@@ -3698,6 +3614,38 @@ For Terence Tao, AI creates more room to experiment, test unexpected paths, and 
       <pubDate>Sat, 30 May 2026 02:14:09 +0000</pubDate>
     </item>
     <item>
+      <title>[polypocketknife]i feel bad for this person. you can really tell how hard they’re struggling just to write this simple reddit post.
+“how do you stop sound AI”
+“there’s so many lack of emotion”
+our education system is completely broken, literacy rates are falling, and AI is only making it worse.</title>
+      <link>https://x.com/polypocketknife/status/2060557822719639707</link>
+      <description>i feel bad for this person. you can really tell how hard they’re struggling just to write this simple reddit post.
+“how do you stop sound AI”
+“there’s so many lack of emotion”
+our education system is completely broken, literacy rates are falling, and AI is only making it worse.</description>
+      <guid isPermaLink="false">https://x.com/polypocketknife/status/2060557822719639707</guid>
+      <pubDate>Sat, 30 May 2026 03:04:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>[kana__143500]政治家にも、成績表が必要じゃない？
+公約を守ったか。説明したか。
+税金をどう使ったか。
+それを毎年AIで見える化する。
+政治不信だから選挙に行かないんじゃなくて、
+成績表を見て落とす。
+こっちの方が健全でしょ。</title>
+      <link>https://x.com/kana__143500/status/2060559866377437637</link>
+      <description>政治家にも、成績表が必要じゃない？
+公約を守ったか。説明したか。
+税金をどう使ったか。
+それを毎年AIで見える化する。
+政治不信だから選挙に行かないんじゃなくて、
+成績表を見て落とす。
+こっちの方が健全でしょ。</description>
+      <guid isPermaLink="false">https://x.com/kana__143500/status/2060559866377437637</guid>
+      <pubDate>Sat, 30 May 2026 03:12:10 +0000</pubDate>
+    </item>
+    <item>
       <title>[justinsuntron]Keep going. Buy the dip</title>
       <link>https://x.com/justinsuntron/status/2060564290667700337</link>
       <description>Keep going. Buy the dip</description>
@@ -3705,11 +3653,32 @@ For Terence Tao, AI creates more room to experiment, test unexpected paths, and 
       <pubDate>Sat, 30 May 2026 03:29:44 +0000</pubDate>
     </item>
     <item>
+      <title>[wariocolosseum]i want gen ai to be completely annihilated before the year ends</title>
+      <link>https://x.com/wariocolosseum/status/2060585493717450957</link>
+      <description>i want gen ai to be completely annihilated before the year ends</description>
+      <guid isPermaLink="false">https://x.com/wariocolosseum/status/2060585493717450957</guid>
+      <pubDate>Sat, 30 May 2026 04:54:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[KELAPAB0TAK]eh gwkasitau ya,, nanti lu uts uas gambar dasar, anatomi, konstruk, ilustrasi dasar itu dikerjain di tempat selama 2 jam diawasin dosen... AI gabisa nolong lu bajigur</title>
+      <link>https://x.com/KELAPAB0TAK/status/2060586407496929400</link>
+      <description>eh gwkasitau ya,, nanti lu uts uas gambar dasar, anatomi, konstruk, ilustrasi dasar itu dikerjain di tempat selama 2 jam diawasin dosen... AI gabisa nolong lu bajigur</description>
+      <guid isPermaLink="false">https://x.com/KELAPAB0TAK/status/2060586407496929400</guid>
+      <pubDate>Sat, 30 May 2026 04:57:38 +0000</pubDate>
+    </item>
+    <item>
       <title>[Polymarket]NEW: New Zealand’s defense minister calls for a “conversation” about the country’s anti-nuclear stance.</title>
       <link>https://x.com/Polymarket/status/2060589219400102396</link>
       <description>NEW: New Zealand’s defense minister calls for a “conversation” about the country’s anti-nuclear stance.</description>
       <guid isPermaLink="false">https://x.com/Polymarket/status/2060589219400102396</guid>
       <pubDate>Sat, 30 May 2026 05:08:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>[thebigjohnnyd]The Google ai push is proof that billionaires truly are cartoonishly greedy, they had a beloved product that worked properly and was printing billions of dollars for them and intentionally broke it in the hopes that breaking it could make them a few extra bucks right now</title>
+      <link>https://x.com/thebigjohnnyd/status/2060594639569330466</link>
+      <description>The Google ai push is proof that billionaires truly are cartoonishly greedy, they had a beloved product that worked properly and was printing billions of dollars for them and intentionally broke it in the hopes that breaking it could make them a few extra bucks right now</description>
+      <guid isPermaLink="false">https://x.com/thebigjohnnyd/status/2060594639569330466</guid>
+      <pubDate>Sat, 30 May 2026 05:30:20 +0000</pubDate>
     </item>
     <item>
       <title>[elonmusk]Frank is right</title>
@@ -3740,11 +3709,150 @@ For Terence Tao, AI creates more room to experiment, test unexpected paths, and 
       <pubDate>Sat, 30 May 2026 06:36:34 +0000</pubDate>
     </item>
     <item>
+      <title>[miyamoyame]大物声優が反AIになって悲しい&gt;&lt;
+みたいなこと言ってる奴見かけたけど、そもそも絵でも声でも勝手に学習に使うな、使いたければ許諾得て料金を払えと言うだけの話をずっと反AI()扱いしてるのが頭おかしいからな</title>
+      <link>https://x.com/miyamoyame/status/2060627537617957098</link>
+      <description>大物声優が反AIになって悲しい&gt;&lt;
+みたいなこと言ってる奴見かけたけど、そもそも絵でも声でも勝手に学習に使うな、使いたければ許諾得て料金を払えと言うだけの話をずっと反AI()扱いしてるのが頭おかしいからな</description>
+      <guid isPermaLink="false">https://x.com/miyamoyame/status/2060627537617957098</guid>
+      <pubDate>Sat, 30 May 2026 07:41:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>[ethereaIised]is this gif ai ive always wondered…</title>
+      <link>https://x.com/ethereaIised/status/2060652546516025445</link>
+      <description>is this gif ai ive always wondered…</description>
+      <guid isPermaLink="false">https://x.com/ethereaIised/status/2060652546516025445</guid>
+      <pubDate>Sat, 30 May 2026 09:20:26 +0000</pubDate>
+    </item>
+    <item>
       <title>[heyrimsha]Two brothers from Sydney ... rewrote PyTorch's backpropagation by hand. Their code now powers fine-tuning at Canva, NASA... The company is called Unsloth.</title>
       <link>https://x.com/heyrimsha/status/2060681674653131249</link>
       <description>Two brothers from Sydney ... rewrote PyTorch's backpropagation by hand. Their code now powers fine-tuning at Canva, NASA... The company is called Unsloth.</description>
       <guid isPermaLink="false">https://x.com/heyrimsha/status/2060681674653131249</guid>
       <pubDate>Sat, 30 May 2026 11:16:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>[SDDonovan]Hot take. Running your writing through these "detectors" probably trains an AI somewhere.</title>
+      <link>https://x.com/SDDonovan/status/2060687931094729028</link>
+      <description>Hot take. Running your writing through these "detectors" probably trains an AI somewhere.</description>
+      <guid isPermaLink="false">https://x.com/SDDonovan/status/2060687931094729028</guid>
+      <pubDate>Sat, 30 May 2026 11:41:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>[brendasafra]remove tatuagem perfeitamente, aí eu vou passar nas minhas olheiras e elas ficam CINZAS</title>
+      <link>https://x.com/brendasafra/status/2060689583994548230</link>
+      <description>remove tatuagem perfeitamente, aí eu vou passar nas minhas olheiras e elas ficam CINZAS</description>
+      <guid isPermaLink="false">https://x.com/brendasafra/status/2060689583994548230</guid>
+      <pubDate>Sat, 30 May 2026 11:47:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Arlecchinio]Kenapa ya orang yang dikasih FASILITAS lengkap gini malah make Ai puqii, yg beneran bisa gambar aja MAKE JARI.</title>
+      <link>https://x.com/Arlecchinio/status/2060691899544162670</link>
+      <description>Kenapa ya orang yang dikasih FASILITAS lengkap gini malah make Ai puqii, yg beneran bisa gambar aja MAKE JARI.</description>
+      <guid isPermaLink="false">https://x.com/Arlecchinio/status/2060691899544162670</guid>
+      <pubDate>Sat, 30 May 2026 11:56:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>[sakacho_6_7]羽月隆太郎 
+「タウンワークとかタイミーを入れて15件ほどバイトに応募してAIと面接したが、全部落ちました」</title>
+      <link>https://x.com/sakacho_6_7/status/2060703732556562595</link>
+      <description>羽月隆太郎 
+「タウンワークとかタイミーを入れて15件ほどバイトに応募してAIと面接したが、全部落ちました」</description>
+      <guid isPermaLink="false">https://x.com/sakacho_6_7/status/2060703732556562595</guid>
+      <pubDate>Sat, 30 May 2026 12:43:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>[OrevaZSN]“You’re going to get left behind if you don’t use AI.”
+Leave me then. Leave me with my critical thinking skills, my ability to read and write long-form, and books without needing AI summaries.</title>
+      <link>https://x.com/OrevaZSN/status/2060709095900905738</link>
+      <description>“You’re going to get left behind if you don’t use AI.”
+Leave me then. Leave me with my critical thinking skills, my ability to read and write long-form, and books without needing AI summaries.</description>
+      <guid isPermaLink="false">https://x.com/OrevaZSN/status/2060709095900905738</guid>
+      <pubDate>Sat, 30 May 2026 13:05:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BolsonaroSP]Aí sim!</title>
+      <link>https://x.com/BolsonaroSP/status/2060720365777621171</link>
+      <description>Aí sim!</description>
+      <guid isPermaLink="false">https://x.com/BolsonaroSP/status/2060720365777621171</guid>
+      <pubDate>Sat, 30 May 2026 13:49:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Pirat_Nation]MiHoYo burned through nearly $300,000 worth of AI tokens in just 13 hours during an internal AI experiment.
+The story came from Zheng Yinhe, head of the AI NPC speaking at the 2026 Alibaba Cloud Summit. 
+According to him, an employee set up dozens of AI agents to work together on a project. The agents kept talking to each other, generating outputs, and reviewing each other’s work, causing token usage to skyrocket overnight.
+The expensive experiment didn’t pay off. Despite the massive cost, the final results were reportedly full of hallucinations and unusable.</title>
+      <link>https://x.com/Pirat_Nation/status/2060723403301269859</link>
+      <description>MiHoYo burned through nearly $300,000 worth of AI tokens in just 13 hours during an internal AI experiment.
+The story came from Zheng Yinhe, head of the AI NPC speaking at the 2026 Alibaba Cloud Summit. 
+According to him, an employee set up dozens of AI agents to work together on a project. The agents kept talking to each other, generating outputs, and reviewing each other’s work, causing token usage to skyrocket overnight.
+The expensive experiment didn’t pay off. Despite the massive cost, the final results were reportedly full of hallucinations and unusable.</description>
+      <guid isPermaLink="false">https://x.com/Pirat_Nation/status/2060723403301269859</guid>
+      <pubDate>Sat, 30 May 2026 14:02:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[WhiteHouse]"President Trump remains in excellent health... Cognitive and physical performance are excellent. He is fully fit to carry out all duties of the Commander-in-Chief and Head of State."
+
+CAPT SEAN P. BARBABELLA. DO, MC, USN
+PHYSICIAN TO THE PRESIDENT</title>
+      <link>https://x.com/WhiteHouse/status/2060723489292661124</link>
+      <description>"President Trump remains in excellent health... Cognitive and physical performance are excellent. He is fully fit to carry out all duties of the Commander-in-Chief and Head of State."
+
+CAPT SEAN P. BARBABELLA. DO, MC, USN
+PHYSICIAN TO THE PRESIDENT</description>
+      <guid isPermaLink="false">https://x.com/WhiteHouse/status/2060723489292661124</guid>
+      <pubDate>Sat, 30 May 2026 14:02:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>[elonmusk]Release the body camera videos</title>
+      <link>https://x.com/elonmusk/status/2060749428483334465</link>
+      <description>Release the body camera videos</description>
+      <guid isPermaLink="false">https://x.com/elonmusk/status/2060749428483334465</guid>
+      <pubDate>Sat, 30 May 2026 15:45:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>[elonmusk]True</title>
+      <link>https://x.com/elonmusk/status/2060752902247891430</link>
+      <description>True</description>
+      <guid isPermaLink="false">https://x.com/elonmusk/status/2060752902247891430</guid>
+      <pubDate>Sat, 30 May 2026 15:59:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>[WhiteHouse]Can't stop watching this.
+VP Vance chest bumps for an hour straight. You're welcome. 🔁</title>
+      <link>https://x.com/WhiteHouse/status/2060754873298133225</link>
+      <description>Can't stop watching this.
+VP Vance chest bumps for an hour straight. You're welcome. 🔁</description>
+      <guid isPermaLink="false">https://x.com/WhiteHouse/status/2060754873298133225</guid>
+      <pubDate>Sat, 30 May 2026 16:07:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>[samengo_ofc]KKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKK PEGA ESSA BOMBA AI SEU MERDA</title>
+      <link>https://x.com/samengo_ofc/status/2060755038448804328</link>
+      <description>KKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKK PEGA ESSA BOMBA AI SEU MERDA</description>
+      <guid isPermaLink="false">https://x.com/samengo_ofc/status/2060755038448804328</guid>
+      <pubDate>Sat, 30 May 2026 16:07:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>[WhiteHouse]AMERICA IS BACK Rally!</title>
+      <link>https://x.com/WhiteHouse/status/2060763018187661370</link>
+      <description>AMERICA IS BACK Rally!</description>
+      <guid isPermaLink="false">https://x.com/WhiteHouse/status/2060763018187661370</guid>
+      <pubDate>Sat, 30 May 2026 16:39:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Polymarket]NEW: Former AI Czar David Sacks warns governments could wield AI against the public in an “Orwellian” way.</title>
+      <link>https://x.com/Polymarket/status/2060788014951838095</link>
+      <description>NEW: Former AI Czar David Sacks warns governments could wield AI against the public in an “Orwellian” way.</description>
+      <guid isPermaLink="false">https://x.com/Polymarket/status/2060788014951838095</guid>
+      <pubDate>Sat, 30 May 2026 18:18:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Polymarket]13% chance the U.S. enacts an AI safety bill. https://polymarket.com/event/us-enacts-ai-safety-bill-before-2027/us-enacts-ai-safety-bill-before-2027?via=x-afr2</title>
+      <link>https://x.com/Polymarket/status/2060788179079159959</link>
+      <description>13% chance the U.S. enacts an AI safety bill. https://polymarket.com/event/us-enacts-ai-safety-bill-before-2027/us-enacts-ai-safety-bill-before-2027?via=x-afr2</description>
+      <guid isPermaLink="false">https://x.com/Polymarket/status/2060788179079159959</guid>
+      <pubDate>Sat, 30 May 2026 18:19:24 +0000</pubDate>
     </item>
   </channel>
 </rss>
