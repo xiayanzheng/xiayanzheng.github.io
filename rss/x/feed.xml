@@ -7,55 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 31 May 2026 18:30:56 +0000</lastBuildDate>
-    <item>
-      <title>[justinsuntron]AI时代才刚刚开始。永远都有机会。 (AI era has just begun. There are always opportunities.)</title>
-      <link>https://x.com/justinsuntron/status/2054251433957163360</link>
-      <description>AI时代才刚刚开始。永远都有机会。 (AI era has just begun. There are always opportunities.)</description>
-      <guid isPermaLink="false">https://x.com/justinsuntron/status/2054251433957163360</guid>
-      <pubDate>Tue, 12 May 2026 17:24:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>[@Polymarket] NYC Mayor Mamdani</title>
-      <link>https://x.com/Polymarket/status/2054264064495292626</link>
-      <description>JUST IN: NYC Mayor Mamdani announces New York City has cut the $12 billion budget deficit to zero.</description>
-      <guid isPermaLink="false">https://x.com/Polymarket/status/2054264064495292626</guid>
-      <pubDate>Tue, 12 May 2026 18:14:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>[@Polymarket] Sam Altman testimony</title>
-      <link>https://x.com/Polymarket/status/2054266857872372033</link>
-      <description>JUST IN: Sam Altman testifies his 2023 firing as OpenAI CEO came via a 10 to 20 minute Google Meet.</description>
-      <guid isPermaLink="false">https://x.com/Polymarket/status/2054266857872372033</guid>
-      <pubDate>Tue, 12 May 2026 18:26:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[WhiteHouse]Back on the world stage. ✈️🇺🇸
-
-President Donald J. Trump heads to China, marking the first state visit by a U.S. president since his 2017 trip.</title>
-      <link>https://x.com/WhiteHouse/status/2054305958893920368</link>
-      <description>Back on the world stage. ✈️🇺🇸
-
-President Donald J. Trump heads to China, marking the first state visit by a U.S. president since his 2017 trip.</description>
-      <guid isPermaLink="false">https://x.com/WhiteHouse/status/2054305958893920368</guid>
-      <pubDate>Tue, 12 May 2026 21:01:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>[ClaudeDevs]How do you keep Claude working until the job is done? Claude Code helps with this in a few ways, including one we shipped recently: /goal.</title>
-      <link>https://x.com/ClaudeDevs/status/2054351031279186040</link>
-      <description>How do you keep Claude working until the job is done? Claude Code helps with this in a few ways, including one we shipped recently: /goal.</description>
-      <guid isPermaLink="false">https://x.com/ClaudeDevs/status/2054351031279186040</guid>
-      <pubDate>Wed, 13 May 2026 00:00:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Mrbankstips]AI is further blurring the lines of reality.
-Your eyes. Your ears. Your instincts. None of them were built for this.</title>
-      <link>https://x.com/Mrbankstips/status/2054355958583919024</link>
-      <description>AI is further blurring the lines of reality.
-Your eyes. Your ears. Your instincts. None of them were built for this.</description>
-      <guid isPermaLink="false">https://x.com/Mrbankstips/status/2054355958583919024</guid>
-      <pubDate>Wed, 13 May 2026 00:20:03 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 01 Jun 2026 01:04:34 +0000</lastBuildDate>
     <item>
       <title>[TheStalwart]You're going to be debating the potential future impact of AI every single day for the rest of your life (if you're lucky).</title>
       <link>https://x.com/TheStalwart/status/2054356703366320553</link>
@@ -427,6 +379,13 @@ So, why has Congress done nothing to address their concerns? Follow the money.</
       <pubDate>Thu, 14 May 2026 19:03:06 +0000</pubDate>
     </item>
     <item>
+      <title>[OpenAI]You've been asking for this one... Now in preview: Codex in the ChatGPT mobile app. Start new work, review outputs, steer execution, and approve next steps, all from the ChatGPT mobile app. Codex will keep running on your laptop, Mac mini, or devbox.</title>
+      <link>https://x.com/OpenAI/status/2055016850849993072</link>
+      <description>You've been asking for this one... Now in preview: Codex in the ChatGPT mobile app. Start new work, review outputs, steer execution, and approve next steps, all from the ChatGPT mobile app. Codex will keep running on your laptop, Mac mini, or devbox.</description>
+      <guid isPermaLink="false">https://x.com/OpenAI/status/2055016850849993072</guid>
+      <pubDate>Thu, 14 May 2026 20:06:12 +0000</pubDate>
+    </item>
+    <item>
       <title>[OpenAI]Rolling out today as a preview on iOS and Android in all supported regions.
 
 Support for connecting your phone to the Codex app on Windows is coming soon.
@@ -439,13 +398,6 @@ Support for connecting your phone to the Codex app on Windows is coming soon.
 
 https://openai.com/index/work-with-codex-from-anywhere/</description>
       <guid isPermaLink="false">https://x.com/OpenAI/status/2055016852133417389</guid>
-      <pubDate>Thu, 14 May 2026 20:06:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>[OpenAI]You've been asking for this one... Now in preview: Codex in the ChatGPT mobile app. Start new work, review outputs, steer execution, and approve next steps, all from the ChatGPT mobile app. Codex will keep running on your laptop, Mac mini, or devbox.</title>
-      <link>https://x.com/OpenAI/status/2055016850849993072</link>
-      <description>You've been asking for this one... Now in preview: Codex in the ChatGPT mobile app. Start new work, review outputs, steer execution, and approve next steps, all from the ChatGPT mobile app. Codex will keep running on your laptop, Mac mini, or devbox.</description>
-      <guid isPermaLink="false">https://x.com/OpenAI/status/2055016850849993072</guid>
       <pubDate>Thu, 14 May 2026 20:06:12 +0000</pubDate>
     </item>
     <item>
@@ -1241,9 +1193,9 @@ He became the YOUNGEST player in NBA history with 40+ points and 20+ rebounds in
       <pubDate>Tue, 19 May 2026 14:14:45 +0000</pubDate>
     </item>
     <item>
-      <title>[karpathy]Personal update: I've joined Anthropic. I think the next few years at the frontier of LLMs will be especially formative. I am very excited to join the team here and get back to R&amp;D. I remain deeply passionate about education and plan to resume my work on it in time.</title>
+      <title>[karpathy]Personal update: I've joined Anthropic. I think the next few years at the frontier of LLMs will be especially formative. I am very excited to join the team here and get back to R&amp;D.</title>
       <link>https://x.com/karpathy/status/2056753169888334312</link>
-      <description>Personal update: I've joined Anthropic. I think the next few years at the frontier of LLMs will be especially formative. I am very excited to join the team here and get back to R&amp;D. I remain deeply passionate about education and plan to resume my work on it in time.</description>
+      <description>Personal update: I've joined Anthropic. I think the next few years at the frontier of LLMs will be especially formative. I am very excited to join the team here and get back to R&amp;D.</description>
       <guid isPermaLink="false">https://x.com/karpathy/status/2056753169888334312</guid>
       <pubDate>Tue, 19 May 2026 15:05:42 +0000</pubDate>
     </item>
@@ -1479,17 +1431,17 @@ He became the YOUNGEST player in NBA history with 40+ points and 20+ rebounds in
       <pubDate>Wed, 20 May 2026 18:48:48 +0000</pubDate>
     </item>
     <item>
-      <title>[OpenAI]The proof came from a general-purpose reasoning model, not a system built specifically to solve math problems or this problem in particular, and represents an important milestone for the math and AI communities. https://openai.com/index/model-disproves-discrete-geometry-conjecture/</title>
-      <link>https://x.com/OpenAI/status/2057176203166171317</link>
-      <description>The proof came from a general-purpose reasoning model, not a system built specifically to solve math problems or this problem in particular, and represents an important milestone for the math and AI communities. https://openai.com/index/model-disproves-discrete-geometry-conjecture/</description>
-      <guid isPermaLink="false">https://x.com/OpenAI/status/2057176203166171317</guid>
-      <pubDate>Wed, 20 May 2026 19:06:41 +0000</pubDate>
-    </item>
-    <item>
       <title>[OpenAI]Today, we share a breakthrough on the planar unit distance problem, a famous open question first posed by Paul Erdős in 1946. An OpenAI model has now disproved that belief.</title>
       <link>https://x.com/OpenAI/status/2057176201782075690</link>
       <description>Today, we share a breakthrough on the planar unit distance problem, a famous open question first posed by Paul Erdős in 1946. An OpenAI model has now disproved that belief.</description>
       <guid isPermaLink="false">https://x.com/OpenAI/status/2057176201782075690</guid>
+      <pubDate>Wed, 20 May 2026 19:06:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>[OpenAI]The proof came from a general-purpose reasoning model, not a system built specifically to solve math problems or this problem in particular, and represents an important milestone for the math and AI communities. https://openai.com/index/model-disproves-discrete-geometry-conjecture/</title>
+      <link>https://x.com/OpenAI/status/2057176203166171317</link>
+      <description>The proof came from a general-purpose reasoning model, not a system built specifically to solve math problems or this problem in particular, and represents an important milestone for the math and AI communities. https://openai.com/index/model-disproves-discrete-geometry-conjecture/</description>
+      <guid isPermaLink="false">https://x.com/OpenAI/status/2057176203166171317</guid>
       <pubDate>Wed, 20 May 2026 19:06:41 +0000</pubDate>
     </item>
     <item>
@@ -1787,17 +1739,17 @@ He became the YOUNGEST player in NBA history with 40+ points and 20+ rebounds in
       <pubDate>Fri, 22 May 2026 12:53:57 +0000</pubDate>
     </item>
     <item>
-      <title>[gideonfip]If you want to become AI-native, start by removing one painful, soul-sucking bottleneck by outsourcing that task to AI.</title>
-      <link>https://x.com/gideonfip/status/2057808205582049764</link>
-      <description>If you want to become AI-native, start by removing one painful, soul-sucking bottleneck by outsourcing that task to AI.</description>
-      <guid isPermaLink="false">https://x.com/gideonfip/status/2057808205582049764</guid>
-      <pubDate>Fri, 22 May 2026 12:58:03 +0000</pubDate>
-    </item>
-    <item>
       <title>[HugoBlotFR]Price/performance is going to matter a lot for daily AI workflows. The winning model isn’t always the smartest one. It’s the one people can use often enough to actually change how they execute</title>
       <link>https://x.com/HugoBlotFR/status/2057808206118653980</link>
       <description>Price/performance is going to matter a lot for daily AI workflows. The winning model isn’t always the smartest one. It’s the one people can use often enough to actually change how they execute</description>
       <guid isPermaLink="false">https://x.com/HugoBlotFR/status/2057808206118653980</guid>
+      <pubDate>Fri, 22 May 2026 12:58:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>[gideonfip]If you want to become AI-native, start by removing one painful, soul-sucking bottleneck by outsourcing that task to AI.</title>
+      <link>https://x.com/gideonfip/status/2057808205582049764</link>
+      <description>If you want to become AI-native, start by removing one painful, soul-sucking bottleneck by outsourcing that task to AI.</description>
+      <guid isPermaLink="false">https://x.com/gideonfip/status/2057808205582049764</guid>
       <pubDate>Fri, 22 May 2026 12:58:03 +0000</pubDate>
     </item>
     <item>
@@ -2833,17 +2785,17 @@ The truth has dropped ➡️ https://www.whitehouse.gov/aliens/</description>
       <pubDate>Fri, 29 May 2026 03:22:09 +0000</pubDate>
     </item>
     <item>
-      <title>[justinsuntron]5.2M daily active accounts on TRON.</title>
-      <link>https://x.com/justinsuntron/status/2060222270816321576</link>
-      <description>5.2M daily active accounts on TRON.</description>
-      <guid isPermaLink="false">https://x.com/justinsuntron/status/2060222270816321576</guid>
-      <pubDate>Fri, 29 May 2026 04:50:41 +0000</pubDate>
-    </item>
-    <item>
       <title>[justinsuntron]Adoption is measured in usage. 5.2M daily active accounts on TRON.</title>
       <link>https://x.com/justinsuntron/status/2060232270816321576</link>
       <description>Adoption is measured in usage. 5.2M daily active accounts on TRON.</description>
       <guid isPermaLink="false">https://x.com/justinsuntron/status/2060232270816321576</guid>
+      <pubDate>Fri, 29 May 2026 04:50:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>[justinsuntron]5.2M daily active accounts on TRON.</title>
+      <link>https://x.com/justinsuntron/status/2060222270816321576</link>
+      <description>5.2M daily active accounts on TRON.</description>
+      <guid isPermaLink="false">https://x.com/justinsuntron/status/2060222270816321576</guid>
       <pubDate>Fri, 29 May 2026 04:50:41 +0000</pubDate>
     </item>
     <item>
@@ -3139,6 +3091,15 @@ And with Windows support for Codex in the ChatGPT mobile app, you can start, rev
       <pubDate>Fri, 29 May 2026 19:44:00 +0000</pubDate>
     </item>
     <item>
+      <title>[OpenAI]In conversation with OpenAI’s @markchen90, Terence reflects on a future where AI reduces the cognitive friction of research, helps preserve the paths behind discovery, and expands what mathematicians and scientists can attempt. 
+https://forum.openai.com/public/videos/event-replay-terence-tao-and-mark-chen-on-ai-and-mathatical-discovery-2026-03-11</title>
+      <link>https://x.com/OpenAI/status/2060451760033214653</link>
+      <description>In conversation with OpenAI’s @markchen90, Terence reflects on a future where AI reduces the cognitive friction of research, helps preserve the paths behind discovery, and expands what mathematicians and scientists can attempt. 
+https://forum.openai.com/public/videos/event-replay-terence-tao-and-mark-chen-on-ai-and-mathatical-discovery-2026-03-11</description>
+      <guid isPermaLink="false">https://x.com/OpenAI/status/2060451760033214653</guid>
+      <pubDate>Fri, 29 May 2026 20:02:35 +0000</pubDate>
+    </item>
+    <item>
       <title>[OpenAI]AI can give researchers the freedom to pursue “crazier” ideas.
 
 For Terence Tao, AI creates more room to experiment, test unexpected paths, and discover what might otherwise stay out of reach.</title>
@@ -3147,15 +3108,6 @@ For Terence Tao, AI creates more room to experiment, test unexpected paths, and 
 
 For Terence Tao, AI creates more room to experiment, test unexpected paths, and discover what might otherwise stay out of reach.</description>
       <guid isPermaLink="false">https://x.com/OpenAI/status/2060451757818601808</guid>
-      <pubDate>Fri, 29 May 2026 20:02:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>[OpenAI]In conversation with OpenAI’s @markchen90, Terence reflects on a future where AI reduces the cognitive friction of research, helps preserve the paths behind discovery, and expands what mathematicians and scientists can attempt. 
-https://forum.openai.com/public/videos/event-replay-terence-tao-and-mark-chen-on-ai-and-mathatical-discovery-2026-03-11</title>
-      <link>https://x.com/OpenAI/status/2060451760033214653</link>
-      <description>In conversation with OpenAI’s @markchen90, Terence reflects on a future where AI reduces the cognitive friction of research, helps preserve the paths behind discovery, and expands what mathematicians and scientists can attempt. 
-https://forum.openai.com/public/videos/event-replay-terence-tao-and-mark-chen-on-ai-and-mathatical-discovery-2026-03-11</description>
-      <guid isPermaLink="false">https://x.com/OpenAI/status/2060451760033214653</guid>
       <pubDate>Fri, 29 May 2026 20:02:35 +0000</pubDate>
     </item>
     <item>
@@ -3913,10 +3865,10 @@ Don’t miss it!</description>
       <pubDate>Sun, 31 May 2026 00:43:36 +0000</pubDate>
     </item>
     <item>
-      <title>[Seozilla_ai]Nice prompt, especially the analytics piece which helps track growth fast</title>
-      <link>https://x.com/Seozilla_ai/status/2060889281745375269</link>
-      <description>Nice prompt, especially the analytics piece which helps track growth fast</description>
-      <guid isPermaLink="false">https://x.com/Seozilla_ai/status/2060889281745375269</guid>
+      <title>[stocksprofesso]After seeing the news that Ai solved an80 years math problem I am sure this is not a bubble 🫧</title>
+      <link>https://x.com/stocksprofesso/status/2060889279082180910</link>
+      <description>After seeing the news that Ai solved an80 years math problem I am sure this is not a bubble 🫧</description>
+      <guid isPermaLink="false">https://x.com/stocksprofesso/status/2060889279082180910</guid>
       <pubDate>Sun, 31 May 2026 01:01:08 +0000</pubDate>
     </item>
     <item>
@@ -3929,24 +3881,24 @@ Don’t miss it!</description>
       <pubDate>Sun, 31 May 2026 01:01:08 +0000</pubDate>
     </item>
     <item>
-      <title>[stocksprofesso]After seeing the news that Ai solved an80 years math problem I am sure this is not a bubble 🫧</title>
-      <link>https://x.com/stocksprofesso/status/2060889279082180910</link>
-      <description>After seeing the news that Ai solved an80 years math problem I am sure this is not a bubble 🫧</description>
-      <guid isPermaLink="false">https://x.com/stocksprofesso/status/2060889279082180910</guid>
+      <title>[Seozilla_ai]Nice prompt, especially the analytics piece which helps track growth fast</title>
+      <link>https://x.com/Seozilla_ai/status/2060889281745375269</link>
+      <description>Nice prompt, especially the analytics piece which helps track growth fast</description>
+      <guid isPermaLink="false">https://x.com/Seozilla_ai/status/2060889281745375269</guid>
       <pubDate>Sun, 31 May 2026 01:01:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>[StackerSatoshi]Altcoins traded with a fairly strong correlation earlier this month, but over the past ~2 weeks, the AI sector has seen strong outperformance.</title>
-      <link>https://x.com/StackerSatoshi/status/2060889286094786802</link>
-      <description>Altcoins traded with a fairly strong correlation earlier this month, but over the past ~2 weeks, the AI sector has seen strong outperformance.</description>
-      <guid isPermaLink="false">https://x.com/StackerSatoshi/status/2060889286094786802</guid>
-      <pubDate>Sun, 31 May 2026 01:01:09 +0000</pubDate>
     </item>
     <item>
       <title>[zo_sephine]Trying to read city names on this map made me wonder if I was having a stroke. I cannot stand AI</title>
       <link>https://x.com/zo_sephine/status/2060889283301445942</link>
       <description>Trying to read city names on this map made me wonder if I was having a stroke. I cannot stand AI</description>
       <guid isPermaLink="false">https://x.com/zo_sephine/status/2060889283301445942</guid>
+      <pubDate>Sun, 31 May 2026 01:01:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>[StackerSatoshi]Altcoins traded with a fairly strong correlation earlier this month, but over the past ~2 weeks, the AI sector has seen strong outperformance.</title>
+      <link>https://x.com/StackerSatoshi/status/2060889286094786802</link>
+      <description>Altcoins traded with a fairly strong correlation earlier this month, but over the past ~2 weeks, the AI sector has seen strong outperformance.</description>
+      <guid isPermaLink="false">https://x.com/StackerSatoshi/status/2060889286094786802</guid>
       <pubDate>Sun, 31 May 2026 01:01:09 +0000</pubDate>
     </item>
     <item>
@@ -4201,6 +4153,13 @@ Senior developers are terrified of something much worse</description>
       <pubDate>Sun, 31 May 2026 12:37:00 +0000</pubDate>
     </item>
     <item>
+      <title>[justinsuntron]波场主网上线8周年</title>
+      <link>https://x.com/justinsuntron/status/2061115406543434181</link>
+      <description>波场主网上线8周年</description>
+      <guid isPermaLink="false">https://x.com/justinsuntron/status/2061115406543434181</guid>
+      <pubDate>Sun, 31 May 2026 15:59:41 +0000</pubDate>
+    </item>
+    <item>
       <title>[Polymarket]JUST IN: Zohran Mamdani is set to become the first sitting NYC mayor to not attend the Israel Day Parade in over 60 years.</title>
       <link>https://x.com/Polymarket/status/2061130642784407606</link>
       <description>JUST IN: Zohran Mamdani is set to become the first sitting NYC mayor to not attend the Israel Day Parade in over 60 years.</description>
@@ -4275,6 +4234,49 @@ Traide Score: +0.00 NEUTRAL ⚖️</description>
       <description>That's a pretty simplistic view. Building and deploying frontier AI isn't just about writing algorithms; it's an extreme engineering challenge. Architecting the compute infrastructure for pre-training models like GPT-4, for instance, required custom distributed systems software…</description>
       <guid isPermaLink="false">https://x.com/superaiwatcher/status/2061153355926274234</guid>
       <pubDate>Sun, 31 May 2026 18:30:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>[simonw]I'm really upset about this: OpenAI's Codex Desktop had a "Copy as Markdown" option for exporting full chat transcripts, but the feature vanished in an update a couple of days ago</title>
+      <link>https://x.com/simonw/status/2061158636311958005</link>
+      <description>I'm really upset about this: OpenAI's Codex Desktop had a "Copy as Markdown" option for exporting full chat transcripts, but the feature vanished in an update a couple of days ago</description>
+      <guid isPermaLink="false">https://x.com/simonw/status/2061158636311958005</guid>
+      <pubDate>Sun, 31 May 2026 18:51:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>[kimmonismus]Claude Mythos is $25 per million input tokens and $125 per million output tokens.
+
+I assume that the Mythos-like model that Anthropic will release in the coming weeks will be just as expensive.</title>
+      <link>https://x.com/kimmonismus/status/2061170599309791738</link>
+      <description>Claude Mythos is $25 per million input tokens and $125 per million output tokens.
+
+I assume that the Mythos-like model that Anthropic will release in the coming weeks will be just as expensive.</description>
+      <guid isPermaLink="false">https://x.com/kimmonismus/status/2061170599309791738</guid>
+      <pubDate>Sun, 31 May 2026 19:39:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[elonmusk]Try Tesla self-driving</title>
+      <link>https://x.com/elonmusk/status/2061221391937217011</link>
+      <description>Try Tesla self-driving</description>
+      <guid isPermaLink="false">https://x.com/elonmusk/status/2061221391937217011</guid>
+      <pubDate>Sun, 31 May 2026 23:00:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>[elonmusk]This is simply a fact</title>
+      <link>https://x.com/elonmusk/status/2061235363222614263</link>
+      <description>This is simply a fact</description>
+      <guid isPermaLink="false">https://x.com/elonmusk/status/2061235363222614263</guid>
+      <pubDate>Sun, 31 May 2026 23:56:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Polymarket]JUST IN: “The Tiger” Abelardo de la Espriella wins the most votes in Colombia’s first round &amp; advances to the presidential runoff.  
+
+82% chance he's Colombia's next president. — JUST IN: “The Tiger” Abelardo de la Espriella wins the most votes in Colombia’s first round &amp; advances to the presidential runoff. 82% chance he's Colombia's next president.</title>
+      <link>https://x.com/Polymarket/status/2061250724407681479</link>
+      <description>JUST IN: “The Tiger” Abelardo de la Espriella wins the most votes in Colombia’s first round &amp; advances to the presidential runoff.  
+
+82% chance he's Colombia's next president.</description>
+      <guid isPermaLink="false">https://x.com/Polymarket/status/2061250724407681479</guid>
+      <pubDate>Mon, 01 Jun 2026 00:57:23 +0000</pubDate>
     </item>
   </channel>
 </rss>
