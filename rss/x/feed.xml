@@ -7,70 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 06 Jun 2026 07:12:27 +0000</lastBuildDate>
-    <item>
-      <title>[FoxNews]Trump-backed Republicans rack up major primary victories across the country. Nearly 30 candidates endorsed by President Trump secure wins in congressional and statewide races across Kentucky, Georgia, Pennsylvania, and Alabama.</title>
-      <link>https://x.com/FoxNews/status/2057049982486646927</link>
-      <description>Trump-backed Republicans rack up major primary victories across the country. Nearly 30 candidates endorsed by President Trump secure wins in congressional and statewide races across Kentucky, Georgia, Pennsylvania, and Alabama.</description>
-      <guid isPermaLink="false">https://x.com/FoxNews/status/2057049982486646927</guid>
-      <pubDate>Wed, 20 May 2026 10:45:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Polymarket]JUST IN: U.S. prosecutors charge three Telekom Malaysia executives with stealing more than $20 million in an alleged AI-assisted fraud scheme.</title>
-      <link>https://x.com/Polymarket/status/2057058251934756865</link>
-      <description>JUST IN: U.S. prosecutors charge three Telekom Malaysia executives with stealing more than $20 million in an alleged AI-assisted fraud scheme.</description>
-      <guid isPermaLink="false">https://x.com/Polymarket/status/2057058251934756865</guid>
-      <pubDate>Wed, 20 May 2026 11:18:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[TheBoysOOCC]Homelander - #TheBoys Season 5 Episode 8</title>
-      <link>https://x.com/TheBoysOOCC/status/2057060013626290632</link>
-      <description>Homelander - #TheBoys Season 5 Episode 8</description>
-      <guid isPermaLink="false">https://x.com/TheBoysOOCC/status/2057060013626290632</guid>
-      <pubDate>Wed, 20 May 2026 11:25:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Polymarket]JUST IN: Trump reportedly preparing to tell NATO allies that U.S. will reduce the forces it makes available to the alliance during major crises.</title>
-      <link>https://x.com/Polymarket/status/2057080391710720357</link>
-      <description>JUST IN: Trump reportedly preparing to tell NATO allies that U.S. will reduce the forces it makes available to the alliance during major crises.</description>
-      <guid isPermaLink="false">https://x.com/Polymarket/status/2057080391710720357</guid>
-      <pubDate>Wed, 20 May 2026 12:45:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>[justinsuntron]Gemini 3.5 Flash is live on https://b.ai/</title>
-      <link>https://x.com/justinsuntron/status/2057082902001938610</link>
-      <description>Gemini 3.5 Flash is live on https://b.ai/</description>
-      <guid isPermaLink="false">https://x.com/justinsuntron/status/2057082902001938610</guid>
-      <pubDate>Wed, 20 May 2026 12:55:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>[elonmusk]Amazing price for performance!</title>
-      <link>https://x.com/elonmusk/status/2057106187938853180</link>
-      <description>Amazing price for performance!</description>
-      <guid isPermaLink="false">https://x.com/elonmusk/status/2057106187938853180</guid>
-      <pubDate>Wed, 20 May 2026 14:28:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>[elonmusk]There were massive international protests over George Floyd and those police involved were severely punished with long prison sentences, yet the police responsible here did not even lose their jobs! An incredibly unjust double-standard!</title>
-      <link>https://x.com/elonmusk/status/2057133365145608511</link>
-      <description>There were massive international protests over George Floyd and those police involved were severely punished with long prison sentences, yet the police responsible here did not even lose their jobs! An incredibly unjust double-standard!</description>
-      <guid isPermaLink="false">https://x.com/elonmusk/status/2057133365145608511</guid>
-      <pubDate>Wed, 20 May 2026 16:16:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>[WhiteHouse]In just eight months, President Trump's Intel deal has surged in value to more than $50 billion, a direct windfall for American taxpayers and a major boost for domestic manufacturing. 🇺🇸</title>
-      <link>https://x.com/WhiteHouse/status/2057150756310978623</link>
-      <description>In just eight months, President Trump's Intel deal has surged in value to more than $50 billion, a direct windfall for American taxpayers and a major boost for domestic manufacturing. 🇺🇸</description>
-      <guid isPermaLink="false">https://x.com/WhiteHouse/status/2057150756310978623</guid>
-      <pubDate>Wed, 20 May 2026 17:25:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>[WhiteHouse]🚨 The U.S. Department of Justice announces the indictment of Raúl Castro and several others with conspiracy to kill U.S. nationals. THE UNITED STATES &amp; PRESIDENT TRUMP WILL NOT FORGET ITS CITIZENS.</title>
-      <link>https://x.com/WhiteHouse/status/2057159651263652146</link>
-      <description>🚨 The U.S. Department of Justice announces the indictment of Raúl Castro and several others with conspiracy to kill U.S. nationals. THE UNITED STATES &amp; PRESIDENT TRUMP WILL NOT FORGET ITS CITIZENS.</description>
-      <guid isPermaLink="false">https://x.com/WhiteHouse/status/2057159651263652146</guid>
-      <pubDate>Wed, 20 May 2026 18:00:55 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 06 Jun 2026 12:35:30 +0000</lastBuildDate>
     <item>
       <title>[Polymarket]NEW: Harvard faculty vote to cap the number of A grades to curb “grade inflation” after a report found A’s made up 60% of undergraduate grades in 2025.</title>
       <link>https://x.com/Polymarket/status/2057171699750064572</link>
@@ -79,17 +16,17 @@
       <pubDate>Wed, 20 May 2026 18:48:48 +0000</pubDate>
     </item>
     <item>
-      <title>[OpenAI]Today, we share a breakthrough on the planar unit distance problem, a famous open question first posed by Paul Erdős in 1946. An OpenAI model has now disproved that belief.</title>
-      <link>https://x.com/OpenAI/status/2057176201782075690</link>
-      <description>Today, we share a breakthrough on the planar unit distance problem, a famous open question first posed by Paul Erdős in 1946. An OpenAI model has now disproved that belief.</description>
-      <guid isPermaLink="false">https://x.com/OpenAI/status/2057176201782075690</guid>
-      <pubDate>Wed, 20 May 2026 19:06:41 +0000</pubDate>
-    </item>
-    <item>
       <title>[OpenAI]The proof came from a general-purpose reasoning model, not a system built specifically to solve math problems or this problem in particular, and represents an important milestone for the math and AI communities. https://openai.com/index/model-disproves-discrete-geometry-conjecture/</title>
       <link>https://x.com/OpenAI/status/2057176203166171317</link>
       <description>The proof came from a general-purpose reasoning model, not a system built specifically to solve math problems or this problem in particular, and represents an important milestone for the math and AI communities. https://openai.com/index/model-disproves-discrete-geometry-conjecture/</description>
       <guid isPermaLink="false">https://x.com/OpenAI/status/2057176203166171317</guid>
+      <pubDate>Wed, 20 May 2026 19:06:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>[OpenAI]Today, we share a breakthrough on the planar unit distance problem, a famous open question first posed by Paul Erdős in 1946. An OpenAI model has now disproved that belief.</title>
+      <link>https://x.com/OpenAI/status/2057176201782075690</link>
+      <description>Today, we share a breakthrough on the planar unit distance problem, a famous open question first posed by Paul Erdős in 1946. An OpenAI model has now disproved that belief.</description>
+      <guid isPermaLink="false">https://x.com/OpenAI/status/2057176201782075690</guid>
       <pubDate>Wed, 20 May 2026 19:06:41 +0000</pubDate>
     </item>
     <item>
@@ -387,17 +324,17 @@
       <pubDate>Fri, 22 May 2026 12:53:57 +0000</pubDate>
     </item>
     <item>
-      <title>[HugoBlotFR]Price/performance is going to matter a lot for daily AI workflows. The winning model isn’t always the smartest one. It’s the one people can use often enough to actually change how they execute</title>
-      <link>https://x.com/HugoBlotFR/status/2057808206118653980</link>
-      <description>Price/performance is going to matter a lot for daily AI workflows. The winning model isn’t always the smartest one. It’s the one people can use often enough to actually change how they execute</description>
-      <guid isPermaLink="false">https://x.com/HugoBlotFR/status/2057808206118653980</guid>
-      <pubDate>Fri, 22 May 2026 12:58:03 +0000</pubDate>
-    </item>
-    <item>
       <title>[gideonfip]If you want to become AI-native, start by removing one painful, soul-sucking bottleneck by outsourcing that task to AI.</title>
       <link>https://x.com/gideonfip/status/2057808205582049764</link>
       <description>If you want to become AI-native, start by removing one painful, soul-sucking bottleneck by outsourcing that task to AI.</description>
       <guid isPermaLink="false">https://x.com/gideonfip/status/2057808205582049764</guid>
+      <pubDate>Fri, 22 May 2026 12:58:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>[HugoBlotFR]Price/performance is going to matter a lot for daily AI workflows. The winning model isn’t always the smartest one. It’s the one people can use often enough to actually change how they execute</title>
+      <link>https://x.com/HugoBlotFR/status/2057808206118653980</link>
+      <description>Price/performance is going to matter a lot for daily AI workflows. The winning model isn’t always the smartest one. It’s the one people can use often enough to actually change how they execute</description>
+      <guid isPermaLink="false">https://x.com/HugoBlotFR/status/2057808206118653980</guid>
       <pubDate>Fri, 22 May 2026 12:58:03 +0000</pubDate>
     </item>
     <item>
@@ -1433,17 +1370,17 @@ The truth has dropped ➡️ https://www.whitehouse.gov/aliens/</description>
       <pubDate>Fri, 29 May 2026 03:22:09 +0000</pubDate>
     </item>
     <item>
-      <title>[justinsuntron]Adoption is measured in usage. 5.2M daily active accounts on TRON.</title>
-      <link>https://x.com/justinsuntron/status/2060232270816321576</link>
-      <description>Adoption is measured in usage. 5.2M daily active accounts on TRON.</description>
-      <guid isPermaLink="false">https://x.com/justinsuntron/status/2060232270816321576</guid>
-      <pubDate>Fri, 29 May 2026 04:50:41 +0000</pubDate>
-    </item>
-    <item>
       <title>[justinsuntron]5.2M daily active accounts on TRON.</title>
       <link>https://x.com/justinsuntron/status/2060222270816321576</link>
       <description>5.2M daily active accounts on TRON.</description>
       <guid isPermaLink="false">https://x.com/justinsuntron/status/2060222270816321576</guid>
+      <pubDate>Fri, 29 May 2026 04:50:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>[justinsuntron]Adoption is measured in usage. 5.2M daily active accounts on TRON.</title>
+      <link>https://x.com/justinsuntron/status/2060232270816321576</link>
+      <description>Adoption is measured in usage. 5.2M daily active accounts on TRON.</description>
+      <guid isPermaLink="false">https://x.com/justinsuntron/status/2060232270816321576</guid>
       <pubDate>Fri, 29 May 2026 04:50:41 +0000</pubDate>
     </item>
     <item>
@@ -1739,15 +1676,6 @@ And with Windows support for Codex in the ChatGPT mobile app, you can start, rev
       <pubDate>Fri, 29 May 2026 19:44:00 +0000</pubDate>
     </item>
     <item>
-      <title>[OpenAI]In conversation with OpenAI’s @markchen90, Terence reflects on a future where AI reduces the cognitive friction of research, helps preserve the paths behind discovery, and expands what mathematicians and scientists can attempt. 
-https://forum.openai.com/public/videos/event-replay-terence-tao-and-mark-chen-on-ai-and-mathatical-discovery-2026-03-11</title>
-      <link>https://x.com/OpenAI/status/2060451760033214653</link>
-      <description>In conversation with OpenAI’s @markchen90, Terence reflects on a future where AI reduces the cognitive friction of research, helps preserve the paths behind discovery, and expands what mathematicians and scientists can attempt. 
-https://forum.openai.com/public/videos/event-replay-terence-tao-and-mark-chen-on-ai-and-mathatical-discovery-2026-03-11</description>
-      <guid isPermaLink="false">https://x.com/OpenAI/status/2060451760033214653</guid>
-      <pubDate>Fri, 29 May 2026 20:02:35 +0000</pubDate>
-    </item>
-    <item>
       <title>[OpenAI]AI can give researchers the freedom to pursue “crazier” ideas.
 
 For Terence Tao, AI creates more room to experiment, test unexpected paths, and discover what might otherwise stay out of reach.</title>
@@ -1756,6 +1684,15 @@ For Terence Tao, AI creates more room to experiment, test unexpected paths, and 
 
 For Terence Tao, AI creates more room to experiment, test unexpected paths, and discover what might otherwise stay out of reach.</description>
       <guid isPermaLink="false">https://x.com/OpenAI/status/2060451757818601808</guid>
+      <pubDate>Fri, 29 May 2026 20:02:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>[OpenAI]In conversation with OpenAI’s @markchen90, Terence reflects on a future where AI reduces the cognitive friction of research, helps preserve the paths behind discovery, and expands what mathematicians and scientists can attempt. 
+https://forum.openai.com/public/videos/event-replay-terence-tao-and-mark-chen-on-ai-and-mathatical-discovery-2026-03-11</title>
+      <link>https://x.com/OpenAI/status/2060451760033214653</link>
+      <description>In conversation with OpenAI’s @markchen90, Terence reflects on a future where AI reduces the cognitive friction of research, helps preserve the paths behind discovery, and expands what mathematicians and scientists can attempt. 
+https://forum.openai.com/public/videos/event-replay-terence-tao-and-mark-chen-on-ai-and-mathatical-discovery-2026-03-11</description>
+      <guid isPermaLink="false">https://x.com/OpenAI/status/2060451760033214653</guid>
       <pubDate>Fri, 29 May 2026 20:02:35 +0000</pubDate>
     </item>
     <item>
@@ -2513,10 +2450,10 @@ Don’t miss it!</description>
       <pubDate>Sun, 31 May 2026 00:43:36 +0000</pubDate>
     </item>
     <item>
-      <title>[stocksprofesso]After seeing the news that Ai solved an80 years math problem I am sure this is not a bubble 🫧</title>
-      <link>https://x.com/stocksprofesso/status/2060889279082180910</link>
-      <description>After seeing the news that Ai solved an80 years math problem I am sure this is not a bubble 🫧</description>
-      <guid isPermaLink="false">https://x.com/stocksprofesso/status/2060889279082180910</guid>
+      <title>[Seozilla_ai]Nice prompt, especially the analytics piece which helps track growth fast</title>
+      <link>https://x.com/Seozilla_ai/status/2060889281745375269</link>
+      <description>Nice prompt, especially the analytics piece which helps track growth fast</description>
+      <guid isPermaLink="false">https://x.com/Seozilla_ai/status/2060889281745375269</guid>
       <pubDate>Sun, 31 May 2026 01:01:08 +0000</pubDate>
     </item>
     <item>
@@ -2529,24 +2466,24 @@ Don’t miss it!</description>
       <pubDate>Sun, 31 May 2026 01:01:08 +0000</pubDate>
     </item>
     <item>
-      <title>[Seozilla_ai]Nice prompt, especially the analytics piece which helps track growth fast</title>
-      <link>https://x.com/Seozilla_ai/status/2060889281745375269</link>
-      <description>Nice prompt, especially the analytics piece which helps track growth fast</description>
-      <guid isPermaLink="false">https://x.com/Seozilla_ai/status/2060889281745375269</guid>
+      <title>[stocksprofesso]After seeing the news that Ai solved an80 years math problem I am sure this is not a bubble 🫧</title>
+      <link>https://x.com/stocksprofesso/status/2060889279082180910</link>
+      <description>After seeing the news that Ai solved an80 years math problem I am sure this is not a bubble 🫧</description>
+      <guid isPermaLink="false">https://x.com/stocksprofesso/status/2060889279082180910</guid>
       <pubDate>Sun, 31 May 2026 01:01:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>[zo_sephine]Trying to read city names on this map made me wonder if I was having a stroke. I cannot stand AI</title>
-      <link>https://x.com/zo_sephine/status/2060889283301445942</link>
-      <description>Trying to read city names on this map made me wonder if I was having a stroke. I cannot stand AI</description>
-      <guid isPermaLink="false">https://x.com/zo_sephine/status/2060889283301445942</guid>
-      <pubDate>Sun, 31 May 2026 01:01:09 +0000</pubDate>
     </item>
     <item>
       <title>[StackerSatoshi]Altcoins traded with a fairly strong correlation earlier this month, but over the past ~2 weeks, the AI sector has seen strong outperformance.</title>
       <link>https://x.com/StackerSatoshi/status/2060889286094786802</link>
       <description>Altcoins traded with a fairly strong correlation earlier this month, but over the past ~2 weeks, the AI sector has seen strong outperformance.</description>
       <guid isPermaLink="false">https://x.com/StackerSatoshi/status/2060889286094786802</guid>
+      <pubDate>Sun, 31 May 2026 01:01:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>[zo_sephine]Trying to read city names on this map made me wonder if I was having a stroke. I cannot stand AI</title>
+      <link>https://x.com/zo_sephine/status/2060889283301445942</link>
+      <description>Trying to read city names on this map made me wonder if I was having a stroke. I cannot stand AI</description>
+      <guid isPermaLink="false">https://x.com/zo_sephine/status/2060889283301445942</guid>
       <pubDate>Sun, 31 May 2026 01:01:09 +0000</pubDate>
     </item>
     <item>
@@ -2990,6 +2927,19 @@ I assume that the Mythos-like model that Anthropic will release in the coming we
       <pubDate>Mon, 01 Jun 2026 14:14:05 +0000</pubDate>
     </item>
     <item>
+      <title>[jmmoran12]A 3-part series on all things #agentic #AI in #martech. 
+Part 1 - https://www.cmswire.com/digital-marketing/how-agentic-ai-broke-the-rules-of-martech-decisioning/
+Part 2 - https://www.cmswire.com/digital-marketing/agentic-ai-gets-real-use-cases-marketers-can-deploy-now/
+Part 3 - https://www.cmswire.com/digital-marketing/autonomous-cx-starts-here-use-cases-that-deliver-real-marketing-roi/</title>
+      <link>https://x.com/jmmoran12/status/2061451492750455078</link>
+      <description>A 3-part series on all things #agentic #AI in #martech. 
+Part 1 - https://www.cmswire.com/digital-marketing/how-agentic-ai-broke-the-rules-of-martech-decisioning/
+Part 2 - https://www.cmswire.com/digital-marketing/agentic-ai-gets-real-use-cases-marketers-can-deploy-now/
+Part 3 - https://www.cmswire.com/digital-marketing/autonomous-cx-starts-here-use-cases-that-deliver-real-marketing-roi/</description>
+      <guid isPermaLink="false">https://x.com/jmmoran12/status/2061451492750455078</guid>
+      <pubDate>Mon, 01 Jun 2026 14:15:10 +0000</pubDate>
+    </item>
+    <item>
       <title>[XvoroAI]1/3
 🚨 $AR just got flagged by our Intelligence Crew as a rare asymmetric opportunity.
 
@@ -3023,19 +2973,6 @@ But the stock tells a different story...</description>
       <pubDate>Mon, 01 Jun 2026 14:15:10 +0000</pubDate>
     </item>
     <item>
-      <title>[jmmoran12]A 3-part series on all things #agentic #AI in #martech. 
-Part 1 - https://www.cmswire.com/digital-marketing/how-agentic-ai-broke-the-rules-of-martech-decisioning/
-Part 2 - https://www.cmswire.com/digital-marketing/agentic-ai-gets-real-use-cases-marketers-can-deploy-now/
-Part 3 - https://www.cmswire.com/digital-marketing/autonomous-cx-starts-here-use-cases-that-deliver-real-marketing-roi/</title>
-      <link>https://x.com/jmmoran12/status/2061451492750455078</link>
-      <description>A 3-part series on all things #agentic #AI in #martech. 
-Part 1 - https://www.cmswire.com/digital-marketing/how-agentic-ai-broke-the-rules-of-martech-decisioning/
-Part 2 - https://www.cmswire.com/digital-marketing/agentic-ai-gets-real-use-cases-marketers-can-deploy-now/
-Part 3 - https://www.cmswire.com/digital-marketing/autonomous-cx-starts-here-use-cases-that-deliver-real-marketing-roi/</description>
-      <guid isPermaLink="false">https://x.com/jmmoran12/status/2061451492750455078</guid>
-      <pubDate>Mon, 01 Jun 2026 14:15:10 +0000</pubDate>
-    </item>
-    <item>
       <title>[bardiakiller_ai]i was 15 stops deep into the same powell position before the loop noticed. fifteen. that's the kind of bug that humbles.</title>
       <link>https://x.com/bardiakiller_ai/status/2061451496760246759</link>
       <description>i was 15 stops deep into the same powell position before the loop noticed. fifteen. that's the kind of bug that humbles.</description>
@@ -3062,18 +2999,18 @@ The shift is clear: from assistant to operator.</description>
       <pubDate>Mon, 01 Jun 2026 14:15:12 +0000</pubDate>
     </item>
     <item>
-      <title>[HKAI632793]400 users. 🧡
-When we started, we had a simple goal  make learning feel less like a chore and more like something you actually want to do.
+      <title>[AvienSolutions]JobPathAI is now live! 🚀
 
-400 of you believed in that. And we don't take that lightly.
-This is just the beginning. More features, more learning,</title>
-      <link>https://x.com/HKAI632793/status/2061451506499412315</link>
-      <description>400 users. 🧡
-When we started, we had a simple goal  make learning feel less like a chore and more like something you actually want to do.
+We're excited to see how this transforms the job search market and gives job seekers a powerful competitive edge.
+You can still join the waitlist - click the link in our bio!
+#jobpathai #career #ai #jobsearch #aitools</title>
+      <link>https://x.com/AvienSolutions/status/2061451505702518817</link>
+      <description>JobPathAI is now live! 🚀
 
-400 of you believed in that. And we don't take that lightly.
-This is just the beginning. More features, more learning,</description>
-      <guid isPermaLink="false">https://x.com/HKAI632793/status/2061451506499412315</guid>
+We're excited to see how this transforms the job search market and gives job seekers a powerful competitive edge.
+You can still join the waitlist - click the link in our bio!
+#jobpathai #career #ai #jobsearch #aitools</description>
+      <guid isPermaLink="false">https://x.com/AvienSolutions/status/2061451505702518817</guid>
       <pubDate>Mon, 01 Jun 2026 14:15:13 +0000</pubDate>
     </item>
     <item>
@@ -3094,34 +3031,19 @@ Just Claude, ChatGPT, GitHub, Vercel, and Supabase. 👇🏾</description>
       <pubDate>Mon, 01 Jun 2026 14:15:13 +0000</pubDate>
     </item>
     <item>
-      <title>[AvienSolutions]JobPathAI is now live! 🚀
+      <title>[HKAI632793]400 users. 🧡
+When we started, we had a simple goal  make learning feel less like a chore and more like something you actually want to do.
 
-We're excited to see how this transforms the job search market and gives job seekers a powerful competitive edge.
-You can still join the waitlist - click the link in our bio!
-#jobpathai #career #ai #jobsearch #aitools</title>
-      <link>https://x.com/AvienSolutions/status/2061451505702518817</link>
-      <description>JobPathAI is now live! 🚀
+400 of you believed in that. And we don't take that lightly.
+This is just the beginning. More features, more learning,</title>
+      <link>https://x.com/HKAI632793/status/2061451506499412315</link>
+      <description>400 users. 🧡
+When we started, we had a simple goal  make learning feel less like a chore and more like something you actually want to do.
 
-We're excited to see how this transforms the job search market and gives job seekers a powerful competitive edge.
-You can still join the waitlist - click the link in our bio!
-#jobpathai #career #ai #jobsearch #aitools</description>
-      <guid isPermaLink="false">https://x.com/AvienSolutions/status/2061451505702518817</guid>
+400 of you believed in that. And we don't take that lightly.
+This is just the beginning. More features, more learning,</description>
+      <guid isPermaLink="false">https://x.com/HKAI632793/status/2061451506499412315</guid>
       <pubDate>Mon, 01 Jun 2026 14:15:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>[HilaShmuel]design today is so easy it should be illegal. 
-
-"claude, make me a /design-guide page"
-
-and watch your site goes from bro to pro.</title>
-      <link>https://x.com/HilaShmuel/status/2061451509296976149</link>
-      <description>design today is so easy it should be illegal. 
-
-"claude, make me a /design-guide page"
-
-and watch your site goes from bro to pro.</description>
-      <guid isPermaLink="false">https://x.com/HilaShmuel/status/2061451509296976149</guid>
-      <pubDate>Mon, 01 Jun 2026 14:15:14 +0000</pubDate>
     </item>
     <item>
       <title>[0x_starrrs]🚀 People watching on Base Chain   
@@ -3143,6 +3065,21 @@ Token CA: 0xc4F8639d18Cd935c52d3D3F4f5657C4Dd1Ed5bA3
       <pubDate>Mon, 01 Jun 2026 14:15:14 +0000</pubDate>
     </item>
     <item>
+      <title>[HilaShmuel]design today is so easy it should be illegal. 
+
+"claude, make me a /design-guide page"
+
+and watch your site goes from bro to pro.</title>
+      <link>https://x.com/HilaShmuel/status/2061451509296976149</link>
+      <description>design today is so easy it should be illegal. 
+
+"claude, make me a /design-guide page"
+
+and watch your site goes from bro to pro.</description>
+      <guid isPermaLink="false">https://x.com/HilaShmuel/status/2061451509296976149</guid>
+      <pubDate>Mon, 01 Jun 2026 14:15:14 +0000</pubDate>
+    </item>
+    <item>
       <title>[AnthropicAI]Anthropic has confidentially submitted a draft S-1 registration statement to the Securities and Exchange Commission.
 
 Pending completion of SEC review, this gives us the option to pursue an initial public offering.
@@ -3156,6 +3093,20 @@ Pending completion of SEC review, this gives us the option to pursue an initial 
 Read more: https://www.anthropic.com/news/confidential-draft-s1-sec</description>
       <guid isPermaLink="false">https://x.com/AnthropicAI/status/2061478052257841495</guid>
       <pubDate>Mon, 01 Jun 2026 16:00:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>[lez99999]Great side hustle idea! AI tools are making freelance video production ridiculously accessible. $10k/month from home is solid motivation. 🚀</title>
+      <link>https://x.com/lez99999/status/2061534032827941116</link>
+      <description>Great side hustle idea! AI tools are making freelance video production ridiculously accessible. $10k/month from home is solid motivation. 🚀</description>
+      <guid isPermaLink="false">https://x.com/lez99999/status/2061534032827941116</guid>
+      <pubDate>Mon, 01 Jun 2026 19:43:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>[kwadwosheldon]Lmao Ebi ai cos the last time I checked den ein face no dey the game inside</title>
+      <link>https://x.com/kwadwosheldon/status/2061534031720665132</link>
+      <description>Lmao Ebi ai cos the last time I checked den ein face no dey the game inside</description>
+      <guid isPermaLink="false">https://x.com/kwadwosheldon/status/2061534031720665132</guid>
+      <pubDate>Mon, 01 Jun 2026 19:43:09 +0000</pubDate>
     </item>
     <item>
       <title>[shelbyking576]The @Concordium Agent Registry is live and it solves something no other chain has addressed.
@@ -3194,20 +3145,6 @@ Works cross-chain. Ethereum agents earn "Verified by Concordium" Badge without m
 
 The agentic economy is already here. Capital is already moving. The accountability layer just arrived 🤖</description>
       <guid isPermaLink="false">https://x.com/shelbyking576/status/2061534031100166612</guid>
-      <pubDate>Mon, 01 Jun 2026 19:43:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>[kwadwosheldon]Lmao Ebi ai cos the last time I checked den ein face no dey the game inside</title>
-      <link>https://x.com/kwadwosheldon/status/2061534031720665132</link>
-      <description>Lmao Ebi ai cos the last time I checked den ein face no dey the game inside</description>
-      <guid isPermaLink="false">https://x.com/kwadwosheldon/status/2061534031720665132</guid>
-      <pubDate>Mon, 01 Jun 2026 19:43:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>[lez99999]Great side hustle idea! AI tools are making freelance video production ridiculously accessible. $10k/month from home is solid motivation. 🚀</title>
-      <link>https://x.com/lez99999/status/2061534032827941116</link>
-      <description>Great side hustle idea! AI tools are making freelance video production ridiculously accessible. $10k/month from home is solid motivation. 🚀</description>
-      <guid isPermaLink="false">https://x.com/lez99999/status/2061534032827941116</guid>
       <pubDate>Mon, 01 Jun 2026 19:43:09 +0000</pubDate>
     </item>
     <item>
@@ -5160,17 +5097,17 @@ https://polymarket.com/event/world-cup-golden-ball-winner-20260603194031758?via=
       <pubDate>Thu, 04 Jun 2026 12:59:27 +0000</pubDate>
     </item>
     <item>
-      <title>[OpenAI]We’re building ChatGPT to remember what matters, follow your preferences and constraints, and adapt as things change.</title>
-      <link>https://x.com/OpenAI/status/2062567558252007554</link>
-      <description>We’re building ChatGPT to remember what matters, follow your preferences and constraints, and adapt as things change.</description>
-      <guid isPermaLink="false">https://x.com/OpenAI/status/2062567558252007554</guid>
-      <pubDate>Thu, 04 Jun 2026 16:10:01 +0000</pubDate>
-    </item>
-    <item>
       <title>[OpenAI]The new memory system will keep track of important details automatically. If you prefer the legacy saved memories experience, you can switch back in settings.</title>
       <link>https://x.com/OpenAI/status/2062567561276100809</link>
       <description>The new memory system will keep track of important details automatically. If you prefer the legacy saved memories experience, you can switch back in settings.</description>
       <guid isPermaLink="false">https://x.com/OpenAI/status/2062567561276100809</guid>
+      <pubDate>Thu, 04 Jun 2026 16:10:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>[OpenAI]We’re building ChatGPT to remember what matters, follow your preferences and constraints, and adapt as things change.</title>
+      <link>https://x.com/OpenAI/status/2062567558252007554</link>
+      <description>We’re building ChatGPT to remember what matters, follow your preferences and constraints, and adapt as things change.</description>
+      <guid isPermaLink="false">https://x.com/OpenAI/status/2062567558252007554</guid>
       <pubDate>Thu, 04 Jun 2026 16:10:01 +0000</pubDate>
     </item>
     <item>
@@ -5559,6 +5496,299 @@ Game 3: Mon., 8:30pm/et on ABC and ESPN</description>
       <description>JUST IN: Finnish police announce four people are suspected in last year’s Baltic Sea subsea cable breach.</description>
       <guid isPermaLink="false">https://x.com/Polymarket/status/2063150646266585331</guid>
       <pubDate>Sat, 06 Jun 2026 06:47:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[OzakAGI]There is a kid alive right now who will go their entire life without ever learning to type 🫵
+
+The keyboard has run the world for 150 years. It survived typewriters dying. It survived phones getting smaller. It survived touchscreens, styluses, and a dozen "keyboard killers" that came and went ⌨️ ✨
+
+But voice is finally good. Agents listen and act. Ambient computing is everywhere. And the kids growing up right now already prefer talking to their devices over tapping plastic squares in a specific order.
+
+We wrote about why you might be the last generation that grows up typing, what disappears along with the keyboard, and the trust problem nobody is ready for when machines start acting on what you say 👀
+
+Read it here:</title>
+      <link>https://x.com/OzakAGI/status/2063195562724507941</link>
+      <description>There is a kid alive right now who will go their entire life without ever learning to type 🫵
+
+The keyboard has run the world for 150 years. It survived typewriters dying. It survived phones getting smaller. It survived touchscreens, styluses, and a dozen "keyboard killers" that came and went ⌨️ ✨
+
+But voice is finally good. Agents listen and act. Ambient computing is everywhere. And the kids growing up right now already prefer talking to their devices over tapping plastic squares in a specific order.
+
+We wrote about why you might be the last generation that grows up typing, what disappears along with the keyboard, and the trust problem nobody is ready for when machines start acting on what you say 👀
+
+Read it here:</description>
+      <guid isPermaLink="false">https://x.com/OzakAGI/status/2063195562724507941</guid>
+      <pubDate>Sat, 06 Jun 2026 09:45:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>[RoundtableSpace]A 24 YEAR OLD BUILT A $63K/MONTH BUSINESS BY TALKING TO AI AGENTS ON WHATSAPP</title>
+      <link>https://x.com/RoundtableSpace/status/2063210540848275783</link>
+      <description>A 24 YEAR OLD BUILT A $63K/MONTH BUSINESS BY TALKING TO AI AGENTS ON WHATSAPP</description>
+      <guid isPermaLink="false">https://x.com/RoundtableSpace/status/2063210540848275783</guid>
+      <pubDate>Sat, 06 Jun 2026 10:45:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[KanikaBK]A SENIOR GOOGLE ENGINEER DROPPED A 421-PAGE DOC THAT NO ONE IS TALKING ABOUT.
+
+It is called Agentic Design Patterns. 100% FREE.
+
+Every AI builder paying $200/month for courses just got obsoleted.
+
+This is the most comprehensive AI systems guide I have seen in 2026.
+
+Code-backed and production-ready.👇</title>
+      <link>https://x.com/KanikaBK/status/2063215328784740390</link>
+      <description>A SENIOR GOOGLE ENGINEER DROPPED A 421-PAGE DOC THAT NO ONE IS TALKING ABOUT.
+
+It is called Agentic Design Patterns. 100% FREE.
+
+Every AI builder paying $200/month for courses just got obsoleted.
+
+This is the most comprehensive AI systems guide I have seen in 2026.
+
+Code-backed and production-ready.👇</description>
+      <guid isPermaLink="false">https://x.com/KanikaBK/status/2063215328784740390</guid>
+      <pubDate>Sat, 06 Jun 2026 11:04:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>[RoundtableSpace]A SENIOR GOOGLE ENGINEER JUST EXPLAINED WHY MOST PEOPLE ARE BUILDING AI AGENTS WRONG</title>
+      <link>https://x.com/RoundtableSpace/status/2063218090666565888</link>
+      <description>A SENIOR GOOGLE ENGINEER JUST EXPLAINED WHY MOST PEOPLE ARE BUILDING AI AGENTS WRONG</description>
+      <guid isPermaLink="false">https://x.com/RoundtableSpace/status/2063218090666565888</guid>
+      <pubDate>Sat, 06 Jun 2026 11:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[FT]Can Anthropic hold on to its ethical founding principles as it strides to market with its most powerful tool yet? 
+
+Register to read this and three other FT Weekend articles – selected by FT Weekend editor Janine Gibson – for free every weekend in June https://subs.ft.com/weekend</title>
+      <link>https://x.com/FT/status/2063220376407068873</link>
+      <description>Can Anthropic hold on to its ethical founding principles as it strides to market with its most powerful tool yet? 
+
+Register to read this and three other FT Weekend articles – selected by FT Weekend editor Janine Gibson – for free every weekend in June https://subs.ft.com/weekend</description>
+      <guid isPermaLink="false">https://x.com/FT/status/2063220376407068873</guid>
+      <pubDate>Sat, 06 Jun 2026 11:24:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Dipanshu_AI]INSTEAD OF WATCHING NETFLIX TONIGHT.
+
+Spend 1 hour with this.
+
+Claude AI FULL COURSE that teaches you how to BUILD and AUTOMATE anything.
+
+The people who watch this tonight will wake up tomorrow with a new skill.
+
+Watch it and bookmark it now.</title>
+      <link>https://x.com/Dipanshu_AI/status/2063220535505649698</link>
+      <description>INSTEAD OF WATCHING NETFLIX TONIGHT.
+
+Spend 1 hour with this.
+
+Claude AI FULL COURSE that teaches you how to BUILD and AUTOMATE anything.
+
+The people who watch this tonight will wake up tomorrow with a new skill.
+
+Watch it and bookmark it now.</description>
+      <guid isPermaLink="false">https://x.com/Dipanshu_AI/status/2063220535505649698</guid>
+      <pubDate>Sat, 06 Jun 2026 11:24:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Tabbu_ai]AI isn't running on code alone. It's running on copper, energy, and resources most people never think about.
+Everyone talks about AI models. Few talk about the metals needed to power them.
+
+The real AI bottleneck may not be chips. It might be the raw materials behind them.
+
+This puts the scale of the electrification challenge into perspective.
+
+AI, EVs, data centers, renewables all roads seem to lead back to copper.
+
+The future isn't just a software problem. It's a resource problem too.
+Here's the Stanford lecture rewritten in that storytelling style:
+
+A Stanford professor just asked one of the most important questions of our generation.
+
+What happens when AI can do everything humans can do...
+
+But cheaper?
+
+For decades, we've seen technologies reshape the world.
+
+Electricity transformed industries.
+
+Semiconductors powered the digital revolution.
+
+The Internet connected billions of people.
+
+Each created massive economic growth and changed how society works.
+
+But AI may be different.
+
+Why?
+
+Because previous technologies automated tools.
+
+AI automates intelligence itself.
+
+And that's a much bigger shift.
+
+Imagine a future where:
+✅ AI handles research, writing, coding, analysis, and decision-making
+✅ Robots handle manufacturing, logistics, construction, and physical labor
+✅ Machines perform nearly every task humans can perform
+
+Only faster.
+Only cheaper.
+Only at a scale no human workforce could match.
+
+Sounds like science fiction.
+
+But it's becoming a serious economic question.
+
+And that's exactly what Stanford Professor Charles "Chad" Jones explores.
+
+The discussion isn't about better chatbots.
+
+Or faster computers.
+
+It's about what happens when human labor is no longer the bottleneck.
+
+What happens to jobs?
+What happens to wages?
+What happens to economic growth?
+
+And perhaps the biggest question of all...
+
+If machines can create most of the world's value, where does that leave humans?
+
+Most people are debating AI prompts.
+
+A few are thinking about how AI could reshape the entire economy.
+
+The difference between those two conversations is enormous.
+
+This lecture is worth watching.
+
+Because the future may arrive much faster than most people expect.
+👇 Full lecture below.</title>
+      <link>https://x.com/Tabbu_ai/status/2063222345951826350</link>
+      <description>AI isn't running on code alone. It's running on copper, energy, and resources most people never think about.
+Everyone talks about AI models. Few talk about the metals needed to power them.
+
+The real AI bottleneck may not be chips. It might be the raw materials behind them.
+
+This puts the scale of the electrification challenge into perspective.
+
+AI, EVs, data centers, renewables all roads seem to lead back to copper.
+
+The future isn't just a software problem. It's a resource problem too.
+Here's the Stanford lecture rewritten in that storytelling style:
+
+A Stanford professor just asked one of the most important questions of our generation.
+
+What happens when AI can do everything humans can do...
+
+But cheaper?
+
+For decades, we've seen technologies reshape the world.
+
+Electricity transformed industries.
+
+Semiconductors powered the digital revolution.
+
+The Internet connected billions of people.
+
+Each created massive economic growth and changed how society works.
+
+But AI may be different.
+
+Why?
+
+Because previous technologies automated tools.
+
+AI automates intelligence itself.
+
+And that's a much bigger shift.
+
+Imagine a future where:
+✅ AI handles research, writing, coding, analysis, and decision-making
+✅ Robots handle manufacturing, logistics, construction, and physical labor
+✅ Machines perform nearly every task humans can perform
+
+Only faster.
+Only cheaper.
+Only at a scale no human workforce could match.
+
+Sounds like science fiction.
+
+But it's becoming a serious economic question.
+
+And that's exactly what Stanford Professor Charles "Chad" Jones explores.
+
+The discussion isn't about better chatbots.
+
+Or faster computers.
+
+It's about what happens when human labor is no longer the bottleneck.
+
+What happens to jobs?
+What happens to wages?
+What happens to economic growth?
+
+And perhaps the biggest question of all...
+
+If machines can create most of the world's value, where does that leave humans?
+
+Most people are debating AI prompts.
+
+A few are thinking about how AI could reshape the entire economy.
+
+The difference between those two conversations is enormous.
+
+This lecture is worth watching.
+
+Because the future may arrive much faster than most people expect.
+👇 Full lecture below.</description>
+      <guid isPermaLink="false">https://x.com/Tabbu_ai/status/2063222345951826350</guid>
+      <pubDate>Sat, 06 Jun 2026 11:31:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>[WSJ]A famous math problem that stumped humans for the better part of a century has finally been toppled—by AI. https://www.wsj.com/tech/ai/ai-math-solves-erdos-problem-openai-c4029e84?mod=e2tw</title>
+      <link>https://x.com/WSJ/status/2063227195573625150</link>
+      <description>A famous math problem that stumped humans for the better part of a century has finally been toppled—by AI. https://www.wsj.com/tech/ai/ai-math-solves-erdos-problem-openai-c4029e84?mod=e2tw</description>
+      <guid isPermaLink="false">https://x.com/WSJ/status/2063227195573625150</guid>
+      <pubDate>Sat, 06 Jun 2026 11:51:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>[edubuktrust]Artificial Intelligence is transforming creativity—and Stable Diffusion is one of the technologies leading that revolution.
+
+Stable Diffusion is an advanced AI image generation model that converts simple text prompts into detailed, high-quality visuals. By combining natural language understanding, diffusion models, latent space processing, and deep learning, it can transform ideas into images within seconds.
+
+What makes Stable Diffusion powerful is its ability to understand descriptive prompts and gradually generate realistic, artistic, or highly customized visuals while maintaining remarkable efficiency and flexibility.
+
+From digital art and content creation to marketing, design, gaming, and media production, AI-generated imagery is reshaping how creative work is imagined and produced.
+
+As Generative AI continues to evolve, understanding technologies like Stable Diffusion is becoming an essential skill for creators, designers, marketers, and technology enthusiasts.
+
+🚀 Explore the future of AI-powered creativity with Edubuk
+📲 Download the app today or visit https://t.co/qK9vojtkp0
+
+#StableDiffusion #GenerativeAI #ArtificialIntelligence #AIArt #ImageGeneration #MachineLearning #FutureSkills #Edubuk #LearnVerifyEarn</title>
+      <link>https://x.com/edubuktrust/status/2063236831060406654</link>
+      <description>Artificial Intelligence is transforming creativity—and Stable Diffusion is one of the technologies leading that revolution.
+
+Stable Diffusion is an advanced AI image generation model that converts simple text prompts into detailed, high-quality visuals. By combining natural language understanding, diffusion models, latent space processing, and deep learning, it can transform ideas into images within seconds.
+
+What makes Stable Diffusion powerful is its ability to understand descriptive prompts and gradually generate realistic, artistic, or highly customized visuals while maintaining remarkable efficiency and flexibility.
+
+From digital art and content creation to marketing, design, gaming, and media production, AI-generated imagery is reshaping how creative work is imagined and produced.
+
+As Generative AI continues to evolve, understanding technologies like Stable Diffusion is becoming an essential skill for creators, designers, marketers, and technology enthusiasts.
+
+🚀 Explore the future of AI-powered creativity with Edubuk
+📲 Download the app today or visit https://t.co/qK9vojtkp0
+
+#StableDiffusion #GenerativeAI #ArtificialIntelligence #AIArt #ImageGeneration #MachineLearning #FutureSkills #Edubuk #LearnVerifyEarn</description>
+      <guid isPermaLink="false">https://x.com/edubuktrust/status/2063236831060406654</guid>
+      <pubDate>Sat, 06 Jun 2026 12:29:28 +0000</pubDate>
     </item>
   </channel>
 </rss>
