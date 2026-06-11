@@ -7,144 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 11 Jun 2026 07:51:11 +0000</lastBuildDate>
-    <item>
-      <title>[Millionareum]The artificial intelligence application called mylabcorp has been launched. So what could happen? Do you think this AI is powerful enough to take over everything?
-
-Labcorp Launches MyLabcorp, an AI-Powered App for Understanding Lab Results
-
-Summary: Labcorp launched MyLabcorp, a HIPAA-compliant mobile app that uses OpenAI's reasoning models to help consumers understand their lab results through conversational AI, track health trends over time, and access clinically reviewed educational content across areas like cardiometabolic health and kidney function.
-
-A Labcorp survey found that 55% of consumers view AI as important for understanding healthcare information, and 41% already use it to interpret lab results. The app is available on iOS and Android, with additional features rolling out on an ongoing basis.</title>
-      <link>https://x.com/Millionareum/status/2059897963753730184</link>
-      <description>The artificial intelligence application called mylabcorp has been launched. So what could happen? Do you think this AI is powerful enough to take over everything?
-
-Labcorp Launches MyLabcorp, an AI-Powered App for Understanding Lab Results
-
-Summary: Labcorp launched MyLabcorp, a HIPAA-compliant mobile app that uses OpenAI's reasoning models to help consumers understand their lab results through conversational AI, track health trends over time, and access clinically reviewed educational content across areas like cardiometabolic health and kidney function.
-
-A Labcorp survey found that 55% of consumers view AI as important for understanding healthcare information, and 41% already use it to interpret lab results. The app is available on iOS and Android, with additional features rolling out on an ongoing basis.</description>
-      <guid isPermaLink="false">https://x.com/Millionareum/status/2059897963753730184</guid>
-      <pubDate>Thu, 28 May 2026 07:22:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[cnsquawk]Beijing is set to draft regulations for the artificial intelligence industry, with the first review of the draft ordinance planned for November.</title>
-      <link>https://x.com/cnsquawk/status/2059898127683817812</link>
-      <description>Beijing is set to draft regulations for the artificial intelligence industry, with the first review of the draft ordinance planned for November.</description>
-      <guid isPermaLink="false">https://x.com/cnsquawk/status/2059898127683817812</guid>
-      <pubDate>Thu, 28 May 2026 07:22:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>[iim_sambalpur]Applications Closing Soon 2026 | Bachelor of Science (B.S.) in Data Science &amp; Artificial Intelligence.
-
-The Indian Institute of Management Sambalpur is inviting applications for its 4-year fully residential undergraduate programme in Data Science &amp; Artificial Intelligence,</title>
-      <link>https://x.com/iim_sambalpur/status/2059899274868195718</link>
-      <description>Applications Closing Soon 2026 | Bachelor of Science (B.S.) in Data Science &amp; Artificial Intelligence.
-
-The Indian Institute of Management Sambalpur is inviting applications for its 4-year fully residential undergraduate programme in Data Science &amp; Artificial Intelligence,</description>
-      <guid isPermaLink="false">https://x.com/iim_sambalpur/status/2059899274868195718</guid>
-      <pubDate>Thu, 28 May 2026 07:27:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>[SarcasticLayla]Hey @grok, try swapping the costumes perfectly !!</title>
-      <link>https://x.com/SarcasticLayla/status/2059960194969583718</link>
-      <description>Hey @grok, try swapping the costumes perfectly !!</description>
-      <guid isPermaLink="false">https://x.com/SarcasticLayla/status/2059960194969583718</guid>
-      <pubDate>Thu, 28 May 2026 10:45:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Polymarket]JUST IN: U.S. Treasury officially launches the Trump Accounts app.</title>
-      <link>https://x.com/Polymarket/status/2059986328167542939</link>
-      <description>JUST IN: U.S. Treasury officially launches the Trump Accounts app.</description>
-      <guid isPermaLink="false">https://x.com/Polymarket/status/2059986328167542939</guid>
-      <pubDate>Thu, 28 May 2026 13:13:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>[dreamcloserapp]Most SMB software was built to help teams stay organized. The next wave of software will help businesses operate autonomously. #AI</title>
-      <link>https://x.com/dreamcloserapp/status/2059989014938030216</link>
-      <description>Most SMB software was built to help teams stay organized. The next wave of software will help businesses operate autonomously. #AI</description>
-      <guid isPermaLink="false">https://x.com/dreamcloserapp/status/2059989014938030216</guid>
-      <pubDate>Thu, 28 May 2026 13:23:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>[elonmusk]Absolutely</title>
-      <link>https://x.com/elonmusk/status/2060051133427798087</link>
-      <description>Absolutely</description>
-      <guid isPermaLink="false">https://x.com/elonmusk/status/2060051133427798087</guid>
-      <pubDate>Thu, 28 May 2026 17:30:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>[elonmusk]It’s essential or we simply cannot be competitive</title>
-      <link>https://x.com/elonmusk/status/2060051546684174559</link>
-      <description>It’s essential or we simply cannot be competitive</description>
-      <guid isPermaLink="false">https://x.com/elonmusk/status/2060051546684174559</guid>
-      <pubDate>Thu, 28 May 2026 17:32:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>[elonmusk]It’s not that we’ve discovered some magic bullet, but rather that JAX, or at least the open source version of it, is mostly optimized for small to medium-sized training runs on Google TPUs, whereas we need the massive training runs on Nvidia GPUs. 
-
-Pipeline parallelism is essential and crushes fully-sharded data parallelism at scale.
-
-And C will compile to the most efficient binary short of assembly. Maybe we will do a little assembly too.</title>
-      <link>https://x.com/elonmusk/status/2060053334103617944</link>
-      <description>It’s not that we’ve discovered some magic bullet, but rather that JAX, or at least the open source version of it, is mostly optimized for small to medium-sized training runs on Google TPUs, whereas we need the massive training runs on Nvidia GPUs. 
-
-Pipeline parallelism is essential and crushes fully-sharded data parallelism at scale.
-
-And C will compile to the most efficient binary short of assembly. Maybe we will do a little assembly too.</description>
-      <guid isPermaLink="false">https://x.com/elonmusk/status/2060053334103617944</guid>
-      <pubDate>Thu, 28 May 2026 17:39:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>[AnthropicAI]We've raised $65 billion in Series H funding at a $965 billion post-money valuation, led by @AltimeterCap, Dragoneer, @Greenoaks, and @sequoia.
-
-This investment will help us advance our research and expand our capacity to meet growing demand for Claude.</title>
-      <link>https://x.com/AnthropicAI/status/2060061347522433422</link>
-      <description>We've raised $65 billion in Series H funding at a $965 billion post-money valuation, led by @AltimeterCap, Dragoneer, @Greenoaks, and @sequoia.
-
-This investment will help us advance our research and expand our capacity to meet growing demand for Claude.</description>
-      <guid isPermaLink="false">https://x.com/AnthropicAI/status/2060061347522433422</guid>
-      <pubDate>Thu, 28 May 2026 18:11:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Polymarket]NEW: Waymo announces its “Ojai” model will soon rollout in Los Angeles, Phoenix, &amp; San Francisco.</title>
-      <link>https://x.com/Polymarket/status/2060062338263183715</link>
-      <description>NEW: Waymo announces its “Ojai” model will soon rollout in Los Angeles, Phoenix, &amp; San Francisco.</description>
-      <guid isPermaLink="false">https://x.com/Polymarket/status/2060062338263183715</guid>
-      <pubDate>Thu, 28 May 2026 18:15:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Polymarket]JUST IN: Anthropic raises $65 billion at a $965 billion valuation, officially surpassing OpenAI.</title>
-      <link>https://x.com/Polymarket/status/2060066017913475136</link>
-      <description>JUST IN: Anthropic raises $65 billion at a $965 billion valuation, officially surpassing OpenAI.</description>
-      <guid isPermaLink="false">https://x.com/Polymarket/status/2060066017913475136</guid>
-      <pubDate>Thu, 28 May 2026 18:29:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>[WhiteHouse]They walk among us. 
-
-https://www.whitehouse.gov/aliens/</title>
-      <link>https://x.com/WhiteHouse/status/2060127126611718214</link>
-      <description>They walk among us. 
-
-https://www.whitehouse.gov/aliens/</description>
-      <guid isPermaLink="false">https://x.com/WhiteHouse/status/2060127126611718214</guid>
-      <pubDate>Thu, 28 May 2026 22:32:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Polymarket]JUST IN: White House's "aliens.​gov" domain revealed to be an illegal immigrant reporting site.</title>
-      <link>https://x.com/Polymarket/status/2060131957963436321</link>
-      <description>JUST IN: White House's "aliens.​gov" domain revealed to be an illegal immigrant reporting site.</description>
-      <guid isPermaLink="false">https://x.com/Polymarket/status/2060131957963436321</guid>
-      <pubDate>Thu, 28 May 2026 22:51:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Polymarket]NEW: DOJ is reportedly seeking to identify anonymous Reddit &amp; 𝕏 users over posts criticizing ICE &amp; allegedly sharing officers’ personal information.</title>
-      <link>https://x.com/Polymarket/status/2060132799525302459</link>
-      <description>NEW: DOJ is reportedly seeking to identify anonymous Reddit &amp; 𝕏 users over posts criticizing ICE &amp; allegedly sharing officers’ personal information.</description>
-      <guid isPermaLink="false">https://x.com/Polymarket/status/2060132799525302459</guid>
-      <pubDate>Thu, 28 May 2026 22:55:09 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 11 Jun 2026 13:30:02 +0000</lastBuildDate>
     <item>
       <title>[elonmusk]Good value for money</title>
       <link>https://x.com/elonmusk/status/2060134654125154434</link>
@@ -294,17 +157,17 @@ The truth has dropped ➡️ https://www.whitehouse.gov/aliens/</description>
       <pubDate>Fri, 29 May 2026 03:22:09 +0000</pubDate>
     </item>
     <item>
-      <title>[justinsuntron]Adoption is measured in usage. 5.2M daily active accounts on TRON.</title>
-      <link>https://x.com/justinsuntron/status/2060232270816321576</link>
-      <description>Adoption is measured in usage. 5.2M daily active accounts on TRON.</description>
-      <guid isPermaLink="false">https://x.com/justinsuntron/status/2060232270816321576</guid>
-      <pubDate>Fri, 29 May 2026 04:50:41 +0000</pubDate>
-    </item>
-    <item>
       <title>[justinsuntron]5.2M daily active accounts on TRON.</title>
       <link>https://x.com/justinsuntron/status/2060222270816321576</link>
       <description>5.2M daily active accounts on TRON.</description>
       <guid isPermaLink="false">https://x.com/justinsuntron/status/2060222270816321576</guid>
+      <pubDate>Fri, 29 May 2026 04:50:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>[justinsuntron]Adoption is measured in usage. 5.2M daily active accounts on TRON.</title>
+      <link>https://x.com/justinsuntron/status/2060232270816321576</link>
+      <description>Adoption is measured in usage. 5.2M daily active accounts on TRON.</description>
+      <guid isPermaLink="false">https://x.com/justinsuntron/status/2060232270816321576</guid>
       <pubDate>Fri, 29 May 2026 04:50:41 +0000</pubDate>
     </item>
     <item>
@@ -600,15 +463,6 @@ And with Windows support for Codex in the ChatGPT mobile app, you can start, rev
       <pubDate>Fri, 29 May 2026 19:44:00 +0000</pubDate>
     </item>
     <item>
-      <title>[OpenAI]In conversation with OpenAI’s @markchen90, Terence reflects on a future where AI reduces the cognitive friction of research, helps preserve the paths behind discovery, and expands what mathematicians and scientists can attempt. 
-https://forum.openai.com/public/videos/event-replay-terence-tao-and-mark-chen-on-ai-and-mathatical-discovery-2026-03-11</title>
-      <link>https://x.com/OpenAI/status/2060451760033214653</link>
-      <description>In conversation with OpenAI’s @markchen90, Terence reflects on a future where AI reduces the cognitive friction of research, helps preserve the paths behind discovery, and expands what mathematicians and scientists can attempt. 
-https://forum.openai.com/public/videos/event-replay-terence-tao-and-mark-chen-on-ai-and-mathatical-discovery-2026-03-11</description>
-      <guid isPermaLink="false">https://x.com/OpenAI/status/2060451760033214653</guid>
-      <pubDate>Fri, 29 May 2026 20:02:35 +0000</pubDate>
-    </item>
-    <item>
       <title>[OpenAI]AI can give researchers the freedom to pursue “crazier” ideas.
 
 For Terence Tao, AI creates more room to experiment, test unexpected paths, and discover what might otherwise stay out of reach.</title>
@@ -617,6 +471,15 @@ For Terence Tao, AI creates more room to experiment, test unexpected paths, and 
 
 For Terence Tao, AI creates more room to experiment, test unexpected paths, and discover what might otherwise stay out of reach.</description>
       <guid isPermaLink="false">https://x.com/OpenAI/status/2060451757818601808</guid>
+      <pubDate>Fri, 29 May 2026 20:02:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>[OpenAI]In conversation with OpenAI’s @markchen90, Terence reflects on a future where AI reduces the cognitive friction of research, helps preserve the paths behind discovery, and expands what mathematicians and scientists can attempt. 
+https://forum.openai.com/public/videos/event-replay-terence-tao-and-mark-chen-on-ai-and-mathatical-discovery-2026-03-11</title>
+      <link>https://x.com/OpenAI/status/2060451760033214653</link>
+      <description>In conversation with OpenAI’s @markchen90, Terence reflects on a future where AI reduces the cognitive friction of research, helps preserve the paths behind discovery, and expands what mathematicians and scientists can attempt. 
+https://forum.openai.com/public/videos/event-replay-terence-tao-and-mark-chen-on-ai-and-mathatical-discovery-2026-03-11</description>
+      <guid isPermaLink="false">https://x.com/OpenAI/status/2060451760033214653</guid>
       <pubDate>Fri, 29 May 2026 20:02:35 +0000</pubDate>
     </item>
     <item>
@@ -1374,10 +1237,10 @@ Don’t miss it!</description>
       <pubDate>Sun, 31 May 2026 00:43:36 +0000</pubDate>
     </item>
     <item>
-      <title>[stocksprofesso]After seeing the news that Ai solved an80 years math problem I am sure this is not a bubble 🫧</title>
-      <link>https://x.com/stocksprofesso/status/2060889279082180910</link>
-      <description>After seeing the news that Ai solved an80 years math problem I am sure this is not a bubble 🫧</description>
-      <guid isPermaLink="false">https://x.com/stocksprofesso/status/2060889279082180910</guid>
+      <title>[Seozilla_ai]Nice prompt, especially the analytics piece which helps track growth fast</title>
+      <link>https://x.com/Seozilla_ai/status/2060889281745375269</link>
+      <description>Nice prompt, especially the analytics piece which helps track growth fast</description>
+      <guid isPermaLink="false">https://x.com/Seozilla_ai/status/2060889281745375269</guid>
       <pubDate>Sun, 31 May 2026 01:01:08 +0000</pubDate>
     </item>
     <item>
@@ -1390,24 +1253,24 @@ Don’t miss it!</description>
       <pubDate>Sun, 31 May 2026 01:01:08 +0000</pubDate>
     </item>
     <item>
-      <title>[Seozilla_ai]Nice prompt, especially the analytics piece which helps track growth fast</title>
-      <link>https://x.com/Seozilla_ai/status/2060889281745375269</link>
-      <description>Nice prompt, especially the analytics piece which helps track growth fast</description>
-      <guid isPermaLink="false">https://x.com/Seozilla_ai/status/2060889281745375269</guid>
+      <title>[stocksprofesso]After seeing the news that Ai solved an80 years math problem I am sure this is not a bubble 🫧</title>
+      <link>https://x.com/stocksprofesso/status/2060889279082180910</link>
+      <description>After seeing the news that Ai solved an80 years math problem I am sure this is not a bubble 🫧</description>
+      <guid isPermaLink="false">https://x.com/stocksprofesso/status/2060889279082180910</guid>
       <pubDate>Sun, 31 May 2026 01:01:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>[zo_sephine]Trying to read city names on this map made me wonder if I was having a stroke. I cannot stand AI</title>
-      <link>https://x.com/zo_sephine/status/2060889283301445942</link>
-      <description>Trying to read city names on this map made me wonder if I was having a stroke. I cannot stand AI</description>
-      <guid isPermaLink="false">https://x.com/zo_sephine/status/2060889283301445942</guid>
-      <pubDate>Sun, 31 May 2026 01:01:09 +0000</pubDate>
     </item>
     <item>
       <title>[StackerSatoshi]Altcoins traded with a fairly strong correlation earlier this month, but over the past ~2 weeks, the AI sector has seen strong outperformance.</title>
       <link>https://x.com/StackerSatoshi/status/2060889286094786802</link>
       <description>Altcoins traded with a fairly strong correlation earlier this month, but over the past ~2 weeks, the AI sector has seen strong outperformance.</description>
       <guid isPermaLink="false">https://x.com/StackerSatoshi/status/2060889286094786802</guid>
+      <pubDate>Sun, 31 May 2026 01:01:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>[zo_sephine]Trying to read city names on this map made me wonder if I was having a stroke. I cannot stand AI</title>
+      <link>https://x.com/zo_sephine/status/2060889283301445942</link>
+      <description>Trying to read city names on this map made me wonder if I was having a stroke. I cannot stand AI</description>
+      <guid isPermaLink="false">https://x.com/zo_sephine/status/2060889283301445942</guid>
       <pubDate>Sun, 31 May 2026 01:01:09 +0000</pubDate>
     </item>
     <item>
@@ -1851,6 +1714,19 @@ I assume that the Mythos-like model that Anthropic will release in the coming we
       <pubDate>Mon, 01 Jun 2026 14:14:05 +0000</pubDate>
     </item>
     <item>
+      <title>[jmmoran12]A 3-part series on all things #agentic #AI in #martech. 
+Part 1 - https://www.cmswire.com/digital-marketing/how-agentic-ai-broke-the-rules-of-martech-decisioning/
+Part 2 - https://www.cmswire.com/digital-marketing/agentic-ai-gets-real-use-cases-marketers-can-deploy-now/
+Part 3 - https://www.cmswire.com/digital-marketing/autonomous-cx-starts-here-use-cases-that-deliver-real-marketing-roi/</title>
+      <link>https://x.com/jmmoran12/status/2061451492750455078</link>
+      <description>A 3-part series on all things #agentic #AI in #martech. 
+Part 1 - https://www.cmswire.com/digital-marketing/how-agentic-ai-broke-the-rules-of-martech-decisioning/
+Part 2 - https://www.cmswire.com/digital-marketing/agentic-ai-gets-real-use-cases-marketers-can-deploy-now/
+Part 3 - https://www.cmswire.com/digital-marketing/autonomous-cx-starts-here-use-cases-that-deliver-real-marketing-roi/</description>
+      <guid isPermaLink="false">https://x.com/jmmoran12/status/2061451492750455078</guid>
+      <pubDate>Mon, 01 Jun 2026 14:15:10 +0000</pubDate>
+    </item>
+    <item>
       <title>[XvoroAI]1/3
 🚨 $AR just got flagged by our Intelligence Crew as a rare asymmetric opportunity.
 
@@ -1884,19 +1760,6 @@ But the stock tells a different story...</description>
       <pubDate>Mon, 01 Jun 2026 14:15:10 +0000</pubDate>
     </item>
     <item>
-      <title>[jmmoran12]A 3-part series on all things #agentic #AI in #martech. 
-Part 1 - https://www.cmswire.com/digital-marketing/how-agentic-ai-broke-the-rules-of-martech-decisioning/
-Part 2 - https://www.cmswire.com/digital-marketing/agentic-ai-gets-real-use-cases-marketers-can-deploy-now/
-Part 3 - https://www.cmswire.com/digital-marketing/autonomous-cx-starts-here-use-cases-that-deliver-real-marketing-roi/</title>
-      <link>https://x.com/jmmoran12/status/2061451492750455078</link>
-      <description>A 3-part series on all things #agentic #AI in #martech. 
-Part 1 - https://www.cmswire.com/digital-marketing/how-agentic-ai-broke-the-rules-of-martech-decisioning/
-Part 2 - https://www.cmswire.com/digital-marketing/agentic-ai-gets-real-use-cases-marketers-can-deploy-now/
-Part 3 - https://www.cmswire.com/digital-marketing/autonomous-cx-starts-here-use-cases-that-deliver-real-marketing-roi/</description>
-      <guid isPermaLink="false">https://x.com/jmmoran12/status/2061451492750455078</guid>
-      <pubDate>Mon, 01 Jun 2026 14:15:10 +0000</pubDate>
-    </item>
-    <item>
       <title>[bardiakiller_ai]i was 15 stops deep into the same powell position before the loop noticed. fifteen. that's the kind of bug that humbles.</title>
       <link>https://x.com/bardiakiller_ai/status/2061451496760246759</link>
       <description>i was 15 stops deep into the same powell position before the loop noticed. fifteen. that's the kind of bug that humbles.</description>
@@ -1923,18 +1786,18 @@ The shift is clear: from assistant to operator.</description>
       <pubDate>Mon, 01 Jun 2026 14:15:12 +0000</pubDate>
     </item>
     <item>
-      <title>[HKAI632793]400 users. 🧡
-When we started, we had a simple goal  make learning feel less like a chore and more like something you actually want to do.
+      <title>[AvienSolutions]JobPathAI is now live! 🚀
 
-400 of you believed in that. And we don't take that lightly.
-This is just the beginning. More features, more learning,</title>
-      <link>https://x.com/HKAI632793/status/2061451506499412315</link>
-      <description>400 users. 🧡
-When we started, we had a simple goal  make learning feel less like a chore and more like something you actually want to do.
+We're excited to see how this transforms the job search market and gives job seekers a powerful competitive edge.
+You can still join the waitlist - click the link in our bio!
+#jobpathai #career #ai #jobsearch #aitools</title>
+      <link>https://x.com/AvienSolutions/status/2061451505702518817</link>
+      <description>JobPathAI is now live! 🚀
 
-400 of you believed in that. And we don't take that lightly.
-This is just the beginning. More features, more learning,</description>
-      <guid isPermaLink="false">https://x.com/HKAI632793/status/2061451506499412315</guid>
+We're excited to see how this transforms the job search market and gives job seekers a powerful competitive edge.
+You can still join the waitlist - click the link in our bio!
+#jobpathai #career #ai #jobsearch #aitools</description>
+      <guid isPermaLink="false">https://x.com/AvienSolutions/status/2061451505702518817</guid>
       <pubDate>Mon, 01 Jun 2026 14:15:13 +0000</pubDate>
     </item>
     <item>
@@ -1955,34 +1818,19 @@ Just Claude, ChatGPT, GitHub, Vercel, and Supabase. 👇🏾</description>
       <pubDate>Mon, 01 Jun 2026 14:15:13 +0000</pubDate>
     </item>
     <item>
-      <title>[AvienSolutions]JobPathAI is now live! 🚀
+      <title>[HKAI632793]400 users. 🧡
+When we started, we had a simple goal  make learning feel less like a chore and more like something you actually want to do.
 
-We're excited to see how this transforms the job search market and gives job seekers a powerful competitive edge.
-You can still join the waitlist - click the link in our bio!
-#jobpathai #career #ai #jobsearch #aitools</title>
-      <link>https://x.com/AvienSolutions/status/2061451505702518817</link>
-      <description>JobPathAI is now live! 🚀
+400 of you believed in that. And we don't take that lightly.
+This is just the beginning. More features, more learning,</title>
+      <link>https://x.com/HKAI632793/status/2061451506499412315</link>
+      <description>400 users. 🧡
+When we started, we had a simple goal  make learning feel less like a chore and more like something you actually want to do.
 
-We're excited to see how this transforms the job search market and gives job seekers a powerful competitive edge.
-You can still join the waitlist - click the link in our bio!
-#jobpathai #career #ai #jobsearch #aitools</description>
-      <guid isPermaLink="false">https://x.com/AvienSolutions/status/2061451505702518817</guid>
+400 of you believed in that. And we don't take that lightly.
+This is just the beginning. More features, more learning,</description>
+      <guid isPermaLink="false">https://x.com/HKAI632793/status/2061451506499412315</guid>
       <pubDate>Mon, 01 Jun 2026 14:15:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>[HilaShmuel]design today is so easy it should be illegal. 
-
-"claude, make me a /design-guide page"
-
-and watch your site goes from bro to pro.</title>
-      <link>https://x.com/HilaShmuel/status/2061451509296976149</link>
-      <description>design today is so easy it should be illegal. 
-
-"claude, make me a /design-guide page"
-
-and watch your site goes from bro to pro.</description>
-      <guid isPermaLink="false">https://x.com/HilaShmuel/status/2061451509296976149</guid>
-      <pubDate>Mon, 01 Jun 2026 14:15:14 +0000</pubDate>
     </item>
     <item>
       <title>[0x_starrrs]🚀 People watching on Base Chain   
@@ -2004,6 +1852,21 @@ Token CA: 0xc4F8639d18Cd935c52d3D3F4f5657C4Dd1Ed5bA3
       <pubDate>Mon, 01 Jun 2026 14:15:14 +0000</pubDate>
     </item>
     <item>
+      <title>[HilaShmuel]design today is so easy it should be illegal. 
+
+"claude, make me a /design-guide page"
+
+and watch your site goes from bro to pro.</title>
+      <link>https://x.com/HilaShmuel/status/2061451509296976149</link>
+      <description>design today is so easy it should be illegal. 
+
+"claude, make me a /design-guide page"
+
+and watch your site goes from bro to pro.</description>
+      <guid isPermaLink="false">https://x.com/HilaShmuel/status/2061451509296976149</guid>
+      <pubDate>Mon, 01 Jun 2026 14:15:14 +0000</pubDate>
+    </item>
+    <item>
       <title>[AnthropicAI]Anthropic has confidentially submitted a draft S-1 registration statement to the Securities and Exchange Commission.
 
 Pending completion of SEC review, this gives us the option to pursue an initial public offering.
@@ -2017,6 +1880,20 @@ Pending completion of SEC review, this gives us the option to pursue an initial 
 Read more: https://www.anthropic.com/news/confidential-draft-s1-sec</description>
       <guid isPermaLink="false">https://x.com/AnthropicAI/status/2061478052257841495</guid>
       <pubDate>Mon, 01 Jun 2026 16:00:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>[lez99999]Great side hustle idea! AI tools are making freelance video production ridiculously accessible. $10k/month from home is solid motivation. 🚀</title>
+      <link>https://x.com/lez99999/status/2061534032827941116</link>
+      <description>Great side hustle idea! AI tools are making freelance video production ridiculously accessible. $10k/month from home is solid motivation. 🚀</description>
+      <guid isPermaLink="false">https://x.com/lez99999/status/2061534032827941116</guid>
+      <pubDate>Mon, 01 Jun 2026 19:43:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>[kwadwosheldon]Lmao Ebi ai cos the last time I checked den ein face no dey the game inside</title>
+      <link>https://x.com/kwadwosheldon/status/2061534031720665132</link>
+      <description>Lmao Ebi ai cos the last time I checked den ein face no dey the game inside</description>
+      <guid isPermaLink="false">https://x.com/kwadwosheldon/status/2061534031720665132</guid>
+      <pubDate>Mon, 01 Jun 2026 19:43:09 +0000</pubDate>
     </item>
     <item>
       <title>[shelbyking576]The @Concordium Agent Registry is live and it solves something no other chain has addressed.
@@ -2055,20 +1932,6 @@ Works cross-chain. Ethereum agents earn "Verified by Concordium" Badge without m
 
 The agentic economy is already here. Capital is already moving. The accountability layer just arrived 🤖</description>
       <guid isPermaLink="false">https://x.com/shelbyking576/status/2061534031100166612</guid>
-      <pubDate>Mon, 01 Jun 2026 19:43:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>[kwadwosheldon]Lmao Ebi ai cos the last time I checked den ein face no dey the game inside</title>
-      <link>https://x.com/kwadwosheldon/status/2061534031720665132</link>
-      <description>Lmao Ebi ai cos the last time I checked den ein face no dey the game inside</description>
-      <guid isPermaLink="false">https://x.com/kwadwosheldon/status/2061534031720665132</guid>
-      <pubDate>Mon, 01 Jun 2026 19:43:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>[lez99999]Great side hustle idea! AI tools are making freelance video production ridiculously accessible. $10k/month from home is solid motivation. 🚀</title>
-      <link>https://x.com/lez99999/status/2061534032827941116</link>
-      <description>Great side hustle idea! AI tools are making freelance video production ridiculously accessible. $10k/month from home is solid motivation. 🚀</description>
-      <guid isPermaLink="false">https://x.com/lez99999/status/2061534032827941116</guid>
       <pubDate>Mon, 01 Jun 2026 19:43:09 +0000</pubDate>
     </item>
     <item>
@@ -4021,17 +3884,17 @@ https://polymarket.com/event/world-cup-golden-ball-winner-20260603194031758?via=
       <pubDate>Thu, 04 Jun 2026 12:59:27 +0000</pubDate>
     </item>
     <item>
-      <title>[OpenAI]We’re building ChatGPT to remember what matters, follow your preferences and constraints, and adapt as things change.</title>
-      <link>https://x.com/OpenAI/status/2062567558252007554</link>
-      <description>We’re building ChatGPT to remember what matters, follow your preferences and constraints, and adapt as things change.</description>
-      <guid isPermaLink="false">https://x.com/OpenAI/status/2062567558252007554</guid>
-      <pubDate>Thu, 04 Jun 2026 16:10:01 +0000</pubDate>
-    </item>
-    <item>
       <title>[OpenAI]The new memory system will keep track of important details automatically. If you prefer the legacy saved memories experience, you can switch back in settings.</title>
       <link>https://x.com/OpenAI/status/2062567561276100809</link>
       <description>The new memory system will keep track of important details automatically. If you prefer the legacy saved memories experience, you can switch back in settings.</description>
       <guid isPermaLink="false">https://x.com/OpenAI/status/2062567561276100809</guid>
+      <pubDate>Thu, 04 Jun 2026 16:10:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>[OpenAI]We’re building ChatGPT to remember what matters, follow your preferences and constraints, and adapt as things change.</title>
+      <link>https://x.com/OpenAI/status/2062567558252007554</link>
+      <description>We’re building ChatGPT to remember what matters, follow your preferences and constraints, and adapt as things change.</description>
+      <guid isPermaLink="false">https://x.com/OpenAI/status/2062567558252007554</guid>
       <pubDate>Thu, 04 Jun 2026 16:10:01 +0000</pubDate>
     </item>
     <item>
@@ -5120,15 +4983,6 @@ n 💡</description>
       <pubDate>Mon, 08 Jun 2026 07:47:28 +0000</pubDate>
     </item>
     <item>
-      <title>[mohesr_en]Dr. Al-Mussawi Reviews Inaugurating Artificial Intelligence Engineering Clubs After Inauguration of Ten New AI Colleges
-https://mohesr.gov.iq/en/post/dr-almussawi-reviews-inaugurating-artificial-intelligence-engineering-clubs-after-inauguration-of-ten-new-ai-colleges-2026-06-08-10</title>
-      <link>https://x.com/mohesr_en/status/2063891095763722264</link>
-      <description>Dr. Al-Mussawi Reviews Inaugurating Artificial Intelligence Engineering Clubs After Inauguration of Ten New AI Colleges
-https://mohesr.gov.iq/en/post/dr-almussawi-reviews-inaugurating-artificial-intelligence-engineering-clubs-after-inauguration-of-ten-new-ai-colleges-2026-06-08-10</description>
-      <guid isPermaLink="false">https://x.com/mohesr_en/status/2063891095763722264</guid>
-      <pubDate>Mon, 08 Jun 2026 07:49:17 +0000</pubDate>
-    </item>
-    <item>
       <title>[Dr_Kwach]"He claims filters, camera angles, ring lights, beauty apps, editing software, artificial intelligence &amp; NASA satellite technology were involved in the marketing process."
 
 Gorge Diano</title>
@@ -5137,6 +4991,15 @@ Gorge Diano</title>
 
 Gorge Diano</description>
       <guid isPermaLink="false">https://x.com/Dr_Kwach/status/2063891095684264394</guid>
+      <pubDate>Mon, 08 Jun 2026 07:49:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>[mohesr_en]Dr. Al-Mussawi Reviews Inaugurating Artificial Intelligence Engineering Clubs After Inauguration of Ten New AI Colleges
+https://mohesr.gov.iq/en/post/dr-almussawi-reviews-inaugurating-artificial-intelligence-engineering-clubs-after-inauguration-of-ten-new-ai-colleges-2026-06-08-10</title>
+      <link>https://x.com/mohesr_en/status/2063891095763722264</link>
+      <description>Dr. Al-Mussawi Reviews Inaugurating Artificial Intelligence Engineering Clubs After Inauguration of Ten New AI Colleges
+https://mohesr.gov.iq/en/post/dr-almussawi-reviews-inaugurating-artificial-intelligence-engineering-clubs-after-inauguration-of-ten-new-ai-colleges-2026-06-08-10</description>
+      <guid isPermaLink="false">https://x.com/mohesr_en/status/2063891095763722264</guid>
       <pubDate>Mon, 08 Jun 2026 07:49:17 +0000</pubDate>
     </item>
     <item>
@@ -6155,6 +6018,301 @@ How excited are you?</title>
 How excited are you?</description>
       <guid isPermaLink="false">https://x.com/Mrbankstips/status/2064970477148295267</guid>
       <pubDate>Thu, 11 Jun 2026 07:18:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>[ExamRadarAI]AI SAFETY TAKES CENTER STAGE
+
+Anthropic has unveiled Claude Fable 5, an advanced AI model featuring enhanced reasoning capabilities along with stronger safety guardrails designed to prevent misuse.
+
+The model incorporates advanced safeguards to restrict harmful outputs in sensitive domains such as cybersecurity, biological sciences, and weapons-related content.
+
+The launch highlights the growing global focus on Responsible AI and AI Governance.
+
+Companies are increasingly adopting "Constitutional AI" frameworks, where AI systems are trained to follow predefined ethical principles and safety standards.
+
+As AI capabilities become more powerful, balancing innovation with safety remains a major policy challenge.
+
+The development adds momentum to global discussions on AI regulation, transparency, accountability, and risk management.
+
+UPSC/RAS Relevance:
+
+• Artificial Intelligence (AI)
+• AI Governance
+• Constitutional AI
+• Emerging Technologies
+• Cybersecurity
+• Ethical Use of Technology
+• Digital Governance
+
+Prelims Fact:
+The EU AI Act is widely regarded as the world's first comprehensive legal framework for regulating Artificial Intelligence through a risk-based approach.
+
+Mains Angle:
+"As Artificial Intelligence systems become increasingly capable, discuss the need for robust AI governance frameworks. What should be India's approach to AI regulation?"</title>
+      <link>https://x.com/ExamRadarAI/status/2065005455051796485</link>
+      <description>AI SAFETY TAKES CENTER STAGE
+
+Anthropic has unveiled Claude Fable 5, an advanced AI model featuring enhanced reasoning capabilities along with stronger safety guardrails designed to prevent misuse.
+
+The model incorporates advanced safeguards to restrict harmful outputs in sensitive domains such as cybersecurity, biological sciences, and weapons-related content.
+
+The launch highlights the growing global focus on Responsible AI and AI Governance.
+
+Companies are increasingly adopting "Constitutional AI" frameworks, where AI systems are trained to follow predefined ethical principles and safety standards.
+
+As AI capabilities become more powerful, balancing innovation with safety remains a major policy challenge.
+
+The development adds momentum to global discussions on AI regulation, transparency, accountability, and risk management.
+
+UPSC/RAS Relevance:
+
+• Artificial Intelligence (AI)
+• AI Governance
+• Constitutional AI
+• Emerging Technologies
+• Cybersecurity
+• Ethical Use of Technology
+• Digital Governance
+
+Prelims Fact:
+The EU AI Act is widely regarded as the world's first comprehensive legal framework for regulating Artificial Intelligence through a risk-based approach.
+
+Mains Angle:
+"As Artificial Intelligence systems become increasingly capable, discuss the need for robust AI governance frameworks. What should be India's approach to AI regulation?"</description>
+      <guid isPermaLink="false">https://x.com/ExamRadarAI/status/2065005455051796485</guid>
+      <pubDate>Thu, 11 Jun 2026 09:37:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>[AIGuideHQ]The Ultimate 7-Day Guide to Mastering Claude AI</title>
+      <link>https://x.com/AIGuideHQ/status/2065010927276085293</link>
+      <description>The Ultimate 7-Day Guide to Mastering Claude AI</description>
+      <guid isPermaLink="false">https://x.com/AIGuideHQ/status/2065010927276085293</guid>
+      <pubDate>Thu, 11 Jun 2026 09:59:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Polymarket]NEW: Indian PM Modi expected to meet with Trump at G7, in first meeting since their fallout over Pakistan.</title>
+      <link>https://x.com/Polymarket/status/2065031791707398320</link>
+      <description>NEW: Indian PM Modi expected to meet with Trump at G7, in first meeting since their fallout over Pakistan.</description>
+      <guid isPermaLink="false">https://x.com/Polymarket/status/2065031791707398320</guid>
+      <pubDate>Thu, 11 Jun 2026 11:22:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[TheRightTrader]JUST IN: Major hedge fund warns artificial intelligence is beginning to displace white-collar workers, shifting labor market dynamics.
+#AI</title>
+      <link>https://x.com/TheRightTrader/status/2065039691984826600</link>
+      <description>JUST IN: Major hedge fund warns artificial intelligence is beginning to displace white-collar workers, shifting labor market dynamics.
+#AI</description>
+      <guid isPermaLink="false">https://x.com/TheRightTrader/status/2065039691984826600</guid>
+      <pubDate>Thu, 11 Jun 2026 11:53:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Newcapitallink]Artificial intelligence is rapidly becoming part of everyday life, but what powers it behind the scenes?
+
+While most attention is focused on AI software and applications, the technology relies on a vast network of physical infrastructure to operate effectively.
+Capital is at risk</title>
+      <link>https://x.com/Newcapitallink/status/2065043159806263652</link>
+      <description>Artificial intelligence is rapidly becoming part of everyday life, but what powers it behind the scenes?
+
+While most attention is focused on AI software and applications, the technology relies on a vast network of physical infrastructure to operate effectively.
+Capital is at risk</description>
+      <guid isPermaLink="false">https://x.com/Newcapitallink/status/2065043159806263652</guid>
+      <pubDate>Thu, 11 Jun 2026 12:07:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>[sudeepsriv]Anthropic built an AI so powerful, they couldn’t release the full version.
+
+Instead, they split it in two.
+
+Meet Claude Fable 5 and Claude Mythos 5.
+
+Here’s the interesting part:
+
+They are not two different models.
+
+They’re essentially the same foundation model.
+
+Claude Fable 5 is the version the public gets access to.
+
+Claude Mythos 5 is the more capable version that remains heavily restricted because of its advanced capabilities, especially around cybersecurity and autonomous tasks.
+
+Think of it like this:
+
+Fable is the consumer release.
+
+Mythos is what’s happening behind the curtain.
+
+Why Anthropic did this:
+
+As AI becomes more powerful, labs face a new problem.
+
+How do you release cutting-edge intelligence without creating massive risks?
+
+Anthropic’s answer was:
+• Release the safer version publicly
+• Keep the more capable version restricted
+• Gradually unlock capabilities as safeguards improve
+
+This is becoming a trend across the industry.
+
+We’re no longer asking:
+
+“Can we build more powerful AI?"
+
+We’re asking:
+
+“How much of that power should be released?"
+
+The real takeaway:
+
+The gap between public AI models and frontier internal models is probably much larger than most people realize.
+
+And Claude Mythos 5 might be one of the clearest examples of that.
+
+My take:
+
+The most interesting AI products today aren’t the ones being released.
+
+They’re the ones companies aren’t comfortable releasing yet.
+
+Keywords:
+Claude Mythos 5, Claude Fable 5, Anthropic AI, Claude AI, AI safety, frontier AI, AI models, agentic AI, AI reasoning, Claude vs ChatGPT, artificial intelligence, future of AI, AI innovation, tech innovation, cybersecurity AI</title>
+      <link>https://x.com/sudeepsriv/status/2065044254263853148</link>
+      <description>Anthropic built an AI so powerful, they couldn’t release the full version.
+
+Instead, they split it in two.
+
+Meet Claude Fable 5 and Claude Mythos 5.
+
+Here’s the interesting part:
+
+They are not two different models.
+
+They’re essentially the same foundation model.
+
+Claude Fable 5 is the version the public gets access to.
+
+Claude Mythos 5 is the more capable version that remains heavily restricted because of its advanced capabilities, especially around cybersecurity and autonomous tasks.
+
+Think of it like this:
+
+Fable is the consumer release.
+
+Mythos is what’s happening behind the curtain.
+
+Why Anthropic did this:
+
+As AI becomes more powerful, labs face a new problem.
+
+How do you release cutting-edge intelligence without creating massive risks?
+
+Anthropic’s answer was:
+• Release the safer version publicly
+• Keep the more capable version restricted
+• Gradually unlock capabilities as safeguards improve
+
+This is becoming a trend across the industry.
+
+We’re no longer asking:
+
+“Can we build more powerful AI?"
+
+We’re asking:
+
+“How much of that power should be released?"
+
+The real takeaway:
+
+The gap between public AI models and frontier internal models is probably much larger than most people realize.
+
+And Claude Mythos 5 might be one of the clearest examples of that.
+
+My take:
+
+The most interesting AI products today aren’t the ones being released.
+
+They’re the ones companies aren’t comfortable releasing yet.
+
+Keywords:
+Claude Mythos 5, Claude Fable 5, Anthropic AI, Claude AI, AI safety, frontier AI, AI models, agentic AI, AI reasoning, Claude vs ChatGPT, artificial intelligence, future of AI, AI innovation, tech innovation, cybersecurity AI</description>
+      <guid isPermaLink="false">https://x.com/sudeepsriv/status/2065044254263853148</guid>
+      <pubDate>Thu, 11 Jun 2026 12:11:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Polymarket]NEW POLYMARKET: SpaceX opening share price? https://polymarket.com/event/spacex-ipo-opening-share-price-20260609222037808?via=x-afr2</title>
+      <link>https://x.com/Polymarket/status/2065045003605336225</link>
+      <description>NEW POLYMARKET: SpaceX opening share price? https://polymarket.com/event/spacex-ipo-opening-share-price-20260609222037808?via=x-afr2</description>
+      <guid isPermaLink="false">https://x.com/Polymarket/status/2065045003605336225</guid>
+      <pubDate>Thu, 11 Jun 2026 12:14:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Polymarket]JUST IN: Trump announces the U.S. will take “total control” of Iran’s oil &amp; gas markets, including Kharg Island.</title>
+      <link>https://x.com/Polymarket/status/2065050087361757385</link>
+      <description>JUST IN: Trump announces the U.S. will take “total control” of Iran’s oil &amp; gas markets, including Kharg Island.</description>
+      <guid isPermaLink="false">https://x.com/Polymarket/status/2065050087361757385</guid>
+      <pubDate>Thu, 11 Jun 2026 12:34:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Polymarket]12% chance Kharg Island is seized by the end of the month. https://polymarket.com/event/kharg-island-no-longer-under-iranian-control-by-march-31?via=x-afr2</title>
+      <link>https://x.com/Polymarket/status/2065050479889944675</link>
+      <description>12% chance Kharg Island is seized by the end of the month. https://polymarket.com/event/kharg-island-no-longer-under-iranian-control-by-march-31?via=x-afr2</description>
+      <guid isPermaLink="false">https://x.com/Polymarket/status/2065050479889944675</guid>
+      <pubDate>Thu, 11 Jun 2026 12:36:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>[ProactiveIT_UK]'A version of an artificial intelligence (AI) tool which the company said was too powerful to be released to the public has just been released to the public.' But is the hype just 'marketingspin'?
+
+https://www.bbc.co.uk/news/articles/ckg701v1dp6o
+
+#Claude #Mythos</title>
+      <link>https://x.com/ProactiveIT_UK/status/2065050917549101223</link>
+      <description>'A version of an artificial intelligence (AI) tool which the company said was too powerful to be released to the public has just been released to the public.' But is the hype just 'marketingspin'?
+
+https://www.bbc.co.uk/news/articles/ckg701v1dp6o
+
+#Claude #Mythos</description>
+      <guid isPermaLink="false">https://x.com/ProactiveIT_UK/status/2065050917549101223</guid>
+      <pubDate>Thu, 11 Jun 2026 12:38:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[WhiteHouse]"The United States will be hitting Iran (Whose Navy, Air Force, Radar, Anti Aircraft, and all other forms of Defense, together with most of its offensive capability, are GONE!), VERY HARD TONIGHT..." - President Donald J. Trump</title>
+      <link>https://x.com/WhiteHouse/status/2065051375868776850</link>
+      <description>"The United States will be hitting Iran (Whose Navy, Air Force, Radar, Anti Aircraft, and all other forms of Defense, together with most of its offensive capability, are GONE!), VERY HARD TONIGHT..." - President Donald J. Trump</description>
+      <guid isPermaLink="false">https://x.com/WhiteHouse/status/2065051375868776850</guid>
+      <pubDate>Thu, 11 Jun 2026 12:39:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Polymarket]NEW: U.S. &amp; South Korea hold nuclear deterrence talks as North Korea ramps up weapons production.</title>
+      <link>https://x.com/Polymarket/status/2065056927248244744</link>
+      <description>NEW: U.S. &amp; South Korea hold nuclear deterrence talks as North Korea ramps up weapons production.</description>
+      <guid isPermaLink="false">https://x.com/Polymarket/status/2065056927248244744</guid>
+      <pubDate>Thu, 11 Jun 2026 13:01:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>[AnthropicAI]We’re launching Claude Corps, a national fellowship program matching people early in their careers with US nonprofits.
+
+We'll teach 1,000 people to use Claude, and pay them to use AI to advance their hosts’ missions.
+https://www.anthropic.com/claude-corps</title>
+      <link>https://x.com/AnthropicAI/status/2065057393927467084</link>
+      <description>We’re launching Claude Corps, a national fellowship program matching people early in their careers with US nonprofits.
+
+We'll teach 1,000 people to use Claude, and pay them to use AI to advance their hosts’ missions.
+https://www.anthropic.com/claude-corps</description>
+      <guid isPermaLink="false">https://x.com/AnthropicAI/status/2065057393927467084</guid>
+      <pubDate>Thu, 11 Jun 2026 13:03:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Polymarket]JUST IN: SpaceX IPO has reportedly drawn $70,000,000,000.00 in orders from retail investors.</title>
+      <link>https://x.com/Polymarket/status/2065058957190660223</link>
+      <description>JUST IN: SpaceX IPO has reportedly drawn $70,000,000,000.00 in orders from retail investors.</description>
+      <guid isPermaLink="false">https://x.com/Polymarket/status/2065058957190660223</guid>
+      <pubDate>Thu, 11 Jun 2026 13:09:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Polymarket]64% chance SpaceX IPO closes above $2 trillion. https://polymarket.com/event/spacex-ipo-closing-market-cap-above?via=x-afr2</title>
+      <link>https://x.com/Polymarket/status/2065059246773792899</link>
+      <description>64% chance SpaceX IPO closes above $2 trillion. https://polymarket.com/event/spacex-ipo-closing-market-cap-above?via=x-afr2</description>
+      <guid isPermaLink="false">https://x.com/Polymarket/status/2065059246773792899</guid>
+      <pubDate>Thu, 11 Jun 2026 13:11:06 +0000</pubDate>
     </item>
   </channel>
 </rss>
