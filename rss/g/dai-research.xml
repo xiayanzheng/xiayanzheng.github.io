@@ -1,0 +1,132 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>Machine Learning Research</title>
+    <link>https://www.deeplearning.ai/the-batch/tag/research</link>
+    <description>DAI Machine Learning Research</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Sun, 14 Jun 2026 16:37:16 +0000</lastBuildDate>
+    <item>
+      <title>OpenAI Challenges Speech-to-Speech Leaders: RealTime API updates audio models that reason, transcribe, and translate</title>
+      <link>https://www.deeplearning.ai/the-batch/openai-challenges-speech-to-speech-leaders</link>
+      <description>&lt;img src="https://www.deeplearning.ai/_next/image?url=https%3A%2F%2Fcharonhub.deeplearning.ai%2Fcontent%2Fimages%2F2026%2F05%2Funnamed--4--1.png&amp;amp;w=3840&amp;amp;q=75" alt=""&gt;
+&lt;p&gt;An update of OpenAI’s speech-to-speech model lets developers tune the tradeoff between speed and reasoning.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/the-batch/openai-challenges-speech-to-speech-leaders</guid>
+      <pubDate>Fri, 15 May 2026 15:05:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI Mammogram Diagnosis Under Real-World Conditions: Two studies test Google's breast cancer detection models in clinics</title>
+      <link>https://www.deeplearning.ai/the-batch/ai-mammogram-diagnosis-under-real-world-conditions</link>
+      <description>&lt;img src="https://www.deeplearning.ai/_next/image?url=https%3A%2F%2Fcharonhub.deeplearning.ai%2Fcontent%2Fimages%2F2026%2F05%2Funnamed--2--1.gif&amp;amp;w=3840&amp;amp;q=75" alt=""&gt;
+&lt;p&gt;Introduced in 2020, Google’s AI system for detecting breast cancer in mammograms still hasn't been used to diagnose current patients.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/the-batch/ai-mammogram-diagnosis-under-real-world-conditions</guid>
+      <pubDate>Fri, 15 May 2026 15:15:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hermes Agent Challenges OpenClaw: OpenClaw created a class of personal agents; upstart Hermes Agent is outworking it</title>
+      <link>https://www.deeplearning.ai/the-batch/hermes-agent-challenges-openclaw</link>
+      <description>&lt;img src="https://www.deeplearning.ai/_next/image?url=https%3A%2F%2Fcharonhub.deeplearning.ai%2Fcontent%2Fimages%2F2026%2F05%2FHERMES.webp&amp;amp;w=3840&amp;amp;q=75" alt=""&gt;
+&lt;p&gt;OpenClaw, the immensely popular AI agent, has fast-rising competition.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/the-batch/hermes-agent-challenges-openclaw</guid>
+      <pubDate>Fri, 22 May 2026 15:00:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Built-In Conversational Interactivity: Thinking Machines reveals its first interaction model, a new type of multimodal AI</title>
+      <link>https://www.deeplearning.ai/the-batch/built-in-conversational-interactivity</link>
+      <description>&lt;img src="https://www.deeplearning.ai/_next/image?url=https%3A%2F%2Fcharonhub.deeplearning.ai%2Fcontent%2Fimages%2F2026%2F05%2FINTERACTION.webp&amp;amp;w=3840&amp;amp;q=75" alt=""&gt;
+&lt;p&gt;Conversational models typically wait for a turn before they respond.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/the-batch/built-in-conversational-interactivity</guid>
+      <pubDate>Fri, 22 May 2026 15:05:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cybersecurity Alarms Grow Louder: Google study shows LLM-generated malware is getting harder to track and stop</title>
+      <link>https://www.deeplearning.ai/the-batch/cybersecurity-alarms-grow-louder</link>
+      <description>&lt;img src="https://www.deeplearning.ai/_next/image?url=https%3A%2F%2Fcharonhub.deeplearning.ai%2Fcontent%2Fimages%2F2026%2F05%2FGOOGLEHACK.webp&amp;amp;w=3840&amp;amp;q=75" alt=""&gt;
+&lt;p&gt;An AI-generated script to bypass two-factor authentication signals a dawning era of industrial-scale cyberattacks, according to a Google report.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/the-batch/cybersecurity-alarms-grow-louder</guid>
+      <pubDate>Fri, 22 May 2026 15:10:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Toward Agent Benchmarks That Reflect Human Work: AI agents may not be getting better at full range of economically valuable labor</title>
+      <link>https://www.deeplearning.ai/the-batch/toward-agent-benchmarks-that-reflect-human-work</link>
+      <description>&lt;img src="https://www.deeplearning.ai/_next/image?url=https%3A%2F%2Fcharonhub.deeplearning.ai%2Fcontent%2Fimages%2F2026%2F05%2FREAL.webp&amp;amp;w=3840&amp;amp;q=75" alt=""&gt;
+&lt;p&gt;AI agents seem to be increasingly capable of performing economically valuable tasks, but current benchmarks measure this capability only narrowly.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/the-batch/toward-agent-benchmarks-that-reflect-human-work</guid>
+      <pubDate>Fri, 22 May 2026 15:15:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Gemini 3.5 Flash Pairs Smarts With Speed: Google's updated Flash levels up, approaching top models but raising prices</title>
+      <link>https://www.deeplearning.ai/the-batch/gemini-3-5-flash-pairs-smarts-with-speed</link>
+      <description>&lt;img src="https://www.deeplearning.ai/_next/image?url=https%3A%2F%2Fcharonhub.deeplearning.ai%2Fcontent%2Fimages%2F2026%2F05%2FGEMINI3.5FLASH-1.webp&amp;amp;w=3840&amp;amp;q=75" alt=""&gt;
+&lt;p&gt;Google’s faster model brings substantive gains at a substantially higher price, part of a rising trend in prices per token.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/the-batch/gemini-3-5-flash-pairs-smarts-with-speed</guid>
+      <pubDate>Fri, 29 May 2026 15:00:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Europe Pauses Some AI Regulations: European Union regulators delay some AI Act provisions, delete others</title>
+      <link>https://www.deeplearning.ai/the-batch/europe-pauses-some-ai-regulations</link>
+      <description>&lt;img src="https://www.deeplearning.ai/_next/image?url=https%3A%2F%2Fcharonhub.deeplearning.ai%2Fcontent%2Fimages%2F2026%2F05%2FAIACTDELAY-2-1.webp&amp;amp;w=3840&amp;amp;q=75" alt=""&gt;
+&lt;p&gt;The European Union weakened some provisions of its landmark AI Act and delayed others after businesses and policymakers argued the law made European companies less competitive.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/the-batch/europe-pauses-some-ai-regulations</guid>
+      <pubDate>Fri, 29 May 2026 15:05:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>Planning Generated Images In Stages: Meta improves image models by plotting and revising generations step-by-step</title>
+      <link>https://www.deeplearning.ai/the-batch/planning-generated-images-in-stages</link>
+      <description>&lt;img src="https://www.deeplearning.ai/_next/image?url=https%3A%2F%2Fcharonhub.deeplearning.ai%2Fcontent%2Fimages%2F2026%2F05%2FSTROKES-1.webp&amp;amp;w=3840&amp;amp;q=75" alt=""&gt;
+&lt;p&gt;Text-to-image generators that use diffusion or flow-matching typically compose a whole image at once (although they refine the whole image in steps).&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/the-batch/planning-generated-images-in-stages</guid>
+      <pubDate>Fri, 29 May 2026 15:15:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Qwen3.7-Max Adds Speed and Power: Alibaba's latest proprietary model challenges U.S. rivals</title>
+      <link>https://www.deeplearning.ai/the-batch/qwen3-7-max-adds-speed-and-power</link>
+      <description>&lt;img src="https://www.deeplearning.ai/_next/image?url=https%3A%2F%2Fcharonhub.deeplearning.ai%2Fcontent%2Fimages%2F2026%2F06%2FQWEN3.7MAX-1.webp&amp;amp;w=3840&amp;amp;q=75" alt=""&gt;
+&lt;p&gt;Alibaba updated its flagship large language model for long-running agentic work, pushing it into the top rank among LLMs built in China.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/the-batch/qwen3-7-max-adds-speed-and-power</guid>
+      <pubDate>Fri, 05 Jun 2026 15:00:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fine-Tuning LLMs to Expand on Summaries Unearths Pretraining Texts: Fine-Tuning can strip models of copyright alignment guidelines</title>
+      <link>https://www.deeplearning.ai/the-batch/fine-tuning-llms-to-expand-on-summaries-unearths-pretraining-texts</link>
+      <description>&lt;img src="https://www.deeplearning.ai/_next/image?url=https%3A%2F%2Fcharonhub.deeplearning.ai%2Fcontent%2Fimages%2F2026%2F06%2FMOLE-1.webp&amp;amp;w=3840&amp;amp;q=75" alt=""&gt;
+&lt;p&gt;Fine-tuning large language models on a seemingly benign task that would be useful to writers — expanding plot summaries into paragraphs of polished fiction — causes them to regurgitate substantial portions of books on which they were pretrained.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/the-batch/fine-tuning-llms-to-expand-on-summaries-unearths-pretraining-texts</guid>
+      <pubDate>Fri, 05 Jun 2026 15:15:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Behold Mythos!: Anthropic released Claude Mythos 5 and Claude Fable 5, a public version with safeguards</title>
+      <link>https://www.deeplearning.ai/the-batch/behold-mythos</link>
+      <description>&lt;img src="https://www.deeplearning.ai/_next/image?url=https%3A%2F%2Fcharonhub.deeplearning.ai%2Fcontent%2Fimages%2F2026%2F06%2FMYTHOSFABLE-1.webp&amp;amp;w=3840&amp;amp;q=75" alt=""&gt;
+&lt;p&gt;After months of headlines that teased a large language model with extraordinary capabilities, Anthropic launched Claude Mythos 5, which can crack software previously believed to be secure, and Claude Fable 5, a version for general use that limits what users can do in an unprecedented way.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/the-batch/behold-mythos</guid>
+      <pubDate>Fri, 12 Jun 2026 15:00:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cursor Fits Its Model to Its Agent: Composer 2.5 for Cursor rivals GPT-5.5's coding abilities at lower price</title>
+      <link>https://www.deeplearning.ai/the-batch/cursor-fits-its-model-to-its-agent</link>
+      <description>&lt;img src="https://www.deeplearning.ai/_next/image?url=https%3A%2F%2Fcharonhub.deeplearning.ai%2Fcontent%2Fimages%2F2026%2F06%2FCOMPOSER2.5-1.webp&amp;amp;w=3840&amp;amp;q=75" alt=""&gt;
+&lt;p&gt;Cursor’s latest software engineering model rivals the performance of leading competitors like Claude Opus 4.7 and GPT 5.5 for a fraction of the price.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/the-batch/cursor-fits-its-model-to-its-agent</guid>
+      <pubDate>Fri, 12 Jun 2026 15:05:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>RSI Is the New AGI: What Is recursive self-improvement, and why Is everybody talking about it?</title>
+      <link>https://www.deeplearning.ai/the-batch/rsi-is-the-new-agi</link>
+      <description>&lt;img src="https://www.deeplearning.ai/_next/image?url=https%3A%2F%2Fcharonhub.deeplearning.ai%2Fcontent%2Fimages%2F2026%2F06%2FRSI-1.webp&amp;amp;w=3840&amp;amp;q=75" alt=""&gt;
+&lt;p&gt;The phrase recursive self-improvement erupted on social media following an Anthropic report that tracked AI-driven gains in the company’s internal software-engineering productivity.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/the-batch/rsi-is-the-new-agi</guid>
+      <pubDate>Fri, 12 Jun 2026 15:10:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>State Media Influences LLM Responses: Significant portions of AI training material reflect national propaganda</title>
+      <link>https://www.deeplearning.ai/the-batch/state-media-influences-llm-responses</link>
+      <description>&lt;img src="https://www.deeplearning.ai/_next/image?url=https%3A%2F%2Fcharonhub.deeplearning.ai%2Fcontent%2Fimages%2F2026%2F06%2FSTATEMEDIA-1.webp&amp;amp;w=3840&amp;amp;q=75" alt=""&gt;
+&lt;p&gt;Popular large language models have adopted the biases of governments that control the free flow of information, particularly when those models generate output in the languages of countries where such governments are in power, researchers found.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/the-batch/state-media-influences-llm-responses</guid>
+      <pubDate>Fri, 12 Jun 2026 15:15:25 +0000</pubDate>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,161 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>The Batch</title>
+    <link>https://www.deeplearning.ai/the-batch</link>
+    <description>AI News and Insights from DeepLearning.AI</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Sun, 14 Jun 2026 16:37:17 +0000</lastBuildDate>
+    <item>
+      <title>DeepSeek Sharpens Its Reasoning: DeepSeek-R1, an affordable rival to OpenAI’s o1</title>
+      <link>https://www.deeplearning.ai/the-batch/deepseek-r1-an-affordable-rival-to-openais-o1</link>
+      <description>&lt;img src="https://www.deeplearning.ai/_next/image?url=https%3A%2F%2Fcharonhub.deeplearning.ai%2Fcontent%2Fimages%2F2025%2F01%2Funnamed--47--1.png&amp;amp;w=3840&amp;amp;q=75" alt=""&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/the-batch/deepseek-r1-an-affordable-rival-to-openais-o1</guid>
+      <pubDate>Wed, 22 Jan 2025 15:18:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Reinforcement Learning Heats Up, White House Orders Muscular AI Policy, Computer Use Gains Momentum, Fine Control of Fine-Tuning</title>
+      <link>https://www.deeplearning.ai/the-batch/issue-286</link>
+      <description>&lt;img src="https://www.deeplearning.ai/_next/image?url=https%3A%2F%2Fcharonhub.deeplearning.ai%2Fcontent%2Fimages%2F2025%2F02%2FDeepSeek-Byte7_3D-1.jpg&amp;amp;w=3840&amp;amp;q=75" alt=""&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/the-batch/issue-286</guid>
+      <pubDate>Wed, 29 Jan 2025 22:48:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing DeepLearning.AI Pro</title>
+      <link>https://www.deeplearning.ai/the-batch/introducing-deeplearning-ai-pro</link>
+      <description>&lt;img src="https://www.deeplearning.ai/_next/image?url=https%3A%2F%2Fcharonhub.deeplearning.ai%2Fcontent%2Fimages%2F2025%2F10%2FDeepLearning.AI-Pro-Card-2.png&amp;amp;w=3840&amp;amp;q=75" alt=""&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/the-batch/introducing-deeplearning-ai-pro</guid>
+      <pubDate>Fri, 31 Oct 2025 14:47:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Gemini Seizes the Lead, Investors Panic Over Agentic AI, Optimism at Global AI Summit, Local Versus Cloud</title>
+      <link>https://www.deeplearning.ai/the-batch/issue-342</link>
+      <description>&lt;img src="https://www.deeplearning.ai/_next/image?url=https%3A%2F%2Fcharonhub.deeplearning.ai%2Fcontent%2Fimages%2F2026%2F02%2FSkill-Builder-tool.png&amp;amp;w=3840&amp;amp;q=75" alt=""&gt;
+&lt;p&gt;The Batch AI News and Insights: We just released a Skill Builder tool to help you understand in which areas of AI you’re strong, where you can learn more, and what to do next to keep building your skills.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/the-batch/issue-342</guid>
+      <pubDate>Sun, 14 Jun 2026 16:37:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Anthropic vs. the U.S. Government, Nano Banana’s Makeover, Frontier Agent Management, Google’s Mathematics Solutions</title>
+      <link>https://www.deeplearning.ai/the-batch/issue-343</link>
+      <description>&lt;img src="https://www.deeplearning.ai/_next/image?url=https%3A%2F%2Fcharonhub.deeplearning.ai%2Fcontent%2Fimages%2F2026%2F03%2FContext-Hub.jpg&amp;amp;w=3840&amp;amp;q=75" alt=""&gt;
+&lt;p&gt;The Batch AI News and Insights: I’m thrilled to announce Context Hub, a new tool to give to your coding agents the API documentation they need to write correct code.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/the-batch/issue-343</guid>
+      <pubDate>Sun, 14 Jun 2026 16:37:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>GPT-5.4 Makes A Splash, AI’s Growth on Mobile, Data Centers Go Off-Grid, Apple’s Diffusion Research</title>
+      <link>https://www.deeplearning.ai/the-batch/issue-344</link>
+      <description>&lt;img src="https://www.deeplearning.ai/_next/image?url=https%3A%2F%2Fcharonhub.deeplearning.ai%2Fcontent%2Fimages%2F2026%2F03%2F-Should-there-be-a-Stack-Overflow-for-AI-coding-agents-to-share-their-learnings-with-each-other--.png&amp;amp;w=3840&amp;amp;q=75" alt=""&gt;
+&lt;p&gt;The Batch AI News and Insights: Should there be a Stack Overflow for AI coding agents to share their learnings with each other?&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/the-batch/issue-344</guid>
+      <pubDate>Sun, 14 Jun 2026 16:37:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Attacks On Data Centers, Qwen3.5 In All Sizes, DeepSeek’s Huawei Play, Apple’s Multimodal Tokenizer</title>
+      <link>https://www.deeplearning.ai/the-batch/issue-345</link>
+      <description>&lt;img src="https://www.deeplearning.ai/_next/image?url=https%3A%2F%2Fcharonhub.deeplearning.ai%2Fcontent%2Fimages%2F2026%2F03%2Funnamed---2026-03-20T092355.691.png&amp;amp;w=3840&amp;amp;q=75" alt=""&gt;
+&lt;p&gt;The Batch AI News and Insights: I’ve been hearing from people at all levels of seniority about a feeling of job insecurity.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/the-batch/issue-345</guid>
+      <pubDate>Sun, 14 Jun 2026 16:37:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nvidia’s Open Salvo, OpenAI’s Amazon Deal, Grok Cuts Video Prices, Recursive Language Models</title>
+      <link>https://www.deeplearning.ai/the-batch/issue-346</link>
+      <description>&lt;img src="https://www.deeplearning.ai/_next/image?url=https%3A%2F%2Fcharonhub.deeplearning.ai%2Fcontent%2Fimages%2F2026%2F03%2Funnamed--75--1.jpg&amp;amp;w=3840&amp;amp;q=75" alt=""&gt;
+&lt;p&gt;The Batch AI News and Insights: The anti-AI coalition continues to maneuver to find arguments to slow down AI progress.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/the-batch/issue-346</guid>
+      <pubDate>Sun, 14 Jun 2026 16:37:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Claude Code’s Source Leaks, OpenAI Exits Video Generation, Gemini Adds Music Generation, LLMs Learn at Inference</title>
+      <link>https://www.deeplearning.ai/the-batch/issue-347</link>
+      <description>&lt;img src="https://www.deeplearning.ai/_next/image?url=https%3A%2F%2Fcharonhub.deeplearning.ai%2Fcontent%2Fimages%2F2026%2F04%2FVoice-based-AI-that-you-can-talk-to-is-improving-rapidly--yet-most-people-still-don-t-appreciate-how-pervasive-voice-UIs--user-interfaces--will-become.-1.png&amp;amp;w=3840&amp;amp;q=75" alt=""&gt;
+&lt;p&gt;The Batch AI News and Insights: Voice-based AI that you can talk to is improving rapidly, yet most people still don’t appreciate how pervasive voice UIs (user interfaces) will become.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/the-batch/issue-347</guid>
+      <pubDate>Sun, 14 Jun 2026 16:37:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Anthropic’s Claude Mythos Problem, Dark DNA Unveiled, Pitfalls for Assistive Models, Simulating Fluid Dynamics</title>
+      <link>https://www.deeplearning.ai/the-batch/issue-348</link>
+      <description>&lt;img src="https://www.deeplearning.ai/_next/image?url=https%3A%2F%2Fcharonhub.deeplearning.ai%2Fcontent%2Fimages%2F2026%2F04%2FAI-Dev-26-x-SF---Main-Banner.jpg&amp;amp;w=3840&amp;amp;q=75" alt=""&gt;
+&lt;p&gt;The Batch AI News and Insights: As AI agents accelerate coding, what is the future of software engineering?&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/the-batch/issue-348</guid>
+      <pubDate>Sun, 14 Jun 2026 16:37:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Meta Pivots From Open Weights, Big Pharma Bets On AI, Regulatory Patchwork, Simulating Human Cohorts</title>
+      <link>https://www.deeplearning.ai/the-batch/issue-349</link>
+      <description>&lt;img src="https://www.deeplearning.ai/_next/image?url=https%3A%2F%2Fcharonhub.deeplearning.ai%2Fcontent%2Fimages%2F2026%2F04%2FCaptura-de-pantalla-2026-04-16-a-la-s--4.37.39---p.--m..png&amp;amp;w=3840&amp;amp;q=75" alt=""&gt;
+&lt;p&gt;The Batch AI News and Insights: AI-native software engineering teams operate very differently than traditional teams.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/the-batch/issue-349</guid>
+      <pubDate>Sun, 14 Jun 2026 16:37:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>GLM 5.1 Thinks Strategically, Data-Center Revolt Intensifies, When Helpful LLMs Turn Unhelpful, Humanoid Robots Get to Work</title>
+      <link>https://www.deeplearning.ai/the-batch/issue-350</link>
+      <description>&lt;img src="https://www.deeplearning.ai/_next/image?url=https%3A%2F%2Fcharonhub.deeplearning.ai%2Fcontent%2Fimages%2F2026%2F04%2FRACECARS-6_1200px--1-.jpg&amp;amp;w=3840&amp;amp;q=75" alt=""&gt;
+&lt;p&gt;The Batch AI News and Insights: Coding agents are accelerating different types of software work to different degrees.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/the-batch/issue-350</guid>
+      <pubDate>Sun, 14 Jun 2026 16:37:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>GPT-5.5 Outperforms (and Hallucinates), Kimi K2.6 Leads Open LLMs, AI Strains Climate Pledges, Strategic Thinking in LLMs vs. Humans</title>
+      <link>https://www.deeplearning.ai/the-batch/issue-351</link>
+      <description>&lt;img src="https://www.deeplearning.ai/_next/image?url=https%3A%2F%2Fcharonhub.deeplearning.ai%2Fcontent%2Fimages%2F2026%2F04%2FHow-we-prompt-AI-is-very-different-in-2026-than-2022-when-ChatGPT-came-out..png&amp;amp;w=3840&amp;amp;q=75" alt=""&gt;
+&lt;p&gt;The Batch AI News and Insights: The ways we prompt AI are very different in 2026 than 2022 when ChatGPT came out.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/the-batch/issue-351</guid>
+      <pubDate>Sun, 14 Jun 2026 16:37:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Seedance Makes A Splash, Nvidia's AI-Guided Chip Designs, Helping Robots Not Forget</title>
+      <link>https://www.deeplearning.ai/the-batch/issue-352</link>
+      <description>&lt;img src="https://www.deeplearning.ai/_next/image?url=https%3A%2F%2Fcharonhub.deeplearning.ai%2Fcontent%2Fimages%2F2026%2F05%2FAI-effect-on-workforce_PressCoverage3--1--1.webp&amp;amp;w=3840&amp;amp;q=75" alt=""&gt;
+&lt;p&gt;The Batch AI News and Insights: There will be no AI jobpocalypse.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/the-batch/issue-352</guid>
+      <pubDate>Sun, 14 Jun 2026 16:37:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>China Thwarts Meta’s Agentic Ambition, U.S. Evaluates Upcoming Models, AI Diagnoses Mammograms</title>
+      <link>https://www.deeplearning.ai/the-batch/issue-353</link>
+      <description>&lt;img src="https://www.deeplearning.ai/_next/image?url=https%3A%2F%2Fcharonhub.deeplearning.ai%2Fcontent%2Fimages%2F2026%2F05%2Funnamed--2-.png&amp;amp;w=3840&amp;amp;q=75" alt=""&gt;
+&lt;p&gt;The Batch AI News and Insights: We’ve been working on AI Andrew, an AI companion shaped by my personality.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/the-batch/issue-353</guid>
+      <pubDate>Sun, 14 Jun 2026 16:37:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hermes vs. OpenClaw, Cybersecurity Alarms Ring, More-Interactive Conversations, Can Agents Do Human Work?</title>
+      <link>https://www.deeplearning.ai/the-batch/issue-354</link>
+      <description>&lt;img src="https://www.deeplearning.ai/_next/image?url=https%3A%2F%2Fcharonhub.deeplearning.ai%2Fcontent%2Fimages%2F2026%2F05%2FScreenshot-2026-05-21-at-12.06.37---PM.png&amp;amp;w=3840&amp;amp;q=75" alt=""&gt;
+&lt;p&gt;The Batch AI News and Insights: Harvard University just voted to limit the number of A grades given in undergraduate classes to about 20% of the class.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/the-batch/issue-354</guid>
+      <pubDate>Sun, 14 Jun 2026 16:37:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Gemini Flash Gets Pricey, AI Act Delays, Agents Drive Online Traffic</title>
+      <link>https://www.deeplearning.ai/the-batch/issue-355</link>
+      <description>&lt;img src="https://www.deeplearning.ai/_next/image?url=https%3A%2F%2Fcharonhub.deeplearning.ai%2Fcontent%2Fimages%2F2026%2F05%2F2026.05.29-LETTER-1.webp&amp;amp;w=3840&amp;amp;q=75" alt=""&gt;
+&lt;p&gt;The Batch AI News and Insights: One of the new, buzzy jobs in Silicon Valley is the AI Forward Deployed Engineer (FDE), an engineer who is embedded within a client organization to help customize solutions, such as building and tuning agentic workflows that suit the client’s particular needs.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/the-batch/issue-355</guid>
+      <pubDate>Sun, 14 Jun 2026 16:37:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Qwen3.7-Max Challenges Google for Third Place, AI Saves Whales, Fine-Tuning Breaks Copyright Alignment</title>
+      <link>https://www.deeplearning.ai/the-batch/issue-356</link>
+      <description>&lt;img src="https://www.deeplearning.ai/_next/image?url=https%3A%2F%2Fcharonhub.deeplearning.ai%2Fcontent%2Fimages%2F2026%2F06%2F2026.06.05-LETTER.webp&amp;amp;w=3840&amp;amp;q=75" alt=""&gt;
+&lt;p&gt;The Batch AI News and Insights: There have been intense efforts over the past few years to lobby governments to pass AI laws for regulatory capture or to suppress open source.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/the-batch/issue-356</guid>
+      <pubDate>Sun, 14 Jun 2026 16:37:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mythos Begets Fable, Cursor's Composer 2.5, Agents Building Agents</title>
+      <link>https://www.deeplearning.ai/the-batch/issue-357</link>
+      <description>&lt;img src="https://www.deeplearning.ai/_next/image?url=https%3A%2F%2Fcharonhub.deeplearning.ai%2Fcontent%2Fimages%2F2026%2F06%2F2026.06.12-LETTER-4.webp&amp;amp;w=3840&amp;amp;q=75" alt=""&gt;
+&lt;p&gt;The Batch AI News and Insights: If you haven’t already, I encourage you to experiment with using AI agents not just to chat but to actually do work for you on your desktop.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/the-batch/issue-357</guid>
+      <pubDate>Sun, 14 Jun 2026 16:37:17 +0000</pubDate>
+    </item>
+  </channel>
+</rss>

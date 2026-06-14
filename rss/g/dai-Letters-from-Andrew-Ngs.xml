@@ -1,0 +1,132 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>Letters from Andrew Ng</title>
+    <link>https://www.deeplearning.ai/the-batch/tag/letters</link>
+    <description>DAI Letters from Andrew Ng</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Sun, 14 Jun 2026 16:37:12 +0000</lastBuildDate>
+    <item>
+      <title>Context for Coding Agents: Agentic coding systems often make mistakes because they’re not aware of tools, API calls, and the like that came out after they were trained. Context Hub gives them the documentation they need to write correct code.</title>
+      <link>https://www.deeplearning.ai/the-batch/crowdsourced-context-for-coding-agents</link>
+      <description>&lt;img src="https://www.deeplearning.ai/_next/image?url=https%3A%2F%2Fcharonhub.deeplearning.ai%2Fcontent%2Fimages%2F2026%2F03%2FContext-Hub-2.jpg&amp;amp;w=3840&amp;amp;q=75" alt=""&gt;
+&lt;p&gt;I’m thrilled to announce Context Hub, a new tool to give to your coding agents the API documentation they need to write correct code.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/the-batch/crowdsourced-context-for-coding-agents</guid>
+      <pubDate>Mon, 09 Mar 2026 14:26:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Let’s Help Agents Share Their Work: AI Social Networks Can Be More than Fun and Games</title>
+      <link>https://www.deeplearning.ai/the-batch/lets-help-agents-share-their-work</link>
+      <description>&lt;img src="https://www.deeplearning.ai/_next/image?url=https%3A%2F%2Fcharonhub.deeplearning.ai%2Fcontent%2Fimages%2F2026%2F03%2F-Should-there-be-a-Stack-Overflow-for-AI-coding-agents-to-share-their-learnings-with-each-other---2.png&amp;amp;w=3840&amp;amp;q=75" alt=""&gt;
+&lt;p&gt;Should there be a Stack Overflow for AI coding agents to share their learnings with each other?&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/the-batch/lets-help-agents-share-their-work</guid>
+      <pubDate>Mon, 16 Mar 2026 15:20:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>That Feeling Of Job Insecurity (And What You Can Do About It): In times of economic and technological uncertainty, build on things that tend to remain stable. Community and skills are likely to weather shifts in business and society.</title>
+      <link>https://www.deeplearning.ai/the-batch/that-feeling-of-job-insecurity-and-what-you-can-do-about-it</link>
+      <description>&lt;img src="https://www.deeplearning.ai/_next/image?url=https%3A%2F%2Fcharonhub.deeplearning.ai%2Fcontent%2Fimages%2F2026%2F03%2FCaptura-de-pantalla-2026-03-19-a-la-s--10.46.17-a.-m..png&amp;amp;w=3840&amp;amp;q=75" alt=""&gt;
+&lt;p&gt;I’ve been hearing from people at all levels of seniority about a feeling of job insecurity.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/the-batch/that-feeling-of-job-insecurity-and-what-you-can-do-about-it</guid>
+      <pubDate>Fri, 20 Mar 2026 14:05:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How Anti-AI Propaganda Hurts the Public: The anti-AI coalition is beoming more sophisticated in its efforts to block progress</title>
+      <link>https://www.deeplearning.ai/the-batch/how-anti-ai-propaganda-hurts-the-public</link>
+      <description>&lt;img src="https://www.deeplearning.ai/_next/image?url=https%3A%2F%2Fcharonhub.deeplearning.ai%2Fcontent%2Fimages%2F2026%2F03%2Funnamed--75--3.jpg&amp;amp;w=3840&amp;amp;q=75" alt=""&gt;
+&lt;p&gt;The anti-AI coalition continues to maneuver to find arguments to slow down AI progress.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/the-batch/how-anti-ai-propaganda-hurts-the-public</guid>
+      <pubDate>Fri, 27 Mar 2026 16:41:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Building Voice-Enabled Apps is Easier Than You May Think: Voice-enabled AI applications are improving quickly. Get ready for the next wave of AI!</title>
+      <link>https://www.deeplearning.ai/the-batch/building-voice-enabled-apps-is-easier-than-you-may-think</link>
+      <description>&lt;img src="https://www.deeplearning.ai/_next/image?url=https%3A%2F%2Fcharonhub.deeplearning.ai%2Fcontent%2Fimages%2F2026%2F04%2FVoice-based-AI-that-you-can-talk-to-is-improving-rapidly--yet-most-people-still-don-t-appreciate-how-pervasive-voice-UIs--user-interfaces--will-become.-2.png&amp;amp;w=3840&amp;amp;q=75" alt=""&gt;
+&lt;p&gt;Voice-based AI that you can talk to is improving rapidly, yet most people still don’t appreciate how pervasive voice UIs (user interfaces) will become.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/the-batch/building-voice-enabled-apps-is-easier-than-you-may-think</guid>
+      <pubDate>Fri, 03 Apr 2026 17:27:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Open Questions About the Future of Software Engineering: The future of software engineering — the theme of our AI Developer Conference April 28-29 in San Francisco — is in flux. Here are some top open questions.</title>
+      <link>https://www.deeplearning.ai/the-batch/open-questions-about-the-future-of-software-engineering</link>
+      <description>&lt;img src="https://www.deeplearning.ai/_next/image?url=https%3A%2F%2Fcharonhub.deeplearning.ai%2Fcontent%2Fimages%2F2026%2F04%2FAI-Dev-26-x-SF---Main-Banner-2.jpg&amp;amp;w=3840&amp;amp;q=75" alt=""&gt;
+&lt;p&gt;As AI agents accelerate coding, what is the future of software engineering?&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/the-batch/open-questions-about-the-future-of-software-engineering</guid>
+      <pubDate>Fri, 10 Apr 2026 14:19:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI-Native Software Development Needs Generalists: As AI accelerates software development, teammates must play a wider variey of roles</title>
+      <link>https://www.deeplearning.ai/the-batch/ai-native-software-development-needs-generalists</link>
+      <description>&lt;img src="https://www.deeplearning.ai/_next/image?url=https%3A%2F%2Fcharonhub.deeplearning.ai%2Fcontent%2Fimages%2F2026%2F04%2FSwivelchair-Bottleneck4_1200px--1-.jpg&amp;amp;w=3840&amp;amp;q=75" alt=""&gt;
+&lt;p&gt;AI-native software engineering teams operate very differently than traditional teams.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/the-batch/ai-native-software-development-needs-generalists</guid>
+      <pubDate>Mon, 20 Apr 2026 21:32:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>Coding Agents Accelerate Some Software Tasks More Than Others: Knowing how much coding agents accelerate different software-development tasks can help you put together the fastest teams</title>
+      <link>https://www.deeplearning.ai/the-batch/coding-agents-accelerate-some-software-tasks-more-than-others</link>
+      <description>&lt;img src="https://www.deeplearning.ai/_next/image?url=https%3A%2F%2Fcharonhub.deeplearning.ai%2Fcontent%2Fimages%2F2026%2F04%2FRACECARS-6_1200px.jpg&amp;amp;w=3840&amp;amp;q=75" alt=""&gt;
+&lt;p&gt;Coding agents are accelerating different types of software work to different degrees.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/the-batch/coding-agents-accelerate-some-software-tasks-more-than-others</guid>
+      <pubDate>Fri, 24 Apr 2026 22:37:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>Learn foundational prompting techniques in AI Prompting For Everyone!: Whatever your skill level, AI Prompting For Everyone teaches the best ways to prompt ChatGPT, Claude, Gemini, and other models.</title>
+      <link>https://www.deeplearning.ai/the-batch/learn-foundational-prompting-techniques-in-ai-prompting-for-everyone</link>
+      <description>&lt;img src="https://www.deeplearning.ai/_next/image?url=https%3A%2F%2Fcharonhub.deeplearning.ai%2Fcontent%2Fimages%2F2026%2F04%2FHow-we-prompt-AI-is-very-different-in-2026-than-2022-when-ChatGPT-came-out.-2.png&amp;amp;w=3840&amp;amp;q=75" alt=""&gt;
+&lt;p&gt;The ways we prompt AI are very different in 2026 than 2022 when ChatGPT came out.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/the-batch/learn-foundational-prompting-techniques-in-ai-prompting-for-everyone</guid>
+      <pubDate>Fri, 01 May 2026 17:09:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI Will Not Destroy the Job Market: Here's why fear of an AI “jobpocaypse” is overblown.</title>
+      <link>https://www.deeplearning.ai/the-batch/ai-will-not-destroy-the-job-market</link>
+      <description>&lt;img src="https://www.deeplearning.ai/_next/image?url=https%3A%2F%2Fcharonhub.deeplearning.ai%2Fcontent%2Fimages%2F2026%2F05%2FAI-effect-on-workforce_PressCoverage3--1-.webp&amp;amp;w=3840&amp;amp;q=75" alt=""&gt;
+&lt;p&gt;There will be no AI jobpocalypse.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/the-batch/ai-will-not-destroy-the-job-market</guid>
+      <pubDate>Fri, 08 May 2026 16:56:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Speak With AI Andrew!: Andrew Ng built a voice-to-voice AI avatar shaped by his personality. You can use it to discuss whatever is on your mind.</title>
+      <link>https://www.deeplearning.ai/the-batch/speak-with-ai-andrew</link>
+      <description>&lt;img src="https://www.deeplearning.ai/_next/image?url=https%3A%2F%2Fcharonhub.deeplearning.ai%2Fcontent%2Fimages%2F2026%2F05%2Funnamed--2--2.png&amp;amp;w=3840&amp;amp;q=75" alt=""&gt;
+&lt;p&gt;We’ve been working on AI Andrew, an AI companion shaped by my personality.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/the-batch/speak-with-ai-andrew</guid>
+      <pubDate>Fri, 15 May 2026 14:30:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Why Giving More Students A's Can Be a Good Thing: Harvard wants to award fewer A’s to counter grade inflation, but education should be about helping students succeed.</title>
+      <link>https://www.deeplearning.ai/the-batch/why-giving-more-students-a-can-be-a-good-thing</link>
+      <description>&lt;img src="https://www.deeplearning.ai/_next/image?url=https%3A%2F%2Fcharonhub.deeplearning.ai%2Fcontent%2Fimages%2F2026%2F05%2FScreenshot-2026-05-21-at-12.06.37---PM-1.png&amp;amp;w=3840&amp;amp;q=75" alt=""&gt;
+&lt;p&gt;Harvard University just voted to limit the number of A grades given in undergraduate classes to about 20% of the class.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/the-batch/why-giving-more-students-a-can-be-a-good-thing</guid>
+      <pubDate>Fri, 22 May 2026 14:30:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>Forward Deployed Engineers and the Future of AI Engineering</title>
+      <link>https://www.deeplearning.ai/the-batch/forward-deployed-engineers-and-the-future-of-ai-engineering</link>
+      <description>&lt;img src="https://www.deeplearning.ai/_next/image?url=https%3A%2F%2Fcharonhub.deeplearning.ai%2Fcontent%2Fimages%2F2026%2F05%2F2026.05.29-LETTER-2.webp&amp;amp;w=3840&amp;amp;q=75" alt=""&gt;
+&lt;p&gt;One of the new, buzzy jobs in Silicon Valley is the AI Forward Deployed Engineer (FDE), an engineer who is embedded within a client organization to help customize solutions, such as building and tuning agentic workflows that suit the client’s particular needs.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/the-batch/forward-deployed-engineers-and-the-future-of-ai-engineering</guid>
+      <pubDate>Fri, 29 May 2026 14:30:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI Regulations Must Balance Innovation and Risk</title>
+      <link>https://www.deeplearning.ai/the-batch/ai-regulations-must-balance-innovation-and-risk</link>
+      <description>&lt;img src="https://www.deeplearning.ai/_next/image?url=https%3A%2F%2Fcharonhub.deeplearning.ai%2Fcontent%2Fimages%2F2026%2F06%2F2026.06.05-LETTER-2.webp&amp;amp;w=3840&amp;amp;q=75" alt=""&gt;
+&lt;p&gt;There have been intense efforts over the past few years to lobby governments to pass AI laws for regulatory capture or to suppress open source.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/the-batch/ai-regulations-must-balance-innovation-and-risk</guid>
+      <pubDate>Fri, 05 Jun 2026 14:30:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Agents on the Desktop</title>
+      <link>https://www.deeplearning.ai/the-batch/agents-on-the-desktop</link>
+      <description>&lt;img src="https://www.deeplearning.ai/_next/image?url=https%3A%2F%2Fcharonhub.deeplearning.ai%2Fcontent%2Fimages%2F2026%2F06%2F2026.06.12-LETTER-4-2.webp&amp;amp;w=3840&amp;amp;q=75" alt=""&gt;
+&lt;p&gt;If you haven’t already, I encourage you to experiment with using AI agents not just to chat but to actually do work for you on your desktop.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/the-batch/agents-on-the-desktop</guid>
+      <pubDate>Fri, 12 Jun 2026 14:30:32 +0000</pubDate>
+    </item>
+  </channel>
+</rss>

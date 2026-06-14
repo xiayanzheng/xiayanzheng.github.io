@@ -1,0 +1,172 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>DeepLearning.AI Blog</title>
+    <link>https://www.deeplearning.ai/blog</link>
+    <description>DeepLearning.AI Blog</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Sun, 14 Jun 2026 16:37:12 +0000</lastBuildDate>
+    <item>
+      <title>2023 Pie &amp; AI Ambassador Spotlight: Vikram Mark Radhakrishnan, The Hague</title>
+      <link>https://www.deeplearning.ai/blog/2023-pie-ai-ambassador-spotlight-vikram-mark-radhakrishnan</link>
+      <description>&lt;img src="https://www.deeplearning.ai/_next/image?url=https%3A%2F%2Fhome-wordpress.deeplearning.ai%2Fwp-content%2Fuploads%2F2023%2F05%2Fpie-Ai-amabssador-spotlight-2023-quotes_Twitter-Vikram.png&amp;amp;w=3840&amp;amp;q=75" alt=""&gt;
+&lt;p&gt;During my time as a PhD student, I realized that my biggest professional and personal interests are artificial intelligence and community building. As a PhD student in astronomy, I used to organize communities for astronomy enthusiasts, bringing together scientists, amateur astronomers, and astrophotographers to connect and learn from each other. And, since my research required knowledge of deep learning algorithms, I completed the courses on deep learning and TensorFlow from Deeplearning.AI and subscribed to the newsletter.  During that time, I realized that my biggest professional and personal interests are artificial intelligence and community building.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/blog/2023-pie-ai-ambassador-spotlight-vikram-mark-radhakrishnan</guid>
+      <pubDate>Fri, 26 May 2023 09:10:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>A conversation with Microsoft’s AI for Good Lab Director: Juan Lavista Ferres</title>
+      <link>https://www.deeplearning.ai/blog/a-conversation-with-microsofts-ai-for-good-lab-director-juan-lavista-ferres</link>
+      <description>&lt;img src="https://www.deeplearning.ai/_next/image?url=https%3A%2F%2Fhome-wordpress.deeplearning.ai%2Fwp-content%2Fuploads%2F2023%2F06%2FThe-Batch-ads-and-exclusive-banners-40.png&amp;amp;w=3840&amp;amp;q=75" alt=""&gt;
+&lt;p&gt;I have been interested in AI for Good-type work for the majority of my career. Almost 20 years ago, a good friend of mine lost a child to SIDS (sudden infant death syndrome). As a result, I started volunteering with Seattle Children’s Hospital, helping to understand the causes and preventative steps that could be taken to reduce the risk of SIDS. This volunteer engagement led to the opportunity to create the Microsoft AI for Good Lab. I could have never imagined the scope and scale of the work we’re fortunate to do today. From improving health outcomes to biodiversity conservation and humanitarian response, the relevance and need for AI in every sector has never been more pronounced.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/blog/a-conversation-with-microsofts-ai-for-good-lab-director-juan-lavista-ferres</guid>
+      <pubDate>Thu, 29 Jun 2023 08:17:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>Answers from the instructor: AI for Good’s Robert Monarch</title>
+      <link>https://www.deeplearning.ai/blog/ai-for-good-instructor</link>
+      <description>&lt;img src="https://www.deeplearning.ai/_next/image?url=https%3A%2F%2Fhome-wordpress.deeplearning.ai%2Fwp-content%2Fuploads%2F2023%2F06%2FV2-1-1.png&amp;amp;w=3840&amp;amp;q=75" alt=""&gt;
+&lt;p&gt;I’m currently a machine learning professional and have been working in Silicon Valley for about 15 years. I’ve been with big companies, like Amazon Web Services and Apple, and startups focused on data labeling and machine learning.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/blog/ai-for-good-instructor</guid>
+      <pubDate>Thu, 29 Jun 2023 08:17:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>Pie &amp; AI Ambassador Spotlight 2023: Meet the Leaders Building a Network of Global AI Hubs</title>
+      <link>https://www.deeplearning.ai/blog/pie-ai-event-ambassador-spotlight-2023</link>
+      <description>&lt;img src="https://www.deeplearning.ai/_next/image?url=https%3A%2F%2Fhome-wordpress.deeplearning.ai%2Fwp-content%2Fuploads%2F2023%2F09%2F2023-Pie-AI-Ambassador-Spotlight-1.jpg&amp;amp;w=3840&amp;amp;q=75" alt=""&gt;
+&lt;p&gt;Since 2019, Pie &amp;amp; AI ambassadors have hosted over 700 events. Each year we celebrate their efforts.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/blog/pie-ai-event-ambassador-spotlight-2023</guid>
+      <pubDate>Thu, 14 Sep 2023 10:21:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>2023 Pie &amp; AI Ambassador Spotlight: Godwin France, Accra</title>
+      <link>https://www.deeplearning.ai/blog/2023-pie-ai-ambassador-spotlight-godwin-france</link>
+      <description>&lt;img src="https://www.deeplearning.ai/_next/image?url=https%3A%2F%2Fhome-wordpress.deeplearning.ai%2Fwp-content%2Fuploads%2F2023%2F09%2FGodwin_France.jpg&amp;amp;w=3840&amp;amp;q=75" alt=""&gt;
+&lt;p&gt;I want to assist my community of young Africans to be in the know about cutting-edge technologies. The DeepLearning AI Event Ambassador role has given me so many opportunities within the technology and AI community. I have been able to connect with like-minded individuals from across the globe. As a STEM educator, I believe that now is the time for many young Africans to exponentially grow their acquisition of digital skills. AI will feed into every aspect of our lives, and DeepLearning AI is the right place to get started.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/blog/2023-pie-ai-ambassador-spotlight-godwin-france</guid>
+      <pubDate>Thu, 21 Sep 2023 13:18:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>2023 Pie &amp; AI Ambassador Spotlight: Tarun R Jain, Bengaluru</title>
+      <link>https://www.deeplearning.ai/blog/2023-pie-ai-ambassador-spotlight-tarun-jain-bengaluru</link>
+      <description>&lt;img src="https://www.deeplearning.ai/_next/image?url=https%3A%2F%2Fhome-wordpress.deeplearning.ai%2Fwp-content%2Fuploads%2F2023%2F09%2FTarun-R-Jain-1024x576-1.jpg&amp;amp;w=3840&amp;amp;q=75" alt=""&gt;
+&lt;p&gt;I started my journey in Machine Learning and Deep Learning with Professor Andrew Ng’s Coursera courses. Without these courses, I would probably have zero knowledge in this field. Being a part of this community allowed me to access valuable resources and courses. It also provided a supportive network of peers who shared my passion for AI. As I continued to learn and grow, I found myself increasingly engaged in organizing events, workshops, and discussions to help others navigate the complexities of deep learning.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/blog/2023-pie-ai-ambassador-spotlight-tarun-jain-bengaluru</guid>
+      <pubDate>Thu, 28 Sep 2023 11:54:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>2023 Pie &amp; AI Ambassador Spotlight: Dmitriy Starson, Menlo Park</title>
+      <link>https://www.deeplearning.ai/blog/2023-pie-ai-ambassador-spotlight-dmitriy-tarson</link>
+      <description>&lt;img src="https://www.deeplearning.ai/_next/image?url=https%3A%2F%2Fhome-wordpress.deeplearning.ai%2Fwp-content%2Fuploads%2F2023%2F10%2FStarson-1.jpg&amp;amp;w=3840&amp;amp;q=75" alt=""&gt;
+&lt;p&gt;Dmitriy Starson has hosted many DeepLearning.AI events, including a joint panel on AI for Good and a series with representatives from Sequoia Capital.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/blog/2023-pie-ai-ambassador-spotlight-dmitriy-tarson</guid>
+      <pubDate>Fri, 06 Oct 2023 08:35:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>2023 Pie &amp; AI Ambassador Spotlight: George V Scripcariu, Bucharest</title>
+      <link>https://www.deeplearning.ai/blog/2023-pie-ai-ambassador-spotlight-george-v-scripcariu</link>
+      <description>&lt;img src="https://www.deeplearning.ai/_next/image?url=https%3A%2F%2Fhome-wordpress.deeplearning.ai%2Fwp-content%2Fuploads%2F2023%2F10%2FGeorge-V-Scripcariu.jpg&amp;amp;w=3840&amp;amp;q=75" alt=""&gt;
+&lt;p&gt;George Scripcariu believes AI will become even more present and embedded in all aspects of our lives and is preparing his community for it.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/blog/2023-pie-ai-ambassador-spotlight-george-v-scripcariu</guid>
+      <pubDate>Fri, 13 Oct 2023 10:46:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>2023 Pie &amp; AI Ambassador Spotlight: Shilpi Agarwal, Silicon Valley, USA</title>
+      <link>https://www.deeplearning.ai/blog/2023-pie-ai-ambassador-spotlight-shilpi-agarwal</link>
+      <description>&lt;img src="https://www.deeplearning.ai/_next/image?url=https%3A%2F%2Fhome-wordpress.deeplearning.ai%2Fwp-content%2Fuploads%2F2023%2F10%2FShilpi-Agarwal-.jpg&amp;amp;w=3840&amp;amp;q=75" alt=""&gt;
+&lt;p&gt;Shilpi Agarwal’s mission is to build an ethics-first data and AI world, and the Pie &amp;amp; AI events are helping her expand it.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/blog/2023-pie-ai-ambassador-spotlight-shilpi-agarwal</guid>
+      <pubDate>Fri, 20 Oct 2023 11:36:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>2023 Pie &amp; AI Ambassador Spotlight: Markey Tan, Shenzhen, China</title>
+      <link>https://www.deeplearning.ai/blog/2023-pie-ai-ambassador-spotlight-markey-tan-shenzhen-china</link>
+      <description>&lt;img src="https://www.deeplearning.ai/_next/image?url=https%3A%2F%2Fhome-wordpress.deeplearning.ai%2Fwp-content%2Fuploads%2F2023%2F11%2FMarkey-Tan.jpg&amp;amp;w=3840&amp;amp;q=75" alt=""&gt;
+&lt;p&gt;Markey Tan believes that regardless of one’s background, anyone can make a meaningful contribution to the field of AI.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/blog/2023-pie-ai-ambassador-spotlight-markey-tan-shenzhen-china</guid>
+      <pubDate>Fri, 03 Nov 2023 09:46:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>2023 Pie &amp; AI Ambassador Spotlight: Cheng Zhang, Winnipeg, Canada</title>
+      <link>https://www.deeplearning.ai/blog/2023-pie-ai-ambassador-spotlight-cheng-zhang-winnipeg</link>
+      <description>&lt;img src="https://www.deeplearning.ai/_next/image?url=https%3A%2F%2Fhome-wordpress.deeplearning.ai%2Fwp-content%2Fuploads%2F2023%2F11%2FChengZhang.jpg&amp;amp;w=3840&amp;amp;q=75" alt=""&gt;
+&lt;p&gt;Cheng Zhang moved from the eastern hemisphere to the west, and now hosts events for Chinese AI developers in Canada.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/blog/2023-pie-ai-ambassador-spotlight-cheng-zhang-winnipeg</guid>
+      <pubDate>Fri, 10 Nov 2023 06:03:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>2023 Pie &amp; AI Ambassador Spotlight: Armielyn Obinguar, Manila, Philippines</title>
+      <link>https://www.deeplearning.ai/blog/2023-pie-ai-ambassador-spotlight-armielyn-obinguar-manila-philippines</link>
+      <description>&lt;img src="https://www.deeplearning.ai/_next/image?url=https%3A%2F%2Fhome-wordpress.deeplearning.ai%2Fwp-content%2Fuploads%2F2023%2F11%2FArmielyn-Obinguar-1.jpg&amp;amp;w=3840&amp;amp;q=75" alt=""&gt;
+&lt;p&gt;Armielyn Obinguar aims to grow the DeepLearning.AI community in the Philippines and keep positively impacting society.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/blog/2023-pie-ai-ambassador-spotlight-armielyn-obinguar-manila-philippines</guid>
+      <pubDate>Fri, 17 Nov 2023 11:25:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>2024 Pie &amp; AI Ambassador Spotlight: Neeraj Kumar K, Bangalore, India</title>
+      <link>https://www.deeplearning.ai/blog/2024-pie-ai-ambassador-spotlight-neerak-kumar-bangalore</link>
+      <description>&lt;img src="https://www.deeplearning.ai/_next/image?url=https%3A%2F%2Fhome-wordpress.deeplearning.ai%2Fwp-content%2Fuploads%2F2024%2F03%2FNeeraj-Kumar-K_-Spotlight.jpg&amp;amp;w=3840&amp;amp;q=75" alt=""&gt;
+&lt;p&gt;Neeraj Kumar is driven by a passion for exploring the intersection of artificial intelligence (AI) and robotics.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/blog/2024-pie-ai-ambassador-spotlight-neerak-kumar-bangalore</guid>
+      <pubDate>Thu, 14 Mar 2024 13:19:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>Learn Fast and Build Things: How Julia Kryuchkova Went From No-Code to Writing Python Apps</title>
+      <link>https://www.deeplearning.ai/blog/learner-profile-how-julia-went-from-no-code-tools-to-building-her-own-python-applications</link>
+      <description>&lt;img src="https://www.deeplearning.ai/_next/image?url=https%3A%2F%2Fhome-wordpress.deeplearning.ai%2Fwp-content%2Fuploads%2F2024%2F10%2FMy-first-Python-program.png&amp;amp;w=3840&amp;amp;q=75" alt=""&gt;
+&lt;p&gt;Recently, I completed the short course AI Python for Beginners by DeepLearning.AI, taught by Andrew Ng. I am not a programmer, so I was thrilled when immediately after completing the first course in the sequence — which took about an hour — I managed to create my first program in Python.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/blog/learner-profile-how-julia-went-from-no-code-tools-to-building-her-own-python-applications</guid>
+      <pubDate>Thu, 17 Oct 2024 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Python for Data Analysis: Key Stats and Trends</title>
+      <link>https://www.deeplearning.ai/blog/python-for-data-analysis-key-stats-and-trends</link>
+      <description>&lt;img src="https://www.deeplearning.ai/_next/image?url=https%3A%2F%2Fhome-wordpress.deeplearning.ai%2Fwp-content%2Fuploads%2F2025%2F03%2FThe-Batch-ads-and-exclusive-banners-2025-03-26T170306.194.png&amp;amp;w=3840&amp;amp;q=75" alt=""&gt;
+&lt;p&gt;Neeraj Kumar is driven by a passion for exploring the intersection of artificial intelligence (AI) and robotics.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/blog/python-for-data-analysis-key-stats-and-trends</guid>
+      <pubDate>Wed, 09 Apr 2025 09:31:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>From coding in a notebook to a clickable demo: a practical playbook for GenAI fast prototyping</title>
+      <link>https://www.deeplearning.ai/blog/a-practical-playbook-for-genai-fast-prototyping</link>
+      <description>&lt;img src="https://www.deeplearning.ai/_next/image?url=https%3A%2F%2Fhome-wordpress.deeplearning.ai%2Fwp-content%2Fuploads%2F2025%2F09%2FThe-Batch-ads-and-exclusive-banners-2025-09-19T124844.620.png&amp;amp;w=3840&amp;amp;q=75" alt=""&gt;
+&lt;p&gt;Neeraj Kumar is driven by a passion for exploring the intersection of artificial intelligence (AI) and robotics.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/blog/a-practical-playbook-for-genai-fast-prototyping</guid>
+      <pubDate>Fri, 19 Sep 2025 10:55:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing DeepLearning.AI Pro</title>
+      <link>https://www.deeplearning.ai/blog/introducing-deeplearning-ai-pro</link>
+      <description>&lt;img src="https://www.deeplearning.ai/_next/image?url=https%3A%2F%2Fhome-wordpress.deeplearning.ai%2Fwp-content%2Fuploads%2F2025%2F10%2FDeepLearning.AI-Pro-Card.png&amp;amp;w=3840&amp;amp;q=75" alt=""&gt;
+&lt;p&gt;With exclusive courses, tools, and community, DeepLearning.AI Pro is the one membership that keeps you at the forefront of AI.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/blog/introducing-deeplearning-ai-pro</guid>
+      <pubDate>Fri, 31 Oct 2025 08:12:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Inside AI Dev 25 X NYC</title>
+      <link>https://www.deeplearning.ai/blog/inside-ai-dev-25-nyc</link>
+      <description>&lt;img src="https://www.deeplearning.ai/_next/image?url=https%3A%2F%2Fhome-wordpress.deeplearning.ai%2Fwp-content%2Fuploads%2F2025%2F11%2FAndrew-AI-Dev-2025-x-NYC-scaled.jpeg&amp;amp;w=3840&amp;amp;q=75" alt=""&gt;
+&lt;p&gt;DeepLearning.AI welcomed 1200 attendees (and a total audience of more than 1400) to its developer conference in Manhattan. We packed Convene Brookfield Place to capacity for speakers and representatives from Google, Anthropic, Amazon, Vercel, Groq,…&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/blog/inside-ai-dev-25-nyc</guid>
+      <pubDate>Mon, 17 Nov 2025 11:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Engineering Multi-Agent Systems: A Path from Prototype to Production</title>
+      <link>https://www.deeplearning.ai/blog/engineering-multi-agent-systems-a-path-from-prototype-to-production</link>
+      <description>&lt;img src="https://www.deeplearning.ai/_next/image?url=https%3A%2F%2Fhome-wordpress.deeplearning.ai%2Fwp-content%2Fuploads%2F2025%2F11%2FProduction-ready-multi-agent-systems.png&amp;amp;w=3840&amp;amp;q=75" alt=""&gt;
+&lt;p&gt;At DeepLearning.AI, we recently partnered with CrewAI to build the course Design, Develop, and Deploy Multi-Agent Systems with CrewAI. In it, instructor João Moura (Co-founder and CEO of CrewAI) shows how developers can move beyond…&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/blog/engineering-multi-agent-systems-a-path-from-prototype-to-production</guid>
+      <pubDate>Wed, 19 Nov 2025 15:56:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>Thank You for Learning With Us This Year.  A message from DeepLearning.AI</title>
+      <link>https://www.deeplearning.ai/blog/thank-you-for-learning-with-deeplearning-ai-this-year</link>
+      <description>&lt;img src="https://www.deeplearning.ai/_next/image?url=https%3A%2F%2Fhome-wordpress.deeplearning.ai%2Fwp-content%2Fuploads%2F2025%2F12%2FThe-Batch-ads-and-exclusive-banners-36.png&amp;amp;w=3840&amp;amp;q=75" alt=""&gt;
+&lt;p&gt;Dear Friends, This year was special. Millions of you enrolled, experimented, tried new tools, pushed through tough concepts, shared projects, and kept returning for the next challenge. And because so many of you wanted a…&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/blog/thank-you-for-learning-with-deeplearning-ai-this-year</guid>
+      <pubDate>Mon, 22 Dec 2025 09:12:55 +0000</pubDate>
+    </item>
+  </channel>
+</rss>

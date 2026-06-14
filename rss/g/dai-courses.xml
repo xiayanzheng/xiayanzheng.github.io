@@ -1,0 +1,908 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>DeepLearning.AI Courses</title>
+    <link>https://www.deeplearning.ai/courses</link>
+    <description>AI courses from DeepLearning.AI</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Sun, 14 Jun 2026 16:37:15 +0000</lastBuildDate>
+    <item>
+      <title>Fast Prototyping of GenAI Apps with Streamlit</title>
+      <link>https://www.deeplearning.ai/courses/fast-prototyping-of-genai-apps-with-streamlit</link>
+      <description>&lt;img src="https://dlai-learn.deeplearning.ai/_next/image?url=https%3A%2F%2Fhome-wordpress.deeplearning.ai%2Fwp-content%2Fuploads%2F2025%2F08%2FYouTube-Thumbnails-2025-10-01T103806.327.png&amp;amp;w=3840&amp;amp;q=75" alt=""&gt;
+&lt;p&gt;Prototype and deploy GenAI apps using an MVP workflow, prompt engineering, and RAG.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/courses/fast-prototyping-of-genai-apps-with-streamlit</guid>
+      <pubDate>Sun, 14 Jun 2026 16:37:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>ChatGPT Prompt Engineering for Developers</title>
+      <link>https://www.deeplearning.ai/courses/chatgpt-prompt-eng</link>
+      <description>&lt;img src="https://dlai-learn.deeplearning.ai/_next/image?url=https%3A%2F%2Fhome-wordpress.deeplearning.ai%2Fwp-content%2Fuploads%2F2023%2F04%2F5_chatgpt-prompt-eng.webp&amp;amp;w=3840&amp;amp;q=75" alt=""&gt;
+&lt;p&gt;Learn the fundamentals of prompt engineering for ChatGPT. Learn effective prompting, and how to use LLMs for summarizing, inferring, transforming, and expanding.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/courses/chatgpt-prompt-eng</guid>
+      <pubDate>Sun, 14 Jun 2026 16:37:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>LangChain for LLM Application Development</title>
+      <link>https://www.deeplearning.ai/courses/langchain</link>
+      <description>&lt;img src="https://dlai-learn.deeplearning.ai/_next/image?url=https%3A%2F%2Fhome-wordpress.deeplearning.ai%2Fwp-content%2Fuploads%2F2023%2F05%2F6_langchain.webp&amp;amp;w=3840&amp;amp;q=75" alt=""&gt;
+&lt;p&gt;Use the powerful and extensible LangChain framework, using prompts, parsing, memory, chains, question answering, and agents.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/courses/langchain</guid>
+      <pubDate>Sun, 14 Jun 2026 16:37:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>How Diffusion Models Work</title>
+      <link>https://www.deeplearning.ai/courses/diffusion-models</link>
+      <description>&lt;img src="https://dlai-learn.deeplearning.ai/_next/image?url=https%3A%2F%2Fhome-wordpress.deeplearning.ai%2Fwp-content%2Fuploads%2F2023%2F05%2F7_diffusion-models.jpg&amp;amp;w=3840&amp;amp;q=75" alt=""&gt;
+&lt;p&gt;Learn and build diffusion models from the ground up, understanding each step. Learn about diffusion models in use today and implement algorithms to speed up sampling.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/courses/diffusion-models</guid>
+      <pubDate>Sun, 14 Jun 2026 16:37:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Building Systems with the ChatGPT API</title>
+      <link>https://www.deeplearning.ai/courses/chatgpt-building-system</link>
+      <description>&lt;img src="https://dlai-learn.deeplearning.ai/_next/image?url=https%3A%2F%2Fhome-wordpress.deeplearning.ai%2Fwp-content%2Fuploads%2F2023%2F05%2F8_chatgpt-building-system.webp&amp;amp;w=3840&amp;amp;q=75" alt=""&gt;
+&lt;p&gt;Learn to break down complex tasks, automate workflows, chain LLM calls, and get better outputs from LLMs. Evaluate LLM inputs and outputs for safety and relevance.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/courses/chatgpt-building-system</guid>
+      <pubDate>Sun, 14 Jun 2026 16:37:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>LangChain Chat with Your Data</title>
+      <link>https://www.deeplearning.ai/courses/langchain-chat-with-your-data</link>
+      <description>&lt;img src="https://dlai-learn.deeplearning.ai/_next/image?url=https%3A%2F%2Fhome-wordpress.deeplearning.ai%2Fwp-content%2Fuploads%2F2023%2F07%2F9_langchain-chat-with-your-data.png&amp;amp;w=3840&amp;amp;q=75" alt=""&gt;
+&lt;p&gt;Create a chatbot with LangChain to interface with your private data and documents. Learn from LangChain creator, Harrison Chase.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/courses/langchain-chat-with-your-data</guid>
+      <pubDate>Sun, 14 Jun 2026 16:37:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Building Generative AI Applications with Gradio</title>
+      <link>https://www.deeplearning.ai/courses/huggingface-gradio</link>
+      <description>&lt;img src="https://dlai-learn.deeplearning.ai/_next/image?url=https%3A%2F%2Fhome-wordpress.deeplearning.ai%2Fwp-content%2Fuploads%2F2023%2F07%2F10_huggingface-gradio.jpg&amp;amp;w=3840&amp;amp;q=75" alt=""&gt;
+&lt;p&gt;Create and demo machine learning applications quickly. Share your app with teammates and beta testers on Hugging Face Spaces.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/courses/huggingface-gradio</guid>
+      <pubDate>Sun, 14 Jun 2026 16:37:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Evaluating and Debugging Generative AI</title>
+      <link>https://www.deeplearning.ai/courses/evaluating-debugging-generative-ai</link>
+      <description>&lt;img src="https://dlai-learn.deeplearning.ai/_next/image?url=https%3A%2F%2Fhome-wordpress.deeplearning.ai%2Fwp-content%2Fuploads%2F2023%2F08%2F11_evaluating-debugging-generative-ai.jpg&amp;amp;w=3840&amp;amp;q=75" alt=""&gt;
+&lt;p&gt;Learn MLOps tools for managing, versioning, debugging, and experimenting in your ML workflow.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/courses/evaluating-debugging-generative-ai</guid>
+      <pubDate>Sun, 14 Jun 2026 16:37:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Large Language Models with Semantic Search</title>
+      <link>https://www.deeplearning.ai/courses/large-language-models-semantic-search</link>
+      <description>&lt;img src="https://dlai-learn.deeplearning.ai/_next/image?url=https%3A%2F%2Fhome-wordpress.deeplearning.ai%2Fwp-content%2Fuploads%2F2023%2F08%2F12_large-language-models-semantic-search.jpg&amp;amp;w=3840&amp;amp;q=75" alt=""&gt;
+&lt;p&gt;Learn to use LLMs to enhance search and summarize results, using Cohere Rerank and embeddings for dense retrieval.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/courses/large-language-models-semantic-search</guid>
+      <pubDate>Sun, 14 Jun 2026 16:37:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Finetuning Large Language Models</title>
+      <link>https://www.deeplearning.ai/courses/finetuning-large-language-models</link>
+      <description>&lt;img src="https://dlai-learn.deeplearning.ai/_next/image?url=https%3A%2F%2Fhome-wordpress.deeplearning.ai%2Fwp-content%2Fuploads%2F2023%2F08%2F13_finetuning-large-language-models.jpg&amp;amp;w=3840&amp;amp;q=75" alt=""&gt;
+&lt;p&gt;Discover when to use finetuning vs prompting for LLMs. Select suitable open-source models, prepare data, and train &amp;amp; evaluate for your specific domain.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/courses/finetuning-large-language-models</guid>
+      <pubDate>Sun, 14 Jun 2026 16:37:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>How Business Thinkers Can Start Building AI Plugins With Semantic Kernel</title>
+      <link>https://www.deeplearning.ai/courses/microsoft-semantic-kernel</link>
+      <description>&lt;img src="https://dlai-learn.deeplearning.ai/_next/image?url=https%3A%2F%2Fhome-wordpress.deeplearning.ai%2Fwp-content%2Fuploads%2F2023%2F08%2F14_microsoft-semantic-kernel.jpg&amp;amp;w=3840&amp;amp;q=75" alt=""&gt;
+&lt;p&gt;Learn Microsoft's open source orchestrator, Semantic Kernel and use LLM building blocks such as memory, connectors, chains and planners in your apps.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/courses/microsoft-semantic-kernel</guid>
+      <pubDate>Sun, 14 Jun 2026 16:37:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Understanding and Applying Text Embeddings</title>
+      <link>https://www.deeplearning.ai/courses/google-cloud-vertex-ai</link>
+      <description>&lt;img src="https://dlai-learn.deeplearning.ai/_next/image?url=https%3A%2F%2Fhome-wordpress.deeplearning.ai%2Fwp-content%2Fuploads%2F2023%2F09%2F15_google-cloud-vertex-ai.webp&amp;amp;w=3840&amp;amp;q=75" alt=""&gt;
+&lt;p&gt;Learn how to accelerate the application development process with text embeddings for sentence and paragraph meaning.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/courses/google-cloud-vertex-ai</guid>
+      <pubDate>Sun, 14 Jun 2026 16:37:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Pair Programming with a Large Language Model</title>
+      <link>https://www.deeplearning.ai/courses/pair-programming-llm</link>
+      <description>&lt;img src="https://dlai-learn.deeplearning.ai/_next/image?url=https%3A%2F%2Fhome-wordpress.deeplearning.ai%2Fwp-content%2Fuploads%2F2023%2F09%2FYouTube-Thumbnails-2026-02-11T131735.794.png&amp;amp;w=3840&amp;amp;q=75" alt=""&gt;
+&lt;p&gt;Learn how to prompt an LLM to help improve, debug, understand, and document your code. Use LLMs to simplify your code and enhance productivity.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/courses/pair-programming-llm</guid>
+      <pubDate>Sun, 14 Jun 2026 16:37:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Functions, Tools and Agents with LangChain</title>
+      <link>https://www.deeplearning.ai/courses/functions-tools-agents-langchain</link>
+      <description>&lt;img src="https://dlai-learn.deeplearning.ai/_next/image?url=https%3A%2F%2Fhome-wordpress.deeplearning.ai%2Fwp-content%2Fuploads%2F2023%2F10%2F17_functions-tools-agents-langchain.jpg&amp;amp;w=3840&amp;amp;q=75" alt=""&gt;
+&lt;p&gt;Learn about the latest advancements in LLM APIs and use LangChain Expression Language (LCEL) to compose and customize chains and agents.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/courses/functions-tools-agents-langchain</guid>
+      <pubDate>Sun, 14 Jun 2026 16:37:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Vector Databases: from Embeddings to Applications</title>
+      <link>https://www.deeplearning.ai/courses/vector-databases-embeddings-applications</link>
+      <description>&lt;img src="https://dlai-learn.deeplearning.ai/_next/image?url=https%3A%2F%2Fhome-wordpress.deeplearning.ai%2Fwp-content%2Fuploads%2F2023%2F11%2F18_vector-databases-embeddings-applications.jpg&amp;amp;w=3840&amp;amp;q=75" alt=""&gt;
+&lt;p&gt;Design and execute real-world applications of vector databases. Build efficient, practical applications, including hybrid and multilingual searches.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/courses/vector-databases-embeddings-applications</guid>
+      <pubDate>Sun, 14 Jun 2026 16:37:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Building and Evaluating Advanced RAG</title>
+      <link>https://www.deeplearning.ai/courses/building-evaluating-advanced-rag</link>
+      <description>&lt;img src="https://dlai-learn.deeplearning.ai/_next/image?url=https%3A%2F%2Fhome-wordpress.deeplearning.ai%2Fwp-content%2Fuploads%2F2023%2F11%2F20_building-evaluating-advanced-rag.jpg&amp;amp;w=3840&amp;amp;q=75" alt=""&gt;
+&lt;p&gt;Learn advanced RAG retrieval methods like sentence-window and auto-merging that outperform baselines, and evaluate and iterate on your pipeline's performance.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/courses/building-evaluating-advanced-rag</guid>
+      <pubDate>Sun, 14 Jun 2026 16:37:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Reinforcement Learning From Human Feedback</title>
+      <link>https://www.deeplearning.ai/courses/reinforcement-learning-from-human-feedback</link>
+      <description>&lt;img src="https://dlai-learn.deeplearning.ai/_next/image?url=https%3A%2F%2Fhome-wordpress.deeplearning.ai%2Fwp-content%2Fuploads%2F2023%2F12%2F21_reinforcement-learning-from-human-feedback.jpg&amp;amp;w=3840&amp;amp;q=75" alt=""&gt;
+&lt;p&gt;Get an introduction to tuning and evaluating LLMs using Reinforcement Learning from Human Feedback (RLHF) and fine-tune the Llama 2 model.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/courses/reinforcement-learning-from-human-feedback</guid>
+      <pubDate>Sun, 14 Jun 2026 16:37:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Advanced Retrieval for AI with Chroma</title>
+      <link>https://www.deeplearning.ai/courses/advanced-retrieval-for-ai</link>
+      <description>&lt;img src="https://dlai-learn.deeplearning.ai/_next/image?url=https%3A%2F%2Fhome-wordpress.deeplearning.ai%2Fwp-content%2Fuploads%2F2024%2F01%2F22_advanced-retrieval-for-ai.jpg&amp;amp;w=3840&amp;amp;q=75" alt=""&gt;
+&lt;p&gt;Learn advanced retrieval techniques to improve the relevancy of retrieved results. Learn to recognize poor query results and use LLMs to improve queries.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/courses/advanced-retrieval-for-ai</guid>
+      <pubDate>Sun, 14 Jun 2026 16:37:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>LLMOps</title>
+      <link>https://www.deeplearning.ai/courses/llmops</link>
+      <description>&lt;img src="https://dlai-learn.deeplearning.ai/_next/image?url=https%3A%2F%2Fhome-wordpress.deeplearning.ai%2Fwp-content%2Fuploads%2F2024%2F01%2F24_llmops.jpg&amp;amp;w=3840&amp;amp;q=75" alt=""&gt;
+&lt;p&gt;Learn LLMOps best practices as you design and automate steps to fine-tune and deploy an LLM for a specific task.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/courses/llmops</guid>
+      <pubDate>Sun, 14 Jun 2026 16:37:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Automated Testing for LLMOps</title>
+      <link>https://www.deeplearning.ai/courses/automated-testing-llmops</link>
+      <description>&lt;img src="https://dlai-learn.deeplearning.ai/_next/image?url=https%3A%2F%2Fhome-wordpress.deeplearning.ai%2Fwp-content%2Fuploads%2F2024%2F01%2F25_automated-testing-llmops.jpg&amp;amp;w=3840&amp;amp;q=75" alt=""&gt;
+&lt;p&gt;Learn how to create an automated CI pipeline to evaluate your LLM applications on every change, for faster and safer development.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/courses/automated-testing-llmops</guid>
+      <pubDate>Sun, 14 Jun 2026 16:37:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Building Applications with Vector Databases</title>
+      <link>https://www.deeplearning.ai/courses/building-applications-vector-databases</link>
+      <description>&lt;img src="https://dlai-learn.deeplearning.ai/_next/image?url=https%3A%2F%2Fhome-wordpress.deeplearning.ai%2Fwp-content%2Fuploads%2F2024%2F01%2F26_building-applications-vector-databases.jpg&amp;amp;w=3840&amp;amp;q=75" alt=""&gt;
+&lt;p&gt;Learn to build six applications powered by vector databases, including semantic search, retrieval augmented generation (RAG), and anomaly detection.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/courses/building-applications-vector-databases</guid>
+      <pubDate>Sun, 14 Jun 2026 16:37:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Prompt Engineering with Llama 2&amp;3</title>
+      <link>https://www.deeplearning.ai/courses/prompt-engineering-with-llama-2</link>
+      <description>&lt;img src="https://dlai-learn.deeplearning.ai/_next/image?url=https%3A%2F%2Fhome-wordpress.deeplearning.ai%2Fwp-content%2Fuploads%2F2024%2F02%2F28_prompt-engineering-with-llama-2.jpg&amp;amp;w=3840&amp;amp;q=75" alt=""&gt;
+&lt;p&gt;Learn best practices for prompting and selecting among Meta Llama 2 &amp;amp; 3 models. Interact with Meta Llama 2 Chat, Code Llama, and Llama Guard models.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/courses/prompt-engineering-with-llama-2</guid>
+      <pubDate>Sun, 14 Jun 2026 16:37:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Open Source Models with Hugging Face</title>
+      <link>https://www.deeplearning.ai/courses/open-source-models-hugging-face</link>
+      <description>&lt;img src="https://dlai-learn.deeplearning.ai/_next/image?url=https%3A%2F%2Fhome-wordpress.deeplearning.ai%2Fwp-content%2Fuploads%2F2024%2F03%2F29_open-source-models-hugging-face.jpg&amp;amp;w=3840&amp;amp;q=75" alt=""&gt;
+&lt;p&gt;Learn how to easily build AI applications using open-source models and Hugging Face tools. Find and filter open-source models on Hugging Face Hub.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/courses/open-source-models-hugging-face</guid>
+      <pubDate>Sun, 14 Jun 2026 16:37:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Knowledge Graphs for RAG</title>
+      <link>https://www.deeplearning.ai/courses/knowledge-graphs-rag</link>
+      <description>&lt;img src="https://dlai-learn.deeplearning.ai/_next/image?url=https%3A%2F%2Fhome-wordpress.deeplearning.ai%2Fwp-content%2Fuploads%2F2024%2F03%2F30_knowledge-graphs-rag.jpg&amp;amp;w=3840&amp;amp;q=75" alt=""&gt;
+&lt;p&gt;Learn how to build and use knowledge graph systems to improve your retrieval augmented generation applications. Use Neo4j's query language Cypher to manage and retrieve data.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/courses/knowledge-graphs-rag</guid>
+      <pubDate>Sun, 14 Jun 2026 16:37:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Efficiently Serving LLMs</title>
+      <link>https://www.deeplearning.ai/courses/efficiently-serving-llms</link>
+      <description>&lt;img src="https://dlai-learn.deeplearning.ai/_next/image?url=https%3A%2F%2Fhome-wordpress.deeplearning.ai%2Fwp-content%2Fuploads%2F2024%2F03%2F31_efficiently-serving-llms.jpg&amp;amp;w=3840&amp;amp;q=75" alt=""&gt;
+&lt;p&gt;Understand how LLMs predict the next token and how techniques like KV caching can speed up text generation. Write code to serve LLM applications efficiently to multiple users.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/courses/efficiently-serving-llms</guid>
+      <pubDate>Sun, 14 Jun 2026 16:37:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>JavaScript RAG Web Apps with LlamaIndex</title>
+      <link>https://www.deeplearning.ai/courses/javascript-rag-web-apps-with-llamaindex</link>
+      <description>&lt;img src="https://dlai-learn.deeplearning.ai/_next/image?url=https%3A%2F%2Fhome-wordpress.deeplearning.ai%2Fwp-content%2Fuploads%2F2024%2F03%2F32_javascript-rag-web-apps-with-llamaindex.jpg&amp;amp;w=3840&amp;amp;q=75" alt=""&gt;
+&lt;p&gt;Build a full-stack web application that uses RAG capabilities to chat with your data. Learn to build a RAG application in JavaScript, using an intelligent agent to answer queries.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/courses/javascript-rag-web-apps-with-llamaindex</guid>
+      <pubDate>Sun, 14 Jun 2026 16:37:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Red Teaming LLM Applications</title>
+      <link>https://www.deeplearning.ai/courses/red-teaming-llm-applications</link>
+      <description>&lt;img src="https://dlai-learn.deeplearning.ai/_next/image?url=https%3A%2F%2Fhome-wordpress.deeplearning.ai%2Fwp-content%2Fuploads%2F2024%2F03%2F33_red-teaming-llm-applications.jpg&amp;amp;w=3840&amp;amp;q=75" alt=""&gt;
+&lt;p&gt;Learn how to make safer LLM apps through red teaming. Learn to identify and evaluate vulnerabilities in large language model (LLM) applications.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/courses/red-teaming-llm-applications</guid>
+      <pubDate>Sun, 14 Jun 2026 16:37:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Preprocessing Unstructured Data for LLM Applications</title>
+      <link>https://www.deeplearning.ai/courses/preprocessing-unstructured-data-for-llm-applications</link>
+      <description>&lt;img src="https://dlai-learn.deeplearning.ai/_next/image?url=https%3A%2F%2Fhome-wordpress.deeplearning.ai%2Fwp-content%2Fuploads%2F2024%2F04%2F34_preprocessing-unstructured-data-for-llm-applications.jpg&amp;amp;w=3840&amp;amp;q=75" alt=""&gt;
+&lt;p&gt;Improve your RAG system to retrieve diverse data types. Learn to extract and normalize content from a wide variety of document types, such as PDFs, PowerPoints, and HTML files.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/courses/preprocessing-unstructured-data-for-llm-applications</guid>
+      <pubDate>Sun, 14 Jun 2026 16:37:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Quantization Fundamentals with Hugging Face</title>
+      <link>https://www.deeplearning.ai/courses/quantization-fundamentals</link>
+      <description>&lt;img src="https://dlai-learn.deeplearning.ai/_next/image?url=https%3A%2F%2Fhome-wordpress.deeplearning.ai%2Fwp-content%2Fuploads%2F2024%2F04%2F35_quantization-fundamentals.jpg&amp;amp;w=3840&amp;amp;q=75" alt=""&gt;
+&lt;p&gt;Learn how to quantize any open-source model. Learn to compress models with the Hugging Face Transformers library and the Quanto library.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/courses/quantization-fundamentals</guid>
+      <pubDate>Sun, 14 Jun 2026 16:37:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Getting Started with Mistral</title>
+      <link>https://www.deeplearning.ai/courses/getting-started-with-mistral</link>
+      <description>&lt;img src="https://dlai-learn.deeplearning.ai/_next/image?url=https%3A%2F%2Fhome-wordpress.deeplearning.ai%2Fwp-content%2Fuploads%2F2024%2F04%2F36_getting-started-with-mistral.jpg&amp;amp;w=3840&amp;amp;q=75" alt=""&gt;
+&lt;p&gt;Explore Mistral's open-source and commercial models, and leverage Mistral's JSON mode to generate structured LLM responses. Use Mistral's API to call user-defined functions for enhanced LLM capabilities.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/courses/getting-started-with-mistral</guid>
+      <pubDate>Sun, 14 Jun 2026 16:37:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Prompt Engineering for Vision Models</title>
+      <link>https://www.deeplearning.ai/courses/prompt-engineering-for-vision-models</link>
+      <description>&lt;img src="https://dlai-learn.deeplearning.ai/_next/image?url=https%3A%2F%2Fhome-wordpress.deeplearning.ai%2Fwp-content%2Fuploads%2F2024%2F04%2F37_prompt-engineering-for-vision-models.jpg&amp;amp;w=3840&amp;amp;q=75" alt=""&gt;
+&lt;p&gt;Learn prompt engineering for vision models using Stable Diffusion, and advanced techniques like object detection and in-painting.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/courses/prompt-engineering-for-vision-models</guid>
+      <pubDate>Sun, 14 Jun 2026 16:37:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Quantization in Depth</title>
+      <link>https://www.deeplearning.ai/courses/quantization-in-depth</link>
+      <description>&lt;img src="https://dlai-learn.deeplearning.ai/_next/image?url=https%3A%2F%2Fhome-wordpress.deeplearning.ai%2Fwp-content%2Fuploads%2F2024%2F05%2F38_quantization-in-depth.jpg&amp;amp;w=3840&amp;amp;q=75" alt=""&gt;
+&lt;p&gt;Customize model compression with advanced quantization techniques. Try out different variants of Linear Quantization, including symmetric vs. asymmetric mode, and different granularities.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/courses/quantization-in-depth</guid>
+      <pubDate>Sun, 14 Jun 2026 16:37:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Building Agentic RAG with Llamaindex</title>
+      <link>https://www.deeplearning.ai/courses/building-agentic-rag-with-llamaindex</link>
+      <description>&lt;img src="https://dlai-learn.deeplearning.ai/_next/image?url=https%3A%2F%2Fhome-wordpress.deeplearning.ai%2Fwp-content%2Fuploads%2F2024%2F05%2F39_building-agentic-rag-with-llamaindex.jpg&amp;amp;w=3840&amp;amp;q=75" alt=""&gt;
+&lt;p&gt;Build autonomous agents that intelligently navigate and analyze your data. Learn to develop agentic RAG systems using LlamaIndex, enabling powerful document Q&amp;amp;A and summarization. Gain valuable skills in guiding agent reasoning and debugging.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/courses/building-agentic-rag-with-llamaindex</guid>
+      <pubDate>Sun, 14 Jun 2026 16:37:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Multi AI Agent Systems with crewAI</title>
+      <link>https://www.deeplearning.ai/courses/multi-ai-agent-systems-with-crewai</link>
+      <description>&lt;img src="https://dlai-learn.deeplearning.ai/_next/image?url=https%3A%2F%2Fhome-wordpress.deeplearning.ai%2Fwp-content%2Fuploads%2F2024%2F05%2F41_multi-ai-agent-systems-with-crewai.jpg&amp;amp;w=3840&amp;amp;q=75" alt=""&gt;
+&lt;p&gt;Automate business workflows with multi-AI agent systems. Exceed the performance of prompting a single LLM by designing and prompting a team of AI agents through natural language.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/courses/multi-ai-agent-systems-with-crewai</guid>
+      <pubDate>Sun, 14 Jun 2026 16:37:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introduction to on-device AI</title>
+      <link>https://www.deeplearning.ai/courses/introduction-to-on-device-ai</link>
+      <description>&lt;img src="https://dlai-learn.deeplearning.ai/_next/image?url=https%3A%2F%2Fhome-wordpress.deeplearning.ai%2Fwp-content%2Fuploads%2F2024%2F05%2F42_introduction-to-on-device-ai.jpg&amp;amp;w=3840&amp;amp;q=75" alt=""&gt;
+&lt;p&gt;Deploy AI for edge devices and smartphones. Learn model conversion, quantization, and how to modify for deployment on diverse devices.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/courses/introduction-to-on-device-ai</guid>
+      <pubDate>Sun, 14 Jun 2026 16:37:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI Agentic Design Patterns with AutoGen</title>
+      <link>https://www.deeplearning.ai/courses/ai-agentic-design-patterns-with-autogen</link>
+      <description>&lt;img src="https://dlai-learn.deeplearning.ai/_next/image?url=https%3A%2F%2Fhome-wordpress.deeplearning.ai%2Fwp-content%2Fuploads%2F2024%2F05%2F43_ai-agentic-design-patterns-with-autogen.jpg&amp;amp;w=3840&amp;amp;q=75" alt=""&gt;
+&lt;p&gt;Use the AutoGen framework to build multi-agent systems with diverse roles and capabilities for implementing complex AI applications.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/courses/ai-agentic-design-patterns-with-autogen</guid>
+      <pubDate>Sun, 14 Jun 2026 16:37:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI Agents in LangGraph</title>
+      <link>https://www.deeplearning.ai/courses/ai-agents-in-langgraph</link>
+      <description>&lt;img src="https://dlai-learn.deeplearning.ai/_next/image?url=https%3A%2F%2Fhome-wordpress.deeplearning.ai%2Fwp-content%2Fuploads%2F2024%2F06%2F44_ai-agents-in-langgraph.jpg&amp;amp;w=3840&amp;amp;q=75" alt=""&gt;
+&lt;p&gt;Build agentic AI workflows using LangChain's LangGraph and Tavily's agentic search.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/courses/ai-agents-in-langgraph</guid>
+      <pubDate>Sun, 14 Jun 2026 16:37:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Building Your Own Database Agent</title>
+      <link>https://www.deeplearning.ai/courses/building-your-own-database-agent</link>
+      <description>&lt;img src="https://dlai-learn.deeplearning.ai/_next/image?url=https%3A%2F%2Fhome-wordpress.deeplearning.ai%2Fwp-content%2Fuploads%2F2024%2F06%2F45_building-your-own-database-agent.jpg&amp;amp;w=3840&amp;amp;q=75" alt=""&gt;
+&lt;p&gt;Interact with tabular data and SQL databases using natural language, enabling more efficient and accessible data analysis.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/courses/building-your-own-database-agent</guid>
+      <pubDate>Sun, 14 Jun 2026 16:37:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Function-calling and data extraction with LLMs</title>
+      <link>https://www.deeplearning.ai/courses/function-calling-and-data-extraction-with-llms</link>
+      <description>&lt;img src="https://dlai-learn.deeplearning.ai/_next/image?url=https%3A%2F%2Fhome-wordpress.deeplearning.ai%2Fwp-content%2Fuploads%2F2024%2F06%2F46_function-calling-and-data-extraction-with-llms.jpg&amp;amp;w=3840&amp;amp;q=75" alt=""&gt;
+&lt;p&gt;Learn to apply function-calling to expand LLM and agent application capabilities.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/courses/function-calling-and-data-extraction-with-llms</guid>
+      <pubDate>Sun, 14 Jun 2026 16:37:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Carbon Aware Computing for GenAI developers</title>
+      <link>https://www.deeplearning.ai/courses/carbon-aware-computing-for-genai-developers</link>
+      <description>&lt;img src="https://dlai-learn.deeplearning.ai/_next/image?url=https%3A%2F%2Fhome-wordpress.deeplearning.ai%2Fwp-content%2Fuploads%2F2024%2F06%2F47_carbon-aware-computing-for-genai-developers.jpg&amp;amp;w=3840&amp;amp;q=75" alt=""&gt;
+&lt;p&gt;Train your machine learning models using cleaner energy sources.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/courses/carbon-aware-computing-for-genai-developers</guid>
+      <pubDate>Sun, 14 Jun 2026 16:37:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Prompt Compression and Query Optimization</title>
+      <link>https://www.deeplearning.ai/courses/prompt-compression-and-query-optimization</link>
+      <description>&lt;img src="https://dlai-learn.deeplearning.ai/_next/image?url=https%3A%2F%2Fhome-wordpress.deeplearning.ai%2Fwp-content%2Fuploads%2F2024%2F07%2F1001_prompt-compression-and-query-optimization.jpg&amp;amp;w=3840&amp;amp;q=75" alt=""&gt;
+&lt;p&gt;Optimize the efficiency, security, query processing speed, and cost of your RAG applications.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/courses/prompt-compression-and-query-optimization</guid>
+      <pubDate>Sun, 14 Jun 2026 16:37:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Pretraining LLMs</title>
+      <link>https://www.deeplearning.ai/courses/pretraining-llms</link>
+      <description>&lt;img src="https://dlai-learn.deeplearning.ai/_next/image?url=https%3A%2F%2Fhome-wordpress.deeplearning.ai%2Fwp-content%2Fuploads%2F2024%2F07%2F1002_pretraining-llms.jpg&amp;amp;w=3840&amp;amp;q=75" alt=""&gt;
+&lt;p&gt;Learn the essential steps to pretrain a large language model from scratch.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/courses/pretraining-llms</guid>
+      <pubDate>Sun, 14 Jun 2026 16:37:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Intro to Federated Learning</title>
+      <link>https://www.deeplearning.ai/courses/intro-to-federated-learning</link>
+      <description>&lt;img src="https://dlai-learn.deeplearning.ai/_next/image?url=https%3A%2F%2Fhome-wordpress.deeplearning.ai%2Fwp-content%2Fuploads%2F2024%2F07%2F1003_intro-to-federated-learning.jpg&amp;amp;w=3840&amp;amp;q=75" alt=""&gt;
+&lt;p&gt;Build and fine-tune LLMs across distributed data using a federated learning framework for better privacy.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/courses/intro-to-federated-learning</guid>
+      <pubDate>Sun, 14 Jun 2026 16:37:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Federated Fine-tuning of LLMs with Private Data</title>
+      <link>https://www.deeplearning.ai/courses/intro-to-federated-learning-c2</link>
+      <description>&lt;img src="https://dlai-learn.deeplearning.ai/_next/image?url=https%3A%2F%2Fhome-wordpress.deeplearning.ai%2Fwp-content%2Fuploads%2F2024%2F07%2Fsc-Flower-C1-Marketing_Teaser_v1.00_10_14_25.Still041.png&amp;amp;w=3840&amp;amp;q=75" alt=""&gt;
+&lt;p&gt;Learn how to securely fine-tune large language models (LLMs) with private data using federated methods, enhancing data privacy, minimizing risks of data leakage, and optimizing efficiency through Parameter-Efficient Fine-Tuning (PEFT) and Differential Privacy.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/courses/intro-to-federated-learning-c2</guid>
+      <pubDate>Sun, 14 Jun 2026 16:37:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Embedding Models: from Architecture to Implementation</title>
+      <link>https://www.deeplearning.ai/courses/embedding-models-from-architecture-to-implementation</link>
+      <description>&lt;img src="https://dlai-learn.deeplearning.ai/_next/image?url=https%3A%2F%2Fhome-wordpress.deeplearning.ai%2Fwp-content%2Fuploads%2F2024%2F07%2F1007_embedding-models-from-architecture-to-implementation.jpg&amp;amp;w=3840&amp;amp;q=75" alt=""&gt;
+&lt;p&gt;Learn how to build embedding models and how to create effective semantic retrieval systems.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/courses/embedding-models-from-architecture-to-implementation</guid>
+      <pubDate>Sun, 14 Jun 2026 16:37:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI Python for Beginners</title>
+      <link>https://www.deeplearning.ai/courses/ai-python-for-beginners</link>
+      <description>&lt;img src="https://dlai-learn.deeplearning.ai/_next/image?url=https%3A%2F%2Fhome-wordpress.deeplearning.ai%2Fwp-content%2Fuploads%2F2024%2F09%2F1004_ai-python-for-beginners.webp&amp;amp;w=3840&amp;amp;q=75" alt=""&gt;
+&lt;p&gt;Learn Python programming with AI assistance. Gain skills writing, testing, and debugging code efficiently, and create real-world AI applications.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/courses/ai-python-for-beginners</guid>
+      <pubDate>Sun, 14 Jun 2026 16:37:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Improving Accuracy of LLM Applications</title>
+      <link>https://www.deeplearning.ai/courses/improving-accuracy-of-llm-applications</link>
+      <description>&lt;img src="https://dlai-learn.deeplearning.ai/_next/image?url=https%3A%2F%2Fhome-wordpress.deeplearning.ai%2Fwp-content%2Fuploads%2F2024%2F08%2F1008_improving-accuracy-of-llm-applications.jpg&amp;amp;w=3840&amp;amp;q=75" alt=""&gt;
+&lt;p&gt;Systematically improve the accuracy of LLM applications with evaluation, prompting, and memory tuning.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/courses/improving-accuracy-of-llm-applications</guid>
+      <pubDate>Sun, 14 Jun 2026 16:37:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Building AI Applications With Haystack</title>
+      <link>https://www.deeplearning.ai/courses/building-ai-applications-with-haystack</link>
+      <description>&lt;img src="https://dlai-learn.deeplearning.ai/_next/image?url=https%3A%2F%2Fhome-wordpress.deeplearning.ai%2Fwp-content%2Fuploads%2F2024%2F08%2F1009_building-ai-applications-with-haystack.jpg&amp;amp;w=3840&amp;amp;q=75" alt=""&gt;
+&lt;p&gt;Learn a flexible framework to build a variety of complex AI applications.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/courses/building-ai-applications-with-haystack</guid>
+      <pubDate>Sun, 14 Jun 2026 16:37:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Large Multimodal Model Prompting with Gemini</title>
+      <link>https://www.deeplearning.ai/courses/large-multimodal-model-prompting-with-gemini</link>
+      <description>&lt;img src="https://dlai-learn.deeplearning.ai/_next/image?url=https%3A%2F%2Fhome-wordpress.deeplearning.ai%2Fwp-content%2Fuploads%2F2024%2F08%2F1010_large-multimodal-model-prompting-with-gemini.jpg&amp;amp;w=3840&amp;amp;q=75" alt=""&gt;
+&lt;p&gt;Learn best practices for multimodal prompting using Google’s Gemini model.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/courses/large-multimodal-model-prompting-with-gemini</guid>
+      <pubDate>Sun, 14 Jun 2026 16:37:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Retrieval Optimization: Tokenization to Vector Quantization</title>
+      <link>https://www.deeplearning.ai/courses/retrieval-optimization-from-tokenization-to-vector-quantization</link>
+      <description>&lt;img src="https://dlai-learn.deeplearning.ai/_next/image?url=https%3A%2F%2Fhome-wordpress.deeplearning.ai%2Fwp-content%2Fuploads%2F2024%2F09%2F1015_retrieval-optimization-from-tokenization-to-vector-quantization.jpg&amp;amp;w=3840&amp;amp;q=75" alt=""&gt;
+&lt;p&gt;Build faster and more relevant vector search for your LLM applications&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/courses/retrieval-optimization-from-tokenization-to-vector-quantization</guid>
+      <pubDate>Sun, 14 Jun 2026 16:37:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing Multimodal Llama 3.2</title>
+      <link>https://www.deeplearning.ai/courses/introducing-multimodal-llama-3-2</link>
+      <description>&lt;img src="https://dlai-learn.deeplearning.ai/_next/image?url=https%3A%2F%2Fhome-wordpress.deeplearning.ai%2Fwp-content%2Fuploads%2F2024%2F10%2F1016_introducing-multimodal-llama-3-2.jpg&amp;amp;w=3840&amp;amp;q=75" alt=""&gt;
+&lt;p&gt;Try out the features of the new Llama 3.2 models to build AI applications with multimodality.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/courses/introducing-multimodal-llama-3-2</guid>
+      <pubDate>Sun, 14 Jun 2026 16:37:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Practical Multi AI Agents and Advanced Use Cases with crewAI</title>
+      <link>https://www.deeplearning.ai/courses/practical-multi-ai-agents-and-advanced-use-cases-with-crewai</link>
+      <description>&lt;img src="https://dlai-learn.deeplearning.ai/_next/image?url=https%3A%2F%2Fhome-wordpress.deeplearning.ai%2Fwp-content%2Fuploads%2F2024%2F10%2F1018_practical-multi-ai-agents-and-advanced-use-cases-with-crewai.jpg&amp;amp;w=3840&amp;amp;q=75" alt=""&gt;
+&lt;p&gt;Build agents that collaborate to solve complex business tasks.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/courses/practical-multi-ai-agents-and-advanced-use-cases-with-crewai</guid>
+      <pubDate>Sun, 14 Jun 2026 16:37:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>LLMs as Operating Systems: Agent Memory</title>
+      <link>https://www.deeplearning.ai/courses/llms-as-operating-systems-agent-memory</link>
+      <description>&lt;img src="https://dlai-learn.deeplearning.ai/_next/image?url=https%3A%2F%2Fhome-wordpress.deeplearning.ai%2Fwp-content%2Fuploads%2F2025%2F04%2F1019_llms-as-operating-systems-agent-memory.jpg&amp;amp;w=3840&amp;amp;q=75" alt=""&gt;
+&lt;p&gt;Build systems with MemGPT agents that can autonomously manage their memory.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/courses/llms-as-operating-systems-agent-memory</guid>
+      <pubDate>Sun, 14 Jun 2026 16:37:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Safe and reliable AI via guardrails</title>
+      <link>https://www.deeplearning.ai/courses/safe-and-reliable-ai-via-guardrails</link>
+      <description>&lt;img src="https://dlai-learn.deeplearning.ai/_next/image?url=https%3A%2F%2Fhome-wordpress.deeplearning.ai%2Fwp-content%2Fuploads%2F2024%2F11%2F1020_safe-and-reliable-ai-via-guardrails.jpg&amp;amp;w=3840&amp;amp;q=75" alt=""&gt;
+&lt;p&gt;Move your LLM-powered applications beyond proof-of-concept and into production with the added control of guardrails.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/courses/safe-and-reliable-ai-via-guardrails</guid>
+      <pubDate>Sun, 14 Jun 2026 16:37:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Building an AI-Powered Game</title>
+      <link>https://www.deeplearning.ai/courses/building-an-ai-powered-game</link>
+      <description>&lt;img src="https://dlai-learn.deeplearning.ai/_next/image?url=https%3A%2F%2Fhome-wordpress.deeplearning.ai%2Fwp-content%2Fuploads%2F2024%2F11%2F1021_building-an-ai-powered-game.jpg&amp;amp;w=3840&amp;amp;q=75" alt=""&gt;
+&lt;p&gt;Learn to build with LLMs by creating a fun interactive game from scratch.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/courses/building-an-ai-powered-game</guid>
+      <pubDate>Sun, 14 Jun 2026 16:37:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Collaborative Writing and Coding with OpenAI Canvas</title>
+      <link>https://www.deeplearning.ai/courses/collaborative-writing-and-coding-with-openai-canvas</link>
+      <description>&lt;img src="https://dlai-learn.deeplearning.ai/_next/image?url=https%3A%2F%2Fhome-wordpress.deeplearning.ai%2Fwp-content%2Fuploads%2F2024%2F11%2F1034_collaborative-writing-and-coding-with-openai-canvas.jpg&amp;amp;w=3840&amp;amp;q=75" alt=""&gt;
+&lt;p&gt;Learn to use OpenAI Canvas to write, code, and create more effectively in collaboration with AI.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/courses/collaborative-writing-and-coding-with-openai-canvas</guid>
+      <pubDate>Sun, 14 Jun 2026 16:37:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Reasoning with o1</title>
+      <link>https://www.deeplearning.ai/courses/reasoning-with-o1</link>
+      <description>&lt;img src="https://dlai-learn.deeplearning.ai/_next/image?url=https%3A%2F%2Fhome-wordpress.deeplearning.ai%2Fwp-content%2Fuploads%2F2024%2F12%2F1037_reasoning-with-o1.jpg&amp;amp;w=3840&amp;amp;q=75" alt=""&gt;
+&lt;p&gt;Learn how to use and prompt OpenAI's o1 model for complex reasoning tasks.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/courses/reasoning-with-o1</guid>
+      <pubDate>Sun, 14 Jun 2026 16:37:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Build Long-Context AI Apps with Jamba</title>
+      <link>https://www.deeplearning.ai/courses/build-long-context-ai-apps-with-jamba</link>
+      <description>&lt;img src="https://dlai-learn.deeplearning.ai/_next/image?url=https%3A%2F%2Fhome-wordpress.deeplearning.ai%2Fwp-content%2Fuploads%2F2025%2F01%2F1036_build-long-context-ai-apps-with-jamba.jpg&amp;amp;w=3840&amp;amp;q=75" alt=""&gt;
+&lt;p&gt;Build LLM apps that can process very long documents using the Jamba model&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/courses/build-long-context-ai-apps-with-jamba</guid>
+      <pubDate>Sun, 14 Jun 2026 16:37:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Building toward Computer Use with Anthropic</title>
+      <link>https://www.deeplearning.ai/courses/building-toward-computer-use-with-anthropic</link>
+      <description>&lt;img src="https://dlai-learn.deeplearning.ai/_next/image?url=https%3A%2F%2Fhome-wordpress.deeplearning.ai%2Fwp-content%2Fuploads%2F2025%2F01%2F1039_building-toward-computer-use-with-anthropic.jpg&amp;amp;w=3840&amp;amp;q=75" alt=""&gt;
+&lt;p&gt;Learn how an AI Assistant is built to use and accomplish tasks on computers.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/courses/building-toward-computer-use-with-anthropic</guid>
+      <pubDate>Sun, 14 Jun 2026 16:37:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>How Transformer LLMs Work</title>
+      <link>https://www.deeplearning.ai/courses/how-transformer-llms-work</link>
+      <description>&lt;img src="https://dlai-learn.deeplearning.ai/_next/image?url=https%3A%2F%2Fhome-wordpress.deeplearning.ai%2Fwp-content%2Fuploads%2F2025%2F02%2F1035_how-transformer-llms-work.jpg&amp;amp;w=3840&amp;amp;q=75" alt=""&gt;
+&lt;p&gt;Understand the transformer architecture that powers LLMs to use them more effectively.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/courses/how-transformer-llms-work</guid>
+      <pubDate>Sun, 14 Jun 2026 16:37:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Attention in Transformers: Concepts and Code in PyTorch</title>
+      <link>https://www.deeplearning.ai/courses/attention-in-transformers-concepts-and-code-in-pytorch</link>
+      <description>&lt;img src="https://dlai-learn.deeplearning.ai/_next/image?url=https%3A%2F%2Fhome-wordpress.deeplearning.ai%2Fwp-content%2Fuploads%2F2025%2F02%2F1040_attention-in-transformers-concepts-and-code-in-pytorch.jpg&amp;amp;w=3840&amp;amp;q=75" alt=""&gt;
+&lt;p&gt;Understand and implement the attention mechanism, a key element of transformer-based LLMs, using PyTorch.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/courses/attention-in-transformers-concepts-and-code-in-pytorch</guid>
+      <pubDate>Sun, 14 Jun 2026 16:37:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Evaluating AI Agents</title>
+      <link>https://www.deeplearning.ai/courses/evaluating-ai-agents</link>
+      <description>&lt;img src="https://dlai-learn.deeplearning.ai/_next/image?url=https%3A%2F%2Fhome-wordpress.deeplearning.ai%2Fwp-content%2Fuploads%2F2025%2F02%2F1044_evaluating-ai-agents.jpg&amp;amp;w=3840&amp;amp;q=75" alt=""&gt;
+&lt;p&gt;Learn how to systematically evaluate, improve, and iterate on AI agents using structured assessments.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/courses/evaluating-ai-agents</guid>
+      <pubDate>Sun, 14 Jun 2026 16:37:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Build Apps with Windsurf’s AI Coding Agents</title>
+      <link>https://www.deeplearning.ai/courses/build-apps-with-windsurfs-ai-coding-agents</link>
+      <description>&lt;img src="https://dlai-learn.deeplearning.ai/_next/image?url=https%3A%2F%2Fhome-wordpress.deeplearning.ai%2Fwp-content%2Fuploads%2F2025%2F02%2F1048_build-apps-with-windsurfs-ai-coding-agents.jpg&amp;amp;w=3840&amp;amp;q=75" alt=""&gt;
+&lt;p&gt;Learn to build, debug, and deploy applications with an Agentic AI-powered integrated development environment.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/courses/build-apps-with-windsurfs-ai-coding-agents</guid>
+      <pubDate>Sun, 14 Jun 2026 16:37:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Event-Driven Agentic Document Workflows</title>
+      <link>https://www.deeplearning.ai/courses/event-driven-agentic-document-workflows</link>
+      <description>&lt;img src="https://dlai-learn.deeplearning.ai/_next/image?url=https%3A%2F%2Fhome-wordpress.deeplearning.ai%2Fwp-content%2Fuploads%2F2025%2F03%2F1047_event-driven-agentic-document-workflows.jpg&amp;amp;w=3840&amp;amp;q=75" alt=""&gt;
+&lt;p&gt;Build an event-driven agentic workflow to process documents and fill forms using RAG and human-in-the-loop feedback.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/courses/event-driven-agentic-document-workflows</guid>
+      <pubDate>Sun, 14 Jun 2026 16:37:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Long-Term Agentic Memory With LangGraph</title>
+      <link>https://www.deeplearning.ai/courses/long-term-agentic-memory-with-langgraph</link>
+      <description>&lt;img src="https://dlai-learn.deeplearning.ai/_next/image?url=https%3A%2F%2Fhome-wordpress.deeplearning.ai%2Fwp-content%2Fuploads%2F2025%2F03%2F1049_long-term-agentic-memory-with-langgraph.jpg&amp;amp;w=3840&amp;amp;q=75" alt=""&gt;
+&lt;p&gt;Learn to build AI agents with long-term memory with LangGraph, using LangMem for memory management.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/courses/long-term-agentic-memory-with-langgraph</guid>
+      <pubDate>Sun, 14 Jun 2026 16:37:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Vibe Coding 101 with Replit</title>
+      <link>https://www.deeplearning.ai/courses/vibe-coding-101-with-replit</link>
+      <description>&lt;img src="https://dlai-learn.deeplearning.ai/_next/image?url=https%3A%2F%2Fhome-wordpress.deeplearning.ai%2Fwp-content%2Fuploads%2F2025%2F03%2F1053_vibe-coding-101-with-replit.jpg&amp;amp;w=3840&amp;amp;q=75" alt=""&gt;
+&lt;p&gt;Design, build, and deploy apps with an AI coding agent in an integrated web development environment.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/courses/vibe-coding-101-with-replit</guid>
+      <pubDate>Sun, 14 Jun 2026 16:37:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Generative AI for Everyoneㅤ</title>
+      <link>https://www.deeplearning.ai/courses/generative-ai-for-everyone</link>
+      <description>&lt;img src="https://dlai-learn.deeplearning.ai/_next/image?url=https%3A%2F%2Fhome-wordpress.deeplearning.ai%2Fwp-content%2Fuploads%2F2023%2F10%2F1043_generative-ai-for-everyone.webp&amp;amp;w=3840&amp;amp;q=75" alt=""&gt;
+&lt;p&gt;Learn how to use generative AI's capabilities &amp;amp; limitations. Get an overview of real-world examples, and impact on business &amp;amp; society for effective strategies.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/courses/generative-ai-for-everyone</guid>
+      <pubDate>Sun, 14 Jun 2026 16:37:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Getting Structured LLM Output</title>
+      <link>https://www.deeplearning.ai/courses/getting-structured-llm-output</link>
+      <description>&lt;img src="https://dlai-learn.deeplearning.ai/_next/image?url=https%3A%2F%2Fhome-wordpress.deeplearning.ai%2Fwp-content%2Fuploads%2F2025%2F03%2F1052_getting-structured-llm-output.jpg&amp;amp;w=3840&amp;amp;q=75" alt=""&gt;
+&lt;p&gt;Learn how to generate structured outputs to power production-ready LLM software applications.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/courses/getting-structured-llm-output</guid>
+      <pubDate>Sun, 14 Jun 2026 16:37:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Building AI Browser Agents</title>
+      <link>https://www.deeplearning.ai/courses/building-ai-browser-agents</link>
+      <description>&lt;img src="https://dlai-learn.deeplearning.ai/_next/image?url=https%3A%2F%2Fhome-wordpress.deeplearning.ai%2Fwp-content%2Fuploads%2F2025%2F04%2F1054_building-ai-browser-agents.jpg&amp;amp;w=3840&amp;amp;q=75" alt=""&gt;
+&lt;p&gt;Build agents that navigate and interact with websites, and learn how to make them more reliable.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/courses/building-ai-browser-agents</guid>
+      <pubDate>Sun, 14 Jun 2026 16:37:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Building Code Agents with Hugging Face smolagents</title>
+      <link>https://www.deeplearning.ai/courses/building-code-agents-with-hugging-face-smolagents</link>
+      <description>&lt;img src="https://dlai-learn.deeplearning.ai/_next/image?url=https%3A%2F%2Fhome-wordpress.deeplearning.ai%2Fwp-content%2Fuploads%2F2025%2F04%2F1055_building-code-agents-with-hugging-face-smolagents.jpg&amp;amp;w=3840&amp;amp;q=75" alt=""&gt;
+&lt;p&gt;Build agents that write and execute code to perform complex tasks, using Hugging Face’s smolagents.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/courses/building-code-agents-with-hugging-face-smolagents</guid>
+      <pubDate>Sun, 14 Jun 2026 16:37:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Building AI Voice Agents for Production</title>
+      <link>https://www.deeplearning.ai/courses/building-ai-voice-agents-for-production</link>
+      <description>&lt;img src="https://dlai-learn.deeplearning.ai/_next/image?url=https%3A%2F%2Fhome-wordpress.deeplearning.ai%2Fwp-content%2Fuploads%2F2025%2F05%2FYouTube-Thumbnails-2025-10-03T125341.812.png&amp;amp;w=3840&amp;amp;q=75" alt=""&gt;
+&lt;p&gt;Build responsive, scalable, and human-like AI voice applications.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/courses/building-ai-voice-agents-for-production</guid>
+      <pubDate>Sun, 14 Jun 2026 16:37:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>MCP: Build Rich-Context AI Apps with Anthropic</title>
+      <link>https://www.deeplearning.ai/courses/mcp-build-rich-context-ai-apps-with-anthropic</link>
+      <description>&lt;img src="https://dlai-learn.deeplearning.ai/_next/image?url=https%3A%2F%2Fhome-wordpress.deeplearning.ai%2Fwp-content%2Fuploads%2F2025%2F05%2F1057_mcp-build-rich-context-ai-apps-with-anthropic.jpg&amp;amp;w=3840&amp;amp;q=75" alt=""&gt;
+&lt;p&gt;Build AI apps that access tools, data, and prompts using the Model Context Protocol.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/courses/mcp-build-rich-context-ai-apps-with-anthropic</guid>
+      <pubDate>Sun, 14 Jun 2026 16:37:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Reinforcement Fine-Tuning LLMs With GRPO</title>
+      <link>https://www.deeplearning.ai/courses/reinforcement-fine-tuning-llms-grpo</link>
+      <description>&lt;img src="https://dlai-learn.deeplearning.ai/_next/image?url=https%3A%2F%2Fhome-wordpress.deeplearning.ai%2Fwp-content%2Fuploads%2F2025%2F05%2F1058_reinforcement-fine-tuning-llms-grpo.jpg&amp;amp;w=3840&amp;amp;q=75" alt=""&gt;
+&lt;p&gt;Improve LLM reasoning with reinforcement fine-tuning and reward functions.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/courses/reinforcement-fine-tuning-llms-grpo</guid>
+      <pubDate>Sun, 14 Jun 2026 16:37:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>DSPy: Build and Optimize Agentic Apps</title>
+      <link>https://www.deeplearning.ai/courses/dspy-build-optimize-agentic-apps</link>
+      <description>&lt;img src="https://dlai-learn.deeplearning.ai/_next/image?url=https%3A%2F%2Fhome-wordpress.deeplearning.ai%2Fwp-content%2Fuploads%2F2025%2F06%2F1059_dspy-build-optimize-agentic-apps.jpg&amp;amp;w=3840&amp;amp;q=75" alt=""&gt;
+&lt;p&gt;Build, debug, and optimize AI agents using DSPy and MLflow.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/courses/dspy-build-optimize-agentic-apps</guid>
+      <pubDate>Sun, 14 Jun 2026 16:37:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Orchestrating Workflows for GenAI Applications</title>
+      <link>https://www.deeplearning.ai/courses/orchestrating-workflows-for-genai-applications</link>
+      <description>&lt;img src="https://dlai-learn.deeplearning.ai/_next/image?url=https%3A%2F%2Fhome-wordpress.deeplearning.ai%2Fwp-content%2Fuploads%2F2025%2F06%2F1060_orchestrating-workflows-for-genai-applications.jpg&amp;amp;w=3840&amp;amp;q=75" alt=""&gt;
+&lt;p&gt;Turn your GenAI prototype into an automated pipeline using Apache Airflow&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/courses/orchestrating-workflows-for-genai-applications</guid>
+      <pubDate>Sun, 14 Jun 2026 16:37:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Building with Llama 4</title>
+      <link>https://www.deeplearning.ai/courses/building-with-llama-4</link>
+      <description>&lt;img src="https://dlai-learn.deeplearning.ai/_next/image?url=https%3A%2F%2Fhome-wordpress.deeplearning.ai%2Fwp-content%2Fuploads%2F2025%2F06%2F1069_building-with-llama-4.jpg&amp;amp;w=3840&amp;amp;q=75" alt=""&gt;
+&lt;p&gt;Build multimodal and long-context GenAI applications using Llama 4 open models, API, and Llama tools.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/courses/building-with-llama-4</guid>
+      <pubDate>Sun, 14 Jun 2026 16:37:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI for Everyone</title>
+      <link>https://www.deeplearning.ai/courses/ai-for-everyone</link>
+      <description>&lt;img src="https://dlai-learn.deeplearning.ai/_next/image?url=https%3A%2F%2Fhome-wordpress.deeplearning.ai%2Fwp-content%2Fuploads%2F2020%2F12%2F1045_ai-for-everyone.webp&amp;amp;w=3840&amp;amp;q=75" alt=""&gt;
+&lt;p&gt;Learn about AI technologies and how to use them. Examine AI's societal impact, and learn to navigate this technological shift.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/courses/ai-for-everyone</guid>
+      <pubDate>Sun, 14 Jun 2026 16:37:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Post-training of LLMs</title>
+      <link>https://www.deeplearning.ai/courses/post-training-of-llms</link>
+      <description>&lt;img src="https://dlai-learn.deeplearning.ai/_next/image?url=https%3A%2F%2Fhome-wordpress.deeplearning.ai%2Fwp-content%2Fuploads%2F2025%2F07%2F1071_post-training-of-llms.jpg&amp;amp;w=3840&amp;amp;q=75" alt=""&gt;
+&lt;p&gt;Adapt LLMs for specific tasks and behaviors using post-training techniques like SFT, DPO, and online RL.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/courses/post-training-of-llms</guid>
+      <pubDate>Sun, 14 Jun 2026 16:37:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Pydantic for LLM Workflows</title>
+      <link>https://www.deeplearning.ai/courses/pydantic-for-llm-workflows</link>
+      <description>&lt;img src="https://dlai-learn.deeplearning.ai/_next/image?url=https%3A%2F%2Fhome-wordpress.deeplearning.ai%2Fwp-content%2Fuploads%2F2025%2F07%2F1191_pydantic-for-llm-workflows.jpg&amp;amp;w=3840&amp;amp;q=75" alt=""&gt;
+&lt;p&gt;Build reliable LLM applications with structured outputs and validated data using Pydantic.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/courses/pydantic-for-llm-workflows</guid>
+      <pubDate>Sun, 14 Jun 2026 16:37:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Claude Code: A Highly Agentic Coding Assistant</title>
+      <link>https://www.deeplearning.ai/courses/claude-code-a-highly-agentic-coding-assistant</link>
+      <description>&lt;img src="https://dlai-learn.deeplearning.ai/_next/image?url=https%3A%2F%2Fhome-wordpress.deeplearning.ai%2Fwp-content%2Fuploads%2F2025%2F08%2F1207_claude-code-a-highly-agentic-coding-assistant.jpg&amp;amp;w=3840&amp;amp;q=75" alt=""&gt;
+&lt;p&gt;Explore, build, and refine codebases with Claude Code.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/courses/claude-code-a-highly-agentic-coding-assistant</guid>
+      <pubDate>Sun, 14 Jun 2026 16:37:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Agentic Knowledge Graph Construction</title>
+      <link>https://www.deeplearning.ai/courses/agentic-knowledge-graph-construction</link>
+      <description>&lt;img src="https://dlai-learn.deeplearning.ai/_next/image?url=https%3A%2F%2Fhome-wordpress.deeplearning.ai%2Fwp-content%2Fuploads%2F2025%2F08%2FYouTube-Thumbnails-94.png&amp;amp;w=3840&amp;amp;q=75" alt=""&gt;
+&lt;p&gt;Build a multi-agent system that plans, designs, and constructs a knowledge graph.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/courses/agentic-knowledge-graph-construction</guid>
+      <pubDate>Sun, 14 Jun 2026 16:37:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Knowledge Graphs for AI Agent API Discovery</title>
+      <link>https://www.deeplearning.ai/courses/knowledge-graphs-for-ai-agent-api-discovery</link>
+      <description>&lt;img src="https://dlai-learn.deeplearning.ai/_next/image?url=https%3A%2F%2Fhome-wordpress.deeplearning.ai%2Fwp-content%2Fuploads%2F2025%2F09%2FYouTube-Thumbnails-93.png&amp;amp;w=3840&amp;amp;q=75" alt=""&gt;
+&lt;p&gt;Construct a knowledge graph and use it to enable your AI agent to find and call the right APIs in the right order.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/courses/knowledge-graphs-for-ai-agent-api-discovery</guid>
+      <pubDate>Sun, 14 Jun 2026 16:37:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Build AI Apps with MCP Server: Working with Box Files</title>
+      <link>https://www.deeplearning.ai/courses/build-ai-apps-with-mcp-server-working-with-box-files</link>
+      <description>&lt;img src="https://dlai-learn.deeplearning.ai/_next/image?url=https%3A%2F%2Fhome-wordpress.deeplearning.ai%2Fwp-content%2Fuploads%2F2025%2F09%2FYouTube-Thumbnails-100.png&amp;amp;w=3840&amp;amp;q=75" alt=""&gt;
+&lt;p&gt;Build an LLM app that uses tools from the Box MCP server to discover Box files and extract text from them. Transform it into a multi-agent system that communicates using A2A.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/courses/build-ai-apps-with-mcp-server-working-with-box-files</guid>
+      <pubDate>Sun, 14 Jun 2026 16:37:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Building and Evaluating Data Agents</title>
+      <link>https://www.deeplearning.ai/courses/building-and-evaluating-data-agents</link>
+      <description>&lt;img src="https://dlai-learn.deeplearning.ai/_next/image?url=https%3A%2F%2Fhome-wordpress.deeplearning.ai%2Fwp-content%2Fuploads%2F2025%2F09%2FYouTube-Thumbnails-98.png&amp;amp;w=3840&amp;amp;q=75" alt=""&gt;
+&lt;p&gt;Build, evaluate, and improve a multi-agent system that plans its steps, connects to data sources, and provides insights.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/courses/building-and-evaluating-data-agents</guid>
+      <pubDate>Sun, 14 Jun 2026 16:37:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Building Live Voice Agents with Google’s ADK</title>
+      <link>https://www.deeplearning.ai/courses/building-live-voice-agents-with-googles-adk</link>
+      <description>&lt;img src="https://dlai-learn.deeplearning.ai/_next/image?url=https%3A%2F%2Fhome-wordpress.deeplearning.ai%2Fwp-content%2Fuploads%2F2025%2F10%2FYouTube-Thumbnails-2025-10-13T105629.574.png&amp;amp;w=3840&amp;amp;q=75" alt=""&gt;
+&lt;p&gt;Build real-time voice AI agents, from simple to multi-agent podcast systems, using Google’s Agent Development Kit.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/courses/building-live-voice-agents-with-googles-adk</guid>
+      <pubDate>Sun, 14 Jun 2026 16:37:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Agentic AI</title>
+      <link>https://www.deeplearning.ai/courses/agentic-ai</link>
+      <description>&lt;img src="https://dlai-learn.deeplearning.ai/_next/image?url=https%3A%2F%2Fhome-wordpress.deeplearning.ai%2Fwp-content%2Fuploads%2F2025%2F09%2FYouTube-Thumbnails-2025-09-26T162449.991.png&amp;amp;w=3840&amp;amp;q=75" alt=""&gt;
+&lt;p&gt;In this course taught by Andrew Ng, you'll build agentic AI systems that take action through iterative, multi-step workflows.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/courses/agentic-ai</guid>
+      <pubDate>Sun, 14 Jun 2026 16:37:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Retrieval Augmented Generation (RAG)</title>
+      <link>https://www.deeplearning.ai/courses/retrieval-augmented-generation</link>
+      <description>&lt;img src="https://dlai-learn.deeplearning.ai/_next/image?url=https%3A%2F%2Fhome-wordpress.deeplearning.ai%2Fwp-content%2Fuploads%2F2025%2F07%2FYouTube-Thumbnails-2025-10-01T104520.531.png&amp;amp;w=3840&amp;amp;q=75" alt=""&gt;
+&lt;p&gt;Gain fundamental understanding and the practical knowledge to develop production-ready RAG applications, from architecture to deployment and evaluation.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/courses/retrieval-augmented-generation</guid>
+      <pubDate>Sun, 14 Jun 2026 16:37:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Governing AI Agents</title>
+      <link>https://www.deeplearning.ai/courses/governing-ai-agents</link>
+      <description>&lt;img src="https://dlai-learn.deeplearning.ai/_next/image?url=https%3A%2F%2Fhome-wordpress.deeplearning.ai%2Fwp-content%2Fuploads%2F2025%2F10%2FYouTube-Thumbnails-2025-10-21T113012.687.png&amp;amp;w=3840&amp;amp;q=75" alt=""&gt;
+&lt;p&gt;Integrate data governance into your agent's workflow to ensure it handles data safely, securely, and accurately.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/courses/governing-ai-agents</guid>
+      <pubDate>Sun, 14 Jun 2026 16:37:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Generative AI with Large Language Models</title>
+      <link>https://www.deeplearning.ai/courses/generative-ai-with-llms</link>
+      <description>&lt;img src="https://dlai-learn.deeplearning.ai/_next/image?url=https%3A%2F%2Fhome-wordpress.deeplearning.ai%2Fwp-content%2Fuploads%2F2023%2F06%2FYouTube-Thumbnails-2026-01-23T141936.699.png&amp;amp;w=3840&amp;amp;q=75" alt=""&gt;
+&lt;p&gt;Understand the generative AI lifecycle. Describe transformer architecture powering LLMs. Apply training/tuning/inference methods. Hear from researchers on generative AI challenges/opportunities.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/courses/generative-ai-with-llms</guid>
+      <pubDate>Sun, 14 Jun 2026 16:37:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fine-tuning &amp; RL for LLMs: Intro to Post-training</title>
+      <link>https://www.deeplearning.ai/courses/fine-tuning-and-reinforcement-learning-for-llms-intro-to-post-training</link>
+      <description>&lt;img src="https://dlai-learn.deeplearning.ai/_next/image?url=https%3A%2F%2Fhome-wordpress.deeplearning.ai%2Fwp-content%2Fuploads%2F2025%2F10%2FYouTube-Thumbnails-2025-10-27T150138.753.png&amp;amp;w=3840&amp;amp;q=75" alt=""&gt;
+&lt;p&gt;Learn how to apply fine-tuning and reinforcement learning techniques to shape model behavior, improve reasoning, and make LLMs safer and more reliable.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/courses/fine-tuning-and-reinforcement-learning-for-llms-intro-to-post-training</guid>
+      <pubDate>Sun, 14 Jun 2026 16:37:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Jupyter AI: AI Coding in Notebooks</title>
+      <link>https://www.deeplearning.ai/courses/jupyter-ai-coding-in-notebooks</link>
+      <description>&lt;img src="https://dlai-learn.deeplearning.ai/_next/image?url=https%3A%2F%2Fhome-wordpress.deeplearning.ai%2Fwp-content%2Fuploads%2F2025%2F10%2FYouTube-Thumbnails-2025-10-31T165012.339.png&amp;amp;w=3840&amp;amp;q=75" alt=""&gt;
+&lt;p&gt;Learn to code with AI in Jupyter notebooks. Use Jupyter AI to generate code, get explanations, and analyze data.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/courses/jupyter-ai-coding-in-notebooks</guid>
+      <pubDate>Sun, 14 Jun 2026 16:37:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Machine Learning in Production</title>
+      <link>https://www.deeplearning.ai/courses/machine-learning-in-production</link>
+      <description>&lt;img src="https://dlai-learn.deeplearning.ai/_next/image?url=https%3A%2F%2Fhome-wordpress.deeplearning.ai%2Fwp-content%2Fuploads%2F2024%2F05%2FYouTube-Thumbnails-2025-12-01T103130.281.png&amp;amp;w=3840&amp;amp;q=75" alt=""&gt;
+&lt;p&gt;Design an ML production system: scoping, data, modeling, deployment. Prototype development, deployment &amp;amp; continuous improvement.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/courses/machine-learning-in-production</guid>
+      <pubDate>Sun, 14 Jun 2026 16:37:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Design, Develop, and Deploy Multi-Agent Systems  with CrewAI</title>
+      <link>https://www.deeplearning.ai/courses/design-develop-and-deploy-multi-agent-systems-with-crewai</link>
+      <description>&lt;img src="https://dlai-learn.deeplearning.ai/_next/image?url=https%3A%2F%2Fhome-wordpress.deeplearning.ai%2Fwp-content%2Fuploads%2F2025%2F11%2F3.png&amp;amp;w=3840&amp;amp;q=75" alt=""&gt;
+&lt;p&gt;Build practical multi-agent systems that collaborate, use tools and memory, and scale reliably to production&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/courses/design-develop-and-deploy-multi-agent-systems-with-crewai</guid>
+      <pubDate>Sun, 14 Jun 2026 16:37:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Semantic Caching for AI Agents</title>
+      <link>https://www.deeplearning.ai/courses/semantic-caching-for-ai-agents</link>
+      <description>&lt;img src="https://dlai-learn.deeplearning.ai/_next/image?url=https%3A%2F%2Fhome-wordpress.deeplearning.ai%2Fwp-content%2Fuploads%2F2025%2F11%2FYouTube-Thumbnails-2025-11-13T221906.108.png&amp;amp;w=3840&amp;amp;q=75" alt=""&gt;
+&lt;p&gt;Speed up and reduce the costs of your AI agents by implementing semantic caching that reuses responses based on meaning rather than exact text.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/courses/semantic-caching-for-ai-agents</guid>
+      <pubDate>Sun, 14 Jun 2026 16:37:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Building Coding Agents with Tool Execution</title>
+      <link>https://www.deeplearning.ai/courses/building-coding-agents-with-tool-execution</link>
+      <description>&lt;img src="https://dlai-learn.deeplearning.ai/_next/image?url=https%3A%2F%2Fhome-wordpress.deeplearning.ai%2Fwp-content%2Fuploads%2F2025%2F11%2FYouTube-Thumbnails-2025-11-24T163633.311.png&amp;amp;w=3840&amp;amp;q=75" alt=""&gt;
+&lt;p&gt;Build AI agents that write and execute code to accomplish tasks, running safely in sandboxed cloud environments that protect your systems from untrusted code.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/courses/building-coding-agents-with-tool-execution</guid>
+      <pubDate>Sun, 14 Jun 2026 16:37:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Multi-vector Image Retrieval</title>
+      <link>https://www.deeplearning.ai/courses/multi-vector-image-retrieval</link>
+      <description>&lt;img src="https://dlai-learn.deeplearning.ai/_next/image?url=https%3A%2F%2Fhome-wordpress.deeplearning.ai%2Fwp-content%2Fuploads%2F2025%2F12%2FYouTube-Thumbnails-2025-12-05T121310.658.png&amp;amp;w=3840&amp;amp;q=75" alt=""&gt;
+&lt;p&gt;Build advanced retrieval systems that represent images with multiple vectors, enabling fine-grained matching between text queries and visual content for accurate multi-modal search.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/courses/multi-vector-image-retrieval</guid>
+      <pubDate>Sun, 14 Jun 2026 16:37:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nvidia’s NeMo Agent Toolkit: Making Agents Reliable</title>
+      <link>https://www.deeplearning.ai/courses/nvidia-nat-making-agents-reliable</link>
+      <description>&lt;img src="https://dlai-learn.deeplearning.ai/_next/image?url=https%3A%2F%2Fhome-wordpress.deeplearning.ai%2Fwp-content%2Fuploads%2F2025%2F12%2FYouTube-Thumbnails-2025-12-10T153732.188.png&amp;amp;w=3840&amp;amp;q=75" alt=""&gt;
+&lt;p&gt;Turn proof-of-concept agent demos into production-ready systems using observability, evaluation, and deployment tools from Nvidia's NeMo Agent Toolkit.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/courses/nvidia-nat-making-agents-reliable</guid>
+      <pubDate>Sun, 14 Jun 2026 16:37:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Build with Andrew</title>
+      <link>https://www.deeplearning.ai/courses/build-with-andrew</link>
+      <description>&lt;img src="https://dlai-learn.deeplearning.ai/_next/image?url=https%3A%2F%2Fhome-wordpress.deeplearning.ai%2Fwp-content%2Fuploads%2F2026%2F01%2FYouTube-Thumbnails-2026-01-02T092544.133.png&amp;amp;w=3840&amp;amp;q=75" alt=""&gt;
+&lt;p&gt;If you've never written code before, this course is for you. In less than 30 minutes, you'll learn to describe an idea in words and let AI transform it into an app for you.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/courses/build-with-andrew</guid>
+      <pubDate>Sun, 14 Jun 2026 16:37:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Document AI: From OCR to Agentic Doc Extraction</title>
+      <link>https://www.deeplearning.ai/courses/document-ai-from-ocr-to-agentic-doc-extraction</link>
+      <description>&lt;img src="https://dlai-learn.deeplearning.ai/_next/image?url=https%3A%2F%2Fhome-wordpress.deeplearning.ai%2Fwp-content%2Fuploads%2F2026%2F01%2FYouTube-Thumbnails-2026-01-12T113845.233.png&amp;amp;w=3840&amp;amp;q=75" alt=""&gt;
+&lt;p&gt;Build agentic systems to parse documents and extract information grounded in visual components like charts, tables, and forms.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/courses/document-ai-from-ocr-to-agentic-doc-extraction</guid>
+      <pubDate>Sun, 14 Jun 2026 16:37:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Gemini CLI: Code &amp; Create with an Open-Source Agent</title>
+      <link>https://www.deeplearning.ai/courses/gemini-cli-code-and-create-with-an-open-source-agent</link>
+      <description>&lt;img src="https://dlai-learn.deeplearning.ai/_next/image?url=https%3A%2F%2Fhome-wordpress.deeplearning.ai%2Fwp-content%2Fuploads%2F2026%2F01%2FYouTube-Thumbnails-2026-01-15T144655.406-1.png&amp;amp;w=3840&amp;amp;q=75" alt=""&gt;
+&lt;p&gt;Build real-world applications from the command line using Gemini CLI, Google's open-source agentic coding assistant that coordinates local tools and cloud services to automate coding and creative workflows.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/courses/gemini-cli-code-and-create-with-an-open-source-agent</guid>
+      <pubDate>Sun, 14 Jun 2026 16:37:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Agent Skills with Anthropic</title>
+      <link>https://www.deeplearning.ai/courses/agent-skills-with-anthropic</link>
+      <description>&lt;img src="https://dlai-learn.deeplearning.ai/_next/image?url=https%3A%2F%2Fhome-wordpress.deeplearning.ai%2Fwp-content%2Fuploads%2F2026%2F01%2FYouTube-Thumbnails-2026-01-26T115518.584.png&amp;amp;w=3840&amp;amp;q=75" alt=""&gt;
+&lt;p&gt;Equip agents with expert on-demand knowledge to enable reliable coding, research, and data analysis workflows&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/courses/agent-skills-with-anthropic</guid>
+      <pubDate>Sun, 14 Jun 2026 16:37:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>A2A: The Agent2Agent Protocol</title>
+      <link>https://www.deeplearning.ai/courses/a2a-the-agent2agent-protocol</link>
+      <description>&lt;img src="https://dlai-learn.deeplearning.ai/_next/image?url=https%3A%2F%2Fhome-wordpress.deeplearning.ai%2Fwp-content%2Fuploads%2F2026%2F01%2FYouTube-Thumbnails-2026-01-29T170154.577.png&amp;amp;w=3840&amp;amp;q=75" alt=""&gt;
+&lt;p&gt;Connect agents across different frameworks and teams using A2A, the open protocol standardizing agent-to-agent communication.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/courses/a2a-the-agent2agent-protocol</guid>
+      <pubDate>Sun, 14 Jun 2026 16:37:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Build and Train an LLM with JAX</title>
+      <link>https://www.deeplearning.ai/courses/build-and-train-an-llm-with-jax</link>
+      <description>&lt;img src="https://dlai-learn.deeplearning.ai/_next/image?url=https%3A%2F%2Fhome-wordpress.deeplearning.ai%2Fwp-content%2Fuploads%2F2026%2F02%2FYouTube-Thumbnails-2026-02-25T115044.580.png&amp;amp;w=3840&amp;amp;q=75" alt=""&gt;
+&lt;p&gt;Build and train a 20M-parameter LLM from scratch using JAX, the open-source library behind Google's Gemini, and learn the core techniques powering modern AI development.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/courses/build-and-train-an-llm-with-jax</guid>
+      <pubDate>Sun, 14 Jun 2026 16:37:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Agent Memory: Building Memory-Aware Agents</title>
+      <link>https://www.deeplearning.ai/courses/agent-memory-building-memory-aware-agents</link>
+      <description>&lt;img src="https://dlai-learn.deeplearning.ai/_next/image?url=https%3A%2F%2Fhome-wordpress.deeplearning.ai%2Fwp-content%2Fuploads%2F2026%2F03%2FYouTube-Thumbnails-2026-03-13T114431.338.png&amp;amp;w=3840&amp;amp;q=75" alt=""&gt;
+&lt;p&gt;Build a complete agent memory system that lets an LLM store, retrieve, and refine knowledge across sessions—turning a stateless agent into one that learns and improves over time.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/courses/agent-memory-building-memory-aware-agents</guid>
+      <pubDate>Sun, 14 Jun 2026 16:37:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Efficient Inference with SGLang: Text and Image Generation</title>
+      <link>https://www.deeplearning.ai/courses/efficient-inference-with-sglang-text-and-image-generation</link>
+      <description>&lt;img src="https://dlai-learn.deeplearning.ai/_next/image?url=https%3A%2F%2Fhome-wordpress.deeplearning.ai%2Fwp-content%2Fuploads%2F2026%2F04%2FYouTube-Thumbnails-2026-03-31T104417.455.png&amp;amp;w=3840&amp;amp;q=75" alt=""&gt;
+&lt;p&gt;Learn how LLM inference works under the hood and implement caching optimizations, including KV cache and RadixAttention, to make text and image generation faster and cheaper.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/courses/efficient-inference-with-sglang-text-and-image-generation</guid>
+      <pubDate>Sun, 14 Jun 2026 16:37:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Spec-Driven Development with Coding Agents</title>
+      <link>https://www.deeplearning.ai/courses/spec-driven-development-with-coding-agents</link>
+      <description>&lt;img src="https://dlai-learn.deeplearning.ai/_next/image?url=https%3A%2F%2Fhome-wordpress.deeplearning.ai%2Fwp-content%2Fuploads%2F2026%2F04%2FYouTube-Thumbnails-2026-04-10T125929.137.png&amp;amp;w=3840&amp;amp;q=75" alt=""&gt;
+&lt;p&gt;Move beyond vibe coding: write clear specs that give your coding agent the context it needs to build intentional, maintainable software.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/courses/spec-driven-development-with-coding-agents</guid>
+      <pubDate>Sun, 14 Jun 2026 16:37:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Building Multimodal Data Pipelines</title>
+      <link>https://www.deeplearning.ai/courses/building-multimodal-data-pipelines</link>
+      <description>&lt;img src="https://dlai-learn.deeplearning.ai/_next/image?url=https%3A%2F%2Fhome-wordpress.deeplearning.ai%2Fwp-content%2Fuploads%2F2026%2F04%2FYouTube-Thumbnails-2026-04-14T162554.039.png&amp;amp;w=3840&amp;amp;q=75" alt=""&gt;
+&lt;p&gt;Learn to build AI-powered pipelines that turn images, audio, and video into LLM-ready text, and power multimodal applications on top.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/courses/building-multimodal-data-pipelines</guid>
+      <pubDate>Sun, 14 Jun 2026 16:37:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI Prompting for Everyone</title>
+      <link>https://www.deeplearning.ai/courses/ai-prompting-for-everyone</link>
+      <description>&lt;img src="https://dlai-learn.deeplearning.ai/_next/image?url=https%3A%2F%2Fhome-wordpress.deeplearning.ai%2Fwp-content%2Fuploads%2F2026%2F04%2FYouTube-Thumbnails-2026-04-22T144036.220.png&amp;amp;w=3840&amp;amp;q=75" alt=""&gt;
+&lt;p&gt;Become an AI power user in this new course taught by Andrew Ng. From finding information to building apps, you'll develop the prompting skills that get real, useful results from today's most powerful AI models.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/courses/ai-prompting-for-everyone</guid>
+      <pubDate>Sun, 14 Jun 2026 16:37:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Build Interactive Agents with Generative UI</title>
+      <link>https://www.deeplearning.ai/courses/build-interactive-agents-with-generative-ui</link>
+      <description>&lt;img src="https://dlai-learn.deeplearning.ai/_next/image?url=https%3A%2F%2Fhome-wordpress.deeplearning.ai%2Fwp-content%2Fuploads%2F2026%2F04%2FYouTube-Thumbnails-2026-05-05T114158.933.png&amp;amp;w=3840&amp;amp;q=75" alt=""&gt;
+&lt;p&gt;Build fullstack agent apps that go beyond plain text, generating custom UIs like charts, forms, and whiteboards on demand.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/courses/build-interactive-agents-with-generative-ui</guid>
+      <pubDate>Sun, 14 Jun 2026 16:37:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Transformers in Practice</title>
+      <link>https://www.deeplearning.ai/courses/transformers-in-practice</link>
+      <description>&lt;img src="https://dlai-learn.deeplearning.ai/_next/image?url=https%3A%2F%2Fhome-wordpress.deeplearning.ai%2Fwp-content%2Fuploads%2F2026%2F05%2FYouTube-Thumbnails-2026-05-07T124056.913.png&amp;amp;w=3840&amp;amp;q=75" alt=""&gt;
+&lt;p&gt;Go beyond just using LLMs to actually understanding them. In this course taught by Sharon Zhou, you'll build the intuition to reason about model behavior, debug real problems, and make smarter decisions about deploying transformer-based models.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/courses/transformers-in-practice</guid>
+      <pubDate>Sun, 14 Jun 2026 16:37:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI Agents for Image and Video Generation</title>
+      <link>https://www.deeplearning.ai/courses/ai-agents-for-image-and-video-generation</link>
+      <description>&lt;img src="https://dlai-learn.deeplearning.ai/_next/image?url=https%3A%2F%2Fhome-wordpress.deeplearning.ai%2Fwp-content%2Fuploads%2F2026%2F05%2FYouTube-Thumbnails-2026-05-14T133111.229.png&amp;amp;w=3840&amp;amp;q=75" alt=""&gt;
+&lt;p&gt;Build AI agents that generate images and videos, evaluate output automatically, and iterate until results meet your quality standards&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/courses/ai-agents-for-image-and-video-generation</guid>
+      <pubDate>Sun, 14 Jun 2026 16:37:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fast &amp; Efficient LLM Inference with vLLM</title>
+      <link>https://www.deeplearning.ai/courses/fast-and-efficient-llm-inference-with-vllm</link>
+      <description>&lt;img src="https://dlai-learn.deeplearning.ai/_next/image?url=https%3A%2F%2Fassets.deeplearning.ai%2Flanding-pages%2Ffast-and-efficient-llm-inference-with-vllm%2Fyoutube-thumbnails-1.png&amp;amp;w=3840&amp;amp;q=75" alt=""&gt;
+&lt;p&gt;Optimize, deploy, and benchmark an open-source LLM with vLLM.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/courses/fast-and-efficient-llm-inference-with-vllm</guid>
+      <pubDate>Sun, 14 Jun 2026 16:37:15 +0000</pubDate>
+    </item>
+  </channel>
+</rss>
