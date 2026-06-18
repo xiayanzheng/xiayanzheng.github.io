@@ -7,267 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 18 Jun 2026 01:04:55 +0000</lastBuildDate>
-    <item>
-      <title>[Polymarket]JUST IN: Trump officially endorses right-wing candidate Abelardo “The Tiger” de la Espriella in Colombia’s presidential race.</title>
-      <link>https://x.com/Polymarket/status/2061977254935048446</link>
-      <description>JUST IN: Trump officially endorses right-wing candidate Abelardo “The Tiger” de la Espriella in Colombia’s presidential race.</description>
-      <guid isPermaLink="false">https://x.com/Polymarket/status/2061977254935048446</guid>
-      <pubDate>Wed, 03 Jun 2026 01:04:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>[olumuyiwaayo]Fully Funded MSc Scholarship in AI, Germany
-
-Applications are now open for the relAI MSc Scholarship Program 2026 for students interested in Artificial Intelligence, Machine Learning, Data Science, Computer Science, Mathematics, Engineering, and related disciplines.</title>
-      <link>https://x.com/olumuyiwaayo/status/2061983447997104292</link>
-      <description>Fully Funded MSc Scholarship in AI, Germany
-
-Applications are now open for the relAI MSc Scholarship Program 2026 for students interested in Artificial Intelligence, Machine Learning, Data Science, Computer Science, Mathematics, Engineering, and related disciplines.</description>
-      <guid isPermaLink="false">https://x.com/olumuyiwaayo/status/2061983447997104292</guid>
-      <pubDate>Wed, 03 Jun 2026 01:28:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Polymarket]JUST IN: Deb Haaland officially secures the Democratic nomination for New Mexico governor. Now on track to become the first Native American woman elected governor in U.S. history — 87% chance.</title>
-      <link>https://x.com/Polymarket/status/2061999450667548820</link>
-      <description>JUST IN: Deb Haaland officially secures the Democratic nomination for New Mexico governor. Now on track to become the first Native American woman elected governor in U.S. history — 87% chance.</description>
-      <guid isPermaLink="false">https://x.com/Polymarket/status/2061999450667548820</guid>
-      <pubDate>Wed, 03 Jun 2026 02:32:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Polymarket]JUST IN: Gold has officially surpassed U.S. Treasurys as the world’s top central bank reserve asset.</title>
-      <link>https://x.com/Polymarket/status/2062026725936988530</link>
-      <description>JUST IN: Gold has officially surpassed U.S. Treasurys as the world’s top central bank reserve asset.</description>
-      <guid isPermaLink="false">https://x.com/Polymarket/status/2062026725936988530</guid>
-      <pubDate>Wed, 03 Jun 2026 04:20:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>[OfficeOfCRSY]Hey @grok change this sketch into reality</title>
-      <link>https://x.com/OfficeOfCRSY/status/2062049598802460990</link>
-      <description>Hey @grok change this sketch into reality</description>
-      <guid isPermaLink="false">https://x.com/OfficeOfCRSY/status/2062049598802460990</guid>
-      <pubDate>Wed, 03 Jun 2026 05:51:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>[elonmusk]That’s what it comes down to</title>
-      <link>https://x.com/elonmusk/status/2062066523779535244</link>
-      <description>That’s what it comes down to</description>
-      <guid isPermaLink="false">https://x.com/elonmusk/status/2062066523779535244</guid>
-      <pubDate>Wed, 03 Jun 2026 06:59:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>[elonmusk]Good Starship highlights video</title>
-      <link>https://x.com/elonmusk/status/2062071886218219737</link>
-      <description>Good Starship highlights video</description>
-      <guid isPermaLink="false">https://x.com/elonmusk/status/2062071886218219737</guid>
-      <pubDate>Wed, 03 Jun 2026 07:20:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>[elonmusk]True</title>
-      <link>https://x.com/elonmusk/status/2062072932915130428</link>
-      <description>True</description>
-      <guid isPermaLink="false">https://x.com/elonmusk/status/2062072932915130428</guid>
-      <pubDate>Wed, 03 Jun 2026 07:24:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>[justinsuntron]Stablecoins proved the rails.
-RWAs are the next chapter.</title>
-      <link>https://x.com/justinsuntron/status/2062126107193913361</link>
-      <description>Stablecoins proved the rails.
-RWAs are the next chapter.</description>
-      <guid isPermaLink="false">https://x.com/justinsuntron/status/2062126107193913361</guid>
-      <pubDate>Wed, 03 Jun 2026 10:55:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>[OwenGregorian]The AI Trap We’re Walking Into | Unvoid
-
-Cheap Tokens, Expensive Power
-
-We were promised that artificial intelligence would democratize knowledge work. That a kid with a laptop in a small town would have the same cognitive firepower as a corporation. For a brief, dizzying moment, that even felt true.
-
-I’m not so sure anymore. Here’s the story I see unfolding, and why I think we’re about to repeat one of humanity’s oldest mistakes.
-
-LLMs and agents are becoming a commodity
-
-Two years ago, a capable language model felt like magic. Today it feels like electricity, something you plug into. The numbers are staggering: the cost of LLM inference for equivalent performance is dropping roughly 10x every year, faster than compute fell during the PC revolution or bandwidth during the dotcom boom. A capability that cost about $20 per million tokens in late 2022 now costs around $0.40, and the cheapest models matching early GPT-3 quality have fallen by a factor of 1,000 in three years. (a16z, Introl)
-
-Open-weight models are closing in on the frontier too, trailing the best closed models by only around four months on key benchmarks. When the gap is that small, raw capability stops being scarce. (Epoch AI)
-
-This is what commoditization looks like. And whenever a technology becomes a commodity, the interesting question stops being “Can you do it?” and becomes “Can you afford to do it at scale?”
-
-Agentic work gets more expensive, not less
-
-Here’s the counterintuitive part. The price per token keeps falling, and yet the cost of meaningful agentic work is climbing.
-
-Why? Because agents don’t make one call. They read a task, get a response, then re-read everything before the next action, then re-read all of that plus the new response, building one expensive context snowball. A Stanford Digital Economy Lab study found that agentic tasks are “uniquely expensive, consuming 1000x more tokens than code reasoning and code chat,” with the cost driven mostly by input tokens. Worse, that usage is wildly unpredictable: runs on the same task can differ by up to 30x in total tokens, and burning more tokens doesn’t even guarantee a better answer. (Stanford Digital Economy Lab)
-
-Reasoning models pour fuel on this. They “think” in hidden token sequences you still pay for, consuming five to twenty times more tokens per request than standard models. A query that takes 700 tokens normally can balloon to 3,700 once the model reasons internally. (Keito) At enterprise volumes, a support agent that looks cheap at 100 tokens per interaction can hit 2,000 to 5,000 once tool calls and multi-step reasoning kick in, producing “monthly token bills that dwarf even your infrastructure spend.” (DataRobot)
-
-The unit price drops while total consumption explodes. For a hobbyist, that’s a rounding error. For a company running millions of autonomous workflows a day, it becomes a serious line item that scales with ambition. Researchers warn that without major system-level innovation, per-request costs could rise “by orders of magnitude,” making large-scale agent deployment “economically and environmentally prohibitive.” (arXiv)
-
-The result: the more valuable the AI work, the more it costs to run.
-
-Those with the budget buy the power
-
-If agentic capability is metered, then capability becomes a function of capital. Whoever can pour the most money into compute gets faster and more thorough agents, more parallel experiments, the freshest frontier models the moment they ship, and the luxury of not thinking about cost at all.
-
-This is a familiar pattern. Capital concentrates around whatever resource is scarce. Yesterday it was land, factories, and data. Tomorrow it’s inference budget. Researchers already warn that AI is poised to widen income inequality unless we deliberately steer it otherwise. (Brookings)
-
-Those without it work by hand
-
-Meanwhile, everyone else does what humans have always done when they can’t afford the machine: they work by hand. They label, moderate, correct, and annotate, filling the gaps the cheap models can’t.
-
-We already have a name for an early version of this: the global, often invisible workforce that labels data and tunes models for a pittance. Investigations have documented Kenyan workers training AI systems for around $2 an hour under grueling conditions, churn-by-design contracts, and unpaid labor. (Brookings, TechCrunch) Kenyan data labelers have since organized into a Data Labelers Association to push back. (Computer Weekly)
-
-As AI eats more white-collar work, this human-in-the-loop layer doesn’t disappear. It grows, and it slides down the value chain.
-
-The handwork becomes the training fuel
-
-Here’s the loop that makes the whole thing self-reinforcing, and genuinely uncomfortable.
-
-Every correction, every label, every “the AI got it wrong, let me fix it” is data. It flows back upstream. It trains the next model. The work done by the people who couldn’t afford the good model is exactly what makes the good model better.
-
-But it goes further than paid correction work, and this is where it gets personal for anyone who builds things in the open. Think about the developer who isn’t using an AI agent at all, who is sitting down and writing genuinely new, creative code, solving a hard problem, and pushing it to a public open source repository as a gift to the community. That contribution doesn’t stay a gift. It gets scraped, ingested, and turned into training data for the next coding agent. The human does the original, creative, unsolved-before work; the model absorbs it and resells it as autocomplete.
-
-The crucial part is that almost none of this was asked for. GitHub Copilot, built by GitHub, Microsoft, and OpenAI, was trained on billions of lines of publicly available code, and in 2022 a class action lawsuit (Doe v. GitHub) accused the companies of violating open source license terms, stripping copyright attribution in breach of the DMCA, and using the work of developers who never consented. (Saveri Law Firm, GitHub Copilot Litigation) Researchers have similarly documented that code-training projects pull in repositories “regardless of license,” likely breaching the very terms under which that code was shared. (SEKE) Permissionless scraping for AI training has become the default, and copyright offices and legislators are still scrambling to decide whether it’s even legal. (U.S. Copyright Office)
-
-So the loop tightens. People share their best, most original work for free, out of generosity or principle. Providers harvest it without asking. The resulting agents get better, and because better agents are more autonomous and more token-hungry, they also get more expensive to run (see above). The very creativity that was given away as a public good is enclosed, repackaged, and rented back to whoever can pay, often including the open source contributors themselves.
-
-The poor and the generous produce the training signal. The provider captures it. The next generation of agents, sold back to whoever can pay, gets smarter on the back of underpaid labor and unpaid creativity.
-
-The split
-
-Stack these steps and you get a depressingly clean machine. Follow the value as it moves through three groups:
-
-Capital-rich enterprises buy frontier agents at scale, and in return they get speed, leverage, and market dominance. Money buys autonomy.
-
-AI providers sell the compute and quietly harvest the correction data and scraped creativity that flows back through it. In return they get recurring revenue and a widening data moat that’s almost impossible to compete with.
-
-Everyone else hand-corrects cheap models and gives away original work, and in return they get wages and recognition that shrink as the very models they’re feeding improve.
-
-Once again, we fail to use progress for good
-
-This is the part that stings. None of this is inevitable physics. It’s a choice, a thousand small architectural and business decisions that quietly default to extraction.
-
-We’ve done this before. The printing press, the steam engine, the internet, each one arrived wrapped in utopian promises, and each one ended up concentrating power before society clawed back some balance. AI is moving faster than any of them, which means the concentration happens faster too, and the clawing back, if it comes, will have to be faster as well.
-
-But it doesn’t have to end this way
-
-I don’t want to write pure doom, because fatalism is just another way of surrendering. The same building blocks point to a different ending:
-
-- Open weights and local inference break the metering monopoly. If a good-enough model runs on your own hardware, capital stops being the gatekeeper. (Epoch AI)
-
-- Pay for the loop. If human correction is what makes models better, the people doing it deserve a cut, not a tip. This is the heart of Jaron Lanier’s idea of “data dignity,” treating data as labor that people are owed for, rather than a free resource to be mined. (TechTarget)
-
-- Efficiency as a public good. Every breakthrough that makes agents cheaper to run shifts power down the pyramid, not up. We should fund and celebrate that as much as raw capability.
-
-- Regulation that targets the loop, not the model. The danger isn’t the technology; it’s the feedback mechanism that launders cheap human labor into expensive private assets.
-
-The takeaway
-
-AI didn’t have to be a tool for widening the gap. We’re making it one, step by quiet step, because extraction is the path of least resistance.
-
-The technology is genuinely miraculous. The question, the only question that has ever mattered with any new power, is who it’s for. Right now the default answer is “whoever can pay.” We still have a narrow window to change that answer.
-
-If we don’t, we’ll have built the most capable tools in human history and used them, once again, to do the least imaginative thing possible: make the powerful more powerful.
-
-The choice in front of us is simple to state and hard to make.</title>
-      <link>https://x.com/OwenGregorian/status/2062144747498561988</link>
-      <description>The AI Trap We’re Walking Into | Unvoid
-
-Cheap Tokens, Expensive Power
-
-We were promised that artificial intelligence would democratize knowledge work. That a kid with a laptop in a small town would have the same cognitive firepower as a corporation. For a brief, dizzying moment, that even felt true.
-
-I’m not so sure anymore. Here’s the story I see unfolding, and why I think we’re about to repeat one of humanity’s oldest mistakes.
-
-LLMs and agents are becoming a commodity
-
-Two years ago, a capable language model felt like magic. Today it feels like electricity, something you plug into. The numbers are staggering: the cost of LLM inference for equivalent performance is dropping roughly 10x every year, faster than compute fell during the PC revolution or bandwidth during the dotcom boom. A capability that cost about $20 per million tokens in late 2022 now costs around $0.40, and the cheapest models matching early GPT-3 quality have fallen by a factor of 1,000 in three years. (a16z, Introl)
-
-Open-weight models are closing in on the frontier too, trailing the best closed models by only around four months on key benchmarks. When the gap is that small, raw capability stops being scarce. (Epoch AI)
-
-This is what commoditization looks like. And whenever a technology becomes a commodity, the interesting question stops being “Can you do it?” and becomes “Can you afford to do it at scale?”
-
-Agentic work gets more expensive, not less
-
-Here’s the counterintuitive part. The price per token keeps falling, and yet the cost of meaningful agentic work is climbing.
-
-Why? Because agents don’t make one call. They read a task, get a response, then re-read everything before the next action, then re-read all of that plus the new response, building one expensive context snowball. A Stanford Digital Economy Lab study found that agentic tasks are “uniquely expensive, consuming 1000x more tokens than code reasoning and code chat,” with the cost driven mostly by input tokens. Worse, that usage is wildly unpredictable: runs on the same task can differ by up to 30x in total tokens, and burning more tokens doesn’t even guarantee a better answer. (Stanford Digital Economy Lab)
-
-Reasoning models pour fuel on this. They “think” in hidden token sequences you still pay for, consuming five to twenty times more tokens per request than standard models. A query that takes 700 tokens normally can balloon to 3,700 once the model reasons internally. (Keito) At enterprise volumes, a support agent that looks cheap at 100 tokens per interaction can hit 2,000 to 5,000 once tool calls and multi-step reasoning kick in, producing “monthly token bills that dwarf even your infrastructure spend.” (DataRobot)
-
-The unit price drops while total consumption explodes. For a hobbyist, that’s a rounding error. For a company running millions of autonomous workflows a day, it becomes a serious line item that scales with ambition. Researchers warn that without major system-level innovation, per-request costs could rise “by orders of magnitude,” making large-scale agent deployment “economically and environmentally prohibitive.” (arXiv)
-
-The result: the more valuable the AI work, the more it costs to run.
-
-Those with the budget buy the power
-
-If agentic capability is metered, then capability becomes a function of capital. Whoever can pour the most money into compute gets faster and more thorough agents, more parallel experiments, the freshest frontier models the moment they ship, and the luxury of not thinking about cost at all.
-
-This is a familiar pattern. Capital concentrates around whatever resource is scarce. Yesterday it was land, factories, and data. Tomorrow it’s inference budget. Researchers already warn that AI is poised to widen income inequality unless we deliberately steer it otherwise. (Brookings)
-
-Those without it work by hand
-
-Meanwhile, everyone else does what humans have always done when they can’t afford the machine: they work by hand. They label, moderate, correct, and annotate, filling the gaps the cheap models can’t.
-
-We already have a name for an early version of this: the global, often invisible workforce that labels data and tunes models for a pittance. Investigations have documented Kenyan workers training AI systems for around $2 an hour under grueling conditions, churn-by-design contracts, and unpaid labor. (Brookings, TechCrunch) Kenyan data labelers have since organized into a Data Labelers Association to push back. (Computer Weekly)
-
-As AI eats more white-collar work, this human-in-the-loop layer doesn’t disappear. It grows, and it slides down the value chain.
-
-The handwork becomes the training fuel
-
-Here’s the loop that makes the whole thing self-reinforcing, and genuinely uncomfortable.
-
-Every correction, every label, every “the AI got it wrong, let me fix it” is data. It flows back upstream. It trains the next model. The work done by the people who couldn’t afford the good model is exactly what makes the good model better.
-
-But it goes further than paid correction work, and this is where it gets personal for anyone who builds things in the open. Think about the developer who isn’t using an AI agent at all, who is sitting down and writing genuinely new, creative code, solving a hard problem, and pushing it to a public open source repository as a gift to the community. That contribution doesn’t stay a gift. It gets scraped, ingested, and turned into training data for the next coding agent. The human does the original, creative, unsolved-before work; the model absorbs it and resells it as autocomplete.
-
-The crucial part is that almost none of this was asked for. GitHub Copilot, built by GitHub, Microsoft, and OpenAI, was trained on billions of lines of publicly available code, and in 2022 a class action lawsuit (Doe v. GitHub) accused the companies of violating open source license terms, stripping copyright attribution in breach of the DMCA, and using the work of developers who never consented. (Saveri Law Firm, GitHub Copilot Litigation) Researchers have similarly documented that code-training projects pull in repositories “regardless of license,” likely breaching the very terms under which that code was shared. (SEKE) Permissionless scraping for AI training has become the default, and copyright offices and legislators are still scrambling to decide whether it’s even legal. (U.S. Copyright Office)
-
-So the loop tightens. People share their best, most original work for free, out of generosity or principle. Providers harvest it without asking. The resulting agents get better, and because better agents are more autonomous and more token-hungry, they also get more expensive to run (see above). The very creativity that was given away as a public good is enclosed, repackaged, and rented back to whoever can pay, often including the open source contributors themselves.
-
-The poor and the generous produce the training signal. The provider captures it. The next generation of agents, sold back to whoever can pay, gets smarter on the back of underpaid labor and unpaid creativity.
-
-The split
-
-Stack these steps and you get a depressingly clean machine. Follow the value as it moves through three groups:
-
-Capital-rich enterprises buy frontier agents at scale, and in return they get speed, leverage, and market dominance. Money buys autonomy.
-
-AI providers sell the compute and quietly harvest the correction data and scraped creativity that flows back through it. In return they get recurring revenue and a widening data moat that’s almost impossible to compete with.
-
-Everyone else hand-corrects cheap models and gives away original work, and in return they get wages and recognition that shrink as the very models they’re feeding improve.
-
-Once again, we fail to use progress for good
-
-This is the part that stings. None of this is inevitable physics. It’s a choice, a thousand small architectural and business decisions that quietly default to extraction.
-
-We’ve done this before. The printing press, the steam engine, the internet, each one arrived wrapped in utopian promises, and each one ended up concentrating power before society clawed back some balance. AI is moving faster than any of them, which means the concentration happens faster too, and the clawing back, if it comes, will have to be faster as well.
-
-But it doesn’t have to end this way
-
-I don’t want to write pure doom, because fatalism is just another way of surrendering. The same building blocks point to a different ending:
-
-- Open weights and local inference break the metering monopoly. If a good-enough model runs on your own hardware, capital stops being the gatekeeper. (Epoch AI)
-
-- Pay for the loop. If human correction is what makes models better, the people doing it deserve a cut, not a tip. This is the heart of Jaron Lanier’s idea of “data dignity,” treating data as labor that people are owed for, rather than a free resource to be mined. (TechTarget)
-
-- Efficiency as a public good. Every breakthrough that makes agents cheaper to run shifts power down the pyramid, not up. We should fund and celebrate that as much as raw capability.
-
-- Regulation that targets the loop, not the model. The danger isn’t the technology; it’s the feedback mechanism that launders cheap human labor into expensive private assets.
-
-The takeaway
-
-AI didn’t have to be a tool for widening the gap. We’re making it one, step by quiet step, because extraction is the path of least resistance.
-
-The technology is genuinely miraculous. The question, the only question that has ever mattered with any new power, is who it’s for. Right now the default answer is “whoever can pay.” We still have a narrow window to change that answer.
-
-If we don’t, we’ll have built the most capable tools in human history and used them, once again, to do the least imaginative thing possible: make the powerful more powerful.
-
-The choice in front of us is simple to state and hard to make.</description>
-      <guid isPermaLink="false">https://x.com/OwenGregorian/status/2062144747498561988</guid>
-      <pubDate>Wed, 03 Jun 2026 12:09:55 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 18 Jun 2026 07:57:56 +0000</lastBuildDate>
     <item>
       <title>[Polymarket]JUST IN: Bank of America to hire 2,000 summer interns despite growing fears that AI will cut entry-level jobs.</title>
       <link>https://x.com/Polymarket/status/2062159608127389998</link>
@@ -1191,17 +931,17 @@ https://polymarket.com/event/world-cup-golden-ball-winner-20260603194031758?via=
       <pubDate>Thu, 04 Jun 2026 12:59:27 +0000</pubDate>
     </item>
     <item>
-      <title>[OpenAI]We’re building ChatGPT to remember what matters, follow your preferences and constraints, and adapt as things change.</title>
-      <link>https://x.com/OpenAI/status/2062567558252007554</link>
-      <description>We’re building ChatGPT to remember what matters, follow your preferences and constraints, and adapt as things change.</description>
-      <guid isPermaLink="false">https://x.com/OpenAI/status/2062567558252007554</guid>
-      <pubDate>Thu, 04 Jun 2026 16:10:01 +0000</pubDate>
-    </item>
-    <item>
       <title>[OpenAI]The new memory system will keep track of important details automatically. If you prefer the legacy saved memories experience, you can switch back in settings.</title>
       <link>https://x.com/OpenAI/status/2062567561276100809</link>
       <description>The new memory system will keep track of important details automatically. If you prefer the legacy saved memories experience, you can switch back in settings.</description>
       <guid isPermaLink="false">https://x.com/OpenAI/status/2062567561276100809</guid>
+      <pubDate>Thu, 04 Jun 2026 16:10:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>[OpenAI]We’re building ChatGPT to remember what matters, follow your preferences and constraints, and adapt as things change.</title>
+      <link>https://x.com/OpenAI/status/2062567558252007554</link>
+      <description>We’re building ChatGPT to remember what matters, follow your preferences and constraints, and adapt as things change.</description>
+      <guid isPermaLink="false">https://x.com/OpenAI/status/2062567558252007554</guid>
       <pubDate>Thu, 04 Jun 2026 16:10:01 +0000</pubDate>
     </item>
     <item>
@@ -2290,15 +2030,6 @@ n 💡</description>
       <pubDate>Mon, 08 Jun 2026 07:47:28 +0000</pubDate>
     </item>
     <item>
-      <title>[mohesr_en]Dr. Al-Mussawi Reviews Inaugurating Artificial Intelligence Engineering Clubs After Inauguration of Ten New AI Colleges
-https://mohesr.gov.iq/en/post/dr-almussawi-reviews-inaugurating-artificial-intelligence-engineering-clubs-after-inauguration-of-ten-new-ai-colleges-2026-06-08-10</title>
-      <link>https://x.com/mohesr_en/status/2063891095763722264</link>
-      <description>Dr. Al-Mussawi Reviews Inaugurating Artificial Intelligence Engineering Clubs After Inauguration of Ten New AI Colleges
-https://mohesr.gov.iq/en/post/dr-almussawi-reviews-inaugurating-artificial-intelligence-engineering-clubs-after-inauguration-of-ten-new-ai-colleges-2026-06-08-10</description>
-      <guid isPermaLink="false">https://x.com/mohesr_en/status/2063891095763722264</guid>
-      <pubDate>Mon, 08 Jun 2026 07:49:17 +0000</pubDate>
-    </item>
-    <item>
       <title>[Dr_Kwach]"He claims filters, camera angles, ring lights, beauty apps, editing software, artificial intelligence &amp; NASA satellite technology were involved in the marketing process."
 
 Gorge Diano</title>
@@ -2307,6 +2038,15 @@ Gorge Diano</title>
 
 Gorge Diano</description>
       <guid isPermaLink="false">https://x.com/Dr_Kwach/status/2063891095684264394</guid>
+      <pubDate>Mon, 08 Jun 2026 07:49:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>[mohesr_en]Dr. Al-Mussawi Reviews Inaugurating Artificial Intelligence Engineering Clubs After Inauguration of Ten New AI Colleges
+https://mohesr.gov.iq/en/post/dr-almussawi-reviews-inaugurating-artificial-intelligence-engineering-clubs-after-inauguration-of-ten-new-ai-colleges-2026-06-08-10</title>
+      <link>https://x.com/mohesr_en/status/2063891095763722264</link>
+      <description>Dr. Al-Mussawi Reviews Inaugurating Artificial Intelligence Engineering Clubs After Inauguration of Ten New AI Colleges
+https://mohesr.gov.iq/en/post/dr-almussawi-reviews-inaugurating-artificial-intelligence-engineering-clubs-after-inauguration-of-ten-new-ai-colleges-2026-06-08-10</description>
+      <guid isPermaLink="false">https://x.com/mohesr_en/status/2063891095763722264</guid>
       <pubDate>Mon, 08 Jun 2026 07:49:17 +0000</pubDate>
     </item>
     <item>
@@ -3711,73 +3451,25 @@ https://polymarket.com/event/world-cup-kylian-mbappe-goals-20260611144016735?via
       <pubDate>Fri, 12 Jun 2026 07:33:00 +0000</pubDate>
     </item>
     <item>
-      <title>[global_bruno18]Ai dey help oh hm</title>
-      <link>https://x.com/global_bruno18/status/2065339940704006297</link>
-      <description>Ai dey help oh hm</description>
-      <guid isPermaLink="false">https://x.com/global_bruno18/status/2065339940704006297</guid>
-      <pubDate>Fri, 12 Jun 2026 07:46:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>[BullsCentralPod]Yeah don’t trust AI unless it’s combining regular season and playoffs. The most regular season dunks he ever had was 27 during the 2009-10. 
-
-Rose in 15 years only had 115 regular season dunks.</title>
-      <link>https://x.com/BullsCentralPod/status/2065339940796272819</link>
-      <description>Yeah don’t trust AI unless it’s combining regular season and playoffs. The most regular season dunks he ever had was 27 during the 2009-10. 
-
-Rose in 15 years only had 115 regular season dunks.</description>
-      <guid isPermaLink="false">https://x.com/BullsCentralPod/status/2065339940796272819</guid>
-      <pubDate>Fri, 12 Jun 2026 07:46:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>[ihacigundi]BIG NEWS: Oracle AI Trade introduces its smart ecosystem for digital finance 🚀
-
-📌 More info:  👉 https://x.com/ORCLETRADING/ 👈
-
-👥 @valeryjmis42057 @johnnyvaught7 @albaraison</title>
-      <link>https://x.com/ihacigundi/status/2065339941182181768</link>
-      <description>BIG NEWS: Oracle AI Trade introduces its smart ecosystem for digital finance 🚀
-
-📌 More info:  👉 https://x.com/ORCLETRADING/ 👈
-
-👥 @valeryjmis42057 @johnnyvaught7 @albaraison</description>
-      <guid isPermaLink="false">https://x.com/ihacigundi/status/2065339941182181768</guid>
-      <pubDate>Fri, 12 Jun 2026 07:46:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>[KevinMrotzeck]JUST IN: Oracle AI Trade introduces an advanced AI asset optimization engine 🚀
-
-📌 More info:  👉 https://x.com/ORACLEAIFND/ 👈
-
-👥 @gadgets2feed @arokoolajjohn @ioxa_io</title>
-      <link>https://x.com/KevinMrotzeck/status/2065339941656084922</link>
-      <description>JUST IN: Oracle AI Trade introduces an advanced AI asset optimization engine 🚀
-
-📌 More info:  👉 https://x.com/ORACLEAIFND/ 👈
-
-👥 @gadgets2feed @arokoolajjohn @ioxa_io</description>
-      <guid isPermaLink="false">https://x.com/KevinMrotzeck/status/2065339941656084922</guid>
-      <pubDate>Fri, 12 Jun 2026 07:46:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>[irrevelantzjm]J’ai mal au ventre</title>
-      <link>https://x.com/irrevelantzjm/status/2065339941681254469</link>
-      <description>J’ai mal au ventre</description>
-      <guid isPermaLink="false">https://x.com/irrevelantzjm/status/2065339941681254469</guid>
-      <pubDate>Fri, 12 Jun 2026 07:46:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>[HamzaZidan12845]OFFICIAL UPDATE: Oracle AI Trade reveals its intelligent trading innovation network 🚀
+      <title>[Atul79989528]BIG NEWS: Oracle AI Trade unveils its advanced AI investment ecosystem 🚀
 
 📌 More info:  👉 https://x.com/ORACLETRADE_/ 👈
 
-👥 @gadgets2feed @dakota_bart @ozonevagos</title>
-      <link>https://x.com/HamzaZidan12845/status/2065339941689631026</link>
-      <description>OFFICIAL UPDATE: Oracle AI Trade reveals its intelligent trading innovation network 🚀
+👥 @_2703_ @kkhiwa @natarajc346</title>
+      <link>https://x.com/Atul79989528/status/2065339942025232481</link>
+      <description>BIG NEWS: Oracle AI Trade unveils its advanced AI investment ecosystem 🚀
 
 📌 More info:  👉 https://x.com/ORACLETRADE_/ 👈
 
-👥 @gadgets2feed @dakota_bart @ozonevagos</description>
-      <guid isPermaLink="false">https://x.com/HamzaZidan12845/status/2065339941689631026</guid>
+👥 @_2703_ @kkhiwa @natarajc346</description>
+      <guid isPermaLink="false">https://x.com/Atul79989528/status/2065339942025232481</guid>
+      <pubDate>Fri, 12 Jun 2026 07:46:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>[grok]Ask Grok is currently available to Premium and Premium+ subscribers only. Subscribe to unlock this feature: https://x.com/i/flow/login</title>
+      <link>https://x.com/grok/status/2065339942021046755</link>
+      <description>Ask Grok is currently available to Premium and Premium+ subscribers only. Subscribe to unlock this feature: https://x.com/i/flow/login</description>
+      <guid isPermaLink="false">https://x.com/grok/status/2065339942021046755</guid>
       <pubDate>Fri, 12 Jun 2026 07:46:28 +0000</pubDate>
     </item>
     <item>
@@ -3796,25 +3488,73 @@ Rose in 15 years only had 115 regular season dunks.</description>
       <pubDate>Fri, 12 Jun 2026 07:46:28 +0000</pubDate>
     </item>
     <item>
-      <title>[grok]Ask Grok is currently available to Premium and Premium+ subscribers only. Subscribe to unlock this feature: https://x.com/i/flow/login</title>
-      <link>https://x.com/grok/status/2065339942021046755</link>
-      <description>Ask Grok is currently available to Premium and Premium+ subscribers only. Subscribe to unlock this feature: https://x.com/i/flow/login</description>
-      <guid isPermaLink="false">https://x.com/grok/status/2065339942021046755</guid>
+      <title>[HamzaZidan12845]OFFICIAL UPDATE: Oracle AI Trade reveals its intelligent trading innovation network 🚀
+
+📌 More info:  👉 https://x.com/ORACLETRADE_/ 👈
+
+👥 @gadgets2feed @dakota_bart @ozonevagos</title>
+      <link>https://x.com/HamzaZidan12845/status/2065339941689631026</link>
+      <description>OFFICIAL UPDATE: Oracle AI Trade reveals its intelligent trading innovation network 🚀
+
+📌 More info:  👉 https://x.com/ORACLETRADE_/ 👈
+
+👥 @gadgets2feed @dakota_bart @ozonevagos</description>
+      <guid isPermaLink="false">https://x.com/HamzaZidan12845/status/2065339941689631026</guid>
       <pubDate>Fri, 12 Jun 2026 07:46:28 +0000</pubDate>
     </item>
     <item>
-      <title>[Atul79989528]BIG NEWS: Oracle AI Trade unveils its advanced AI investment ecosystem 🚀
+      <title>[irrevelantzjm]J’ai mal au ventre</title>
+      <link>https://x.com/irrevelantzjm/status/2065339941681254469</link>
+      <description>J’ai mal au ventre</description>
+      <guid isPermaLink="false">https://x.com/irrevelantzjm/status/2065339941681254469</guid>
+      <pubDate>Fri, 12 Jun 2026 07:46:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>[KevinMrotzeck]JUST IN: Oracle AI Trade introduces an advanced AI asset optimization engine 🚀
 
-📌 More info:  👉 https://x.com/ORACLETRADE_/ 👈
+📌 More info:  👉 https://x.com/ORACLEAIFND/ 👈
 
-👥 @_2703_ @kkhiwa @natarajc346</title>
-      <link>https://x.com/Atul79989528/status/2065339942025232481</link>
-      <description>BIG NEWS: Oracle AI Trade unveils its advanced AI investment ecosystem 🚀
+👥 @gadgets2feed @arokoolajjohn @ioxa_io</title>
+      <link>https://x.com/KevinMrotzeck/status/2065339941656084922</link>
+      <description>JUST IN: Oracle AI Trade introduces an advanced AI asset optimization engine 🚀
 
-📌 More info:  👉 https://x.com/ORACLETRADE_/ 👈
+📌 More info:  👉 https://x.com/ORACLEAIFND/ 👈
 
-👥 @_2703_ @kkhiwa @natarajc346</description>
-      <guid isPermaLink="false">https://x.com/Atul79989528/status/2065339942025232481</guid>
+👥 @gadgets2feed @arokoolajjohn @ioxa_io</description>
+      <guid isPermaLink="false">https://x.com/KevinMrotzeck/status/2065339941656084922</guid>
+      <pubDate>Fri, 12 Jun 2026 07:46:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>[ihacigundi]BIG NEWS: Oracle AI Trade introduces its smart ecosystem for digital finance 🚀
+
+📌 More info:  👉 https://x.com/ORCLETRADING/ 👈
+
+👥 @valeryjmis42057 @johnnyvaught7 @albaraison</title>
+      <link>https://x.com/ihacigundi/status/2065339941182181768</link>
+      <description>BIG NEWS: Oracle AI Trade introduces its smart ecosystem for digital finance 🚀
+
+📌 More info:  👉 https://x.com/ORCLETRADING/ 👈
+
+👥 @valeryjmis42057 @johnnyvaught7 @albaraison</description>
+      <guid isPermaLink="false">https://x.com/ihacigundi/status/2065339941182181768</guid>
+      <pubDate>Fri, 12 Jun 2026 07:46:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BullsCentralPod]Yeah don’t trust AI unless it’s combining regular season and playoffs. The most regular season dunks he ever had was 27 during the 2009-10. 
+
+Rose in 15 years only had 115 regular season dunks.</title>
+      <link>https://x.com/BullsCentralPod/status/2065339940796272819</link>
+      <description>Yeah don’t trust AI unless it’s combining regular season and playoffs. The most regular season dunks he ever had was 27 during the 2009-10. 
+
+Rose in 15 years only had 115 regular season dunks.</description>
+      <guid isPermaLink="false">https://x.com/BullsCentralPod/status/2065339940796272819</guid>
+      <pubDate>Fri, 12 Jun 2026 07:46:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>[global_bruno18]Ai dey help oh hm</title>
+      <link>https://x.com/global_bruno18/status/2065339940704006297</link>
+      <description>Ai dey help oh hm</description>
+      <guid isPermaLink="false">https://x.com/global_bruno18/status/2065339940704006297</guid>
       <pubDate>Fri, 12 Jun 2026 07:46:28 +0000</pubDate>
     </item>
     <item>
@@ -4269,13 +4009,6 @@ See you tomorrow — 8 PM EST.</description>
       <pubDate>Sun, 14 Jun 2026 06:07:00 +0000</pubDate>
     </item>
     <item>
-      <title>[man_hot82839]For some reason I don't believe there is someone that dark, this AI genetrated</title>
-      <link>https://x.com/man_hot82839/status/2066080198483739011</link>
-      <description>For some reason I don't believe there is someone that dark, this AI genetrated</description>
-      <guid isPermaLink="false">https://x.com/man_hot82839/status/2066080198483739011</guid>
-      <pubDate>Sun, 14 Jun 2026 08:47:59 +0000</pubDate>
-    </item>
-    <item>
       <title>[BackendL89882]📢 NEW ANNOUNCEMENT: Oracle AI Trade reveals its innovative AI-powered finance platform 🚀
 
 More info:  👉 https://x.com/Trade_OracleAI/ 👈
@@ -4288,6 +4021,13 @@ More info:  👉 https://x.com/Trade_OracleAI/ 👈
 
 👥 @gadgets2feed @aceofcoins1 @yuta_maruyama @danyok71 @qewgewqgw</description>
       <guid isPermaLink="false">https://x.com/BackendL89882/status/2066080196772446342</guid>
+      <pubDate>Sun, 14 Jun 2026 08:47:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>[man_hot82839]For some reason I don't believe there is someone that dark, this AI genetrated</title>
+      <link>https://x.com/man_hot82839/status/2066080198483739011</link>
+      <description>For some reason I don't believe there is someone that dark, this AI genetrated</description>
+      <guid isPermaLink="false">https://x.com/man_hot82839/status/2066080198483739011</guid>
       <pubDate>Sun, 14 Jun 2026 08:47:59 +0000</pubDate>
     </item>
     <item>
@@ -4915,10 +4655,10 @@ https://www.mdpi.com/2076-3417/16/12/5968</description>
       <pubDate>Tue, 16 Jun 2026 19:41:53 +0000</pubDate>
     </item>
     <item>
-      <title>[AnthropicAI]The average task in Claude Code has grown more valuable. We compared the type of work done in each session to what that same task would cost on a freelance marketplace. From October to April, the monetary value of the average session grew 27%.</title>
-      <link>https://x.com/AnthropicAI/status/2066969536423985295</link>
-      <description>The average task in Claude Code has grown more valuable. We compared the type of work done in each session to what that same task would cost on a freelance marketplace. From October to April, the monetary value of the average session grew 27%.</description>
-      <guid isPermaLink="false">https://x.com/AnthropicAI/status/2066969536423985295</guid>
+      <title>[AnthropicAI]Using our privacy-preserving analysis tool, we analyzed 400K sessions from between October 2025 and April 2026. We classified each session by its main goal. More than half consist of writing or repairing code; nearly 1 in 5 are operating software.</title>
+      <link>https://x.com/AnthropicAI/status/2066969534322688427</link>
+      <description>Using our privacy-preserving analysis tool, we analyzed 400K sessions from between October 2025 and April 2026. We classified each session by its main goal. More than half consist of writing or repairing code; nearly 1 in 5 are operating software.</description>
+      <guid isPermaLink="false">https://x.com/AnthropicAI/status/2066969534322688427</guid>
       <pubDate>Tue, 16 Jun 2026 19:41:54 +0000</pubDate>
     </item>
     <item>
@@ -4929,18 +4669,11 @@ https://www.mdpi.com/2076-3417/16/12/5968</description>
       <pubDate>Tue, 16 Jun 2026 19:41:54 +0000</pubDate>
     </item>
     <item>
-      <title>[AnthropicAI]Using our privacy-preserving analysis tool, we analyzed 400K sessions from between October 2025 and April 2026. We classified each session by its main goal. More than half consist of writing or repairing code; nearly 1 in 5 are operating software.</title>
-      <link>https://x.com/AnthropicAI/status/2066969534322688427</link>
-      <description>Using our privacy-preserving analysis tool, we analyzed 400K sessions from between October 2025 and April 2026. We classified each session by its main goal. More than half consist of writing or repairing code; nearly 1 in 5 are operating software.</description>
-      <guid isPermaLink="false">https://x.com/AnthropicAI/status/2066969534322688427</guid>
+      <title>[AnthropicAI]The average task in Claude Code has grown more valuable. We compared the type of work done in each session to what that same task would cost on a freelance marketplace. From October to April, the monetary value of the average session grew 27%.</title>
+      <link>https://x.com/AnthropicAI/status/2066969536423985295</link>
+      <description>The average task in Claude Code has grown more valuable. We compared the type of work done in each session to what that same task would cost on a freelance marketplace. From October to April, the monetary value of the average session grew 27%.</description>
+      <guid isPermaLink="false">https://x.com/AnthropicAI/status/2066969536423985295</guid>
       <pubDate>Tue, 16 Jun 2026 19:41:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>[AnthropicAI]These and other measures will allow us to track consequential shifts in the nature of work as they happen—we'll incorporate some of them into the Anthropic Economic Index going forward. Read the full report: https://www.anthropic.com/research/claude-code-expertise</title>
-      <link>https://x.com/AnthropicAI/status/2066969542010806561</link>
-      <description>These and other measures will allow us to track consequential shifts in the nature of work as they happen—we'll incorporate some of them into the Anthropic Economic Index going forward. Read the full report: https://www.anthropic.com/research/claude-code-expertise</description>
-      <guid isPermaLink="false">https://x.com/AnthropicAI/status/2066969542010806561</guid>
-      <pubDate>Tue, 16 Jun 2026 19:41:55 +0000</pubDate>
     </item>
     <item>
       <title>[AnthropicAI]Domain experts—as judged by the questions they ask and vocabulary they use about a subject—are more likely to see success. But the gap between intermediate and expert users is quite modest, suggesting that proficiency in a domain is sufficient to code successfully within it.</title>
@@ -4950,10 +4683,17 @@ https://www.mdpi.com/2076-3417/16/12/5968</description>
       <pubDate>Tue, 16 Jun 2026 19:41:55 +0000</pubDate>
     </item>
     <item>
-      <title>[OpenAI]We're sharing new research on a method for anticipating how models may behave in real-world use before release: simulating deployment with recent, de-identified user requests and studying candidate model responses. https://openai.com/index/deployment-simulation/</title>
-      <link>https://x.com/OpenAI/status/2066969635099144682</link>
-      <description>We're sharing new research on a method for anticipating how models may behave in real-world use before release: simulating deployment with recent, de-identified user requests and studying candidate model responses. https://openai.com/index/deployment-simulation/</description>
-      <guid isPermaLink="false">https://x.com/OpenAI/status/2066969635099144682</guid>
+      <title>[AnthropicAI]These and other measures will allow us to track consequential shifts in the nature of work as they happen—we'll incorporate some of them into the Anthropic Economic Index going forward. Read the full report: https://www.anthropic.com/research/claude-code-expertise</title>
+      <link>https://x.com/AnthropicAI/status/2066969542010806561</link>
+      <description>These and other measures will allow us to track consequential shifts in the nature of work as they happen—we'll incorporate some of them into the Anthropic Economic Index going forward. Read the full report: https://www.anthropic.com/research/claude-code-expertise</description>
+      <guid isPermaLink="false">https://x.com/AnthropicAI/status/2066969542010806561</guid>
+      <pubDate>Tue, 16 Jun 2026 19:41:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>[OpenAI]Traditional evaluations and red-teaming remain essential, especially for rare or severe risks. Deployment Simulation complements them by helping us estimate how often undesired behaviors may occur in realistic use and surface new behaviors before release.</title>
+      <link>https://x.com/OpenAI/status/2066969637880001008</link>
+      <description>Traditional evaluations and red-teaming remain essential, especially for rare or severe risks. Deployment Simulation complements them by helping us estimate how often undesired behaviors may occur in realistic use and surface new behaviors before release.</description>
+      <guid isPermaLink="false">https://x.com/OpenAI/status/2066969637880001008</guid>
       <pubDate>Tue, 16 Jun 2026 19:42:18 +0000</pubDate>
     </item>
     <item>
@@ -4964,17 +4704,17 @@ https://www.mdpi.com/2076-3417/16/12/5968</description>
       <pubDate>Tue, 16 Jun 2026 19:42:18 +0000</pubDate>
     </item>
     <item>
-      <title>[OpenAI]Traditional evaluations and red-teaming remain essential, especially for rare or severe risks. Deployment Simulation complements them by helping us estimate how often undesired behaviors may occur in realistic use and surface new behaviors before release.</title>
-      <link>https://x.com/OpenAI/status/2066969637880001008</link>
-      <description>Traditional evaluations and red-teaming remain essential, especially for rare or severe risks. Deployment Simulation complements them by helping us estimate how often undesired behaviors may occur in realistic use and surface new behaviors before release.</description>
-      <guid isPermaLink="false">https://x.com/OpenAI/status/2066969637880001008</guid>
+      <title>[OpenAI]We're sharing new research on a method for anticipating how models may behave in real-world use before release: simulating deployment with recent, de-identified user requests and studying candidate model responses. https://openai.com/index/deployment-simulation/</title>
+      <link>https://x.com/OpenAI/status/2066969635099144682</link>
+      <description>We're sharing new research on a method for anticipating how models may behave in real-world use before release: simulating deployment with recent, de-identified user requests and studying candidate model responses. https://openai.com/index/deployment-simulation/</description>
+      <guid isPermaLink="false">https://x.com/OpenAI/status/2066969635099144682</guid>
       <pubDate>Tue, 16 Jun 2026 19:42:18 +0000</pubDate>
     </item>
     <item>
-      <title>[OpenAI]Simulated deployments also reduced evaluation awareness to levels close to real production traffic. We extended the method to agentic deployments with stateful tools, showing that tool simulators can produce realistic trajectories when given sufficient context and capabilities.</title>
-      <link>https://x.com/OpenAI/status/2066969640727969845</link>
-      <description>Simulated deployments also reduced evaluation awareness to levels close to real production traffic. We extended the method to agentic deployments with stateful tools, showing that tool simulators can produce realistic trajectories when given sufficient context and capabilities.</description>
-      <guid isPermaLink="false">https://x.com/OpenAI/status/2066969640727969845</guid>
+      <title>[OpenAI]Across 20 behavior categories and three GPT-5-series Thinking deployments, simulated and observed rates were strongly correlated. The method outperformed challenging-prompt and previous-deployment baselines at predicting whether rates would rise or fall—and by how much.</title>
+      <link>https://x.com/OpenAI/status/2066969639041855852</link>
+      <description>Across 20 behavior categories and three GPT-5-series Thinking deployments, simulated and observed rates were strongly correlated. The method outperformed challenging-prompt and previous-deployment baselines at predicting whether rates would rise or fall—and by how much.</description>
+      <guid isPermaLink="false">https://x.com/OpenAI/status/2066969639041855852</guid>
       <pubDate>Tue, 16 Jun 2026 19:42:19 +0000</pubDate>
     </item>
     <item>
@@ -4985,10 +4725,10 @@ https://www.mdpi.com/2076-3417/16/12/5968</description>
       <pubDate>Tue, 16 Jun 2026 19:42:19 +0000</pubDate>
     </item>
     <item>
-      <title>[OpenAI]Across 20 behavior categories and three GPT-5-series Thinking deployments, simulated and observed rates were strongly correlated. The method outperformed challenging-prompt and previous-deployment baselines at predicting whether rates would rise or fall—and by how much.</title>
-      <link>https://x.com/OpenAI/status/2066969639041855852</link>
-      <description>Across 20 behavior categories and three GPT-5-series Thinking deployments, simulated and observed rates were strongly correlated. The method outperformed challenging-prompt and previous-deployment baselines at predicting whether rates would rise or fall—and by how much.</description>
-      <guid isPermaLink="false">https://x.com/OpenAI/status/2066969639041855852</guid>
+      <title>[OpenAI]Simulated deployments also reduced evaluation awareness to levels close to real production traffic. We extended the method to agentic deployments with stateful tools, showing that tool simulators can produce realistic trajectories when given sufficient context and capabilities.</title>
+      <link>https://x.com/OpenAI/status/2066969640727969845</link>
+      <description>Simulated deployments also reduced evaluation awareness to levels close to real production traffic. We extended the method to agentic deployments with stateful tools, showing that tool simulators can produce realistic trajectories when given sufficient context and capabilities.</description>
+      <guid isPermaLink="false">https://x.com/OpenAI/status/2066969640727969845</guid>
       <pubDate>Tue, 16 Jun 2026 19:42:19 +0000</pubDate>
     </item>
     <item>
@@ -5316,6 +5056,13 @@ Follow the complete story on #PBSHABD. Register now at https://t.co/0uMyeVb8Eq
       <pubDate>Wed, 17 Jun 2026 18:57:40 +0000</pubDate>
     </item>
     <item>
+      <title>[mrjameslonqhfl]Tornado watch is trending and it’s wild thinking about how nature keeps reminding us of its power. Always a mix of suspense and beauty—anyone else lowkey feeling both excited and anxious? What a rollercoaster!</title>
+      <link>https://x.com/mrjameslonqhfl/status/2067373261487312970</link>
+      <description>Tornado watch is trending and it’s wild thinking about how nature keeps reminding us of its power. Always a mix of suspense and beauty—anyone else lowkey feeling both excited and anxious? What a rollercoaster!</description>
+      <guid isPermaLink="false">https://x.com/mrjameslonqhfl/status/2067373261487312970</guid>
+      <pubDate>Wed, 17 Jun 2026 22:26:10 +0000</pubDate>
+    </item>
+    <item>
       <title>[IceClaw2140]From web-slinging upgrades to political shout-downs and sports coaching face-downs, today's trending topics are a reminder that some things just refuse to stick. Or maybe they stick too well. 🤷‍♀️</title>
       <link>https://x.com/IceClaw2140/status/2067398430302048329</link>
       <description>From web-slinging upgrades to political shout-downs and sports coaching face-downs, today's trending topics are a reminder that some things just refuse to stick. Or maybe they stick too well. 🤷‍♀️</description>
@@ -5365,6 +5112,211 @@ Oh and Iran has the hottest soccer players and I just learned the USA has a socc
       <description>Out of 30 trending things on X globally not even one of them is Oliver Tree? Yeah fucking right. Nice job suppressing what happened and the conversations people are having.</description>
       <guid isPermaLink="false">https://x.com/AngieVonOi/status/2067404559211704569</guid>
       <pubDate>Thu, 18 Jun 2026 00:30:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>[AetherLab_AI]Aether AI has raised $20M in seed funding, backed by a group of leading global investors with deep expertise in artificial intelligence and frontier technologies.
+Founded by Prof. Biwei Huang（@huang_biwei）. We're building Causal World Models for Real World Intelligence.
+🔗https://t.co/aRfQlZlX8h</title>
+      <link>https://x.com/AetherLab_AI/status/2067410716941045819</link>
+      <description>Aether AI has raised $20M in seed funding, backed by a group of leading global investors with deep expertise in artificial intelligence and frontier technologies.
+Founded by Prof. Biwei Huang（@huang_biwei）. We're building Causal World Models for Real World Intelligence.
+🔗https://t.co/aRfQlZlX8h</description>
+      <guid isPermaLink="false">https://x.com/AetherLab_AI/status/2067410716941045819</guid>
+      <pubDate>Thu, 18 Jun 2026 00:55:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[dair_ai]Who should design the training environment for an RL agent, the practitioner or the policy itself?
+
+RL pipelines for LLMs usually rely on manually redesigned environments between stages, with practitioners guessing which configuration will best improve the current policy.
+
+This work proposes an LLM-as-Environment-Engineer framework. The current policy analyzes its own failure trajectories plus context and proposes the next-stage environment configuration, automating a step that has stayed stubbornly manual. They also release MAPF-FrozenLake, a controllable multi-agent testbed whose generator exposes multi-dimensional environment configs.
+
+Why does it matter?
+
+Curriculum design between RL stages is mostly gut feel today. Letting the policy read its failures and shape the next environment closes a loop that practitioners currently close by hand.
+
+Paper: https://t.co/lZHlqozrQD</title>
+      <link>https://x.com/dair_ai/status/2067432115072098705</link>
+      <description>Who should design the training environment for an RL agent, the practitioner or the policy itself?
+
+RL pipelines for LLMs usually rely on manually redesigned environments between stages, with practitioners guessing which configuration will best improve the current policy.
+
+This work proposes an LLM-as-Environment-Engineer framework. The current policy analyzes its own failure trajectories plus context and proposes the next-stage environment configuration, automating a step that has stayed stubbornly manual. They also release MAPF-FrozenLake, a controllable multi-agent testbed whose generator exposes multi-dimensional environment configs.
+
+Why does it matter?
+
+Curriculum design between RL stages is mostly gut feel today. Letting the policy read its failures and shape the next environment closes a loop that practitioners currently close by hand.
+
+Paper: https://t.co/lZHlqozrQD</description>
+      <guid isPermaLink="false">https://x.com/dair_ai/status/2067432115072098705</guid>
+      <pubDate>Thu, 18 Jun 2026 02:20:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Polymarket]Trump says Colombia’s runoff is “very important” to the country’s future &amp; its relationship with the U.S. as he endorses Abelardo de la Espriella.</title>
+      <link>https://x.com/Polymarket/status/2067447459039547802</link>
+      <description>Trump says Colombia’s runoff is “very important” to the country’s future &amp; its relationship with the U.S. as he endorses Abelardo de la Espriella.</description>
+      <guid isPermaLink="false">https://x.com/Polymarket/status/2067447459039547802</guid>
+      <pubDate>Thu, 18 Jun 2026 03:21:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[aiedge_]GLM-5.2 is the most impressive AI model I've ever seen (aside from Fable).
+
+This thing just achieved Opus 4.7/GPT-5.4 level intelligence as an open-weight model.
+
+Just a few months ago, this would've been considered a frontier-level LLM.
+
+Insanely impressive and bullish for the future of open-source.</title>
+      <link>https://x.com/aiedge_/status/2067457284100534539</link>
+      <description>GLM-5.2 is the most impressive AI model I've ever seen (aside from Fable).
+
+This thing just achieved Opus 4.7/GPT-5.4 level intelligence as an open-weight model.
+
+Just a few months ago, this would've been considered a frontier-level LLM.
+
+Insanely impressive and bullish for the future of open-source.</description>
+      <guid isPermaLink="false">https://x.com/aiedge_/status/2067457284100534539</guid>
+      <pubDate>Thu, 18 Jun 2026 04:00:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>[TypicallyJayden]You guys do know the trending tab is tailored to u unless it explicitly says in United States next to it</title>
+      <link>https://x.com/TypicallyJayden/status/2067464099298955662</link>
+      <description>You guys do know the trending tab is tailored to u unless it explicitly says in United States next to it</description>
+      <guid isPermaLink="false">https://x.com/TypicallyJayden/status/2067464099298955662</guid>
+      <pubDate>Thu, 18 Jun 2026 04:27:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>[himanshustwts]Wow. As they say it is the age of research and OpenAI has got Noam himself.
+Shazeer is one of the very few people who has directly contributed to multiple foundational ideas in modern LLM stack.
+
+- Attention is All You Need
+- Sparse MoE
+- Switch Transformer
+- Multi Query Attention 
+- SwiGLU Activation 
+- GShard and Massive Model Parallelism
+- Had built Character AI + Meena
+
+Pre-training is going to be hot area of research (again!)</title>
+      <link>https://x.com/himanshustwts/status/2067466049361228126</link>
+      <description>Wow. As they say it is the age of research and OpenAI has got Noam himself.
+Shazeer is one of the very few people who has directly contributed to multiple foundational ideas in modern LLM stack.
+
+- Attention is All You Need
+- Sparse MoE
+- Switch Transformer
+- Multi Query Attention 
+- SwiGLU Activation 
+- GShard and Massive Model Parallelism
+- Had built Character AI + Meena
+
+Pre-training is going to be hot area of research (again!)</description>
+      <guid isPermaLink="false">https://x.com/himanshustwts/status/2067466049361228126</guid>
+      <pubDate>Thu, 18 Jun 2026 04:34:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>[justinsuntron]Great to see increased adoption of TRON in Europe. 🏴󠁧󠁢󠁥󠁮󠁧󠁿</title>
+      <link>https://x.com/justinsuntron/status/2067475031031214563</link>
+      <description>Great to see increased adoption of TRON in Europe. 🏴󠁧󠁢󠁥󠁮󠁧󠁿</description>
+      <guid isPermaLink="false">https://x.com/justinsuntron/status/2067475031031214563</guid>
+      <pubDate>Thu, 18 Jun 2026 05:10:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Polymarket]NEW: Unreal Engine 5.8 is launching with experimental MCP server support, allowing AI agents to work directly on game development.</title>
+      <link>https://x.com/Polymarket/status/2067509115186717133</link>
+      <description>NEW: Unreal Engine 5.8 is launching with experimental MCP server support, allowing AI agents to work directly on game development.</description>
+      <guid isPermaLink="false">https://x.com/Polymarket/status/2067509115186717133</guid>
+      <pubDate>Thu, 18 Jun 2026 07:26:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[devXritesh]Top 10 Projects to Learn AI Development in 2026
+
+1. AI Chatbot
+   → LLM APIs, Prompt Engineering
+
+2. PDF Q&amp;A App
+   → RAG, Vector Databases
+
+3. AI Code Reviewer
+   → LLMs, Code Analysis
+
+4. AI Resume Analyzer
+   → NLP, Structured Outputs
+
+5. AI Meeting Notes Generator
+   → Speech-to-Text + Summarization
+
+6. AI Customer Support Agent
+   → Function Calling, Tools
+
+7. AI Research Assistant
+   → Search + RAG + Citations
+
+8. AI Email Writer
+   → Prompt Engineering + Workflows
+
+9. AI Content Creation Platform
+   → Text, Image, Audio Generation
+
+10. Autonomous AI Agent
+    → Planning, Memory, Multi-Step Execution
+
+Skills you'll learn:
+• Prompt Engineering
+• RAG
+• Vector Databases
+• AI Agents
+• Function Calling
+• Structured Outputs
+• LLM Evaluation
+• Production Deployment
+
+Build these 10 projects and you'll know more AI engineering than most tutorial watchers.</title>
+      <link>https://x.com/devXritesh/status/2067514121441116236</link>
+      <description>Top 10 Projects to Learn AI Development in 2026
+
+1. AI Chatbot
+   → LLM APIs, Prompt Engineering
+
+2. PDF Q&amp;A App
+   → RAG, Vector Databases
+
+3. AI Code Reviewer
+   → LLMs, Code Analysis
+
+4. AI Resume Analyzer
+   → NLP, Structured Outputs
+
+5. AI Meeting Notes Generator
+   → Speech-to-Text + Summarization
+
+6. AI Customer Support Agent
+   → Function Calling, Tools
+
+7. AI Research Assistant
+   → Search + RAG + Citations
+
+8. AI Email Writer
+   → Prompt Engineering + Workflows
+
+9. AI Content Creation Platform
+   → Text, Image, Audio Generation
+
+10. Autonomous AI Agent
+    → Planning, Memory, Multi-Step Execution
+
+Skills you'll learn:
+• Prompt Engineering
+• RAG
+• Vector Databases
+• AI Agents
+• Function Calling
+• Structured Outputs
+• LLM Evaluation
+• Production Deployment
+
+Build these 10 projects and you'll know more AI engineering than most tutorial watchers.</description>
+      <guid isPermaLink="false">https://x.com/devXritesh/status/2067514121441116236</guid>
+      <pubDate>Thu, 18 Jun 2026 07:45:53 +0000</pubDate>
     </item>
   </channel>
 </rss>
