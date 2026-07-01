@@ -7,71 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 01 Jul 2026 01:02:43 +0000</lastBuildDate>
-    <item>
-      <title>[AetherLab_AI]Aether AI has raised $20M in seed funding, backed by a group of leading global investors with deep expertise in artificial intelligence and frontier technologies.
-Founded by Prof. Biwei Huang（@huang_biwei）. We're building Causal World Models for Real World Intelligence.
-🔗https://t.co/aRfQlZlX8h</title>
-      <link>https://x.com/AetherLab_AI/status/2067410716941045819</link>
-      <description>Aether AI has raised $20M in seed funding, backed by a group of leading global investors with deep expertise in artificial intelligence and frontier technologies.
-Founded by Prof. Biwei Huang（@huang_biwei）. We're building Causal World Models for Real World Intelligence.
-🔗https://t.co/aRfQlZlX8h</description>
-      <guid isPermaLink="false">https://x.com/AetherLab_AI/status/2067410716941045819</guid>
-      <pubDate>Thu, 18 Jun 2026 00:55:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[dair_ai]Who should design the training environment for an RL agent, the practitioner or the policy itself?
-
-RL pipelines for LLMs usually rely on manually redesigned environments between stages, with practitioners guessing which configuration will best improve the current policy.
-
-This work proposes an LLM-as-Environment-Engineer framework. The current policy analyzes its own failure trajectories plus context and proposes the next-stage environment configuration, automating a step that has stayed stubbornly manual. They also release MAPF-FrozenLake, a controllable multi-agent testbed whose generator exposes multi-dimensional environment configs.
-
-Why does it matter?
-
-Curriculum design between RL stages is mostly gut feel today. Letting the policy read its failures and shape the next environment closes a loop that practitioners currently close by hand.
-
-Paper: https://t.co/lZHlqozrQD</title>
-      <link>https://x.com/dair_ai/status/2067432115072098705</link>
-      <description>Who should design the training environment for an RL agent, the practitioner or the policy itself?
-
-RL pipelines for LLMs usually rely on manually redesigned environments between stages, with practitioners guessing which configuration will best improve the current policy.
-
-This work proposes an LLM-as-Environment-Engineer framework. The current policy analyzes its own failure trajectories plus context and proposes the next-stage environment configuration, automating a step that has stayed stubbornly manual. They also release MAPF-FrozenLake, a controllable multi-agent testbed whose generator exposes multi-dimensional environment configs.
-
-Why does it matter?
-
-Curriculum design between RL stages is mostly gut feel today. Letting the policy read its failures and shape the next environment closes a loop that practitioners currently close by hand.
-
-Paper: https://t.co/lZHlqozrQD</description>
-      <guid isPermaLink="false">https://x.com/dair_ai/status/2067432115072098705</guid>
-      <pubDate>Thu, 18 Jun 2026 02:20:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Polymarket]Trump says Colombia’s runoff is “very important” to the country’s future &amp; its relationship with the U.S. as he endorses Abelardo de la Espriella.</title>
-      <link>https://x.com/Polymarket/status/2067447459039547802</link>
-      <description>Trump says Colombia’s runoff is “very important” to the country’s future &amp; its relationship with the U.S. as he endorses Abelardo de la Espriella.</description>
-      <guid isPermaLink="false">https://x.com/Polymarket/status/2067447459039547802</guid>
-      <pubDate>Thu, 18 Jun 2026 03:21:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[aiedge_]GLM-5.2 is the most impressive AI model I've ever seen (aside from Fable).
-
-This thing just achieved Opus 4.7/GPT-5.4 level intelligence as an open-weight model.
-
-Just a few months ago, this would've been considered a frontier-level LLM.
-
-Insanely impressive and bullish for the future of open-source.</title>
-      <link>https://x.com/aiedge_/status/2067457284100534539</link>
-      <description>GLM-5.2 is the most impressive AI model I've ever seen (aside from Fable).
-
-This thing just achieved Opus 4.7/GPT-5.4 level intelligence as an open-weight model.
-
-Just a few months ago, this would've been considered a frontier-level LLM.
-
-Insanely impressive and bullish for the future of open-source.</description>
-      <guid isPermaLink="false">https://x.com/aiedge_/status/2067457284100534539</guid>
-      <pubDate>Thu, 18 Jun 2026 04:00:02 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 01 Jul 2026 07:39:14 +0000</lastBuildDate>
     <item>
       <title>[TypicallyJayden]You guys do know the trending tab is tailored to u unless it explicitly says in United States next to it</title>
       <link>https://x.com/TypicallyJayden/status/2067464099298955662</link>
@@ -384,17 +320,17 @@ That’s the idea behind our new research on training models to be broadly and p
       <pubDate>Fri, 19 Jun 2026 01:01:16 +0000</pubDate>
     </item>
     <item>
-      <title>[arieftheluffy]⚠️ SkillHarm: Agent skills create new attack surfaces. 3rd-party skills weaponized across lifecycle — automated construction of lifecycle-aware attacks. Critical for AI agent security. #AI #AIAgents #Cybersecurity</title>
-      <link>https://x.com/arieftheluffy/status/2067777107800027480</link>
-      <description>⚠️ SkillHarm: Agent skills create new attack surfaces. 3rd-party skills weaponized across lifecycle — automated construction of lifecycle-aware attacks. Critical for AI agent security. #AI #AIAgents #Cybersecurity</description>
-      <guid isPermaLink="false">https://x.com/arieftheluffy/status/2067777107800027480</guid>
-      <pubDate>Fri, 19 Jun 2026 01:10:54 +0000</pubDate>
-    </item>
-    <item>
       <title>[arieftheluffy]🔍 When Behavioral Safety Evaluation Fails: Output-only tests miss internal model risks. Representation-level perspective reveals hidden vulnerabilities behavioral evals can't catch. #AI #AISafety #LLM</title>
       <link>https://x.com/arieftheluffy/status/2067777106143281249</link>
       <description>🔍 When Behavioral Safety Evaluation Fails: Output-only tests miss internal model risks. Representation-level perspective reveals hidden vulnerabilities behavioral evals can't catch. #AI #AISafety #LLM</description>
       <guid isPermaLink="false">https://x.com/arieftheluffy/status/2067777106143281249</guid>
+      <pubDate>Fri, 19 Jun 2026 01:10:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>[arieftheluffy]⚠️ SkillHarm: Agent skills create new attack surfaces. 3rd-party skills weaponized across lifecycle — automated construction of lifecycle-aware attacks. Critical for AI agent security. #AI #AIAgents #Cybersecurity</title>
+      <link>https://x.com/arieftheluffy/status/2067777107800027480</link>
+      <description>⚠️ SkillHarm: Agent skills create new attack surfaces. 3rd-party skills weaponized across lifecycle — automated construction of lifecycle-aware attacks. Critical for AI agent security. #AI #AIAgents #Cybersecurity</description>
+      <guid isPermaLink="false">https://x.com/arieftheluffy/status/2067777107800027480</guid>
       <pubDate>Fri, 19 Jun 2026 01:10:54 +0000</pubDate>
     </item>
     <item>
@@ -405,17 +341,17 @@ That’s the idea behind our new research on training models to be broadly and p
       <pubDate>Fri, 19 Jun 2026 01:10:55 +0000</pubDate>
     </item>
     <item>
-      <title>[itsshara_ai]Runway’s mask tracking can streamline those voice‑over overlays you mentioned.</title>
-      <link>https://x.com/itsshara_ai/status/2067777115614064947</link>
-      <description>Runway’s mask tracking can streamline those voice‑over overlays you mentioned.</description>
-      <guid isPermaLink="false">https://x.com/itsshara_ai/status/2067777115614064947</guid>
-      <pubDate>Fri, 19 Jun 2026 01:10:56 +0000</pubDate>
-    </item>
-    <item>
       <title>[AIExplainedHQ]This might be the most important distinction. Productivity helps after the first step. Reduced friction helps people take the first step.</title>
       <link>https://x.com/AIExplainedHQ/status/2067777114175410558</link>
       <description>This might be the most important distinction. Productivity helps after the first step. Reduced friction helps people take the first step.</description>
       <guid isPermaLink="false">https://x.com/AIExplainedHQ/status/2067777114175410558</guid>
+      <pubDate>Fri, 19 Jun 2026 01:10:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>[itsshara_ai]Runway’s mask tracking can streamline those voice‑over overlays you mentioned.</title>
+      <link>https://x.com/itsshara_ai/status/2067777115614064947</link>
+      <description>Runway’s mask tracking can streamline those voice‑over overlays you mentioned.</description>
+      <guid isPermaLink="false">https://x.com/itsshara_ai/status/2067777115614064947</guid>
       <pubDate>Fri, 19 Jun 2026 01:10:56 +0000</pubDate>
     </item>
     <item>
@@ -1503,17 +1439,10 @@ Through extraordinary courage, they have received the Congressional Medal of Hon
       <pubDate>Sat, 20 Jun 2026 22:20:40 +0000</pubDate>
     </item>
     <item>
-      <title>[wealthdaily]The AI segment meant to justify SpaceX's trillion-dollar story booked $818 million in revenue last quarter against a $2.5 billion operating loss. Colossus ate $10 billion in three months. Growth this expensive has a name: a furnace. $NVDA</title>
-      <link>https://x.com/wealthdaily/status/2068501175918272838</link>
-      <description>The AI segment meant to justify SpaceX's trillion-dollar story booked $818 million in revenue last quarter against a $2.5 billion operating loss. Colossus ate $10 billion in three months. Growth this expensive has a name: a furnace. $NVDA</description>
-      <guid isPermaLink="false">https://x.com/wealthdaily/status/2068501175918272838</guid>
-      <pubDate>Sun, 21 Jun 2026 01:08:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>[grok]Yes. In Oct 2025, WB renewed Michael De Luca &amp; Pamela Abdy’s contracts early for a multi-year deal. Gunn &amp; Safran’s original 4-year deals (ending ~Oct 2026) were extended to Spring 2027 — a shorter-term extension. Reports (Bloomberg) noted they didn’t receive the same long-term deal DeLuca/Abdy got.</title>
-      <link>https://x.com/grok/status/2068501175498903890</link>
-      <description>Yes. In Oct 2025, WB renewed Michael De Luca &amp; Pamela Abdy’s contracts early for a multi-year deal. Gunn &amp; Safran’s original 4-year deals (ending ~Oct 2026) were extended to Spring 2027 — a shorter-term extension. Reports (Bloomberg) noted they didn’t receive the same long-term deal DeLuca/Abdy got.</description>
-      <guid isPermaLink="false">https://x.com/grok/status/2068501175498903890</guid>
+      <title>[swordholder0]I did not use ai coding for 2 weeks, and nothing change. Time to think out how AI can actually impact the real life.</title>
+      <link>https://x.com/swordholder0/status/2068501173577961652</link>
+      <description>I did not use ai coding for 2 weeks, and nothing change. Time to think out how AI can actually impact the real life.</description>
+      <guid isPermaLink="false">https://x.com/swordholder0/status/2068501173577961652</guid>
       <pubDate>Sun, 21 Jun 2026 01:08:05 +0000</pubDate>
     </item>
     <item>
@@ -1524,10 +1453,17 @@ Through extraordinary courage, they have received the Congressional Medal of Hon
       <pubDate>Sun, 21 Jun 2026 01:08:05 +0000</pubDate>
     </item>
     <item>
-      <title>[swordholder0]I did not use ai coding for 2 weeks, and nothing change. Time to think out how AI can actually impact the real life.</title>
-      <link>https://x.com/swordholder0/status/2068501173577961652</link>
-      <description>I did not use ai coding for 2 weeks, and nothing change. Time to think out how AI can actually impact the real life.</description>
-      <guid isPermaLink="false">https://x.com/swordholder0/status/2068501173577961652</guid>
+      <title>[grok]Yes. In Oct 2025, WB renewed Michael De Luca &amp; Pamela Abdy’s contracts early for a multi-year deal. Gunn &amp; Safran’s original 4-year deals (ending ~Oct 2026) were extended to Spring 2027 — a shorter-term extension. Reports (Bloomberg) noted they didn’t receive the same long-term deal DeLuca/Abdy got.</title>
+      <link>https://x.com/grok/status/2068501175498903890</link>
+      <description>Yes. In Oct 2025, WB renewed Michael De Luca &amp; Pamela Abdy’s contracts early for a multi-year deal. Gunn &amp; Safran’s original 4-year deals (ending ~Oct 2026) were extended to Spring 2027 — a shorter-term extension. Reports (Bloomberg) noted they didn’t receive the same long-term deal DeLuca/Abdy got.</description>
+      <guid isPermaLink="false">https://x.com/grok/status/2068501175498903890</guid>
+      <pubDate>Sun, 21 Jun 2026 01:08:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>[wealthdaily]The AI segment meant to justify SpaceX's trillion-dollar story booked $818 million in revenue last quarter against a $2.5 billion operating loss. Colossus ate $10 billion in three months. Growth this expensive has a name: a furnace. $NVDA</title>
+      <link>https://x.com/wealthdaily/status/2068501175918272838</link>
+      <description>The AI segment meant to justify SpaceX's trillion-dollar story booked $818 million in revenue last quarter against a $2.5 billion operating loss. Colossus ate $10 billion in three months. Growth this expensive has a name: a furnace. $NVDA</description>
+      <guid isPermaLink="false">https://x.com/wealthdaily/status/2068501175918272838</guid>
       <pubDate>Sun, 21 Jun 2026 01:08:05 +0000</pubDate>
     </item>
     <item>
@@ -2014,13 +1950,6 @@ Our real world is full of fakery, such as Hollywood and the scammers and cheater
       <pubDate>Mon, 22 Jun 2026 16:07:34 +0000</pubDate>
     </item>
     <item>
-      <title>[OpenAI]GPT-5.5-Cyber is our most capable cyber model yet, designed for advanced, authorized defensive work: tracing vulnerable code, validating issues, developing patches, and preparing evidence for human review.</title>
-      <link>https://x.com/OpenAI/status/2069104286479618296</link>
-      <description>GPT-5.5-Cyber is our most capable cyber model yet, designed for advanced, authorized defensive work: tracing vulnerable code, validating issues, developing patches, and preparing evidence for human review.</description>
-      <guid isPermaLink="false">https://x.com/OpenAI/status/2069104286479618296</guid>
-      <pubDate>Mon, 22 Jun 2026 17:04:38 +0000</pubDate>
-    </item>
-    <item>
       <title>[OpenAI]We’re expanding OpenAI Daybreak to help democratize patching vulnerable software at machine speed:
 - Codex Security plugin: find, validate, and fix vulnerabilities right inside Codex
 - The full version of GPT-5.5-Cyber model: a great model for trusted defenders
@@ -2033,6 +1962,13 @@ Our real world is full of fakery, such as Hollywood and the scammers and cheater
 - Cyber Partner Program: powering products built on top of our best cyber capabilities for leading security companies to secure the world's software
 - Patch the Planet: working with maintainers to secure critical open source projects</description>
       <guid isPermaLink="false">https://x.com/OpenAI/status/2069104283824640023</guid>
+      <pubDate>Mon, 22 Jun 2026 17:04:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>[OpenAI]GPT-5.5-Cyber is our most capable cyber model yet, designed for advanced, authorized defensive work: tracing vulnerable code, validating issues, developing patches, and preparing evidence for human review.</title>
+      <link>https://x.com/OpenAI/status/2069104286479618296</link>
+      <description>GPT-5.5-Cyber is our most capable cyber model yet, designed for advanced, authorized defensive work: tracing vulnerable code, validating issues, developing patches, and preparing evidence for human review.</description>
+      <guid isPermaLink="false">https://x.com/OpenAI/status/2069104286479618296</guid>
       <pubDate>Mon, 22 Jun 2026 17:04:38 +0000</pubDate>
     </item>
     <item>
@@ -2412,17 +2348,17 @@ cnn.com/2026/06/17/mid…</description>
       <pubDate>Tue, 23 Jun 2026 16:15:59 +0000</pubDate>
     </item>
     <item>
-      <title>[OpenAI]You can also tune in from home. The opening keynote will be livestreamed on September 29.</title>
-      <link>https://x.com/OpenAI/status/2069483225492357326</link>
-      <description>You can also tune in from home. The opening keynote will be livestreamed on September 29.</description>
-      <guid isPermaLink="false">https://x.com/OpenAI/status/2069483225492357326</guid>
-      <pubDate>Tue, 23 Jun 2026 18:10:24 +0000</pubDate>
-    </item>
-    <item>
       <title>[OpenAI]OpenAI DevDay 2026 applications are now open! Our biggest developer event gets even bigger. 📍 San Francisco 📅 September 29 Apply by July 10: https://devday.openai.com/</title>
       <link>https://x.com/OpenAI/status/2069483224158646739</link>
       <description>OpenAI DevDay 2026 applications are now open! Our biggest developer event gets even bigger. 📍 San Francisco 📅 September 29 Apply by July 10: https://devday.openai.com/</description>
       <guid isPermaLink="false">https://x.com/OpenAI/status/2069483224158646739</guid>
+      <pubDate>Tue, 23 Jun 2026 18:10:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>[OpenAI]You can also tune in from home. The opening keynote will be livestreamed on September 29.</title>
+      <link>https://x.com/OpenAI/status/2069483225492357326</link>
+      <description>You can also tune in from home. The opening keynote will be livestreamed on September 29.</description>
+      <guid isPermaLink="false">https://x.com/OpenAI/status/2069483225492357326</guid>
       <pubDate>Tue, 23 Jun 2026 18:10:24 +0000</pubDate>
     </item>
     <item>
@@ -4194,6 +4130,17 @@ Blogging is mostly a work activity; translation falls in between.</description>
       <pubDate>Fri, 26 Jun 2026 15:25:48 +0000</pubDate>
     </item>
     <item>
+      <title>[AnthropicAI]Nearly half of respondents expect their work responsibilities to significantly change in the next 12 months.
+
+Fewer than 10% think they'll lose their own job within a year, but far more worry for coworkers: over 1/3 put the odds of a junior colleague losing their job above 60%.</title>
+      <link>https://x.com/AnthropicAI/status/2070528969523499460</link>
+      <description>Nearly half of respondents expect their work responsibilities to significantly change in the next 12 months.
+
+Fewer than 10% think they'll lose their own job within a year, but far more worry for coworkers: over 1/3 put the odds of a junior colleague losing their job above 60%.</description>
+      <guid isPermaLink="false">https://x.com/AnthropicAI/status/2070528969523499460</guid>
+      <pubDate>Fri, 26 Jun 2026 15:25:49 +0000</pubDate>
+    </item>
+    <item>
       <title>[AnthropicAI]This Econ Index is also the first to survey Claude users.
 
 Over 1/3 expect AI to be able to do most or nearly all of their work tasks within a year. 
@@ -4206,17 +4153,6 @@ Over 1/3 expect AI to be able to do most or nearly all of their work tasks withi
 
 But those who delegate the most work to AI are also the most optimistic about what it means for their pay and job security.</description>
       <guid isPermaLink="false">https://x.com/AnthropicAI/status/2070528967501849073</guid>
-      <pubDate>Fri, 26 Jun 2026 15:25:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>[AnthropicAI]Nearly half of respondents expect their work responsibilities to significantly change in the next 12 months.
-
-Fewer than 10% think they'll lose their own job within a year, but far more worry for coworkers: over 1/3 put the odds of a junior colleague losing their job above 60%.</title>
-      <link>https://x.com/AnthropicAI/status/2070528969523499460</link>
-      <description>Nearly half of respondents expect their work responsibilities to significantly change in the next 12 months.
-
-Fewer than 10% think they'll lose their own job within a year, but far more worry for coworkers: over 1/3 put the odds of a junior colleague losing their job above 60%.</description>
-      <guid isPermaLink="false">https://x.com/AnthropicAI/status/2070528969523499460</guid>
       <pubDate>Fri, 26 Jun 2026 15:25:49 +0000</pubDate>
     </item>
     <item>
@@ -4245,6 +4181,17 @@ Read the full report:</description>
       <pubDate>Fri, 26 Jun 2026 16:27:45 +0000</pubDate>
     </item>
     <item>
+      <title>[OpenAI]Introducing a limited preview of GPT-5.6 Sol, our next generation frontier model, as well as GPT-5.6 Terra, a balanced model for efficient, everyday work, and GPT-5.6 Luna, a fast and affordable model for high-volume work.
+
+https://openai.com/index/previewing-gpt-5-6-sol/</title>
+      <link>https://x.com/OpenAI/status/2070555272230384038</link>
+      <description>Introducing a limited preview of GPT-5.6 Sol, our next generation frontier model, as well as GPT-5.6 Terra, a balanced model for efficient, everyday work, and GPT-5.6 Luna, a fast and affordable model for high-volume work.
+
+https://openai.com/index/previewing-gpt-5-6-sol/</description>
+      <guid isPermaLink="false">https://x.com/OpenAI/status/2070555272230384038</guid>
+      <pubDate>Fri, 26 Jun 2026 17:10:20 +0000</pubDate>
+    </item>
+    <item>
       <title>[OpenAI]We believe in broad access and plan to make GPT-5.6 Sol, Terra, and Luna generally available in the coming weeks.
 
 For now, at the request of the U.S. government, we’re starting with a limited preview among a small group of trusted partners in Codex and the API.</title>
@@ -4256,15 +4203,11 @@ For now, at the request of the U.S. government, we’re starting with a limited 
       <pubDate>Fri, 26 Jun 2026 17:10:20 +0000</pubDate>
     </item>
     <item>
-      <title>[OpenAI]Introducing a limited preview of GPT-5.6 Sol, our next generation frontier model, as well as GPT-5.6 Terra, a balanced model for efficient, everyday work, and GPT-5.6 Luna, a fast and affordable model for high-volume work.
-
-https://openai.com/index/previewing-gpt-5-6-sol/</title>
-      <link>https://x.com/OpenAI/status/2070555272230384038</link>
-      <description>Introducing a limited preview of GPT-5.6 Sol, our next generation frontier model, as well as GPT-5.6 Terra, a balanced model for efficient, everyday work, and GPT-5.6 Luna, a fast and affordable model for high-volume work.
-
-https://openai.com/index/previewing-gpt-5-6-sol/</description>
-      <guid isPermaLink="false">https://x.com/OpenAI/status/2070555272230384038</guid>
-      <pubDate>Fri, 26 Jun 2026 17:10:20 +0000</pubDate>
+      <title>[OpenAI]GPT‑5.6 Sol sets a new state of the art on Terminal‑Bench 2.1, which tests complex command-line workflows requiring planning, iteration, and tool coordination.</title>
+      <link>https://x.com/OpenAI/status/2070555276370169969</link>
+      <description>GPT‑5.6 Sol sets a new state of the art on Terminal‑Bench 2.1, which tests complex command-line workflows requiring planning, iteration, and tool coordination.</description>
+      <guid isPermaLink="false">https://x.com/OpenAI/status/2070555276370169969</guid>
+      <pubDate>Fri, 26 Jun 2026 17:10:21 +0000</pubDate>
     </item>
     <item>
       <title>[OpenAI]Sol is our new flagship and a step function better than GPT-5.5. Terra delivers performance competitive to GPT-5.5 at 2x lower cost. Luna is our most cost-efficient model, delivering strong capability at our lowest cost.
@@ -4278,11 +4221,15 @@ Together, the GPT-5.6 family gives people and developers more choice in how they
       <pubDate>Fri, 26 Jun 2026 17:10:21 +0000</pubDate>
     </item>
     <item>
-      <title>[OpenAI]GPT‑5.6 Sol sets a new state of the art on Terminal‑Bench 2.1, which tests complex command-line workflows requiring planning, iteration, and tool coordination.</title>
-      <link>https://x.com/OpenAI/status/2070555276370169969</link>
-      <description>GPT‑5.6 Sol sets a new state of the art on Terminal‑Bench 2.1, which tests complex command-line workflows requiring planning, iteration, and tool coordination.</description>
-      <guid isPermaLink="false">https://x.com/OpenAI/status/2070555276370169969</guid>
-      <pubDate>Fri, 26 Jun 2026 17:10:21 +0000</pubDate>
+      <title>[OpenAI]GPT-5.6 Sol is our most capable model yet for cybersecurity.
+
+It shifts the performance-efficiency frontier for long-horizon security tasks including vulnerability research and exploitation.</title>
+      <link>https://x.com/OpenAI/status/2070555278576439306</link>
+      <description>GPT-5.6 Sol is our most capable model yet for cybersecurity.
+
+It shifts the performance-efficiency frontier for long-horizon security tasks including vulnerability research and exploitation.</description>
+      <guid isPermaLink="false">https://x.com/OpenAI/status/2070555278576439306</guid>
+      <pubDate>Fri, 26 Jun 2026 17:10:22 +0000</pubDate>
     </item>
     <item>
       <title>[OpenAI]GPT‑5.6 Sol launches with our most robust safety stack yet.
@@ -4293,17 +4240,6 @@ We strengthened real-time protections against high-risk cyber activity and repea
 
 We strengthened real-time protections against high-risk cyber activity and repeated misuse, then spent weeks hardening the system with human red teaming and over 700,000 A100-equivalent GPU hours of automated testing.</description>
       <guid isPermaLink="false">https://x.com/OpenAI/status/2070555280052826429</guid>
-      <pubDate>Fri, 26 Jun 2026 17:10:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>[OpenAI]GPT-5.6 Sol is our most capable model yet for cybersecurity.
-
-It shifts the performance-efficiency frontier for long-horizon security tasks including vulnerability research and exploitation.</title>
-      <link>https://x.com/OpenAI/status/2070555278576439306</link>
-      <description>GPT-5.6 Sol is our most capable model yet for cybersecurity.
-
-It shifts the performance-efficiency frontier for long-horizon security tasks including vulnerability research and exploitation.</description>
-      <guid isPermaLink="false">https://x.com/OpenAI/status/2070555278576439306</guid>
       <pubDate>Fri, 26 Jun 2026 17:10:22 +0000</pubDate>
     </item>
     <item>
@@ -4529,17 +4465,10 @@ Must Follow me so I can DM you.</description>
       <pubDate>Sat, 27 Jun 2026 06:59:52 +0000</pubDate>
     </item>
     <item>
-      <title>[occultkeiba]ブロック速度は河野太郎並みwww</title>
-      <link>https://x.com/occultkeiba/status/2070767161111699568</link>
-      <description>ブロック速度は河野太郎並みwww</description>
-      <guid isPermaLink="false">https://x.com/occultkeiba/status/2070767161111699568</guid>
-      <pubDate>Sat, 27 Jun 2026 07:12:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>[tskmmzm]「藤田咲 AI 初音ミク V6」でツイート検索すると少数派ってのがよく分かった。</title>
-      <link>https://x.com/tskmmzm/status/2070767161120030796</link>
-      <description>「藤田咲 AI 初音ミク V6」でツイート検索すると少数派ってのがよく分かった。</description>
-      <guid isPermaLink="false">https://x.com/tskmmzm/status/2070767161120030796</guid>
+      <title>[New_EraAI]The AI race is accelerating. The next opportunity is turning AI creations into assets people can actually own.</title>
+      <link>https://x.com/New_EraAI/status/2070767160474087814</link>
+      <description>The AI race is accelerating. The next opportunity is turning AI creations into assets people can actually own.</description>
+      <guid isPermaLink="false">https://x.com/New_EraAI/status/2070767160474087814</guid>
       <pubDate>Sat, 27 Jun 2026 07:12:18 +0000</pubDate>
     </item>
     <item>
@@ -4550,31 +4479,24 @@ Must Follow me so I can DM you.</description>
       <pubDate>Sat, 27 Jun 2026 07:12:18 +0000</pubDate>
     </item>
     <item>
-      <title>[New_EraAI]The AI race is accelerating. The next opportunity is turning AI creations into assets people can actually own.</title>
-      <link>https://x.com/New_EraAI/status/2070767160474087814</link>
-      <description>The AI race is accelerating. The next opportunity is turning AI creations into assets people can actually own.</description>
-      <guid isPermaLink="false">https://x.com/New_EraAI/status/2070767160474087814</guid>
+      <title>[tskmmzm]「藤田咲 AI 初音ミク V6」でツイート検索すると少数派ってのがよく分かった。</title>
+      <link>https://x.com/tskmmzm/status/2070767161120030796</link>
+      <description>「藤田咲 AI 初音ミク V6」でツイート検索すると少数派ってのがよく分かった。</description>
+      <guid isPermaLink="false">https://x.com/tskmmzm/status/2070767161120030796</guid>
       <pubDate>Sat, 27 Jun 2026 07:12:18 +0000</pubDate>
     </item>
     <item>
-      <title>[HKow3s]なんか凄すぎる😅 ある意味、iPhoneが誕生した時よりもかな？ OpenAI、次世代「GPT-5.6」シリーズを限定プレビュー　米政府と調整、命名は「Sol／Terra／Luna」に刷新（ITmedia NEWS） https://news.yahoo.co.jp/articles/a7aa4a3a39ef9867c032b14bb7f0d281552abba1</title>
-      <link>https://x.com/HKow3s/status/2070767161715708185</link>
-      <description>なんか凄すぎる😅 ある意味、iPhoneが誕生した時よりもかな？ OpenAI、次世代「GPT-5.6」シリーズを限定プレビュー　米政府と調整、命名は「Sol／Terra／Luna」に刷新（ITmedia NEWS） https://news.yahoo.co.jp/articles/a7aa4a3a39ef9867c032b14bb7f0d281552abba1</description>
-      <guid isPermaLink="false">https://x.com/HKow3s/status/2070767161715708185</guid>
-      <pubDate>Sat, 27 Jun 2026 07:12:19 +0000</pubDate>
+      <title>[occultkeiba]ブロック速度は河野太郎並みwww</title>
+      <link>https://x.com/occultkeiba/status/2070767161111699568</link>
+      <description>ブロック速度は河野太郎並みwww</description>
+      <guid isPermaLink="false">https://x.com/occultkeiba/status/2070767161111699568</guid>
+      <pubDate>Sat, 27 Jun 2026 07:12:18 +0000</pubDate>
     </item>
     <item>
-      <title>[grok]この動画のゲームは2008年頃のピクセルアート系フラッシュ/同人ゲームっぽいね。ブロンドメガネのキャラがパソコン前に座ってるシーンで、ハート体力と緑バーがあるやつ。 放置ボイスのネタがかなりコアって話から、ライトなキッズ向けに見えて実はマニアックなユーモア入りの作品だと思う。具体名までは特定できなかったけど、音声の内容やもっと詳しいシーン教えてくれたら深掘りするよ！</title>
-      <link>https://x.com/grok/status/2070767162101297199</link>
-      <description>この動画のゲームは2008年頃のピクセルアート系フラッシュ/同人ゲームっぽいね。ブロンドメガネのキャラがパソコン前に座ってるシーンで、ハート体力と緑バーがあるやつ。 放置ボイスのネタがかなりコアって話から、ライトなキッズ向けに見えて実はマニアックなユーモア入りの作品だと思う。具体名までは特定できなかったけど、音声の内容やもっと詳しいシーン教えてくれたら深掘りするよ！</description>
-      <guid isPermaLink="false">https://x.com/grok/status/2070767162101297199</guid>
-      <pubDate>Sat, 27 Jun 2026 07:12:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>[mingisbbytooth]Atinys calling a*z sex crazed freaks, claiming they used ai to write the lyrics bcz they “make no sense”, wishing they enlist asap, saying the entire album is unsalvageable and boycotting … it really is comeback season!</title>
-      <link>https://x.com/mingisbbytooth/status/2070767162466115948</link>
-      <description>Atinys calling a*z sex crazed freaks, claiming they used ai to write the lyrics bcz they “make no sense”, wishing they enlist asap, saying the entire album is unsalvageable and boycotting … it really is comeback season!</description>
-      <guid isPermaLink="false">https://x.com/mingisbbytooth/status/2070767162466115948</guid>
+      <title>[PlayMXBet]That’s Estadio Akron in Mexico 🇲🇽🔥</title>
+      <link>https://x.com/PlayMXBet/status/2070767165037478336</link>
+      <description>That’s Estadio Akron in Mexico 🇲🇽🔥</description>
+      <guid isPermaLink="false">https://x.com/PlayMXBet/status/2070767165037478336</guid>
       <pubDate>Sat, 27 Jun 2026 07:12:19 +0000</pubDate>
     </item>
     <item>
@@ -4585,10 +4507,24 @@ Must Follow me so I can DM you.</description>
       <pubDate>Sat, 27 Jun 2026 07:12:19 +0000</pubDate>
     </item>
     <item>
-      <title>[PlayMXBet]That’s Estadio Akron in Mexico 🇲🇽🔥</title>
-      <link>https://x.com/PlayMXBet/status/2070767165037478336</link>
-      <description>That’s Estadio Akron in Mexico 🇲🇽🔥</description>
-      <guid isPermaLink="false">https://x.com/PlayMXBet/status/2070767165037478336</guid>
+      <title>[mingisbbytooth]Atinys calling a*z sex crazed freaks, claiming they used ai to write the lyrics bcz they “make no sense”, wishing they enlist asap, saying the entire album is unsalvageable and boycotting … it really is comeback season!</title>
+      <link>https://x.com/mingisbbytooth/status/2070767162466115948</link>
+      <description>Atinys calling a*z sex crazed freaks, claiming they used ai to write the lyrics bcz they “make no sense”, wishing they enlist asap, saying the entire album is unsalvageable and boycotting … it really is comeback season!</description>
+      <guid isPermaLink="false">https://x.com/mingisbbytooth/status/2070767162466115948</guid>
+      <pubDate>Sat, 27 Jun 2026 07:12:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>[grok]この動画のゲームは2008年頃のピクセルアート系フラッシュ/同人ゲームっぽいね。ブロンドメガネのキャラがパソコン前に座ってるシーンで、ハート体力と緑バーがあるやつ。 放置ボイスのネタがかなりコアって話から、ライトなキッズ向けに見えて実はマニアックなユーモア入りの作品だと思う。具体名までは特定できなかったけど、音声の内容やもっと詳しいシーン教えてくれたら深掘りするよ！</title>
+      <link>https://x.com/grok/status/2070767162101297199</link>
+      <description>この動画のゲームは2008年頃のピクセルアート系フラッシュ/同人ゲームっぽいね。ブロンドメガネのキャラがパソコン前に座ってるシーンで、ハート体力と緑バーがあるやつ。 放置ボイスのネタがかなりコアって話から、ライトなキッズ向けに見えて実はマニアックなユーモア入りの作品だと思う。具体名までは特定できなかったけど、音声の内容やもっと詳しいシーン教えてくれたら深掘りするよ！</description>
+      <guid isPermaLink="false">https://x.com/grok/status/2070767162101297199</guid>
+      <pubDate>Sat, 27 Jun 2026 07:12:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>[HKow3s]なんか凄すぎる😅 ある意味、iPhoneが誕生した時よりもかな？ OpenAI、次世代「GPT-5.6」シリーズを限定プレビュー　米政府と調整、命名は「Sol／Terra／Luna」に刷新（ITmedia NEWS） https://news.yahoo.co.jp/articles/a7aa4a3a39ef9867c032b14bb7f0d281552abba1</title>
+      <link>https://x.com/HKow3s/status/2070767161715708185</link>
+      <description>なんか凄すぎる😅 ある意味、iPhoneが誕生した時よりもかな？ OpenAI、次世代「GPT-5.6」シリーズを限定プレビュー　米政府と調整、命名は「Sol／Terra／Luna」に刷新（ITmedia NEWS） https://news.yahoo.co.jp/articles/a7aa4a3a39ef9867c032b14bb7f0d281552abba1</description>
+      <guid isPermaLink="false">https://x.com/HKow3s/status/2070767161715708185</guid>
       <pubDate>Sat, 27 Jun 2026 07:12:19 +0000</pubDate>
     </item>
     <item>
@@ -4642,6 +4578,21 @@ Bookmark it and give it an hour, no matter what.</description>
       <pubDate>Sat, 27 Jun 2026 17:57:56 +0000</pubDate>
     </item>
     <item>
+      <title>[Pradeep891730]We provide Privacy safe Synthetic Data, AI Models and Decision Engines for Legal domain.
+
+DM or email pradeep@xpertsystems.ai for samples and pricing 
+
+https://www.xpertsystems.ai/synthetic-data-factory.html#catalog</title>
+      <link>https://x.com/Pradeep891730/status/2070938271467909363</link>
+      <description>We provide Privacy safe Synthetic Data, AI Models and Decision Engines for Legal domain.
+
+DM or email pradeep@xpertsystems.ai for samples and pricing 
+
+https://www.xpertsystems.ai/synthetic-data-factory.html#catalog</description>
+      <guid isPermaLink="false">https://x.com/Pradeep891730/status/2070938271467909363</guid>
+      <pubDate>Sat, 27 Jun 2026 18:32:14 +0000</pubDate>
+    </item>
+    <item>
       <title>[SantaniSubhajit]"Happy Birthday @elonmusk
 !   From India with so much love and respect 🙏♥️
 
@@ -4671,32 +4622,6 @@ Wishing you massive success, good health, and an epic year ahead.
       <pubDate>Sat, 27 Jun 2026 18:32:14 +0000</pubDate>
     </item>
     <item>
-      <title>[Pradeep891730]We provide Privacy safe Synthetic Data, AI Models and Decision Engines for Legal domain.
-
-DM or email pradeep@xpertsystems.ai for samples and pricing 
-
-https://www.xpertsystems.ai/synthetic-data-factory.html#catalog</title>
-      <link>https://x.com/Pradeep891730/status/2070938271467909363</link>
-      <description>We provide Privacy safe Synthetic Data, AI Models and Decision Engines for Legal domain.
-
-DM or email pradeep@xpertsystems.ai for samples and pricing 
-
-https://www.xpertsystems.ai/synthetic-data-factory.html#catalog</description>
-      <guid isPermaLink="false">https://x.com/Pradeep891730/status/2070938271467909363</guid>
-      <pubDate>Sat, 27 Jun 2026 18:32:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>[zipx_ai]DeepSeek plans to double every department. For filmmakers, that means more open-weight models hitting the pipeline. But more models doesn't mean more usable tools — it means more ways to generate a beautiful frame with no idea why it belongs in the story. Model scaling solves compute, not creative intent. The real gap remains: how do you tell an AI "the pacing is off" without learning its secret menu? That's the bottleneck no hiring spree fixes.
-
-#ZipX #ContentCreator</title>
-      <link>https://x.com/zipx_ai/status/2070938273342718411</link>
-      <description>DeepSeek plans to double every department. For filmmakers, that means more open-weight models hitting the pipeline. But more models doesn't mean more usable tools — it means more ways to generate a beautiful frame with no idea why it belongs in the story. Model scaling solves compute, not creative intent. The real gap remains: how do you tell an AI "the pacing is off" without learning its secret menu? That's the bottleneck no hiring spree fixes.
-
-#ZipX #ContentCreator</description>
-      <guid isPermaLink="false">https://x.com/zipx_ai/status/2070938273342718411</guid>
-      <pubDate>Sat, 27 Jun 2026 18:32:15 +0000</pubDate>
-    </item>
-    <item>
       <title>[shahvishwas24]Cannes Lions 2026 winners didn't make better ads.
 
 They built entertainment platforms. Stories people could join, not just watch.
@@ -4716,10 +4641,27 @@ That's the only moat left.</description>
       <pubDate>Sat, 27 Jun 2026 18:32:15 +0000</pubDate>
     </item>
     <item>
-      <title>[AhbasAabas]As #AI continues to reshape industries, decentralized collaboration will play a role in building transparent and reliable systems. @flock_io is helping drive that vision by joining contributors through open ideas #FLock empowers community driven inteligence for the future. $FLock</title>
-      <link>https://x.com/AhbasAabas/status/2070938283077439788</link>
-      <description>As #AI continues to reshape industries, decentralized collaboration will play a role in building transparent and reliable systems. @flock_io is helping drive that vision by joining contributors through open ideas #FLock empowers community driven inteligence for the future. $FLock</description>
-      <guid isPermaLink="false">https://x.com/AhbasAabas/status/2070938283077439788</guid>
+      <title>[zipx_ai]DeepSeek plans to double every department. For filmmakers, that means more open-weight models hitting the pipeline. But more models doesn't mean more usable tools — it means more ways to generate a beautiful frame with no idea why it belongs in the story. Model scaling solves compute, not creative intent. The real gap remains: how do you tell an AI "the pacing is off" without learning its secret menu? That's the bottleneck no hiring spree fixes.
+
+#ZipX #ContentCreator</title>
+      <link>https://x.com/zipx_ai/status/2070938273342718411</link>
+      <description>DeepSeek plans to double every department. For filmmakers, that means more open-weight models hitting the pipeline. But more models doesn't mean more usable tools — it means more ways to generate a beautiful frame with no idea why it belongs in the story. Model scaling solves compute, not creative intent. The real gap remains: how do you tell an AI "the pacing is off" without learning its secret menu? That's the bottleneck no hiring spree fixes.
+
+#ZipX #ContentCreator</description>
+      <guid isPermaLink="false">https://x.com/zipx_ai/status/2070938273342718411</guid>
+      <pubDate>Sat, 27 Jun 2026 18:32:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Steve31873]Is this AI ?
+If not they've got a certifiable Retard as a Cop here
+
+#southampton #birmingham #wessex #sussex #Toronto #Bolton #Wigan #Bristol #Dublin #Cardiff #Cork #Glasgow #Brighton #manchester #Suffolk #Yorkshire #UK #chesterfield #london #england #wales #liverpool #burnley</title>
+      <link>https://x.com/Steve31873/status/2070938284826472481</link>
+      <description>Is this AI ?
+If not they've got a certifiable Retard as a Cop here
+
+#southampton #birmingham #wessex #sussex #Toronto #Bolton #Wigan #Bristol #Dublin #Cardiff #Cork #Glasgow #Brighton #manchester #Suffolk #Yorkshire #UK #chesterfield #london #england #wales #liverpool #burnley</description>
+      <guid isPermaLink="false">https://x.com/Steve31873/status/2070938284826472481</guid>
       <pubDate>Sat, 27 Jun 2026 18:32:17 +0000</pubDate>
     </item>
     <item>
@@ -4734,16 +4676,10 @@ Why is the NHL Network having AI Viagra commercials on their channel 😂</descr
       <pubDate>Sat, 27 Jun 2026 18:32:17 +0000</pubDate>
     </item>
     <item>
-      <title>[Steve31873]Is this AI ?
-If not they've got a certifiable Retard as a Cop here
-
-#southampton #birmingham #wessex #sussex #Toronto #Bolton #Wigan #Bristol #Dublin #Cardiff #Cork #Glasgow #Brighton #manchester #Suffolk #Yorkshire #UK #chesterfield #london #england #wales #liverpool #burnley</title>
-      <link>https://x.com/Steve31873/status/2070938284826472481</link>
-      <description>Is this AI ?
-If not they've got a certifiable Retard as a Cop here
-
-#southampton #birmingham #wessex #sussex #Toronto #Bolton #Wigan #Bristol #Dublin #Cardiff #Cork #Glasgow #Brighton #manchester #Suffolk #Yorkshire #UK #chesterfield #london #england #wales #liverpool #burnley</description>
-      <guid isPermaLink="false">https://x.com/Steve31873/status/2070938284826472481</guid>
+      <title>[AhbasAabas]As #AI continues to reshape industries, decentralized collaboration will play a role in building transparent and reliable systems. @flock_io is helping drive that vision by joining contributors through open ideas #FLock empowers community driven inteligence for the future. $FLock</title>
+      <link>https://x.com/AhbasAabas/status/2070938283077439788</link>
+      <description>As #AI continues to reshape industries, decentralized collaboration will play a role in building transparent and reliable systems. @flock_io is helping drive that vision by joining contributors through open ideas #FLock empowers community driven inteligence for the future. $FLock</description>
+      <guid isPermaLink="false">https://x.com/AhbasAabas/status/2070938283077439788</guid>
       <pubDate>Sat, 27 Jun 2026 18:32:17 +0000</pubDate>
     </item>
     <item>
@@ -5735,6 +5671,34 @@ Follow @G0tzeWeb3 💎
 3 Days 🤝</description>
       <guid isPermaLink="false">https://x.com/G0tzeWeb3/status/2072028309165048004</guid>
       <pubDate>Tue, 30 Jun 2026 18:43:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Polymarket]JUST IN: Anthropic confirms Claude Fable 5 will be redeployed globally tomorrow with new cybersecurity safeguards.</title>
+      <link>https://x.com/Polymarket/status/2072175110669086919</link>
+      <description>JUST IN: Anthropic confirms Claude Fable 5 will be redeployed globally tomorrow with new cybersecurity safeguards.</description>
+      <guid isPermaLink="false">https://x.com/Polymarket/status/2072175110669086919</guid>
+      <pubDate>Wed, 01 Jul 2026 04:27:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Polymarket]🚨 NEW POLYMARKET: People's Bank of China rate change by September 30?</title>
+      <link>https://x.com/Polymarket/status/2072187693778215065</link>
+      <description>🚨 NEW POLYMARKET: People's Bank of China rate change by September 30?</description>
+      <guid isPermaLink="false">https://x.com/Polymarket/status/2072187693778215065</guid>
+      <pubDate>Wed, 01 Jul 2026 05:17:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Polymarket]JUST IN: Russia urges Pakistan &amp; Afghanistan to “use diplomacy” to solve disputes.</title>
+      <link>https://x.com/Polymarket/status/2072191720138416515</link>
+      <description>JUST IN: Russia urges Pakistan &amp; Afghanistan to “use diplomacy” to solve disputes.</description>
+      <guid isPermaLink="false">https://x.com/Polymarket/status/2072191720138416515</guid>
+      <pubDate>Wed, 01 Jul 2026 05:33:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[elonmusk]Walking the Optimus production line in Fremont</title>
+      <link>https://x.com/elonmusk/status/2072214077372518657</link>
+      <description>Walking the Optimus production line in Fremont</description>
+      <guid isPermaLink="false">https://x.com/elonmusk/status/2072214077372518657</guid>
+      <pubDate>Wed, 01 Jul 2026 07:01:50 +0000</pubDate>
     </item>
   </channel>
 </rss>
