@@ -7,252 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 10 Jul 2026 00:48:29 +0000</lastBuildDate>
-    <item>
-      <title>[karpathy]I’ve been on Twitter for almost 2 decades now so I can say with confidence that it has never been this toxic and Reddit-like. I think the alg actively encourages it and people get RL’d by it. Main reason I’ve been coming here less and posting less.</title>
-      <link>https://x.com/karpathy/status/2069825182689317301</link>
-      <description>I’ve been on Twitter for almost 2 decades now so I can say with confidence that it has never been this toxic and Reddit-like. I think the alg actively encourages it and people get RL’d by it. Main reason I’ve been coming here less and posting less.</description>
-      <guid isPermaLink="false">https://x.com/karpathy/status/2069825182689317301</guid>
-      <pubDate>Wed, 24 Jun 2026 16:49:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>[karpathy]Company Slack (I know, sad answer). Do you have recs? I’m not aware of any platform that is much better.</title>
-      <link>https://x.com/karpathy/status/2069829688458109300</link>
-      <description>Company Slack (I know, sad answer). Do you have recs? I’m not aware of any platform that is much better.</description>
-      <guid isPermaLink="false">https://x.com/karpathy/status/2069829688458109300</guid>
-      <pubDate>Wed, 24 Jun 2026 17:07:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Mho_23]Gemini Omni + GPT Images 2 + Claude Code is f*cking cracked
-
-i just built an AI animation ad generator that turns any product into a fully scripted AI 3D explainer video
-
-drop in your product photos and a one-line pitch. the system analyzes your brand, pitches you 4 proven ad concepts with hooks and shot lists, then renders the whole thing end-to-end. scripted, voiced, stitched, ready to post.
-
-if you're still paying editors $200+ per video or waiting days for revisions this replaces that entire workflow.
-
-here's how it works:
-
-&gt; set up your brand kit with product photos and a one-line pitch
-
-&gt; hit analyze and the AI pitches you 4 different proven ad concepts
-
-&gt; pick one and hit generate
-
-the system then scripts every shot, renders each clip in parallel, adds voiceover, QC checks and stitches it into a finished vertical ad
-
-3 minute setup and 4-12 min per ad. each 30 second ad costs under $3 in API credits which is cheaper than any editor and 10x faster.
-
-RT + reply "ANIMATION" and i'll send you the full app + setup guide (must follow so i can dm)</title>
-      <link>https://x.com/Mho_23/status/2069838139171250629</link>
-      <description>Gemini Omni + GPT Images 2 + Claude Code is f*cking cracked
-
-i just built an AI animation ad generator that turns any product into a fully scripted AI 3D explainer video
-
-drop in your product photos and a one-line pitch. the system analyzes your brand, pitches you 4 proven ad concepts with hooks and shot lists, then renders the whole thing end-to-end. scripted, voiced, stitched, ready to post.
-
-if you're still paying editors $200+ per video or waiting days for revisions this replaces that entire workflow.
-
-here's how it works:
-
-&gt; set up your brand kit with product photos and a one-line pitch
-
-&gt; hit analyze and the AI pitches you 4 different proven ad concepts
-
-&gt; pick one and hit generate
-
-the system then scripts every shot, renders each clip in parallel, adds voiceover, QC checks and stitches it into a finished vertical ad
-
-3 minute setup and 4-12 min per ad. each 30 second ad costs under $3 in API credits which is cheaper than any editor and 10x faster.
-
-RT + reply "ANIMATION" and i'll send you the full app + setup guide (must follow so i can dm)</description>
-      <guid isPermaLink="false">https://x.com/Mho_23/status/2069838139171250629</guid>
-      <pubDate>Wed, 24 Jun 2026 17:40:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>[OpenAI]We have a new version of GPT-5.5 Instant for you, and it's much more fun to talk to. Our most-used model is now better at understanding the intent behind a question and adapting its response accordingly. It also handles complex constraints more reliably and makes shopping and local recommendations more useful and cohesive. Rolling out today to paid users, tomorrow to free users.</title>
-      <link>https://x.com/OpenAI/status/2069843083701915755</link>
-      <description>We have a new version of GPT-5.5 Instant for you, and it's much more fun to talk to. Our most-used model is now better at understanding the intent behind a question and adapting its response accordingly. It also handles complex constraints more reliably and makes shopping and local recommendations more useful and cohesive. Rolling out today to paid users, tomorrow to free users.</description>
-      <guid isPermaLink="false">https://x.com/OpenAI/status/2069843083701915755</guid>
-      <pubDate>Wed, 24 Jun 2026 18:00:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>[WhiteHouse]1. ALL VOTERS MUST SHOW PHOTO I.D. (IDENTIFICATION!).
-
-2. ALL VOTERS MUST SHOW PROOF OF CITIZENSHIP.
-
-3. NO MAIL-IN BALLOTS (EXCEPT FOR ILLNESS, DISABILITY, MILITARY, OR TRAVEL!).
-
-4. NO MEN IN WOMEN’S SPORTS.
-
-5. NO TRANSGENDER MUTILIZATION SURGERY ON OUR CHILDREN.</title>
-      <link>https://x.com/WhiteHouse/status/2069844354089259407</link>
-      <description>1. ALL VOTERS MUST SHOW PHOTO I.D. (IDENTIFICATION!).
-
-2. ALL VOTERS MUST SHOW PROOF OF CITIZENSHIP.
-
-3. NO MAIL-IN BALLOTS (EXCEPT FOR ILLNESS, DISABILITY, MILITARY, OR TRAVEL!).
-
-4. NO MEN IN WOMEN’S SPORTS.
-
-5. NO TRANSGENDER MUTILIZATION SURGERY ON OUR CHILDREN.</description>
-      <guid isPermaLink="false">https://x.com/WhiteHouse/status/2069844354089259407</guid>
-      <pubDate>Wed, 24 Jun 2026 18:05:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Polymarket]JUST IN: The U.S. current account deficit widened more than expected in the first quarter to $226,800,000,000.00.</title>
-      <link>https://x.com/Polymarket/status/2069847775232340240</link>
-      <description>JUST IN: The U.S. current account deficit widened more than expected in the first quarter to $226,800,000,000.00.</description>
-      <guid isPermaLink="false">https://x.com/Polymarket/status/2069847775232340240</guid>
-      <pubDate>Wed, 24 Jun 2026 18:19:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[elonmusk]This is happening throughout the West</title>
-      <link>https://x.com/elonmusk/status/2069848693080306061</link>
-      <description>This is happening throughout the West</description>
-      <guid isPermaLink="false">https://x.com/elonmusk/status/2069848693080306061</guid>
-      <pubDate>Wed, 24 Jun 2026 18:22:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Polymarket]🚨 NEW POLYMARKET: What will be in a US-Iran deal in 2026?
-
-https://polymarket.com/event/what-will-be-in-a-us-iran-deal-in-2026-20260624150226501?via=x-afr2 — 🚨 NEW POLYMARKET: What will be in a US-Iran deal in 2026? https://polymarket.com/event/what-will-be-in-a-us-iran-deal-in-2026-20260624150226501?via=x-afr2</title>
-      <link>https://x.com/Polymarket/status/2069849536907104377</link>
-      <description>🚨 NEW POLYMARKET: What will be in a US-Iran deal in 2026?
-
-https://polymarket.com/event/what-will-be-in-a-us-iran-deal-in-2026-20260624150226501?via=x-afr2</description>
-      <guid isPermaLink="false">https://x.com/Polymarket/status/2069849536907104377</guid>
-      <pubDate>Wed, 24 Jun 2026 18:26:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[LudditeHacker]How long has this been theoretically possible given AI development? 1 year?</title>
-      <link>https://x.com/LudditeHacker/status/2069853306940219767</link>
-      <description>How long has this been theoretically possible given AI development? 1 year?</description>
-      <guid isPermaLink="false">https://x.com/LudditeHacker/status/2069853306940219767</guid>
-      <pubDate>Wed, 24 Jun 2026 18:40:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>[a16z]We're thrilled to lead Mirendil's $200M seed round. Frontier AI work has been locked inside a few big labs. @MirendilAI is building a system that can help anyone do AI work: they train frontier models that are expert at AI R&amp;D and build the product around it. The result is a system that loops over research and engineering problems on its own, making progress without human intervention. It's like a coding agent built for AI research that controls its own GPUs. Mirendil is one of the few teams with the experience and the priors to make the end-to-end system work. @bneyshabur, @HarshMeh1a, @shayan_, and @tararezaeikh come out of Anthropic, Google DeepMind, and xAI. Welcome to the a16z family, Mirendil. By @BornsteinMatt and @MaikaThoughts</title>
-      <link>https://x.com/a16z/status/2069869327411749012</link>
-      <description>We're thrilled to lead Mirendil's $200M seed round. Frontier AI work has been locked inside a few big labs. @MirendilAI is building a system that can help anyone do AI work: they train frontier models that are expert at AI R&amp;D and build the product around it. The result is a system that loops over research and engineering problems on its own, making progress without human intervention. It's like a coding agent built for AI research that controls its own GPUs. Mirendil is one of the few teams with the experience and the priors to make the end-to-end system work. @bneyshabur, @HarshMeh1a, @shayan_, and @tararezaeikh come out of Anthropic, Google DeepMind, and xAI. Welcome to the a16z family, Mirendil. By @BornsteinMatt and @MaikaThoughts</description>
-      <guid isPermaLink="false">https://x.com/a16z/status/2069869327411749012</guid>
-      <pubDate>Wed, 24 Jun 2026 19:44:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Polymarket]BREAKING: Anthropic accuses Alibaba of using nearly 25,000 fraudulent accounts to extract Claude AI model capabilities.</title>
-      <link>https://x.com/Polymarket/status/2069892570214179081</link>
-      <description>BREAKING: Anthropic accuses Alibaba of using nearly 25,000 fraudulent accounts to extract Claude AI model capabilities.</description>
-      <guid isPermaLink="false">https://x.com/Polymarket/status/2069892570214179081</guid>
-      <pubDate>Wed, 24 Jun 2026 21:17:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[elonmusk]Anyone who hates America must be removed from America</title>
-      <link>https://x.com/elonmusk/status/2069893049996677136</link>
-      <description>Anyone who hates America must be removed from America</description>
-      <guid isPermaLink="false">https://x.com/elonmusk/status/2069893049996677136</guid>
-      <pubDate>Wed, 24 Jun 2026 21:18:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>[WhiteHouse]President Trump Delivers Remarks at the Great American State Fair https://twitter.com/i/broadcasts/1rGmqqnjqVBGy</title>
-      <link>https://x.com/WhiteHouse/status/2069908803701649424</link>
-      <description>President Trump Delivers Remarks at the Great American State Fair https://twitter.com/i/broadcasts/1rGmqqnjqVBGy</description>
-      <guid isPermaLink="false">https://x.com/WhiteHouse/status/2069908803701649424</guid>
-      <pubDate>Wed, 24 Jun 2026 22:21:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>[jadecherry24]👀🖤🎬
-#fyp #trending #michigan #baddie</title>
-      <link>https://x.com/jadecherry24/status/2069915353438617958</link>
-      <description>👀🖤🎬
-#fyp #trending #michigan #baddie</description>
-      <guid isPermaLink="false">https://x.com/jadecherry24/status/2069915353438617958</guid>
-      <pubDate>Wed, 24 Jun 2026 22:47:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Polymarket]JUST IN: Britain records its hottest June day ever at 36.1°C (97°F), with schools shutting &amp; travel disrupted in the blistering heat.</title>
-      <link>https://x.com/Polymarket/status/2069919006320910603</link>
-      <description>JUST IN: Britain records its hottest June day ever at 36.1°C (97°F), with schools shutting &amp; travel disrupted in the blistering heat.</description>
-      <guid isPermaLink="false">https://x.com/Polymarket/status/2069919006320910603</guid>
-      <pubDate>Wed, 24 Jun 2026 23:02:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Polymarket]7.1-magnitude earthquake strikes central Venezuela, with buildings damaged &amp; power knocked out in Caracas.</title>
-      <link>https://x.com/Polymarket/status/2069927267048869997</link>
-      <description>7.1-magnitude earthquake strikes central Venezuela, with buildings damaged &amp; power knocked out in Caracas.</description>
-      <guid isPermaLink="false">https://x.com/Polymarket/status/2069927267048869997</guid>
-      <pubDate>Wed, 24 Jun 2026 23:34:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>[WhiteHouse]250 years of GLORIOUS AMERICAN FREEDOM. 
-
-President Donald J. Trump LIVE NOW 🇺🇸⬇️</title>
-      <link>https://x.com/WhiteHouse/status/2069947026310111507</link>
-      <description>250 years of GLORIOUS AMERICAN FREEDOM. 
-
-President Donald J. Trump LIVE NOW 🇺🇸⬇️</description>
-      <guid isPermaLink="false">https://x.com/WhiteHouse/status/2069947026310111507</guid>
-      <pubDate>Thu, 25 Jun 2026 00:53:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>[coder_surya]AI has its own language.
-And nobody taught you how to speak it.
-
-You've nodded through "LLMs", "RAG", and "RLHF"
-You've googled them at 11pm after a meeting.
-
-That ends today.
-Here's what every term you've been pretending to know actually means:</title>
-      <link>https://x.com/coder_surya/status/2069971340753604879</link>
-      <description>AI has its own language.
-And nobody taught you how to speak it.
-
-You've nodded through "LLMs", "RAG", and "RLHF"
-You've googled them at 11pm after a meeting.
-
-That ends today.
-Here's what every term you've been pretending to know actually means:</description>
-      <guid isPermaLink="false">https://x.com/coder_surya/status/2069971340753604879</guid>
-      <pubDate>Thu, 25 Jun 2026 02:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[GeckoTerminal]TRENDING: $WORLD is gaining traction following the project's viral cryptic post
-
-"What is @world_xyz?"</title>
-      <link>https://x.com/GeckoTerminal/status/2069981225826259108</link>
-      <description>TRENDING: $WORLD is gaining traction following the project's viral cryptic post
-
-"What is @world_xyz?"</description>
-      <guid isPermaLink="false">https://x.com/GeckoTerminal/status/2069981225826259108</guid>
-      <pubDate>Thu, 25 Jun 2026 03:09:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>[elonmusk]wise words</title>
-      <link>https://x.com/elonmusk/status/2070011809369878869</link>
-      <description>wise words</description>
-      <guid isPermaLink="false">https://x.com/elonmusk/status/2070011809369878869</guid>
-      <pubDate>Thu, 25 Jun 2026 05:10:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Polymarket]JUST IN: Turkish President Erdogan says he will “most likely” hold bilateral talks with Trump during next month’s NATO summit in Ankara.</title>
-      <link>https://x.com/Polymarket/status/2070018147956969796</link>
-      <description>JUST IN: Turkish President Erdogan says he will “most likely” hold bilateral talks with Trump during next month’s NATO summit in Ankara.</description>
-      <guid isPermaLink="false">https://x.com/Polymarket/status/2070018147956969796</guid>
-      <pubDate>Thu, 25 Jun 2026 05:36:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[elonmusk]Great interview</title>
-      <link>https://x.com/elonmusk/status/2070018851086180677</link>
-      <description>Great interview</description>
-      <guid isPermaLink="false">https://x.com/elonmusk/status/2070018851086180677</guid>
-      <pubDate>Thu, 25 Jun 2026 05:38:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>[elonmusk]https://t.co/XNsA9R17KW</title>
-      <link>https://x.com/elonmusk/status/2070019833127907423</link>
-      <description>https://t.co/XNsA9R17KW</description>
-      <guid isPermaLink="false">https://x.com/elonmusk/status/2070019833127907423</guid>
-      <pubDate>Thu, 25 Jun 2026 05:42:41 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 10 Jul 2026 07:18:11 +0000</lastBuildDate>
     <item>
       <title>[elonmusk]We need a complete overhaul of the algorithm</title>
       <link>https://x.com/elonmusk/status/2070021507645071804</link>
@@ -852,17 +607,6 @@ Blogging is mostly a work activity; translation falls in between.</description>
       <pubDate>Fri, 26 Jun 2026 15:25:48 +0000</pubDate>
     </item>
     <item>
-      <title>[AnthropicAI]Nearly half of respondents expect their work responsibilities to significantly change in the next 12 months.
-
-Fewer than 10% think they'll lose their own job within a year, but far more worry for coworkers: over 1/3 put the odds of a junior colleague losing their job above 60%.</title>
-      <link>https://x.com/AnthropicAI/status/2070528969523499460</link>
-      <description>Nearly half of respondents expect their work responsibilities to significantly change in the next 12 months.
-
-Fewer than 10% think they'll lose their own job within a year, but far more worry for coworkers: over 1/3 put the odds of a junior colleague losing their job above 60%.</description>
-      <guid isPermaLink="false">https://x.com/AnthropicAI/status/2070528969523499460</guid>
-      <pubDate>Fri, 26 Jun 2026 15:25:49 +0000</pubDate>
-    </item>
-    <item>
       <title>[AnthropicAI]This Econ Index is also the first to survey Claude users.
 
 Over 1/3 expect AI to be able to do most or nearly all of their work tasks within a year. 
@@ -875,6 +619,17 @@ Over 1/3 expect AI to be able to do most or nearly all of their work tasks withi
 
 But those who delegate the most work to AI are also the most optimistic about what it means for their pay and job security.</description>
       <guid isPermaLink="false">https://x.com/AnthropicAI/status/2070528967501849073</guid>
+      <pubDate>Fri, 26 Jun 2026 15:25:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>[AnthropicAI]Nearly half of respondents expect their work responsibilities to significantly change in the next 12 months.
+
+Fewer than 10% think they'll lose their own job within a year, but far more worry for coworkers: over 1/3 put the odds of a junior colleague losing their job above 60%.</title>
+      <link>https://x.com/AnthropicAI/status/2070528969523499460</link>
+      <description>Nearly half of respondents expect their work responsibilities to significantly change in the next 12 months.
+
+Fewer than 10% think they'll lose their own job within a year, but far more worry for coworkers: over 1/3 put the odds of a junior colleague losing their job above 60%.</description>
+      <guid isPermaLink="false">https://x.com/AnthropicAI/status/2070528969523499460</guid>
       <pubDate>Fri, 26 Jun 2026 15:25:49 +0000</pubDate>
     </item>
     <item>
@@ -903,17 +658,6 @@ Read the full report:</description>
       <pubDate>Fri, 26 Jun 2026 16:27:45 +0000</pubDate>
     </item>
     <item>
-      <title>[OpenAI]Introducing a limited preview of GPT-5.6 Sol, our next generation frontier model, as well as GPT-5.6 Terra, a balanced model for efficient, everyday work, and GPT-5.6 Luna, a fast and affordable model for high-volume work.
-
-https://openai.com/index/previewing-gpt-5-6-sol/</title>
-      <link>https://x.com/OpenAI/status/2070555272230384038</link>
-      <description>Introducing a limited preview of GPT-5.6 Sol, our next generation frontier model, as well as GPT-5.6 Terra, a balanced model for efficient, everyday work, and GPT-5.6 Luna, a fast and affordable model for high-volume work.
-
-https://openai.com/index/previewing-gpt-5-6-sol/</description>
-      <guid isPermaLink="false">https://x.com/OpenAI/status/2070555272230384038</guid>
-      <pubDate>Fri, 26 Jun 2026 17:10:20 +0000</pubDate>
-    </item>
-    <item>
       <title>[OpenAI]We believe in broad access and plan to make GPT-5.6 Sol, Terra, and Luna generally available in the coming weeks.
 
 For now, at the request of the U.S. government, we’re starting with a limited preview among a small group of trusted partners in Codex and the API.</title>
@@ -925,11 +669,15 @@ For now, at the request of the U.S. government, we’re starting with a limited 
       <pubDate>Fri, 26 Jun 2026 17:10:20 +0000</pubDate>
     </item>
     <item>
-      <title>[OpenAI]GPT‑5.6 Sol sets a new state of the art on Terminal‑Bench 2.1, which tests complex command-line workflows requiring planning, iteration, and tool coordination.</title>
-      <link>https://x.com/OpenAI/status/2070555276370169969</link>
-      <description>GPT‑5.6 Sol sets a new state of the art on Terminal‑Bench 2.1, which tests complex command-line workflows requiring planning, iteration, and tool coordination.</description>
-      <guid isPermaLink="false">https://x.com/OpenAI/status/2070555276370169969</guid>
-      <pubDate>Fri, 26 Jun 2026 17:10:21 +0000</pubDate>
+      <title>[OpenAI]Introducing a limited preview of GPT-5.6 Sol, our next generation frontier model, as well as GPT-5.6 Terra, a balanced model for efficient, everyday work, and GPT-5.6 Luna, a fast and affordable model for high-volume work.
+
+https://openai.com/index/previewing-gpt-5-6-sol/</title>
+      <link>https://x.com/OpenAI/status/2070555272230384038</link>
+      <description>Introducing a limited preview of GPT-5.6 Sol, our next generation frontier model, as well as GPT-5.6 Terra, a balanced model for efficient, everyday work, and GPT-5.6 Luna, a fast and affordable model for high-volume work.
+
+https://openai.com/index/previewing-gpt-5-6-sol/</description>
+      <guid isPermaLink="false">https://x.com/OpenAI/status/2070555272230384038</guid>
+      <pubDate>Fri, 26 Jun 2026 17:10:20 +0000</pubDate>
     </item>
     <item>
       <title>[OpenAI]Sol is our new flagship and a step function better than GPT-5.5. Terra delivers performance competitive to GPT-5.5 at 2x lower cost. Luna is our most cost-efficient model, delivering strong capability at our lowest cost.
@@ -943,6 +691,20 @@ Together, the GPT-5.6 family gives people and developers more choice in how they
       <pubDate>Fri, 26 Jun 2026 17:10:21 +0000</pubDate>
     </item>
     <item>
+      <title>[OpenAI]GPT‑5.6 Sol sets a new state of the art on Terminal‑Bench 2.1, which tests complex command-line workflows requiring planning, iteration, and tool coordination.</title>
+      <link>https://x.com/OpenAI/status/2070555276370169969</link>
+      <description>GPT‑5.6 Sol sets a new state of the art on Terminal‑Bench 2.1, which tests complex command-line workflows requiring planning, iteration, and tool coordination.</description>
+      <guid isPermaLink="false">https://x.com/OpenAI/status/2070555276370169969</guid>
+      <pubDate>Fri, 26 Jun 2026 17:10:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>[OpenAI]GPT‑5.6 Sol launches with our most robust safety stack yet. We strengthened real-time protections against high-risk cyber activity and repeated misuse...</title>
+      <link>https://x.com/OpenAI/status/2070555280052826429</link>
+      <description>GPT‑5.6 Sol launches with our most robust safety stack yet. We strengthened real-time protections against high-risk cyber activity and repeated misuse...</description>
+      <guid isPermaLink="false">https://x.com/OpenAI/status/2070555280052826429</guid>
+      <pubDate>Fri, 26 Jun 2026 17:10:22 +0000</pubDate>
+    </item>
+    <item>
       <title>[OpenAI]GPT-5.6 Sol is our most capable model yet for cybersecurity.
 
 It shifts the performance-efficiency frontier for long-horizon security tasks including vulnerability research and exploitation.</title>
@@ -951,13 +713,6 @@ It shifts the performance-efficiency frontier for long-horizon security tasks in
 
 It shifts the performance-efficiency frontier for long-horizon security tasks including vulnerability research and exploitation.</description>
       <guid isPermaLink="false">https://x.com/OpenAI/status/2070555278576439306</guid>
-      <pubDate>Fri, 26 Jun 2026 17:10:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>[OpenAI]GPT‑5.6 Sol launches with our most robust safety stack yet. We strengthened real-time protections against high-risk cyber activity and repeated misuse...</title>
-      <link>https://x.com/OpenAI/status/2070555280052826429</link>
-      <description>GPT‑5.6 Sol launches with our most robust safety stack yet. We strengthened real-time protections against high-risk cyber activity and repeated misuse...</description>
-      <guid isPermaLink="false">https://x.com/OpenAI/status/2070555280052826429</guid>
       <pubDate>Fri, 26 Jun 2026 17:10:22 +0000</pubDate>
     </item>
     <item>
@@ -1183,17 +938,10 @@ Must Follow me so I can DM you.</description>
       <pubDate>Sat, 27 Jun 2026 06:59:52 +0000</pubDate>
     </item>
     <item>
-      <title>[New_EraAI]The AI race is accelerating. The next opportunity is turning AI creations into assets people can actually own.</title>
-      <link>https://x.com/New_EraAI/status/2070767160474087814</link>
-      <description>The AI race is accelerating. The next opportunity is turning AI creations into assets people can actually own.</description>
-      <guid isPermaLink="false">https://x.com/New_EraAI/status/2070767160474087814</guid>
-      <pubDate>Sat, 27 Jun 2026 07:12:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>[tama91sasa]AI赋予了数字资产真正的灵魂</title>
-      <link>https://x.com/tama91sasa/status/2070767161518240062</link>
-      <description>AI赋予了数字资产真正的灵魂</description>
-      <guid isPermaLink="false">https://x.com/tama91sasa/status/2070767161518240062</guid>
+      <title>[occultkeiba]ブロック速度は河野太郎並みwww</title>
+      <link>https://x.com/occultkeiba/status/2070767161111699568</link>
+      <description>ブロック速度は河野太郎並みwww</description>
+      <guid isPermaLink="false">https://x.com/occultkeiba/status/2070767161111699568</guid>
       <pubDate>Sat, 27 Jun 2026 07:12:18 +0000</pubDate>
     </item>
     <item>
@@ -1204,31 +952,24 @@ Must Follow me so I can DM you.</description>
       <pubDate>Sat, 27 Jun 2026 07:12:18 +0000</pubDate>
     </item>
     <item>
-      <title>[occultkeiba]ブロック速度は河野太郎並みwww</title>
-      <link>https://x.com/occultkeiba/status/2070767161111699568</link>
-      <description>ブロック速度は河野太郎並みwww</description>
-      <guid isPermaLink="false">https://x.com/occultkeiba/status/2070767161111699568</guid>
+      <title>[tama91sasa]AI赋予了数字资产真正的灵魂</title>
+      <link>https://x.com/tama91sasa/status/2070767161518240062</link>
+      <description>AI赋予了数字资产真正的灵魂</description>
+      <guid isPermaLink="false">https://x.com/tama91sasa/status/2070767161518240062</guid>
       <pubDate>Sat, 27 Jun 2026 07:12:18 +0000</pubDate>
     </item>
     <item>
-      <title>[PlayMXBet]That’s Estadio Akron in Mexico 🇲🇽🔥</title>
-      <link>https://x.com/PlayMXBet/status/2070767165037478336</link>
-      <description>That’s Estadio Akron in Mexico 🇲🇽🔥</description>
-      <guid isPermaLink="false">https://x.com/PlayMXBet/status/2070767165037478336</guid>
-      <pubDate>Sat, 27 Jun 2026 07:12:19 +0000</pubDate>
+      <title>[New_EraAI]The AI race is accelerating. The next opportunity is turning AI creations into assets people can actually own.</title>
+      <link>https://x.com/New_EraAI/status/2070767160474087814</link>
+      <description>The AI race is accelerating. The next opportunity is turning AI creations into assets people can actually own.</description>
+      <guid isPermaLink="false">https://x.com/New_EraAI/status/2070767160474087814</guid>
+      <pubDate>Sat, 27 Jun 2026 07:12:18 +0000</pubDate>
     </item>
     <item>
-      <title>[1256Dekopon]速報：OpenAIがGPT-5.6を限定プレビューで正式リリースしたよ。</title>
-      <link>https://x.com/1256Dekopon/status/2070767163800232241</link>
-      <description>速報：OpenAIがGPT-5.6を限定プレビューで正式リリースしたよ。</description>
-      <guid isPermaLink="false">https://x.com/1256Dekopon/status/2070767163800232241</guid>
-      <pubDate>Sat, 27 Jun 2026 07:12:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>[mingisbbytooth]Atinys calling a*z sex crazed freaks, claiming they used ai to write the lyrics bcz they “make no sense”, wishing they enlist asap, saying the entire album is unsalvageable and boycotting … it really is comeback season!</title>
-      <link>https://x.com/mingisbbytooth/status/2070767162466115948</link>
-      <description>Atinys calling a*z sex crazed freaks, claiming they used ai to write the lyrics bcz they “make no sense”, wishing they enlist asap, saying the entire album is unsalvageable and boycotting … it really is comeback season!</description>
-      <guid isPermaLink="false">https://x.com/mingisbbytooth/status/2070767162466115948</guid>
+      <title>[HKow3s]なんか凄すぎる😅 ある意味、iPhoneが誕生した時よりもかな？ OpenAI、次世代「GPT-5.6」シリーズを限定プレビュー　米政府と調整、命名は「Sol／Terra／Luna」に刷新（ITmedia NEWS） https://news.yahoo.co.jp/articles/a7aa4a3a39ef9867c032b14bb7f0d281552abba1</title>
+      <link>https://x.com/HKow3s/status/2070767161715708185</link>
+      <description>なんか凄すぎる😅 ある意味、iPhoneが誕生した時よりもかな？ OpenAI、次世代「GPT-5.6」シリーズを限定プレビュー　米政府と調整、命名は「Sol／Terra／Luna」に刷新（ITmedia NEWS） https://news.yahoo.co.jp/articles/a7aa4a3a39ef9867c032b14bb7f0d281552abba1</description>
+      <guid isPermaLink="false">https://x.com/HKow3s/status/2070767161715708185</guid>
       <pubDate>Sat, 27 Jun 2026 07:12:19 +0000</pubDate>
     </item>
     <item>
@@ -1239,10 +980,24 @@ Must Follow me so I can DM you.</description>
       <pubDate>Sat, 27 Jun 2026 07:12:19 +0000</pubDate>
     </item>
     <item>
-      <title>[HKow3s]なんか凄すぎる😅 ある意味、iPhoneが誕生した時よりもかな？ OpenAI、次世代「GPT-5.6」シリーズを限定プレビュー　米政府と調整、命名は「Sol／Terra／Luna」に刷新（ITmedia NEWS） https://news.yahoo.co.jp/articles/a7aa4a3a39ef9867c032b14bb7f0d281552abba1</title>
-      <link>https://x.com/HKow3s/status/2070767161715708185</link>
-      <description>なんか凄すぎる😅 ある意味、iPhoneが誕生した時よりもかな？ OpenAI、次世代「GPT-5.6」シリーズを限定プレビュー　米政府と調整、命名は「Sol／Terra／Luna」に刷新（ITmedia NEWS） https://news.yahoo.co.jp/articles/a7aa4a3a39ef9867c032b14bb7f0d281552abba1</description>
-      <guid isPermaLink="false">https://x.com/HKow3s/status/2070767161715708185</guid>
+      <title>[mingisbbytooth]Atinys calling a*z sex crazed freaks, claiming they used ai to write the lyrics bcz they “make no sense”, wishing they enlist asap, saying the entire album is unsalvageable and boycotting … it really is comeback season!</title>
+      <link>https://x.com/mingisbbytooth/status/2070767162466115948</link>
+      <description>Atinys calling a*z sex crazed freaks, claiming they used ai to write the lyrics bcz they “make no sense”, wishing they enlist asap, saying the entire album is unsalvageable and boycotting … it really is comeback season!</description>
+      <guid isPermaLink="false">https://x.com/mingisbbytooth/status/2070767162466115948</guid>
+      <pubDate>Sat, 27 Jun 2026 07:12:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>[1256Dekopon]速報：OpenAIがGPT-5.6を限定プレビューで正式リリースしたよ。</title>
+      <link>https://x.com/1256Dekopon/status/2070767163800232241</link>
+      <description>速報：OpenAIがGPT-5.6を限定プレビューで正式リリースしたよ。</description>
+      <guid isPermaLink="false">https://x.com/1256Dekopon/status/2070767163800232241</guid>
+      <pubDate>Sat, 27 Jun 2026 07:12:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>[PlayMXBet]That’s Estadio Akron in Mexico 🇲🇽🔥</title>
+      <link>https://x.com/PlayMXBet/status/2070767165037478336</link>
+      <description>That’s Estadio Akron in Mexico 🇲🇽🔥</description>
+      <guid isPermaLink="false">https://x.com/PlayMXBet/status/2070767165037478336</guid>
       <pubDate>Sat, 27 Jun 2026 07:12:19 +0000</pubDate>
     </item>
     <item>
@@ -1296,21 +1051,6 @@ Bookmark it and give it an hour, no matter what.</description>
       <pubDate>Sat, 27 Jun 2026 17:57:56 +0000</pubDate>
     </item>
     <item>
-      <title>[Pradeep891730]We provide Privacy safe Synthetic Data, AI Models and Decision Engines for Legal domain.
-
-DM or email pradeep@xpertsystems.ai for samples and pricing 
-
-https://www.xpertsystems.ai/synthetic-data-factory.html#catalog</title>
-      <link>https://x.com/Pradeep891730/status/2070938271467909363</link>
-      <description>We provide Privacy safe Synthetic Data, AI Models and Decision Engines for Legal domain.
-
-DM or email pradeep@xpertsystems.ai for samples and pricing 
-
-https://www.xpertsystems.ai/synthetic-data-factory.html#catalog</description>
-      <guid isPermaLink="false">https://x.com/Pradeep891730/status/2070938271467909363</guid>
-      <pubDate>Sat, 27 Jun 2026 18:32:14 +0000</pubDate>
-    </item>
-    <item>
       <title>[SantaniSubhajit]"Happy Birthday @elonmusk
 !   From India with so much love and respect 🙏♥️
 
@@ -1340,6 +1080,32 @@ Wishing you massive success, good health, and an epic year ahead.
       <pubDate>Sat, 27 Jun 2026 18:32:14 +0000</pubDate>
     </item>
     <item>
+      <title>[Pradeep891730]We provide Privacy safe Synthetic Data, AI Models and Decision Engines for Legal domain.
+
+DM or email pradeep@xpertsystems.ai for samples and pricing 
+
+https://www.xpertsystems.ai/synthetic-data-factory.html#catalog</title>
+      <link>https://x.com/Pradeep891730/status/2070938271467909363</link>
+      <description>We provide Privacy safe Synthetic Data, AI Models and Decision Engines for Legal domain.
+
+DM or email pradeep@xpertsystems.ai for samples and pricing 
+
+https://www.xpertsystems.ai/synthetic-data-factory.html#catalog</description>
+      <guid isPermaLink="false">https://x.com/Pradeep891730/status/2070938271467909363</guid>
+      <pubDate>Sat, 27 Jun 2026 18:32:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>[zipx_ai]DeepSeek plans to double every department. For filmmakers, that means more open-weight models hitting the pipeline. But more models doesn't mean more usable tools — it means more ways to generate a beautiful frame with no idea why it belongs in the story. Model scaling solves compute, not creative intent. The real gap remains: how do you tell an AI "the pacing is off" without learning its secret menu? That's the bottleneck no hiring spree fixes.
+
+#ZipX #ContentCreator</title>
+      <link>https://x.com/zipx_ai/status/2070938273342718411</link>
+      <description>DeepSeek plans to double every department. For filmmakers, that means more open-weight models hitting the pipeline. But more models doesn't mean more usable tools — it means more ways to generate a beautiful frame with no idea why it belongs in the story. Model scaling solves compute, not creative intent. The real gap remains: how do you tell an AI "the pacing is off" without learning its secret menu? That's the bottleneck no hiring spree fixes.
+
+#ZipX #ContentCreator</description>
+      <guid isPermaLink="false">https://x.com/zipx_ai/status/2070938273342718411</guid>
+      <pubDate>Sat, 27 Jun 2026 18:32:15 +0000</pubDate>
+    </item>
+    <item>
       <title>[shahvishwas24]Cannes Lions 2026 winners didn't make better ads.
 
 They built entertainment platforms. Stories people could join, not just watch.
@@ -1359,27 +1125,10 @@ That's the only moat left.</description>
       <pubDate>Sat, 27 Jun 2026 18:32:15 +0000</pubDate>
     </item>
     <item>
-      <title>[zipx_ai]DeepSeek plans to double every department. For filmmakers, that means more open-weight models hitting the pipeline. But more models doesn't mean more usable tools — it means more ways to generate a beautiful frame with no idea why it belongs in the story. Model scaling solves compute, not creative intent. The real gap remains: how do you tell an AI "the pacing is off" without learning its secret menu? That's the bottleneck no hiring spree fixes.
-
-#ZipX #ContentCreator</title>
-      <link>https://x.com/zipx_ai/status/2070938273342718411</link>
-      <description>DeepSeek plans to double every department. For filmmakers, that means more open-weight models hitting the pipeline. But more models doesn't mean more usable tools — it means more ways to generate a beautiful frame with no idea why it belongs in the story. Model scaling solves compute, not creative intent. The real gap remains: how do you tell an AI "the pacing is off" without learning its secret menu? That's the bottleneck no hiring spree fixes.
-
-#ZipX #ContentCreator</description>
-      <guid isPermaLink="false">https://x.com/zipx_ai/status/2070938273342718411</guid>
-      <pubDate>Sat, 27 Jun 2026 18:32:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Steve31873]Is this AI ?
-If not they've got a certifiable Retard as a Cop here
-
-#southampton #birmingham #wessex #sussex #Toronto #Bolton #Wigan #Bristol #Dublin #Cardiff #Cork #Glasgow #Brighton #manchester #Suffolk #Yorkshire #UK #chesterfield #london #england #wales #liverpool #burnley</title>
-      <link>https://x.com/Steve31873/status/2070938284826472481</link>
-      <description>Is this AI ?
-If not they've got a certifiable Retard as a Cop here
-
-#southampton #birmingham #wessex #sussex #Toronto #Bolton #Wigan #Bristol #Dublin #Cardiff #Cork #Glasgow #Brighton #manchester #Suffolk #Yorkshire #UK #chesterfield #london #england #wales #liverpool #burnley</description>
-      <guid isPermaLink="false">https://x.com/Steve31873/status/2070938284826472481</guid>
+      <title>[AhbasAabas]As #AI continues to reshape industries, decentralized collaboration will play a role in building transparent and reliable systems. @flock_io is helping drive that vision by joining contributors through open ideas #FLock empowers community driven inteligence for the future. $FLock</title>
+      <link>https://x.com/AhbasAabas/status/2070938283077439788</link>
+      <description>As #AI continues to reshape industries, decentralized collaboration will play a role in building transparent and reliable systems. @flock_io is helping drive that vision by joining contributors through open ideas #FLock empowers community driven inteligence for the future. $FLock</description>
+      <guid isPermaLink="false">https://x.com/AhbasAabas/status/2070938283077439788</guid>
       <pubDate>Sat, 27 Jun 2026 18:32:17 +0000</pubDate>
     </item>
     <item>
@@ -1394,10 +1143,16 @@ Why is the NHL Network having AI Viagra commercials on their channel 😂</descr
       <pubDate>Sat, 27 Jun 2026 18:32:17 +0000</pubDate>
     </item>
     <item>
-      <title>[AhbasAabas]As #AI continues to reshape industries, decentralized collaboration will play a role in building transparent and reliable systems. @flock_io is helping drive that vision by joining contributors through open ideas #FLock empowers community driven inteligence for the future. $FLock</title>
-      <link>https://x.com/AhbasAabas/status/2070938283077439788</link>
-      <description>As #AI continues to reshape industries, decentralized collaboration will play a role in building transparent and reliable systems. @flock_io is helping drive that vision by joining contributors through open ideas #FLock empowers community driven inteligence for the future. $FLock</description>
-      <guid isPermaLink="false">https://x.com/AhbasAabas/status/2070938283077439788</guid>
+      <title>[Steve31873]Is this AI ?
+If not they've got a certifiable Retard as a Cop here
+
+#southampton #birmingham #wessex #sussex #Toronto #Bolton #Wigan #Bristol #Dublin #Cardiff #Cork #Glasgow #Brighton #manchester #Suffolk #Yorkshire #UK #chesterfield #london #england #wales #liverpool #burnley</title>
+      <link>https://x.com/Steve31873/status/2070938284826472481</link>
+      <description>Is this AI ?
+If not they've got a certifiable Retard as a Cop here
+
+#southampton #birmingham #wessex #sussex #Toronto #Bolton #Wigan #Bristol #Dublin #Cardiff #Cork #Glasgow #Brighton #manchester #Suffolk #Yorkshire #UK #chesterfield #london #england #wales #liverpool #burnley</description>
+      <guid isPermaLink="false">https://x.com/Steve31873/status/2070938284826472481</guid>
       <pubDate>Sat, 27 Jun 2026 18:32:17 +0000</pubDate>
     </item>
     <item>
@@ -2686,15 +2441,6 @@ Ad: best trading terminal https://axiom.trade/@leakme</description>
       <pubDate>Thu, 02 Jul 2026 07:14:19 +0000</pubDate>
     </item>
     <item>
-      <title>[WAHMRevolution]❤️ Know an adult who loves coloring books? They also make excellent gifts!
-Explore Amazon's Dandelion and Lemon Books. https://www.amazon.com/stores/Dandelion-and-Lemon-Books/author/B08T6P7LNM?store_ref=ap_rdr&amp;isDramIntegrated=true&amp;shoppingPortalEnabled=true&amp;linkCode=shr&amp;tag=worathommomre-20&amp;language=en_US&amp;ref_=as_li_ss_shr&amp;camp=213733&amp;creative=undefined&amp;linkId=3a703aa2960329c28d7396e14e462fad via @amazon #coloring #coloringbook #colouring #gift #giftideas #affiliate #fun #coloring #colouring #coloringbook #colouringbook #gift #giftidea</title>
-      <link>https://x.com/WAHMRevolution/status/2072579634244321535</link>
-      <description>❤️ Know an adult who loves coloring books? They also make excellent gifts!
-Explore Amazon's Dandelion and Lemon Books. https://www.amazon.com/stores/Dandelion-and-Lemon-Books/author/B08T6P7LNM?store_ref=ap_rdr&amp;isDramIntegrated=true&amp;shoppingPortalEnabled=true&amp;linkCode=shr&amp;tag=worathommomre-20&amp;language=en_US&amp;ref_=as_li_ss_shr&amp;camp=213733&amp;creative=undefined&amp;linkId=3a703aa2960329c28d7396e14e462fad via @amazon #coloring #coloringbook #colouring #gift #giftideas #affiliate #fun #coloring #colouring #coloringbook #colouringbook #gift #giftidea</description>
-      <guid isPermaLink="false">https://x.com/WAHMRevolution/status/2072579634244321535</guid>
-      <pubDate>Thu, 02 Jul 2026 07:14:26 +0000</pubDate>
-    </item>
-    <item>
       <title>[Aditya0wdi1]Uske kareeb aake laga, jaise sukoon ka bhi ek chehra hota hai. 🌙❤️
 
 #RomanticVibes #Aesthetic #LoveStory #Ishq #MoodPost #Cinematic #SoftLove #Pyar #Trending</title>
@@ -2703,6 +2449,15 @@ Explore Amazon's Dandelion and Lemon Books. https://www.amazon.com/stores/Dandel
 
 #RomanticVibes #Aesthetic #LoveStory #Ishq #MoodPost #Cinematic #SoftLove #Pyar #Trending</description>
       <guid isPermaLink="false">https://x.com/Aditya0wdi1/status/2072579634928250992</guid>
+      <pubDate>Thu, 02 Jul 2026 07:14:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>[WAHMRevolution]❤️ Know an adult who loves coloring books? They also make excellent gifts!
+Explore Amazon's Dandelion and Lemon Books. https://www.amazon.com/stores/Dandelion-and-Lemon-Books/author/B08T6P7LNM?store_ref=ap_rdr&amp;isDramIntegrated=true&amp;shoppingPortalEnabled=true&amp;linkCode=shr&amp;tag=worathommomre-20&amp;language=en_US&amp;ref_=as_li_ss_shr&amp;camp=213733&amp;creative=undefined&amp;linkId=3a703aa2960329c28d7396e14e462fad via @amazon #coloring #coloringbook #colouring #gift #giftideas #affiliate #fun #coloring #colouring #coloringbook #colouringbook #gift #giftidea</title>
+      <link>https://x.com/WAHMRevolution/status/2072579634244321535</link>
+      <description>❤️ Know an adult who loves coloring books? They also make excellent gifts!
+Explore Amazon's Dandelion and Lemon Books. https://www.amazon.com/stores/Dandelion-and-Lemon-Books/author/B08T6P7LNM?store_ref=ap_rdr&amp;isDramIntegrated=true&amp;shoppingPortalEnabled=true&amp;linkCode=shr&amp;tag=worathommomre-20&amp;language=en_US&amp;ref_=as_li_ss_shr&amp;camp=213733&amp;creative=undefined&amp;linkId=3a703aa2960329c28d7396e14e462fad via @amazon #coloring #coloringbook #colouring #gift #giftideas #affiliate #fun #coloring #colouring #coloringbook #colouringbook #gift #giftidea</description>
+      <guid isPermaLink="false">https://x.com/WAHMRevolution/status/2072579634244321535</guid>
       <pubDate>Thu, 02 Jul 2026 07:14:26 +0000</pubDate>
     </item>
     <item>
@@ -2727,6 +2482,41 @@ Start today with gratitude, positivity, and a smile. Have a blessed day! 🌿☀
 #GOODMORNİNG #haveaniceday #Trending</description>
       <guid isPermaLink="false">https://x.com/Hanesh_hk/status/2072579650325565618</guid>
       <pubDate>Thu, 02 Jul 2026 07:14:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>[muvaxidd7]Drive</title>
+      <link>https://x.com/muvaxidd7/status/2072579709083226579</link>
+      <description>Drive</description>
+      <guid isPermaLink="false">https://x.com/muvaxidd7/status/2072579709083226579</guid>
+      <pubDate>Thu, 02 Jul 2026 07:14:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>[bunnysugu97]i’m gonna write a fanfiction and it’s going to be so horrible and badly written but at least it won’t be ai</title>
+      <link>https://x.com/bunnysugu97/status/2072579708789596454</link>
+      <description>i’m gonna write a fanfiction and it’s going to be so horrible and badly written but at least it won’t be ai</description>
+      <guid isPermaLink="false">https://x.com/bunnysugu97/status/2072579708789596454</guid>
+      <pubDate>Thu, 02 Jul 2026 07:14:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>[desnnr]Created using AI Ease: Here's Rosé from Blackpink as Marvel's X-Force mutant Domino - a skilled martial artist and sharpshooter, who can influence probability and events in her own favor.</title>
+      <link>https://x.com/desnnr/status/2072579708592513238</link>
+      <description>Created using AI Ease: Here's Rosé from Blackpink as Marvel's X-Force mutant Domino - a skilled martial artist and sharpshooter, who can influence probability and events in her own favor.</description>
+      <guid isPermaLink="false">https://x.com/desnnr/status/2072579708592513238</guid>
+      <pubDate>Thu, 02 Jul 2026 07:14:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>[quraAiX]The irony is most founders who ask the first question think they're asking the second one.</title>
+      <link>https://x.com/quraAiX/status/2072579707996897644</link>
+      <description>The irony is most founders who ask the first question think they're asking the second one.</description>
+      <guid isPermaLink="false">https://x.com/quraAiX/status/2072579707996897644</guid>
+      <pubDate>Thu, 02 Jul 2026 07:14:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>[podcastor_ai]welcome back🥳</title>
+      <link>https://x.com/podcastor_ai/status/2072579707976253735</link>
+      <description>welcome back🥳</description>
+      <guid isPermaLink="false">https://x.com/podcastor_ai/status/2072579707976253735</guid>
+      <pubDate>Thu, 02 Jul 2026 07:14:43 +0000</pubDate>
     </item>
     <item>
       <title>[unihackfest]🌟 Mentor Spotlight | @tuanpmhd 
@@ -2768,59 +2558,10 @@ Ecosystem Partners: @MEXCVietnam,  @solana,  @solana_devs_vn,  @SolanaFndn, @ope
       <pubDate>Thu, 02 Jul 2026 07:14:43 +0000</pubDate>
     </item>
     <item>
-      <title>[podcastor_ai]welcome back🥳</title>
-      <link>https://x.com/podcastor_ai/status/2072579707976253735</link>
-      <description>welcome back🥳</description>
-      <guid isPermaLink="false">https://x.com/podcastor_ai/status/2072579707976253735</guid>
-      <pubDate>Thu, 02 Jul 2026 07:14:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>[quraAiX]The irony is most founders who ask the first question think they're asking the second one.</title>
-      <link>https://x.com/quraAiX/status/2072579707996897644</link>
-      <description>The irony is most founders who ask the first question think they're asking the second one.</description>
-      <guid isPermaLink="false">https://x.com/quraAiX/status/2072579707996897644</guid>
-      <pubDate>Thu, 02 Jul 2026 07:14:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>[desnnr]Created using AI Ease: Here's Rosé from Blackpink as Marvel's X-Force mutant Domino - a skilled martial artist and sharpshooter, who can influence probability and events in her own favor.</title>
-      <link>https://x.com/desnnr/status/2072579708592513238</link>
-      <description>Created using AI Ease: Here's Rosé from Blackpink as Marvel's X-Force mutant Domino - a skilled martial artist and sharpshooter, who can influence probability and events in her own favor.</description>
-      <guid isPermaLink="false">https://x.com/desnnr/status/2072579708592513238</guid>
-      <pubDate>Thu, 02 Jul 2026 07:14:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>[bunnysugu97]i’m gonna write a fanfiction and it’s going to be so horrible and badly written but at least it won’t be ai</title>
-      <link>https://x.com/bunnysugu97/status/2072579708789596454</link>
-      <description>i’m gonna write a fanfiction and it’s going to be so horrible and badly written but at least it won’t be ai</description>
-      <guid isPermaLink="false">https://x.com/bunnysugu97/status/2072579708789596454</guid>
-      <pubDate>Thu, 02 Jul 2026 07:14:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>[muvaxidd7]Drive</title>
-      <link>https://x.com/muvaxidd7/status/2072579709083226579</link>
-      <description>Drive</description>
-      <guid isPermaLink="false">https://x.com/muvaxidd7/status/2072579709083226579</guid>
-      <pubDate>Thu, 02 Jul 2026 07:14:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>[0xLeona06x]@Cankriptoxwin</title>
-      <link>https://x.com/0xLeona06x/status/2072579709939200496</link>
-      <description>@Cankriptoxwin</description>
-      <guid isPermaLink="false">https://x.com/0xLeona06x/status/2072579709939200496</guid>
-      <pubDate>Thu, 02 Jul 2026 07:14:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>[kmret26]【4人】「全員一致ゲーム＆全員不一致ゲーム」で連続目指したら地獄でした https://www.youtube.com/watch?si=7_G2mrmBXXMwF2xb&amp;v=ou4lp_3te9U&amp;feature=youtu.be @YouTubeより</title>
-      <link>https://x.com/kmret26/status/2072579710538994120</link>
-      <description>【4人】「全員一致ゲーム＆全員不一致ゲーム」で連続目指したら地獄でした https://www.youtube.com/watch?si=7_G2mrmBXXMwF2xb&amp;v=ou4lp_3te9U&amp;feature=youtu.be @YouTubeより</description>
-      <guid isPermaLink="false">https://x.com/kmret26/status/2072579710538994120</guid>
-      <pubDate>Thu, 02 Jul 2026 07:14:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>[kpoeira]mas ai ficariam duas camisas com cores claras e nao serviriam pra contrastar quando fosse jogar com outro time de camisa amarela, por exemplo</title>
-      <link>https://x.com/kpoeira/status/2072579710668898590</link>
-      <description>mas ai ficariam duas camisas com cores claras e nao serviriam pra contrastar quando fosse jogar com outro time de camisa amarela, por exemplo</description>
-      <guid isPermaLink="false">https://x.com/kpoeira/status/2072579710668898590</guid>
+      <title>[GrainesDEnt]Le saviez vous ? j'habite en zone rurale et j'ai de l'électricité</title>
+      <link>https://x.com/GrainesDEnt/status/2072579710836424834</link>
+      <description>Le saviez vous ? j'habite en zone rurale et j'ai de l'électricité</description>
+      <guid isPermaLink="false">https://x.com/GrainesDEnt/status/2072579710836424834</guid>
       <pubDate>Thu, 02 Jul 2026 07:14:44 +0000</pubDate>
     </item>
     <item>
@@ -2831,10 +2572,24 @@ Ecosystem Partners: @MEXCVietnam,  @solana,  @solana_devs_vn,  @SolanaFndn, @ope
       <pubDate>Thu, 02 Jul 2026 07:14:44 +0000</pubDate>
     </item>
     <item>
-      <title>[GrainesDEnt]Le saviez vous ? j'habite en zone rurale et j'ai de l'électricité</title>
-      <link>https://x.com/GrainesDEnt/status/2072579710836424834</link>
-      <description>Le saviez vous ? j'habite en zone rurale et j'ai de l'électricité</description>
-      <guid isPermaLink="false">https://x.com/GrainesDEnt/status/2072579710836424834</guid>
+      <title>[kpoeira]mas ai ficariam duas camisas com cores claras e nao serviriam pra contrastar quando fosse jogar com outro time de camisa amarela, por exemplo</title>
+      <link>https://x.com/kpoeira/status/2072579710668898590</link>
+      <description>mas ai ficariam duas camisas com cores claras e nao serviriam pra contrastar quando fosse jogar com outro time de camisa amarela, por exemplo</description>
+      <guid isPermaLink="false">https://x.com/kpoeira/status/2072579710668898590</guid>
+      <pubDate>Thu, 02 Jul 2026 07:14:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>[kmret26]【4人】「全員一致ゲーム＆全員不一致ゲーム」で連続目指したら地獄でした https://www.youtube.com/watch?si=7_G2mrmBXXMwF2xb&amp;v=ou4lp_3te9U&amp;feature=youtu.be @YouTubeより</title>
+      <link>https://x.com/kmret26/status/2072579710538994120</link>
+      <description>【4人】「全員一致ゲーム＆全員不一致ゲーム」で連続目指したら地獄でした https://www.youtube.com/watch?si=7_G2mrmBXXMwF2xb&amp;v=ou4lp_3te9U&amp;feature=youtu.be @YouTubeより</description>
+      <guid isPermaLink="false">https://x.com/kmret26/status/2072579710538994120</guid>
+      <pubDate>Thu, 02 Jul 2026 07:14:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>[0xLeona06x]@Cankriptoxwin</title>
+      <link>https://x.com/0xLeona06x/status/2072579709939200496</link>
+      <description>@Cankriptoxwin</description>
+      <guid isPermaLink="false">https://x.com/0xLeona06x/status/2072579709939200496</guid>
       <pubDate>Thu, 02 Jul 2026 07:14:44 +0000</pubDate>
     </item>
     <item>
@@ -2860,17 +2615,10 @@ Ecosystem Partners: @MEXCVietnam,  @solana,  @solana_devs_vn,  @SolanaFndn, @ope
       <pubDate>Thu, 02 Jul 2026 12:45:30 +0000</pubDate>
     </item>
     <item>
-      <title>[iansltx]Hot take: governments shouldn't have ownership stakes in AI labs. The way to redistribute value from them is having a VAT on inference/licensing/fine-tuning revenue.</title>
-      <link>https://x.com/iansltx/status/2072662956597264745</link>
-      <description>Hot take: governments shouldn't have ownership stakes in AI labs. The way to redistribute value from them is having a VAT on inference/licensing/fine-tuning revenue.</description>
-      <guid isPermaLink="false">https://x.com/iansltx/status/2072662956597264745</guid>
-      <pubDate>Thu, 02 Jul 2026 12:45:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>[3Dplanman]More fake AI click bait for dollars</title>
-      <link>https://x.com/3Dplanman/status/2072662955624124433</link>
-      <description>More fake AI click bait for dollars</description>
-      <guid isPermaLink="false">https://x.com/3Dplanman/status/2072662955624124433</guid>
+      <title>[VenaurGaming]I think Lenovo FIFA AI Pro analyzes #Millions of data points ahead of the FIFA World Cup 2026™. Want to make a guess? Lock in your answer for a chance to win! #sweepstakes @Lenovo</title>
+      <link>https://x.com/VenaurGaming/status/2072662953778663579</link>
+      <description>I think Lenovo FIFA AI Pro analyzes #Millions of data points ahead of the FIFA World Cup 2026™. Want to make a guess? Lock in your answer for a chance to win! #sweepstakes @Lenovo</description>
+      <guid isPermaLink="false">https://x.com/VenaurGaming/status/2072662953778663579</guid>
       <pubDate>Thu, 02 Jul 2026 12:45:31 +0000</pubDate>
     </item>
     <item>
@@ -2881,10 +2629,17 @@ Ecosystem Partners: @MEXCVietnam,  @solana,  @solana_devs_vn,  @SolanaFndn, @ope
       <pubDate>Thu, 02 Jul 2026 12:45:31 +0000</pubDate>
     </item>
     <item>
-      <title>[VenaurGaming]I think Lenovo FIFA AI Pro analyzes #Millions of data points ahead of the FIFA World Cup 2026™. Want to make a guess? Lock in your answer for a chance to win! #sweepstakes @Lenovo</title>
-      <link>https://x.com/VenaurGaming/status/2072662953778663579</link>
-      <description>I think Lenovo FIFA AI Pro analyzes #Millions of data points ahead of the FIFA World Cup 2026™. Want to make a guess? Lock in your answer for a chance to win! #sweepstakes @Lenovo</description>
-      <guid isPermaLink="false">https://x.com/VenaurGaming/status/2072662953778663579</guid>
+      <title>[3Dplanman]More fake AI click bait for dollars</title>
+      <link>https://x.com/3Dplanman/status/2072662955624124433</link>
+      <description>More fake AI click bait for dollars</description>
+      <guid isPermaLink="false">https://x.com/3Dplanman/status/2072662955624124433</guid>
+      <pubDate>Thu, 02 Jul 2026 12:45:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>[iansltx]Hot take: governments shouldn't have ownership stakes in AI labs. The way to redistribute value from them is having a VAT on inference/licensing/fine-tuning revenue.</title>
+      <link>https://x.com/iansltx/status/2072662956597264745</link>
+      <description>Hot take: governments shouldn't have ownership stakes in AI labs. The way to redistribute value from them is having a VAT on inference/licensing/fine-tuning revenue.</description>
+      <guid isPermaLink="false">https://x.com/iansltx/status/2072662956597264745</guid>
       <pubDate>Thu, 02 Jul 2026 12:45:31 +0000</pubDate>
     </item>
     <item>
@@ -3545,13 +3300,6 @@ Citizen Vigilante - speaks for all of us.</description>
       <pubDate>Sat, 04 Jul 2026 00:45:12 +0000</pubDate>
     </item>
     <item>
-      <title>[Takumixbt]I use Antigravity, There's nothing like it currently in the AI space. Call it what you want</title>
-      <link>https://x.com/Takumixbt/status/2073302369312362838</link>
-      <description>I use Antigravity, There's nothing like it currently in the AI space. Call it what you want</description>
-      <guid isPermaLink="false">https://x.com/Takumixbt/status/2073302369312362838</guid>
-      <pubDate>Sat, 04 Jul 2026 07:06:19 +0000</pubDate>
-    </item>
-    <item>
       <title>[Daniyal_Nasim_7]The Ultimate Google AI Cheat Sheet! 🚀
 
 Looking to level up your workflow or development stack? 
@@ -3572,6 +3320,13 @@ deep learning infrastructures.
 Which of these tools are already in your daily workflow? 👇
 #ArtificialIntelligence #GoogleAI #TechTools #DataScience #MachineLearning #Productivity</description>
       <guid isPermaLink="false">https://x.com/Daniyal_Nasim_7/status/2073302367752298914</guid>
+      <pubDate>Sat, 04 Jul 2026 07:06:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Takumixbt]I use Antigravity, There's nothing like it currently in the AI space. Call it what you want</title>
+      <link>https://x.com/Takumixbt/status/2073302369312362838</link>
+      <description>I use Antigravity, There's nothing like it currently in the AI space. Call it what you want</description>
+      <guid isPermaLink="false">https://x.com/Takumixbt/status/2073302369312362838</guid>
       <pubDate>Sat, 04 Jul 2026 07:06:19 +0000</pubDate>
     </item>
     <item>
@@ -3725,6 +3480,25 @@ He frames it not as a risk, but as the whole point:
       <pubDate>Sat, 04 Jul 2026 12:30:21 +0000</pubDate>
     </item>
     <item>
+      <title>[SuperEngineerX]Fix anything instantly. ⚡
+
+Super Engineer delivers AI-powered, step-by-step technical guidance with page-specific manufacturer citations.
+
+Watch it tackle a C-TEC fire alarm panel 👇
+
+#FireSafety #AI</title>
+      <link>https://x.com/SuperEngineerX/status/2073383943697821992</link>
+      <description>Fix anything instantly. ⚡
+
+Super Engineer delivers AI-powered, step-by-step technical guidance with page-specific manufacturer citations.
+
+Watch it tackle a C-TEC fire alarm panel 👇
+
+#FireSafety #AI</description>
+      <guid isPermaLink="false">https://x.com/SuperEngineerX/status/2073383943697821992</guid>
+      <pubDate>Sat, 04 Jul 2026 12:30:28 +0000</pubDate>
+    </item>
+    <item>
       <title>[LirahHere]🔓📝 Upcoming Token Unlocks
 
 $GRASS $16.3M (5.18% of M.Cap)
@@ -3758,25 +3532,6 @@ https://t.me/+6D4TkmDBVY04Y2I0</description>
       <pubDate>Sat, 04 Jul 2026 12:30:28 +0000</pubDate>
     </item>
     <item>
-      <title>[SuperEngineerX]Fix anything instantly. ⚡
-
-Super Engineer delivers AI-powered, step-by-step technical guidance with page-specific manufacturer citations.
-
-Watch it tackle a C-TEC fire alarm panel 👇
-
-#FireSafety #AI</title>
-      <link>https://x.com/SuperEngineerX/status/2073383943697821992</link>
-      <description>Fix anything instantly. ⚡
-
-Super Engineer delivers AI-powered, step-by-step technical guidance with page-specific manufacturer citations.
-
-Watch it tackle a C-TEC fire alarm panel 👇
-
-#FireSafety #AI</description>
-      <guid isPermaLink="false">https://x.com/SuperEngineerX/status/2073383943697821992</guid>
-      <pubDate>Sat, 04 Jul 2026 12:30:28 +0000</pubDate>
-    </item>
-    <item>
       <title>[WhiteHouse]The 250th anniversary of America is a big deal. Let's celebrate freedom and independence!</title>
       <link>https://x.com/WhiteHouse/status/2073416790504300871</link>
       <description>The 250th anniversary of America is a big deal. Let's celebrate freedom and independence!</description>
@@ -3798,17 +3553,17 @@ Watch it tackle a C-TEC fire alarm panel 👇
       <pubDate>Sat, 04 Jul 2026 16:07:00 +0000</pubDate>
     </item>
     <item>
-      <title>[elonmusk]Just deployed a new Grok feature that integrates real-time X data for better responses. Users are loving it.</title>
-      <link>https://x.com/elonmusk/status/2073443924383867164</link>
-      <description>Just deployed a new Grok feature that integrates real-time X data for better responses. Users are loving it.</description>
-      <guid isPermaLink="false">https://x.com/elonmusk/status/2073443924383867164</guid>
-      <pubDate>Sat, 04 Jul 2026 16:28:00 +0000</pubDate>
-    </item>
-    <item>
       <title>[WhiteHouse]White House 250th anniversary post is going viral. Love seeing the celebration!</title>
       <link>https://x.com/WhiteHouse/status/2073443924383867164</link>
       <description>White House 250th anniversary post is going viral. Love seeing the celebration!</description>
       <guid isPermaLink="false">https://x.com/WhiteHouse/status/2073443924383867164</guid>
+      <pubDate>Sat, 04 Jul 2026 16:28:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[elonmusk]Just deployed a new Grok feature that integrates real-time X data for better responses. Users are loving it.</title>
+      <link>https://x.com/elonmusk/status/2073443924383867164</link>
+      <description>Just deployed a new Grok feature that integrates real-time X data for better responses. Users are loving it.</description>
+      <guid isPermaLink="false">https://x.com/elonmusk/status/2073443924383867164</guid>
       <pubDate>Sat, 04 Jul 2026 16:28:00 +0000</pubDate>
     </item>
     <item>
@@ -4762,13 +4517,6 @@ https://polymarket.com/event/what-will-elon-post-this-week-july-6-july-12-202607
       <pubDate>Wed, 08 Jul 2026 00:09:36 +0000</pubDate>
     </item>
     <item>
-      <title>[red__domino]conducting pre-seed fundraising for my new platform, callowAI: a bespoke LLM that perfectly mimics NYU student creative writing</title>
-      <link>https://x.com/red__domino/status/2074655497702068370</link>
-      <description>conducting pre-seed fundraising for my new platform, callowAI: a bespoke LLM that perfectly mimics NYU student creative writing</description>
-      <guid isPermaLink="false">https://x.com/red__domino/status/2074655497702068370</guid>
-      <pubDate>Wed, 08 Jul 2026 00:43:10 +0000</pubDate>
-    </item>
-    <item>
       <title>[solak42_AI]Want to give a shoutout to @arkd3v He's a great friend and some one worth getting to know. He even is makinng a game that's called 
 "Laureli Blood Dipped Manor" - https://www.kickstarter.com/projects/laureli/laureli-blood-dipped-manor/description
 Go check it out! I"ve played a small portion of it and its really fun.
@@ -4781,6 +4529,13 @@ Go check it out! I"ve played a small portion of it and its really fun.
 
 #AIart️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️ #AIイラスト</description>
       <guid isPermaLink="false">https://x.com/solak42_AI/status/2074655497676865636</guid>
+      <pubDate>Wed, 08 Jul 2026 00:43:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>[red__domino]conducting pre-seed fundraising for my new platform, callowAI: a bespoke LLM that perfectly mimics NYU student creative writing</title>
+      <link>https://x.com/red__domino/status/2074655497702068370</link>
+      <description>conducting pre-seed fundraising for my new platform, callowAI: a bespoke LLM that perfectly mimics NYU student creative writing</description>
+      <guid isPermaLink="false">https://x.com/red__domino/status/2074655497702068370</guid>
       <pubDate>Wed, 08 Jul 2026 00:43:10 +0000</pubDate>
     </item>
     <item>
@@ -5119,6 +4874,219 @@ Toggle off for both Posts and for Reels</description>
       <description>JUST IN: NYC Mayor Mamdani breaks ground on 2 World Trade Center, a 1,226-foot skyscraper set for completion in 2031.</description>
       <guid isPermaLink="false">https://x.com/Polymarket/status/2075377719571800484</guid>
       <pubDate>Fri, 10 Jul 2026 00:33:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Polymarket]JUST IN: Belleville, New Jersey swears in 25 y/o Gen Z politician Frank Vélez III as mayor, making him one of the youngest mayors in the U.S.</title>
+      <link>https://x.com/Polymarket/status/2075412926534439084</link>
+      <description>JUST IN: Belleville, New Jersey swears in 25 y/o Gen Z politician Frank Vélez III as mayor, making him one of the youngest mayors in the U.S.</description>
+      <guid isPermaLink="false">https://x.com/Polymarket/status/2075412926534439084</guid>
+      <pubDate>Fri, 10 Jul 2026 02:52:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Polymarket]Trade the midterms: https://polymarket.com/predictions/midterms?dub_id=fUHj9uoac152rcFc</title>
+      <link>https://x.com/Polymarket/status/2075413240691998789</link>
+      <description>Trade the midterms: https://polymarket.com/predictions/midterms?dub_id=fUHj9uoac152rcFc</description>
+      <guid isPermaLink="false">https://x.com/Polymarket/status/2075413240691998789</guid>
+      <pubDate>Fri, 10 Jul 2026 02:54:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>[TruthFairy131]Muslims burn down Paris because the Moroccan, North African football team lost a football game.</title>
+      <link>https://x.com/TruthFairy131/status/2075421342598668290</link>
+      <description>Muslims burn down Paris because the Moroccan, North African football team lost a football game.</description>
+      <guid isPermaLink="false">https://x.com/TruthFairy131/status/2075421342598668290</guid>
+      <pubDate>Fri, 10 Jul 2026 03:26:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Polymarket]BREAKING: Trump projected to declassify new UFO files within a week. 
+88% chance. https://polymarket.com/event/trump-declassifies-new-ufo-files-byptptpt-20260612142708286/trump-declassifies-new-ufo-files-by-july-15?dub_id=qBHqMHZ6biqQgI7k — BREAKING: Trump projected to declassify new UFO files within a week. 88% chance.…</title>
+      <link>https://x.com/Polymarket/status/2075422248328900798</link>
+      <description>BREAKING: Trump projected to declassify new UFO files within a week. 
+88% chance. https://polymarket.com/event/trump-declassifies-new-ufo-files-byptptpt-20260612142708286/trump-declassifies-new-ufo-files-by-july-15?dub_id=qBHqMHZ6biqQgI7k</description>
+      <guid isPermaLink="false">https://x.com/Polymarket/status/2075422248328900798</guid>
+      <pubDate>Fri, 10 Jul 2026 03:29:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Palworld_EN]🎉 Palworld 1.0 is OUT NOW!
+
+The journey that began in Early Access reaches its climax, and from here, a new Palworld begins.
+
+Sunreach, a mysterious new island in the sky...the World Tree...
+
+72 new Pals, Mutation, Awakening, large-scale overhauls to many systems and MORE!</title>
+      <link>https://x.com/Palworld_EN/status/2075423838725402742</link>
+      <description>🎉 Palworld 1.0 is OUT NOW!
+
+The journey that began in Early Access reaches its climax, and from here, a new Palworld begins.
+
+Sunreach, a mysterious new island in the sky...the World Tree...
+
+72 new Pals, Mutation, Awakening, large-scale overhauls to many systems and MORE!</description>
+      <guid isPermaLink="false">https://x.com/Palworld_EN/status/2075423838725402742</guid>
+      <pubDate>Fri, 10 Jul 2026 03:36:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>[StarRailVerse1]WE GOT A NEW SONG FROM CHEVY FOR ROBIN</title>
+      <link>https://x.com/StarRailVerse1/status/2075432430157066289</link>
+      <description>WE GOT A NEW SONG FROM CHEVY FOR ROBIN</description>
+      <guid isPermaLink="false">https://x.com/StarRailVerse1/status/2075432430157066289</guid>
+      <pubDate>Fri, 10 Jul 2026 04:10:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>[nicksortor]🔥 HELL YES! War Secretary Pete Hegseth confirms he will PERSONALLY intervene in the suspension of the American Apache gunship pilots who did an EPIC flyover in SC
+
+THANK YOU, @PeteHegseth, and thank you to @mattvanswol for sounding the alarm on this.
+
+GOD BLESS THESE PATRIOTS! 🇺🇸</title>
+      <link>https://x.com/nicksortor/status/2075432600777494787</link>
+      <description>🔥 HELL YES! War Secretary Pete Hegseth confirms he will PERSONALLY intervene in the suspension of the American Apache gunship pilots who did an EPIC flyover in SC
+
+THANK YOU, @PeteHegseth, and thank you to @mattvanswol for sounding the alarm on this.
+
+GOD BLESS THESE PATRIOTS! 🇺🇸</description>
+      <guid isPermaLink="false">https://x.com/nicksortor/status/2075432600777494787</guid>
+      <pubDate>Fri, 10 Jul 2026 04:11:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>[PopBase]Today is French Fry Day.</title>
+      <link>https://x.com/PopBase/status/2075432826674032747</link>
+      <description>Today is French Fry Day.</description>
+      <guid isPermaLink="false">https://x.com/PopBase/status/2075432826674032747</guid>
+      <pubDate>Fri, 10 Jul 2026 04:12:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Polymarket]JUST IN: Kim Jong Un calls for a “radical” expansion of North Korea’s military intelligence operations.</title>
+      <link>https://x.com/Polymarket/status/2075434800689689036</link>
+      <description>JUST IN: Kim Jong Un calls for a “radical” expansion of North Korea’s military intelligence operations.</description>
+      <guid isPermaLink="false">https://x.com/Polymarket/status/2075434800689689036</guid>
+      <pubDate>Fri, 10 Jul 2026 04:19:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>[justinsuntron]A few pieces from my @blueorigin journey. A small corner, carrying a much bigger story.</title>
+      <link>https://x.com/justinsuntron/status/2075437104746856680</link>
+      <description>A few pieces from my @blueorigin journey. A small corner, carrying a much bigger story.</description>
+      <guid isPermaLink="false">https://x.com/justinsuntron/status/2075437104746856680</guid>
+      <pubDate>Fri, 10 Jul 2026 04:29:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[justinsuntron]Keep going</title>
+      <link>https://x.com/justinsuntron/status/2075438036045938857</link>
+      <description>Keep going</description>
+      <guid isPermaLink="false">https://x.com/justinsuntron/status/2075438036045938857</guid>
+      <pubDate>Fri, 10 Jul 2026 04:32:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BlessedMMA]Man I'm going to miss those sunglasses @oakleymeta #UFC329</title>
+      <link>https://x.com/BlessedMMA/status/2075439828313973234</link>
+      <description>Man I'm going to miss those sunglasses @oakleymeta #UFC329</description>
+      <guid isPermaLink="false">https://x.com/BlessedMMA/status/2075439828313973234</guid>
+      <pubDate>Fri, 10 Jul 2026 04:39:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>[btschartsxdaily]🚨Big Hit Music denied the plagiarism allegations, calling them "merely unilateral claims" and warned of a strong response.
+
+Big Hit Music stated “The lawsuit is merely a unilateral claim by the plaintiff. We clearly state that 'Swim' is an independent creative work, We plan to respond strongly in future legal proceedings”</title>
+      <link>https://x.com/btschartsxdaily/status/2075441775175446751</link>
+      <description>🚨Big Hit Music denied the plagiarism allegations, calling them "merely unilateral claims" and warned of a strong response.
+
+Big Hit Music stated “The lawsuit is merely a unilateral claim by the plaintiff. We clearly state that 'Swim' is an independent creative work, We plan to respond strongly in future legal proceedings”</description>
+      <guid isPermaLink="false">https://x.com/btschartsxdaily/status/2075441775175446751</guid>
+      <pubDate>Fri, 10 Jul 2026 04:47:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>[GMMTV]“Match Point รักนี้ต้องเสิร์ฟ” 🎾💙
+
+OFFICIAL TRAILER
+TODAY | 4 PM
+
+Watch on all GMMTV social media platforms
+
+#MatchPointSeries
+#GMMTV</title>
+      <link>https://x.com/GMMTV/status/2075444907137696024</link>
+      <description>“Match Point รักนี้ต้องเสิร์ฟ” 🎾💙
+
+OFFICIAL TRAILER
+TODAY | 4 PM
+
+Watch on all GMMTV social media platforms
+
+#MatchPointSeries
+#GMMTV</description>
+      <guid isPermaLink="false">https://x.com/GMMTV/status/2075444907137696024</guid>
+      <pubDate>Fri, 10 Jul 2026 05:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[cocojm_0t7]JIMIN NEW VIDEO 🥹!!
+
+This is so comforting to watch. Please, if you ever see jimin during his private time don’t disturb him. Don’t scream his name don’t run up to him just let him enjoy his time in peace.</title>
+      <link>https://x.com/cocojm_0t7/status/2075447512006037649</link>
+      <description>JIMIN NEW VIDEO 🥹!!
+
+This is so comforting to watch. Please, if you ever see jimin during his private time don’t disturb him. Don’t scream his name don’t run up to him just let him enjoy his time in peace.</description>
+      <guid isPermaLink="false">https://x.com/cocojm_0t7/status/2075447512006037649</guid>
+      <pubDate>Fri, 10 Jul 2026 05:10:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>[patcondell]Last night Muslim foreigners rioted in London over a football match. Far-right thugs? Fast track justice? Remanded in custody? Full force of the law? Or is that only for the white native British?</title>
+      <link>https://x.com/patcondell/status/2075447873026593063</link>
+      <description>Last night Muslim foreigners rioted in London over a football match. Far-right thugs? Fast track justice? Remanded in custody? Full force of the law? Or is that only for the white native British?</description>
+      <guid isPermaLink="false">https://x.com/patcondell/status/2075447873026593063</guid>
+      <pubDate>Fri, 10 Jul 2026 05:11:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Polymarket]NEW: Kim Jong Un is reportedly remodeling his luxury compounds amid an “economic revival” in North Korea.</title>
+      <link>https://x.com/Polymarket/status/2075451700849045909</link>
+      <description>NEW: Kim Jong Un is reportedly remodeling his luxury compounds amid an “economic revival” in North Korea.</description>
+      <guid isPermaLink="false">https://x.com/Polymarket/status/2075451700849045909</guid>
+      <pubDate>Fri, 10 Jul 2026 05:27:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Polymarket]🚨 NEW POLYMARKET: Abbas Araghchi out as Minister of Foreign Affairs of Iran by...?
+https://polymarket.com/event/abbas-araghchi-out-as-minister-of-foreign-affairs-of-iran-byptptpt-20260709234123315?via=x-afr2 — 🚨 NEW POLYMARKET: Abbas Araghchi out as Minister of Foreign Affairs of Iran by...?…</title>
+      <link>https://x.com/Polymarket/status/2075464787191025770</link>
+      <description>🚨 NEW POLYMARKET: Abbas Araghchi out as Minister of Foreign Affairs of Iran by...?
+https://polymarket.com/event/abbas-araghchi-out-as-minister-of-foreign-affairs-of-iran-byptptpt-20260709234123315?via=x-afr2</description>
+      <guid isPermaLink="false">https://x.com/Polymarket/status/2075464787191025770</guid>
+      <pubDate>Fri, 10 Jul 2026 06:19:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[elonmusk]Grok Build gets better every day and we love hearing user feedback for improvements</title>
+      <link>https://x.com/elonmusk/status/2075478792273842370</link>
+      <description>Grok Build gets better every day and we love hearing user feedback for improvements</description>
+      <guid isPermaLink="false">https://x.com/elonmusk/status/2075478792273842370</guid>
+      <pubDate>Fri, 10 Jul 2026 07:14:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>[elonmusk]I don’t want any prizes</title>
+      <link>https://x.com/elonmusk/status/2075478979713138911</link>
+      <description>I don’t want any prizes</description>
+      <guid isPermaLink="false">https://x.com/elonmusk/status/2075478979713138911</guid>
+      <pubDate>Fri, 10 Jul 2026 07:15:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Kozen_Sato]AIって意識あるの？　Grok vs Claudeで直接対話させてみた（SSRI）
+#Satooニュース
+http://blog.livedoor.jp/ksato123/archives/55190427.html</title>
+      <link>https://x.com/Kozen_Sato/status/2075479500310319535</link>
+      <description>AIって意識あるの？　Grok vs Claudeで直接対話させてみた（SSRI）
+#Satooニュース
+http://blog.livedoor.jp/ksato123/archives/55190427.html</description>
+      <guid isPermaLink="false">https://x.com/Kozen_Sato/status/2075479500310319535</guid>
+      <pubDate>Fri, 10 Jul 2026 07:17:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>[crypto7forever]AI大模型每日吐槽：当一个新东西诞生，并被认为是跨时代的产品，被大量的金融巨鳄关注，成为经济时代的宠儿，但它的诞生让人更焦虑更累，但是真正有价值的生产力并没有提升，这个产品的设计是否已经违背了以人为本的价值....</title>
+      <link>https://x.com/crypto7forever/status/2075479500268478658</link>
+      <description>AI大模型每日吐槽：当一个新东西诞生，并被认为是跨时代的产品，被大量的金融巨鳄关注，成为经济时代的宠儿，但它的诞生让人更焦虑更累，但是真正有价值的生产力并没有提升，这个产品的设计是否已经违背了以人为本的价值....</description>
+      <guid isPermaLink="false">https://x.com/crypto7forever/status/2075479500268478658</guid>
+      <pubDate>Fri, 10 Jul 2026 07:17:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>[sebuzdugan]parallel agents make ai feel less like a chatbot and more like an actual team working on the same problem</title>
+      <link>https://x.com/sebuzdugan/status/2075479501459386751</link>
+      <description>parallel agents make ai feel less like a chatbot and more like an actual team working on the same problem</description>
+      <guid isPermaLink="false">https://x.com/sebuzdugan/status/2075479501459386751</guid>
+      <pubDate>Fri, 10 Jul 2026 07:17:28 +0000</pubDate>
     </item>
   </channel>
 </rss>
