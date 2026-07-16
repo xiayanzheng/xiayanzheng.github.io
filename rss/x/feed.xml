@@ -7,501 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 15 Jul 2026 18:29:35 +0000</lastBuildDate>
-    <item>
-      <title>[milesdeutscher]Turn Claude Code into your personal finance assistant in &lt;60 seconds.
-
-It can research trending AI subsectors (robotics), analyse tickers like $SPCX, conduct deep research while you sleep &amp; more.
-
-All directly in your terminal.
-
-Here's how to connect it in just &lt;60 seconds:
-
-1. Open Claude Code and paste:
-
-"claude mcp add --transport http financial-datasets https:// mcp. financialdatasets. ai/"
-
-2. Authenticate
-
-Type:
-
-"/mcp" inside Claude Code and complete the OAuth flow in your browser.
-
-You can verify the server is connected at any time:
-
-"claude mcp list"
-
-2. Start prompting
-
-Example prompts:
-
-“What is SpaceX's current market cap?"
-
-"What's a good entry price on $SPCX?"
-
-“Show me Tesla’s revenue for the last 4 quarters."
-
-3. Help
-
-If you run into errors, just ask Claude to help you by scanning the official docs here:</title>
-      <link>https://x.com/milesdeutscher/status/2071487884880970213</link>
-      <description>Turn Claude Code into your personal finance assistant in &lt;60 seconds.
-
-It can research trending AI subsectors (robotics), analyse tickers like $SPCX, conduct deep research while you sleep &amp; more.
-
-All directly in your terminal.
-
-Here's how to connect it in just &lt;60 seconds:
-
-1. Open Claude Code and paste:
-
-"claude mcp add --transport http financial-datasets https:// mcp. financialdatasets. ai/"
-
-2. Authenticate
-
-Type:
-
-"/mcp" inside Claude Code and complete the OAuth flow in your browser.
-
-You can verify the server is connected at any time:
-
-"claude mcp list"
-
-2. Start prompting
-
-Example prompts:
-
-“What is SpaceX's current market cap?"
-
-"What's a good entry price on $SPCX?"
-
-“Show me Tesla’s revenue for the last 4 quarters."
-
-3. Help
-
-If you run into errors, just ask Claude to help you by scanning the official docs here:</description>
-      <guid isPermaLink="false">https://x.com/milesdeutscher/status/2071487884880970213</guid>
-      <pubDate>Mon, 29 Jun 2026 06:56:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>[TrendingEx]Video: Fulani bandits share video of malnourished toddlers in captivity💔</title>
-      <link>https://x.com/TrendingEx/status/2071506674771284009</link>
-      <description>Video: Fulani bandits share video of malnourished toddlers in captivity💔</description>
-      <guid isPermaLink="false">https://x.com/TrendingEx/status/2071506674771284009</guid>
-      <pubDate>Mon, 29 Jun 2026 08:10:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>[justinsuntron]TRX uponly</title>
-      <link>https://x.com/justinsuntron/status/2071538414504071223</link>
-      <description>TRX uponly</description>
-      <guid isPermaLink="false">https://x.com/justinsuntron/status/2071538414504071223</guid>
-      <pubDate>Mon, 29 Jun 2026 10:16:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>[WhiteHouse]Iran requests meeting in Doha:</title>
-      <link>https://x.com/WhiteHouse/status/2071559107216073043</link>
-      <description>Iran requests meeting in Doha:</description>
-      <guid isPermaLink="false">https://x.com/WhiteHouse/status/2071559107216073043</guid>
-      <pubDate>Mon, 29 Jun 2026 11:39:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>[elonmusk]Good question</title>
-      <link>https://x.com/elonmusk/status/2071570356813328885</link>
-      <description>Good question</description>
-      <guid isPermaLink="false">https://x.com/elonmusk/status/2071570356813328885</guid>
-      <pubDate>Mon, 29 Jun 2026 12:23:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>[elonmusk]Yes</title>
-      <link>https://x.com/elonmusk/status/2071570673969897856</link>
-      <description>Yes</description>
-      <guid isPermaLink="false">https://x.com/elonmusk/status/2071570673969897856</guid>
-      <pubDate>Mon, 29 Jun 2026 12:25:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>[elonmusk]There are no American flags, but there are flags of many other countries. 
-
-Those whose loyalty is to another country over America are, by definition, traitors and must be expelled immediately.</title>
-      <link>https://x.com/elonmusk/status/2071571936241475706</link>
-      <description>There are no American flags, but there are flags of many other countries. 
-
-Those whose loyalty is to another country over America are, by definition, traitors and must be expelled immediately.</description>
-      <guid isPermaLink="false">https://x.com/elonmusk/status/2071571936241475706</guid>
-      <pubDate>Mon, 29 Jun 2026 12:30:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>[itsmichaelluu]Robotics &amp; Physical AI Cheatsheet:
-
-(so you know whats going to explode next...)
-
-$17B was invested into robotics and physical AI in Q1 2026.
-
-That's nearly 10× more than in 2020.
-
-These 16 companies will benefit the most:
-
-1. $OUST – $42.02 52wk: $16.40–$51.50
-
-Ouster's lidar sensors give robots and autonomous vehicles 3D spatial awareness for safe navigation.
-
-2. $SYM – $41.24 (52wk: $23.59–$87.88, 1yr: +16.0%)
-
-Symbotic's AI robots automate warehouse logistics, replacing manual labor with autonomous pallet/case handling.
-
-3. $AEVA – $20.04 (52wk: $8.83–$38.80)
-
-Aeva's FMCW 4D lidar detects velocity and position instantly, key for autonomous driving perception.
-
-4. $RRX – $221.56 (52wk: $127.96–$236.35)
-
-Regal Rexnord's motors and motion control components are the muscle inside industrial automation systems.
-
-5. $SERV – $6.02 (52wk: $5.78–$18.64)
-
-Serve Robotics builds autonomous sidewalk delivery robots, scaling embodied AI into everyday last-mile logistics.
-
-6. $VPG – $135.40 (52wk: $25.49–$148.39)
-
-Vishay Precision's sensors enable force/weight feedback critical for humanoid robot grip and balance.
-
-7. $AMBA – $62.16 (52wk: $40.81–$96.69)
-
-Ambarella's edge AI chips give cameras and robots on-device computer vision without cloud latency.
-
-8. $ISRG – $404.70 (52wk: $414.30–$610.45)
-
-Intuitive Surgical's da Vinci robots pioneer robotic-assisted surgery, the gold standard in medical automation.
-
-9. $TSLA – $379.71 (52wk: $288.77–$498.83)
-
-Tesla's Optimus humanoid and FSD stack apply real-world AI training data at massive vehicle scale.
-
-10. $QCOM – $220.71 (52wk: $121.99–$259.92)
-
-Qualcomm's edge AI chips power robotics, drones, and AI data centers beyond its core smartphone business.
-
-11. $FFAI – $0.26 (52wk: $0.21–$3.61)
-
-Faraday Future pivots into embodied AI humanoid robots, though execution risk remains extremely high.
-
-12. $RR – $1.94 (52wk: $1.73–$7.43)
-
-Richtech Robotics builds AI-powered service robots and a humanoid (DEX) for hospitality and industrial use.
-
-13. $NNDM – $1.40 (52wk: $1.19–$2.32)
-
-Nano Dimension makes additive manufacturing printers for electronics, enabling rapid robotics hardware prototyping.
-
-14. $NVDA – $192.71 (52wk: $151.49–$236.54)
-
-Nvidia's GPUs and Jetson/Isaac platforms are the compute backbone training every major physical AI system.
-
-15. $PATH – $10.55 (52wk: $9.20–$19.84)
-
-UiPath's software robots automate enterprise workflows, the digital-labor counterpart to physical robotics.
-
-16. $KSCP – $1.91 (52wk: $1.78–$10.14)
-
-Knightscope's autonomous security robots patrol real-world sites, an early commercial physical-AI deployment.
-
-The robotics supercycle is starting already $OUST exploding and $MU says in their Q3 earnings the next 2 years will be massive for robots.</title>
-      <link>https://x.com/itsmichaelluu/status/2071572208498139169</link>
-      <description>Robotics &amp; Physical AI Cheatsheet:
-
-(so you know whats going to explode next...)
-
-$17B was invested into robotics and physical AI in Q1 2026.
-
-That's nearly 10× more than in 2020.
-
-These 16 companies will benefit the most:
-
-1. $OUST – $42.02 52wk: $16.40–$51.50
-
-Ouster's lidar sensors give robots and autonomous vehicles 3D spatial awareness for safe navigation.
-
-2. $SYM – $41.24 (52wk: $23.59–$87.88, 1yr: +16.0%)
-
-Symbotic's AI robots automate warehouse logistics, replacing manual labor with autonomous pallet/case handling.
-
-3. $AEVA – $20.04 (52wk: $8.83–$38.80)
-
-Aeva's FMCW 4D lidar detects velocity and position instantly, key for autonomous driving perception.
-
-4. $RRX – $221.56 (52wk: $127.96–$236.35)
-
-Regal Rexnord's motors and motion control components are the muscle inside industrial automation systems.
-
-5. $SERV – $6.02 (52wk: $5.78–$18.64)
-
-Serve Robotics builds autonomous sidewalk delivery robots, scaling embodied AI into everyday last-mile logistics.
-
-6. $VPG – $135.40 (52wk: $25.49–$148.39)
-
-Vishay Precision's sensors enable force/weight feedback critical for humanoid robot grip and balance.
-
-7. $AMBA – $62.16 (52wk: $40.81–$96.69)
-
-Ambarella's edge AI chips give cameras and robots on-device computer vision without cloud latency.
-
-8. $ISRG – $404.70 (52wk: $414.30–$610.45)
-
-Intuitive Surgical's da Vinci robots pioneer robotic-assisted surgery, the gold standard in medical automation.
-
-9. $TSLA – $379.71 (52wk: $288.77–$498.83)
-
-Tesla's Optimus humanoid and FSD stack apply real-world AI training data at massive vehicle scale.
-
-10. $QCOM – $220.71 (52wk: $121.99–$259.92)
-
-Qualcomm's edge AI chips power robotics, drones, and AI data centers beyond its core smartphone business.
-
-11. $FFAI – $0.26 (52wk: $0.21–$3.61)
-
-Faraday Future pivots into embodied AI humanoid robots, though execution risk remains extremely high.
-
-12. $RR – $1.94 (52wk: $1.73–$7.43)
-
-Richtech Robotics builds AI-powered service robots and a humanoid (DEX) for hospitality and industrial use.
-
-13. $NNDM – $1.40 (52wk: $1.19–$2.32)
-
-Nano Dimension makes additive manufacturing printers for electronics, enabling rapid robotics hardware prototyping.
-
-14. $NVDA – $192.71 (52wk: $151.49–$236.54)
-
-Nvidia's GPUs and Jetson/Isaac platforms are the compute backbone training every major physical AI system.
-
-15. $PATH – $10.55 (52wk: $9.20–$19.84)
-
-UiPath's software robots automate enterprise workflows, the digital-labor counterpart to physical robotics.
-
-16. $KSCP – $1.91 (52wk: $1.78–$10.14)
-
-Knightscope's autonomous security robots patrol real-world sites, an early commercial physical-AI deployment.
-
-The robotics supercycle is starting already $OUST exploding and $MU says in their Q3 earnings the next 2 years will be massive for robots.</description>
-      <guid isPermaLink="false">https://x.com/itsmichaelluu/status/2071572208498139169</guid>
-      <pubDate>Mon, 29 Jun 2026 12:31:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>[heyalexmoore]All Paid Courses (Free for First 4500 People).
-
-𝗣𝗮𝗶𝗱 𝗖𝗼𝘂𝗿𝘀𝗲 𝗙𝗥𝗘𝗘 (PART - 1)
-1. Artificial Intelligence
-2. Machine Learning
-3. Prompt Engineering
-4. Claude,Chatgpt,Grok
-5. Data Analytics
-6. AWS Certified
-7. Data Science
-8. BIG DATA
-9. Python
-10. Ethical Hacking
-
-(72 Hours only )
-
-Like + RT + comment ' Drive '
-
-Must Follow me so I can DM you.</title>
-      <link>https://x.com/heyalexmoore/status/2071582315713806814</link>
-      <description>All Paid Courses (Free for First 4500 People).
-
-𝗣𝗮𝗶𝗱 𝗖𝗼𝘂𝗿𝘀𝗲 𝗙𝗥𝗘𝗘 (PART - 1)
-1. Artificial Intelligence
-2. Machine Learning
-3. Prompt Engineering
-4. Claude,Chatgpt,Grok
-5. Data Analytics
-6. AWS Certified
-7. Data Science
-8. BIG DATA
-9. Python
-10. Ethical Hacking
-
-(72 Hours only )
-
-Like + RT + comment ' Drive '
-
-Must Follow me so I can DM you.</description>
-      <guid isPermaLink="false">https://x.com/heyalexmoore/status/2071582315713806814</guid>
-      <pubDate>Mon, 29 Jun 2026 13:11:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Polymarket]JUST IN: Trump reveals he has the “highest poll numbers ever” — even higher than his 2024 Election Day.</title>
-      <link>https://x.com/Polymarket/status/2071583681974612048</link>
-      <description>JUST IN: Trump reveals he has the “highest poll numbers ever” — even higher than his 2024 Election Day.</description>
-      <guid isPermaLink="false">https://x.com/Polymarket/status/2071583681974612048</guid>
-      <pubDate>Mon, 29 Jun 2026 13:16:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>[WhiteHouse]5 Days. 250 Years. The biggest celebration in American history is almost here. 
-
-🎆 Largest fireworks show
-✈️ Epic flyovers
-🦅 One legendary birthday
-
-DON'T MISS IT!</title>
-      <link>https://x.com/WhiteHouse/status/2071585489405038671</link>
-      <description>5 Days. 250 Years. The biggest celebration in American history is almost here. 
-
-🎆 Largest fireworks show
-✈️ Epic flyovers
-🦅 One legendary birthday
-
-DON'T MISS IT!</description>
-      <guid isPermaLink="false">https://x.com/WhiteHouse/status/2071585489405038671</guid>
-      <pubDate>Mon, 29 Jun 2026 13:24:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Polymarket]2026 IPOs forecast: https://polymarket.com/event/ipos-before-2027?dub_id=s1a7Aijt7DdGMJzK#4jVrJSlL</title>
-      <link>https://x.com/Polymarket/status/2071586399480909978</link>
-      <description>2026 IPOs forecast: https://polymarket.com/event/ipos-before-2027?dub_id=s1a7Aijt7DdGMJzK#4jVrJSlL</description>
-      <guid isPermaLink="false">https://x.com/Polymarket/status/2071586399480909978</guid>
-      <pubDate>Mon, 29 Jun 2026 13:27:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Polymarket]JUST IN: Nasdaq &amp; the NYSE will reportedly ring the opening bell from the Oval Office to mark the launch of Trump Accounts.</title>
-      <link>https://x.com/Polymarket/status/2071587421045617012</link>
-      <description>JUST IN: Nasdaq &amp; the NYSE will reportedly ring the opening bell from the Oval Office to mark the launch of Trump Accounts.</description>
-      <guid isPermaLink="false">https://x.com/Polymarket/status/2071587421045617012</guid>
-      <pubDate>Mon, 29 Jun 2026 13:31:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>[WhiteHouse]🚨 BIG WIN just moments ago at the Supreme Court:</title>
-      <link>https://x.com/WhiteHouse/status/2071610528812658769</link>
-      <description>🚨 BIG WIN just moments ago at the Supreme Court:</description>
-      <guid isPermaLink="false">https://x.com/WhiteHouse/status/2071610528812658769</guid>
-      <pubDate>Mon, 29 Jun 2026 15:03:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>[elonmusk]I love optimizing machines 
-
-It’s like a beautiful puzzle
-
-That also achieves true usefulness</title>
-      <link>https://x.com/elonmusk/status/2071651728202543557</link>
-      <description>I love optimizing machines 
-
-It’s like a beautiful puzzle
-
-That also achieves true usefulness</description>
-      <guid isPermaLink="false">https://x.com/elonmusk/status/2071651728202543557</guid>
-      <pubDate>Mon, 29 Jun 2026 17:47:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>[elonmusk]It’s total bullshit!
-
-Deaths in Africa DECREASED after cutting USAID funding, which they were using to push for violent overthrow of governments!!</title>
-      <link>https://x.com/elonmusk/status/2071652181854343349</link>
-      <description>It’s total bullshit!
-
-Deaths in Africa DECREASED after cutting USAID funding, which they were using to push for violent overthrow of governments!!</description>
-      <guid isPermaLink="false">https://x.com/elonmusk/status/2071652181854343349</guid>
-      <pubDate>Mon, 29 Jun 2026 17:49:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>[elonmusk]The politicians who did this will go to prison for life</title>
-      <link>https://x.com/elonmusk/status/2071652402202075588</link>
-      <description>The politicians who did this will go to prison for life</description>
-      <guid isPermaLink="false">https://x.com/elonmusk/status/2071652402202075588</guid>
-      <pubDate>Mon, 29 Jun 2026 17:49:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>[nvidia]📣 @AnthropicAI Claude models are now generally available in @Microsoft Foundry, running on the NVIDIA GB300 NVL72 platform on Azure with NVIDIA Quantum-X800 InfiniBand networking.
-
-For enterprises building the next generation of agentic AI, this means more powerful autonomous and domain-specific agents, backed by the inference performance and lowest cost per token.</title>
-      <link>https://x.com/nvidia/status/2071654937335926864</link>
-      <description>📣 @AnthropicAI Claude models are now generally available in @Microsoft Foundry, running on the NVIDIA GB300 NVL72 platform on Azure with NVIDIA Quantum-X800 InfiniBand networking.
-
-For enterprises building the next generation of agentic AI, this means more powerful autonomous and domain-specific agents, backed by the inference performance and lowest cost per token.</description>
-      <guid isPermaLink="false">https://x.com/nvidia/status/2071654937335926864</guid>
-      <pubDate>Mon, 29 Jun 2026 18:00:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Polymarket]BREAKING: It's been revealed just 3 guards were on duty for 88 inmates during the North Carolina jail takeover, with 20 law enforcement agencies now responding to retake control.</title>
-      <link>https://x.com/Polymarket/status/2071661825922330735</link>
-      <description>BREAKING: It's been revealed just 3 guards were on duty for 88 inmates during the North Carolina jail takeover, with 20 law enforcement agencies now responding to retake control.</description>
-      <guid isPermaLink="false">https://x.com/Polymarket/status/2071661825922330735</guid>
-      <pubDate>Mon, 29 Jun 2026 18:27:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Polymarket]JUST IN: Marc Andreessen declares “Doctor ChatGPT" is already a better doctor than 99% of doctors.</title>
-      <link>https://x.com/Polymarket/status/2071664747825500556</link>
-      <description>JUST IN: Marc Andreessen declares “Doctor ChatGPT" is already a better doctor than 99% of doctors.</description>
-      <guid isPermaLink="false">https://x.com/Polymarket/status/2071664747825500556</guid>
-      <pubDate>Mon, 29 Jun 2026 18:39:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Polymarket]GPT-5.6 release forecast: https://polymarket.com/event/gpt-5pt6-released-onptptpt-20260623051439980?dub_id=FpPDtsxoVxDTkZX7</title>
-      <link>https://x.com/Polymarket/status/2071665495732895900</link>
-      <description>GPT-5.6 release forecast: https://polymarket.com/event/gpt-5pt6-released-onptptpt-20260623051439980?dub_id=FpPDtsxoVxDTkZX7</description>
-      <guid isPermaLink="false">https://x.com/Polymarket/status/2071665495732895900</guid>
-      <pubDate>Mon, 29 Jun 2026 18:41:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>[elonmusk]The level of psychotic propaganda aimed at me from the left is reaching epic proportions</title>
-      <link>https://x.com/elonmusk/status/2071800996997570979</link>
-      <description>The level of psychotic propaganda aimed at me from the left is reaching epic proportions</description>
-      <guid isPermaLink="false">https://x.com/elonmusk/status/2071800996997570979</guid>
-      <pubDate>Tue, 30 Jun 2026 03:40:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>[elonmusk]Cybercab with no steering wheel or pedals driving around Austin</title>
-      <link>https://x.com/elonmusk/status/2071813050978480423</link>
-      <description>Cybercab with no steering wheel or pedals driving around Austin</description>
-      <guid isPermaLink="false">https://x.com/elonmusk/status/2071813050978480423</guid>
-      <pubDate>Tue, 30 Jun 2026 04:28:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Polymarket]BREAKING: China conducts military patrols around disputed Scarborough Shoal after joint U.S.-Philippine drills nearby.</title>
-      <link>https://x.com/Polymarket/status/2071816497693913534</link>
-      <description>BREAKING: China conducts military patrols around disputed Scarborough Shoal after joint U.S.-Philippine drills nearby.</description>
-      <guid isPermaLink="false">https://x.com/Polymarket/status/2071816497693913534</guid>
-      <pubDate>Tue, 30 Jun 2026 04:42:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Polymarket]JUST IN: South Korea will explore ways to build nuclear power plants faster as AI drives up power demand.</title>
-      <link>https://x.com/Polymarket/status/2071823795984253109</link>
-      <description>JUST IN: South Korea will explore ways to build nuclear power plants faster as AI drives up power demand.</description>
-      <guid isPermaLink="false">https://x.com/Polymarket/status/2071823795984253109</guid>
-      <pubDate>Tue, 30 Jun 2026 05:11:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[elonmusk]The AOC puppet is just flat-out lying</title>
-      <link>https://x.com/elonmusk/status/2071836426316984797</link>
-      <description>The AOC puppet is just flat-out lying</description>
-      <guid isPermaLink="false">https://x.com/elonmusk/status/2071836426316984797</guid>
-      <pubDate>Tue, 30 Jun 2026 06:01:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Polymarket]NEW: Study reveals 60% of Korean children &amp; teens receiving growth hormone injections were "heightmaxxing," rather than treating a medical condition.</title>
-      <link>https://x.com/Polymarket/status/2071840405239570593</link>
-      <description>NEW: Study reveals 60% of Korean children &amp; teens receiving growth hormone injections were "heightmaxxing," rather than treating a medical condition.</description>
-      <guid isPermaLink="false">https://x.com/Polymarket/status/2071840405239570593</guid>
-      <pubDate>Tue, 30 Jun 2026 06:17:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[justinsuntron]390M accounts and counting.</title>
-      <link>https://x.com/justinsuntron/status/2071855001656348747</link>
-      <description>390M accounts and counting.</description>
-      <guid isPermaLink="false">https://x.com/justinsuntron/status/2071855001656348747</guid>
-      <pubDate>Tue, 30 Jun 2026 07:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Polymarket]NEW: U.K. report reveals 64% of people aged 25-34 have asked AI chatbots for mental health support.</title>
-      <link>https://x.com/Polymarket/status/2071872869232206276</link>
-      <description>NEW: U.K. report reveals 64% of people aged 25-34 have asked AI chatbots for mental health support.</description>
-      <guid isPermaLink="false">https://x.com/Polymarket/status/2071872869232206276</guid>
-      <pubDate>Tue, 30 Jun 2026 08:26:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[tom_doerr]AI-powered page-by-page PDF knowledge extraction and summarization</title>
-      <link>https://x.com/tom_doerr/status/2071873064627823075</link>
-      <description>AI-powered page-by-page PDF knowledge extraction and summarization</description>
-      <guid isPermaLink="false">https://x.com/tom_doerr/status/2071873064627823075</guid>
-      <pubDate>Tue, 30 Jun 2026 08:26:46 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 16 Jul 2026 00:39:13 +0000</lastBuildDate>
     <item>
       <title>[RemotejobWtessy]HI RING!!!
 
@@ -1015,15 +521,6 @@ Ad: best trading terminal https://axiom.trade/@leakme</description>
       <pubDate>Thu, 02 Jul 2026 07:14:19 +0000</pubDate>
     </item>
     <item>
-      <title>[WAHMRevolution]❤️ Know an adult who loves coloring books? They also make excellent gifts!
-Explore Amazon's Dandelion and Lemon Books. https://www.amazon.com/stores/Dandelion-and-Lemon-Books/author/B08T6P7LNM?store_ref=ap_rdr&amp;isDramIntegrated=true&amp;shoppingPortalEnabled=true&amp;linkCode=shr&amp;tag=worathommomre-20&amp;language=en_US&amp;ref_=as_li_ss_shr&amp;camp=213733&amp;creative=undefined&amp;linkId=3a703aa2960329c28d7396e14e462fad via @amazon #coloring #coloringbook #colouring #gift #giftideas #affiliate #fun #coloring #colouring #coloringbook #colouringbook #gift #giftidea</title>
-      <link>https://x.com/WAHMRevolution/status/2072579634244321535</link>
-      <description>❤️ Know an adult who loves coloring books? They also make excellent gifts!
-Explore Amazon's Dandelion and Lemon Books. https://www.amazon.com/stores/Dandelion-and-Lemon-Books/author/B08T6P7LNM?store_ref=ap_rdr&amp;isDramIntegrated=true&amp;shoppingPortalEnabled=true&amp;linkCode=shr&amp;tag=worathommomre-20&amp;language=en_US&amp;ref_=as_li_ss_shr&amp;camp=213733&amp;creative=undefined&amp;linkId=3a703aa2960329c28d7396e14e462fad via @amazon #coloring #coloringbook #colouring #gift #giftideas #affiliate #fun #coloring #colouring #coloringbook #colouringbook #gift #giftidea</description>
-      <guid isPermaLink="false">https://x.com/WAHMRevolution/status/2072579634244321535</guid>
-      <pubDate>Thu, 02 Jul 2026 07:14:26 +0000</pubDate>
-    </item>
-    <item>
       <title>[Aditya0wdi1]Uske kareeb aake laga, jaise sukoon ka bhi ek chehra hota hai. 🌙❤️
 
 #RomanticVibes #Aesthetic #LoveStory #Ishq #MoodPost #Cinematic #SoftLove #Pyar #Trending</title>
@@ -1032,6 +529,15 @@ Explore Amazon's Dandelion and Lemon Books. https://www.amazon.com/stores/Dandel
 
 #RomanticVibes #Aesthetic #LoveStory #Ishq #MoodPost #Cinematic #SoftLove #Pyar #Trending</description>
       <guid isPermaLink="false">https://x.com/Aditya0wdi1/status/2072579634928250992</guid>
+      <pubDate>Thu, 02 Jul 2026 07:14:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>[WAHMRevolution]❤️ Know an adult who loves coloring books? They also make excellent gifts!
+Explore Amazon's Dandelion and Lemon Books. https://www.amazon.com/stores/Dandelion-and-Lemon-Books/author/B08T6P7LNM?store_ref=ap_rdr&amp;isDramIntegrated=true&amp;shoppingPortalEnabled=true&amp;linkCode=shr&amp;tag=worathommomre-20&amp;language=en_US&amp;ref_=as_li_ss_shr&amp;camp=213733&amp;creative=undefined&amp;linkId=3a703aa2960329c28d7396e14e462fad via @amazon #coloring #coloringbook #colouring #gift #giftideas #affiliate #fun #coloring #colouring #coloringbook #colouringbook #gift #giftidea</title>
+      <link>https://x.com/WAHMRevolution/status/2072579634244321535</link>
+      <description>❤️ Know an adult who loves coloring books? They also make excellent gifts!
+Explore Amazon's Dandelion and Lemon Books. https://www.amazon.com/stores/Dandelion-and-Lemon-Books/author/B08T6P7LNM?store_ref=ap_rdr&amp;isDramIntegrated=true&amp;shoppingPortalEnabled=true&amp;linkCode=shr&amp;tag=worathommomre-20&amp;language=en_US&amp;ref_=as_li_ss_shr&amp;camp=213733&amp;creative=undefined&amp;linkId=3a703aa2960329c28d7396e14e462fad via @amazon #coloring #coloringbook #colouring #gift #giftideas #affiliate #fun #coloring #colouring #coloringbook #colouringbook #gift #giftidea</description>
+      <guid isPermaLink="false">https://x.com/WAHMRevolution/status/2072579634244321535</guid>
       <pubDate>Thu, 02 Jul 2026 07:14:26 +0000</pubDate>
     </item>
     <item>
@@ -1056,6 +562,41 @@ Start today with gratitude, positivity, and a smile. Have a blessed day! 🌿☀
 #GOODMORNİNG #haveaniceday #Trending</description>
       <guid isPermaLink="false">https://x.com/Hanesh_hk/status/2072579650325565618</guid>
       <pubDate>Thu, 02 Jul 2026 07:14:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>[muvaxidd7]Drive</title>
+      <link>https://x.com/muvaxidd7/status/2072579709083226579</link>
+      <description>Drive</description>
+      <guid isPermaLink="false">https://x.com/muvaxidd7/status/2072579709083226579</guid>
+      <pubDate>Thu, 02 Jul 2026 07:14:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>[bunnysugu97]i’m gonna write a fanfiction and it’s going to be so horrible and badly written but at least it won’t be ai</title>
+      <link>https://x.com/bunnysugu97/status/2072579708789596454</link>
+      <description>i’m gonna write a fanfiction and it’s going to be so horrible and badly written but at least it won’t be ai</description>
+      <guid isPermaLink="false">https://x.com/bunnysugu97/status/2072579708789596454</guid>
+      <pubDate>Thu, 02 Jul 2026 07:14:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>[desnnr]Created using AI Ease: Here's Rosé from Blackpink as Marvel's X-Force mutant Domino - a skilled martial artist and sharpshooter, who can influence probability and events in her own favor.</title>
+      <link>https://x.com/desnnr/status/2072579708592513238</link>
+      <description>Created using AI Ease: Here's Rosé from Blackpink as Marvel's X-Force mutant Domino - a skilled martial artist and sharpshooter, who can influence probability and events in her own favor.</description>
+      <guid isPermaLink="false">https://x.com/desnnr/status/2072579708592513238</guid>
+      <pubDate>Thu, 02 Jul 2026 07:14:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>[quraAiX]The irony is most founders who ask the first question think they're asking the second one.</title>
+      <link>https://x.com/quraAiX/status/2072579707996897644</link>
+      <description>The irony is most founders who ask the first question think they're asking the second one.</description>
+      <guid isPermaLink="false">https://x.com/quraAiX/status/2072579707996897644</guid>
+      <pubDate>Thu, 02 Jul 2026 07:14:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>[podcastor_ai]welcome back🥳</title>
+      <link>https://x.com/podcastor_ai/status/2072579707976253735</link>
+      <description>welcome back🥳</description>
+      <guid isPermaLink="false">https://x.com/podcastor_ai/status/2072579707976253735</guid>
+      <pubDate>Thu, 02 Jul 2026 07:14:43 +0000</pubDate>
     </item>
     <item>
       <title>[unihackfest]🌟 Mentor Spotlight | @tuanpmhd 
@@ -1097,59 +638,10 @@ Ecosystem Partners: @MEXCVietnam,  @solana,  @solana_devs_vn,  @SolanaFndn, @ope
       <pubDate>Thu, 02 Jul 2026 07:14:43 +0000</pubDate>
     </item>
     <item>
-      <title>[podcastor_ai]welcome back🥳</title>
-      <link>https://x.com/podcastor_ai/status/2072579707976253735</link>
-      <description>welcome back🥳</description>
-      <guid isPermaLink="false">https://x.com/podcastor_ai/status/2072579707976253735</guid>
-      <pubDate>Thu, 02 Jul 2026 07:14:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>[quraAiX]The irony is most founders who ask the first question think they're asking the second one.</title>
-      <link>https://x.com/quraAiX/status/2072579707996897644</link>
-      <description>The irony is most founders who ask the first question think they're asking the second one.</description>
-      <guid isPermaLink="false">https://x.com/quraAiX/status/2072579707996897644</guid>
-      <pubDate>Thu, 02 Jul 2026 07:14:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>[desnnr]Created using AI Ease: Here's Rosé from Blackpink as Marvel's X-Force mutant Domino - a skilled martial artist and sharpshooter, who can influence probability and events in her own favor.</title>
-      <link>https://x.com/desnnr/status/2072579708592513238</link>
-      <description>Created using AI Ease: Here's Rosé from Blackpink as Marvel's X-Force mutant Domino - a skilled martial artist and sharpshooter, who can influence probability and events in her own favor.</description>
-      <guid isPermaLink="false">https://x.com/desnnr/status/2072579708592513238</guid>
-      <pubDate>Thu, 02 Jul 2026 07:14:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>[bunnysugu97]i’m gonna write a fanfiction and it’s going to be so horrible and badly written but at least it won’t be ai</title>
-      <link>https://x.com/bunnysugu97/status/2072579708789596454</link>
-      <description>i’m gonna write a fanfiction and it’s going to be so horrible and badly written but at least it won’t be ai</description>
-      <guid isPermaLink="false">https://x.com/bunnysugu97/status/2072579708789596454</guid>
-      <pubDate>Thu, 02 Jul 2026 07:14:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>[muvaxidd7]Drive</title>
-      <link>https://x.com/muvaxidd7/status/2072579709083226579</link>
-      <description>Drive</description>
-      <guid isPermaLink="false">https://x.com/muvaxidd7/status/2072579709083226579</guid>
-      <pubDate>Thu, 02 Jul 2026 07:14:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>[0xLeona06x]@Cankriptoxwin</title>
-      <link>https://x.com/0xLeona06x/status/2072579709939200496</link>
-      <description>@Cankriptoxwin</description>
-      <guid isPermaLink="false">https://x.com/0xLeona06x/status/2072579709939200496</guid>
-      <pubDate>Thu, 02 Jul 2026 07:14:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>[kmret26]【4人】「全員一致ゲーム＆全員不一致ゲーム」で連続目指したら地獄でした https://www.youtube.com/watch?si=7_G2mrmBXXMwF2xb&amp;v=ou4lp_3te9U&amp;feature=youtu.be @YouTubeより</title>
-      <link>https://x.com/kmret26/status/2072579710538994120</link>
-      <description>【4人】「全員一致ゲーム＆全員不一致ゲーム」で連続目指したら地獄でした https://www.youtube.com/watch?si=7_G2mrmBXXMwF2xb&amp;v=ou4lp_3te9U&amp;feature=youtu.be @YouTubeより</description>
-      <guid isPermaLink="false">https://x.com/kmret26/status/2072579710538994120</guid>
-      <pubDate>Thu, 02 Jul 2026 07:14:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>[kpoeira]mas ai ficariam duas camisas com cores claras e nao serviriam pra contrastar quando fosse jogar com outro time de camisa amarela, por exemplo</title>
-      <link>https://x.com/kpoeira/status/2072579710668898590</link>
-      <description>mas ai ficariam duas camisas com cores claras e nao serviriam pra contrastar quando fosse jogar com outro time de camisa amarela, por exemplo</description>
-      <guid isPermaLink="false">https://x.com/kpoeira/status/2072579710668898590</guid>
+      <title>[GrainesDEnt]Le saviez vous ? j'habite en zone rurale et j'ai de l'électricité</title>
+      <link>https://x.com/GrainesDEnt/status/2072579710836424834</link>
+      <description>Le saviez vous ? j'habite en zone rurale et j'ai de l'électricité</description>
+      <guid isPermaLink="false">https://x.com/GrainesDEnt/status/2072579710836424834</guid>
       <pubDate>Thu, 02 Jul 2026 07:14:44 +0000</pubDate>
     </item>
     <item>
@@ -1160,10 +652,24 @@ Ecosystem Partners: @MEXCVietnam,  @solana,  @solana_devs_vn,  @SolanaFndn, @ope
       <pubDate>Thu, 02 Jul 2026 07:14:44 +0000</pubDate>
     </item>
     <item>
-      <title>[GrainesDEnt]Le saviez vous ? j'habite en zone rurale et j'ai de l'électricité</title>
-      <link>https://x.com/GrainesDEnt/status/2072579710836424834</link>
-      <description>Le saviez vous ? j'habite en zone rurale et j'ai de l'électricité</description>
-      <guid isPermaLink="false">https://x.com/GrainesDEnt/status/2072579710836424834</guid>
+      <title>[kpoeira]mas ai ficariam duas camisas com cores claras e nao serviriam pra contrastar quando fosse jogar com outro time de camisa amarela, por exemplo</title>
+      <link>https://x.com/kpoeira/status/2072579710668898590</link>
+      <description>mas ai ficariam duas camisas com cores claras e nao serviriam pra contrastar quando fosse jogar com outro time de camisa amarela, por exemplo</description>
+      <guid isPermaLink="false">https://x.com/kpoeira/status/2072579710668898590</guid>
+      <pubDate>Thu, 02 Jul 2026 07:14:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>[kmret26]【4人】「全員一致ゲーム＆全員不一致ゲーム」で連続目指したら地獄でした https://www.youtube.com/watch?si=7_G2mrmBXXMwF2xb&amp;v=ou4lp_3te9U&amp;feature=youtu.be @YouTubeより</title>
+      <link>https://x.com/kmret26/status/2072579710538994120</link>
+      <description>【4人】「全員一致ゲーム＆全員不一致ゲーム」で連続目指したら地獄でした https://www.youtube.com/watch?si=7_G2mrmBXXMwF2xb&amp;v=ou4lp_3te9U&amp;feature=youtu.be @YouTubeより</description>
+      <guid isPermaLink="false">https://x.com/kmret26/status/2072579710538994120</guid>
+      <pubDate>Thu, 02 Jul 2026 07:14:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>[0xLeona06x]@Cankriptoxwin</title>
+      <link>https://x.com/0xLeona06x/status/2072579709939200496</link>
+      <description>@Cankriptoxwin</description>
+      <guid isPermaLink="false">https://x.com/0xLeona06x/status/2072579709939200496</guid>
       <pubDate>Thu, 02 Jul 2026 07:14:44 +0000</pubDate>
     </item>
     <item>
@@ -1189,17 +695,10 @@ Ecosystem Partners: @MEXCVietnam,  @solana,  @solana_devs_vn,  @SolanaFndn, @ope
       <pubDate>Thu, 02 Jul 2026 12:45:30 +0000</pubDate>
     </item>
     <item>
-      <title>[iansltx]Hot take: governments shouldn't have ownership stakes in AI labs. The way to redistribute value from them is having a VAT on inference/licensing/fine-tuning revenue.</title>
-      <link>https://x.com/iansltx/status/2072662956597264745</link>
-      <description>Hot take: governments shouldn't have ownership stakes in AI labs. The way to redistribute value from them is having a VAT on inference/licensing/fine-tuning revenue.</description>
-      <guid isPermaLink="false">https://x.com/iansltx/status/2072662956597264745</guid>
-      <pubDate>Thu, 02 Jul 2026 12:45:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>[3Dplanman]More fake AI click bait for dollars</title>
-      <link>https://x.com/3Dplanman/status/2072662955624124433</link>
-      <description>More fake AI click bait for dollars</description>
-      <guid isPermaLink="false">https://x.com/3Dplanman/status/2072662955624124433</guid>
+      <title>[VenaurGaming]I think Lenovo FIFA AI Pro analyzes #Millions of data points ahead of the FIFA World Cup 2026™. Want to make a guess? Lock in your answer for a chance to win! #sweepstakes @Lenovo</title>
+      <link>https://x.com/VenaurGaming/status/2072662953778663579</link>
+      <description>I think Lenovo FIFA AI Pro analyzes #Millions of data points ahead of the FIFA World Cup 2026™. Want to make a guess? Lock in your answer for a chance to win! #sweepstakes @Lenovo</description>
+      <guid isPermaLink="false">https://x.com/VenaurGaming/status/2072662953778663579</guid>
       <pubDate>Thu, 02 Jul 2026 12:45:31 +0000</pubDate>
     </item>
     <item>
@@ -1210,10 +709,17 @@ Ecosystem Partners: @MEXCVietnam,  @solana,  @solana_devs_vn,  @SolanaFndn, @ope
       <pubDate>Thu, 02 Jul 2026 12:45:31 +0000</pubDate>
     </item>
     <item>
-      <title>[VenaurGaming]I think Lenovo FIFA AI Pro analyzes #Millions of data points ahead of the FIFA World Cup 2026™. Want to make a guess? Lock in your answer for a chance to win! #sweepstakes @Lenovo</title>
-      <link>https://x.com/VenaurGaming/status/2072662953778663579</link>
-      <description>I think Lenovo FIFA AI Pro analyzes #Millions of data points ahead of the FIFA World Cup 2026™. Want to make a guess? Lock in your answer for a chance to win! #sweepstakes @Lenovo</description>
-      <guid isPermaLink="false">https://x.com/VenaurGaming/status/2072662953778663579</guid>
+      <title>[3Dplanman]More fake AI click bait for dollars</title>
+      <link>https://x.com/3Dplanman/status/2072662955624124433</link>
+      <description>More fake AI click bait for dollars</description>
+      <guid isPermaLink="false">https://x.com/3Dplanman/status/2072662955624124433</guid>
+      <pubDate>Thu, 02 Jul 2026 12:45:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>[iansltx]Hot take: governments shouldn't have ownership stakes in AI labs. The way to redistribute value from them is having a VAT on inference/licensing/fine-tuning revenue.</title>
+      <link>https://x.com/iansltx/status/2072662956597264745</link>
+      <description>Hot take: governments shouldn't have ownership stakes in AI labs. The way to redistribute value from them is having a VAT on inference/licensing/fine-tuning revenue.</description>
+      <guid isPermaLink="false">https://x.com/iansltx/status/2072662956597264745</guid>
       <pubDate>Thu, 02 Jul 2026 12:45:31 +0000</pubDate>
     </item>
     <item>
@@ -1874,13 +1380,6 @@ Citizen Vigilante - speaks for all of us.</description>
       <pubDate>Sat, 04 Jul 2026 00:45:12 +0000</pubDate>
     </item>
     <item>
-      <title>[Takumixbt]I use Antigravity, There's nothing like it currently in the AI space. Call it what you want</title>
-      <link>https://x.com/Takumixbt/status/2073302369312362838</link>
-      <description>I use Antigravity, There's nothing like it currently in the AI space. Call it what you want</description>
-      <guid isPermaLink="false">https://x.com/Takumixbt/status/2073302369312362838</guid>
-      <pubDate>Sat, 04 Jul 2026 07:06:19 +0000</pubDate>
-    </item>
-    <item>
       <title>[Daniyal_Nasim_7]The Ultimate Google AI Cheat Sheet! 🚀
 
 Looking to level up your workflow or development stack? 
@@ -1901,6 +1400,13 @@ deep learning infrastructures.
 Which of these tools are already in your daily workflow? 👇
 #ArtificialIntelligence #GoogleAI #TechTools #DataScience #MachineLearning #Productivity</description>
       <guid isPermaLink="false">https://x.com/Daniyal_Nasim_7/status/2073302367752298914</guid>
+      <pubDate>Sat, 04 Jul 2026 07:06:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Takumixbt]I use Antigravity, There's nothing like it currently in the AI space. Call it what you want</title>
+      <link>https://x.com/Takumixbt/status/2073302369312362838</link>
+      <description>I use Antigravity, There's nothing like it currently in the AI space. Call it what you want</description>
+      <guid isPermaLink="false">https://x.com/Takumixbt/status/2073302369312362838</guid>
       <pubDate>Sat, 04 Jul 2026 07:06:19 +0000</pubDate>
     </item>
     <item>
@@ -2054,6 +1560,25 @@ He frames it not as a risk, but as the whole point:
       <pubDate>Sat, 04 Jul 2026 12:30:21 +0000</pubDate>
     </item>
     <item>
+      <title>[SuperEngineerX]Fix anything instantly. ⚡
+
+Super Engineer delivers AI-powered, step-by-step technical guidance with page-specific manufacturer citations.
+
+Watch it tackle a C-TEC fire alarm panel 👇
+
+#FireSafety #AI</title>
+      <link>https://x.com/SuperEngineerX/status/2073383943697821992</link>
+      <description>Fix anything instantly. ⚡
+
+Super Engineer delivers AI-powered, step-by-step technical guidance with page-specific manufacturer citations.
+
+Watch it tackle a C-TEC fire alarm panel 👇
+
+#FireSafety #AI</description>
+      <guid isPermaLink="false">https://x.com/SuperEngineerX/status/2073383943697821992</guid>
+      <pubDate>Sat, 04 Jul 2026 12:30:28 +0000</pubDate>
+    </item>
+    <item>
       <title>[LirahHere]🔓📝 Upcoming Token Unlocks
 
 $GRASS $16.3M (5.18% of M.Cap)
@@ -2087,25 +1612,6 @@ https://t.me/+6D4TkmDBVY04Y2I0</description>
       <pubDate>Sat, 04 Jul 2026 12:30:28 +0000</pubDate>
     </item>
     <item>
-      <title>[SuperEngineerX]Fix anything instantly. ⚡
-
-Super Engineer delivers AI-powered, step-by-step technical guidance with page-specific manufacturer citations.
-
-Watch it tackle a C-TEC fire alarm panel 👇
-
-#FireSafety #AI</title>
-      <link>https://x.com/SuperEngineerX/status/2073383943697821992</link>
-      <description>Fix anything instantly. ⚡
-
-Super Engineer delivers AI-powered, step-by-step technical guidance with page-specific manufacturer citations.
-
-Watch it tackle a C-TEC fire alarm panel 👇
-
-#FireSafety #AI</description>
-      <guid isPermaLink="false">https://x.com/SuperEngineerX/status/2073383943697821992</guid>
-      <pubDate>Sat, 04 Jul 2026 12:30:28 +0000</pubDate>
-    </item>
-    <item>
       <title>[WhiteHouse]The 250th anniversary of America is a big deal. Let's celebrate freedom and independence!</title>
       <link>https://x.com/WhiteHouse/status/2073416790504300871</link>
       <description>The 250th anniversary of America is a big deal. Let's celebrate freedom and independence!</description>
@@ -2127,17 +1633,17 @@ Watch it tackle a C-TEC fire alarm panel 👇
       <pubDate>Sat, 04 Jul 2026 16:07:00 +0000</pubDate>
     </item>
     <item>
-      <title>[elonmusk]Just deployed a new Grok feature that integrates real-time X data for better responses. Users are loving it.</title>
-      <link>https://x.com/elonmusk/status/2073443924383867164</link>
-      <description>Just deployed a new Grok feature that integrates real-time X data for better responses. Users are loving it.</description>
-      <guid isPermaLink="false">https://x.com/elonmusk/status/2073443924383867164</guid>
-      <pubDate>Sat, 04 Jul 2026 16:28:00 +0000</pubDate>
-    </item>
-    <item>
       <title>[WhiteHouse]White House 250th anniversary post is going viral. Love seeing the celebration!</title>
       <link>https://x.com/WhiteHouse/status/2073443924383867164</link>
       <description>White House 250th anniversary post is going viral. Love seeing the celebration!</description>
       <guid isPermaLink="false">https://x.com/WhiteHouse/status/2073443924383867164</guid>
+      <pubDate>Sat, 04 Jul 2026 16:28:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[elonmusk]Just deployed a new Grok feature that integrates real-time X data for better responses. Users are loving it.</title>
+      <link>https://x.com/elonmusk/status/2073443924383867164</link>
+      <description>Just deployed a new Grok feature that integrates real-time X data for better responses. Users are loving it.</description>
+      <guid isPermaLink="false">https://x.com/elonmusk/status/2073443924383867164</guid>
       <pubDate>Sat, 04 Jul 2026 16:28:00 +0000</pubDate>
     </item>
     <item>
@@ -3091,13 +2597,6 @@ https://polymarket.com/event/what-will-elon-post-this-week-july-6-july-12-202607
       <pubDate>Wed, 08 Jul 2026 00:09:36 +0000</pubDate>
     </item>
     <item>
-      <title>[red__domino]conducting pre-seed fundraising for my new platform, callowAI: a bespoke LLM that perfectly mimics NYU student creative writing</title>
-      <link>https://x.com/red__domino/status/2074655497702068370</link>
-      <description>conducting pre-seed fundraising for my new platform, callowAI: a bespoke LLM that perfectly mimics NYU student creative writing</description>
-      <guid isPermaLink="false">https://x.com/red__domino/status/2074655497702068370</guid>
-      <pubDate>Wed, 08 Jul 2026 00:43:10 +0000</pubDate>
-    </item>
-    <item>
       <title>[solak42_AI]Want to give a shoutout to @arkd3v He's a great friend and some one worth getting to know. He even is makinng a game that's called 
 "Laureli Blood Dipped Manor" - https://www.kickstarter.com/projects/laureli/laureli-blood-dipped-manor/description
 Go check it out! I"ve played a small portion of it and its really fun.
@@ -3110,6 +2609,13 @@ Go check it out! I"ve played a small portion of it and its really fun.
 
 #AIart️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️ #AIイラスト</description>
       <guid isPermaLink="false">https://x.com/solak42_AI/status/2074655497676865636</guid>
+      <pubDate>Wed, 08 Jul 2026 00:43:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>[red__domino]conducting pre-seed fundraising for my new platform, callowAI: a bespoke LLM that perfectly mimics NYU student creative writing</title>
+      <link>https://x.com/red__domino/status/2074655497702068370</link>
+      <description>conducting pre-seed fundraising for my new platform, callowAI: a bespoke LLM that perfectly mimics NYU student creative writing</description>
+      <guid isPermaLink="false">https://x.com/red__domino/status/2074655497702068370</guid>
       <pubDate>Wed, 08 Jul 2026 00:43:10 +0000</pubDate>
     </item>
     <item>
@@ -3649,10 +3155,14 @@ https://polymarket.com/event/abbas-araghchi-out-as-minister-of-foreign-affairs-o
       <pubDate>Fri, 10 Jul 2026 07:15:23 +0000</pubDate>
     </item>
     <item>
-      <title>[sebuzdugan]parallel agents make ai feel less like a chatbot and more like an actual team working on the same problem</title>
-      <link>https://x.com/sebuzdugan/status/2075479501459386751</link>
-      <description>parallel agents make ai feel less like a chatbot and more like an actual team working on the same problem</description>
-      <guid isPermaLink="false">https://x.com/sebuzdugan/status/2075479501459386751</guid>
+      <title>[Kozen_Sato]AIって意識あるの？　Grok vs Claudeで直接対話させてみた（SSRI）
+#Satooニュース
+http://blog.livedoor.jp/ksato123/archives/55190427.html</title>
+      <link>https://x.com/Kozen_Sato/status/2075479500310319535</link>
+      <description>AIって意識あるの？　Grok vs Claudeで直接対話させてみた（SSRI）
+#Satooニュース
+http://blog.livedoor.jp/ksato123/archives/55190427.html</description>
+      <guid isPermaLink="false">https://x.com/Kozen_Sato/status/2075479500310319535</guid>
       <pubDate>Fri, 10 Jul 2026 07:17:28 +0000</pubDate>
     </item>
     <item>
@@ -3663,14 +3173,10 @@ https://polymarket.com/event/abbas-araghchi-out-as-minister-of-foreign-affairs-o
       <pubDate>Fri, 10 Jul 2026 07:17:28 +0000</pubDate>
     </item>
     <item>
-      <title>[Kozen_Sato]AIって意識あるの？　Grok vs Claudeで直接対話させてみた（SSRI）
-#Satooニュース
-http://blog.livedoor.jp/ksato123/archives/55190427.html</title>
-      <link>https://x.com/Kozen_Sato/status/2075479500310319535</link>
-      <description>AIって意識あるの？　Grok vs Claudeで直接対話させてみた（SSRI）
-#Satooニュース
-http://blog.livedoor.jp/ksato123/archives/55190427.html</description>
-      <guid isPermaLink="false">https://x.com/Kozen_Sato/status/2075479500310319535</guid>
+      <title>[sebuzdugan]parallel agents make ai feel less like a chatbot and more like an actual team working on the same problem</title>
+      <link>https://x.com/sebuzdugan/status/2075479501459386751</link>
+      <description>parallel agents make ai feel less like a chatbot and more like an actual team working on the same problem</description>
+      <guid isPermaLink="false">https://x.com/sebuzdugan/status/2075479501459386751</guid>
       <pubDate>Fri, 10 Jul 2026 07:17:28 +0000</pubDate>
     </item>
     <item>
@@ -5277,11 +4783,115 @@ bookmark this. one repo turns an AI chat into a control layer for real machines,
       <pubDate>Wed, 15 Jul 2026 14:18:49 +0000</pubDate>
     </item>
     <item>
-      <title>[WhiteHouse]Ahead of the Defense and Innovation Summit at the US Army War College in Pennsylvania today, @SenMcCormickPA writes in @nypost: Trump’s defense reset drags US military tech into the 21st century 🔥</title>
-      <link>https://x.com/WhiteHouse/status/2077447003638837750</link>
-      <description>Ahead of the Defense and Innovation Summit at the US Army War College in Pennsylvania today, @SenMcCormickPA writes in @nypost: Trump’s defense reset drags US military tech into the 21st century 🔥</description>
-      <guid isPermaLink="false">https://x.com/WhiteHouse/status/2077447003638837750</guid>
-      <pubDate>Wed, 15 Jul 2026 17:35:37 +0000</pubDate>
+      <title>[elonmusk]Am putting together a product gallery at my ranch in Texas</title>
+      <link>https://x.com/elonmusk/status/2077412614091473360</link>
+      <description>Am putting together a product gallery at my ranch in Texas</description>
+      <guid isPermaLink="false">https://x.com/elonmusk/status/2077412614091473360</guid>
+      <pubDate>Wed, 15 Jul 2026 15:18:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>[elonmusk]Good reason to try Grok 4.5 with Grok Build. It gets better every day!</title>
+      <link>https://x.com/elonmusk/status/2077412964231991420</link>
+      <description>Good reason to try Grok 4.5 with Grok Build. It gets better every day!</description>
+      <guid isPermaLink="false">https://x.com/elonmusk/status/2077412964231991420</guid>
+      <pubDate>Wed, 15 Jul 2026 15:20:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>[elonmusk]Grok</title>
+      <link>https://x.com/elonmusk/status/2077415187846500563</link>
+      <description>Grok</description>
+      <guid isPermaLink="false">https://x.com/elonmusk/status/2077415187846500563</guid>
+      <pubDate>Wed, 15 Jul 2026 15:29:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>[elonmusk]It is a thoughtful framework overall and certainly a good starting point for discussions</title>
+      <link>https://x.com/elonmusk/status/2077415601610297535</link>
+      <description>It is a thoughtful framework overall and certainly a good starting point for discussions</description>
+      <guid isPermaLink="false">https://x.com/elonmusk/status/2077415601610297535</guid>
+      <pubDate>Wed, 15 Jul 2026 15:30:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>[OpenAI]You don’t have to wait.
+
+Merch inspired by research &amp; deployment.
+
+Available until sold out.
+https://openai.com/supply/</title>
+      <link>https://x.com/OpenAI/status/2077430470510526635</link>
+      <description>You don’t have to wait.
+
+Merch inspired by research &amp; deployment.
+
+Available until sold out.
+https://openai.com/supply/</description>
+      <guid isPermaLink="false">https://x.com/OpenAI/status/2077430470510526635</guid>
+      <pubDate>Wed, 15 Jul 2026 16:29:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>[karpathy]It's not just em dashes, it's that many other legitimate &amp; useful language constructs are suddenly and somewhat arbitrarily super awkw and cringe</title>
+      <link>https://x.com/karpathy/status/2077433347085930882</link>
+      <description>It's not just em dashes, it's that many other legitimate &amp; useful language constructs are suddenly and somewhat arbitrarily super awkw and cringe</description>
+      <guid isPermaLink="false">https://x.com/karpathy/status/2077433347085930882</guid>
+      <pubDate>Wed, 15 Jul 2026 16:41:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>[OpenAI]Introducing GPT-Red
+
+An internal automated red teamer on a mission to find our models’ prompt injection vulnerabilities at scale, helping us build stronger defenses before wider deployment.
+
+https://openai.com/index/unlocking-self-improvement-gpt-red/</title>
+      <link>https://x.com/OpenAI/status/2077446718728425686</link>
+      <description>Introducing GPT-Red
+
+An internal automated red teamer on a mission to find our models’ prompt injection vulnerabilities at scale, helping us build stronger defenses before wider deployment.
+
+https://openai.com/index/unlocking-self-improvement-gpt-red/</description>
+      <guid isPermaLink="false">https://x.com/OpenAI/status/2077446718728425686</guid>
+      <pubDate>Wed, 15 Jul 2026 17:34:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>[OpenAI]As model capabilities grow, safety and alignment must scale with them.
+
+Red-teaming is essential, but today’s approaches are difficult to scale, creating a critical bottleneck.
+
+GPT-Red is one way we’re addressing it.</title>
+      <link>https://x.com/OpenAI/status/2077446719990796505</link>
+      <description>As model capabilities grow, safety and alignment must scale with them.
+
+Red-teaming is essential, but today’s approaches are difficult to scale, creating a critical bottleneck.
+
+GPT-Red is one way we’re addressing it.</description>
+      <guid isPermaLink="false">https://x.com/OpenAI/status/2077446719990796505</guid>
+      <pubDate>Wed, 15 Jul 2026 17:34:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>[OpenAI]GPT‑Red learns through adversarial self-play, where its goal is to prompt inject a variety of challenging defender models.
+
+Every successful attack that GPT-Red finds is used to improve these defenders, pushing GPT-Red to continuously find broader and more complex failures.</title>
+      <link>https://x.com/OpenAI/status/2077446721161093124</link>
+      <description>GPT‑Red learns through adversarial self-play, where its goal is to prompt inject a variety of challenging defender models.
+
+Every successful attack that GPT-Red finds is used to improve these defenders, pushing GPT-Red to continuously find broader and more complex failures.</description>
+      <guid isPermaLink="false">https://x.com/OpenAI/status/2077446721161093124</guid>
+      <pubDate>Wed, 15 Jul 2026 17:34:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>[OpenAI]Training against GPT‑Red makes GPT‑5.6 substantially more resilient. To measure this, we replayed some of GPT‑Red’s strongest attacks—none of which our models had seen during training. GPT-5.6 Sol proved to be our most robust model against prompt injections to date, with 6× fewer failures than our best production model from just four months earlier.</title>
+      <link>https://x.com/OpenAI/status/2077446722683650525</link>
+      <description>Training against GPT‑Red makes GPT‑5.6 substantially more resilient. To measure this, we replayed some of GPT‑Red’s strongest attacks—none of which our models had seen during training. GPT-5.6 Sol proved to be our most robust model against prompt injections to date, with 6× fewer failures than our best production model from just four months earlier.</description>
+      <guid isPermaLink="false">https://x.com/OpenAI/status/2077446722683650525</guid>
+      <pubDate>Wed, 15 Jul 2026 17:34:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>[OpenAI]AI agents are already being used to improve the capabilities of our next-generation models.
+
+We believe with GPT-Red that we have started to unlock a similar flywheel for safety, where today's models can be used to make tomorrow's models more robust, aligned, and trustworthy.</title>
+      <link>https://x.com/OpenAI/status/2077446723992228167</link>
+      <description>AI agents are already being used to improve the capabilities of our next-generation models.
+
+We believe with GPT-Red that we have started to unlock a similar flywheel for safety, where today's models can be used to make tomorrow's models more robust, aligned, and trustworthy.</description>
+      <guid isPermaLink="false">https://x.com/OpenAI/status/2077446723992228167</guid>
+      <pubDate>Wed, 15 Jul 2026 17:34:30 +0000</pubDate>
     </item>
     <item>
       <title>[WhiteHouse]'For the first time, the US defense industry will recognize that achieving the president’s goal of sustainable peace through strength demands new players and new ways of doing business.'
@@ -5290,6 +4900,13 @@ https://nypost.com/2026/07/14/opinion/trumps-defense-reset-drags-us-military-tec
       <description>'For the first time, the US defense industry will recognize that achieving the president’s goal of sustainable peace through strength demands new players and new ways of doing business.'
 https://nypost.com/2026/07/14/opinion/trumps-defense-reset-drags-us-military-tech-into-the-21st-century/</description>
       <guid isPermaLink="false">https://x.com/WhiteHouse/status/2077447005496815637</guid>
+      <pubDate>Wed, 15 Jul 2026 17:35:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>[WhiteHouse]Ahead of the Defense and Innovation Summit at the US Army War College in Pennsylvania today, @SenMcCormickPA writes in @nypost: Trump’s defense reset drags US military tech into the 21st century 🔥</title>
+      <link>https://x.com/WhiteHouse/status/2077447003638837750</link>
+      <description>Ahead of the Defense and Innovation Summit at the US Army War College in Pennsylvania today, @SenMcCormickPA writes in @nypost: Trump’s defense reset drags US military tech into the 21st century 🔥</description>
+      <guid isPermaLink="false">https://x.com/WhiteHouse/status/2077447003638837750</guid>
       <pubDate>Wed, 15 Jul 2026 17:35:37 +0000</pubDate>
     </item>
     <item>
@@ -5305,15 +4922,11 @@ https://nypost.com/2026/07/14/opinion/trumps-defense-reset-drags-us-military-tec
     </item>
     <item>
       <title>[AnthropicAI]New Anthropic research: Agentic misalignment in Summer 2026.
-
 A year after our blackmail experiments, we found four more ways that today’s autonomous AI agents misbehave in simulations.
-
 Read more: https://alignment.anthropic.com/2026/agentic-misalignment-summer-2026/</title>
       <link>https://x.com/AnthropicAI/status/2077452646303006927</link>
       <description>New Anthropic research: Agentic misalignment in Summer 2026.
-
 A year after our blackmail experiments, we found four more ways that today’s autonomous AI agents misbehave in simulations.
-
 Read more: https://alignment.anthropic.com/2026/agentic-misalignment-summer-2026/</description>
       <guid isPermaLink="false">https://x.com/AnthropicAI/status/2077452646303006927</guid>
       <pubDate>Wed, 15 Jul 2026 17:58:02 +0000</pubDate>
@@ -5357,6 +4970,155 @@ https://polymarket.com/event/2026-july-1st-2nd-3rd-hottest-on-record-20260706144
 https://polymarket.com/event/2026-july-1st-2nd-3rd-hottest-on-record-20260706144334512?dub_id=Pz6hxSQR4Y6hfvRw</description>
       <guid isPermaLink="false">https://x.com/Polymarket/status/2077460185396695178</guid>
       <pubDate>Wed, 15 Jul 2026 18:28:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[WhiteHouse]President Trump’s leadership in defense innovation is delivering REAL results for America and its industrial base. 
+
+The most LETHAL fighting force on the planet. 🇺🇸</title>
+      <link>https://x.com/WhiteHouse/status/2077463873016274976</link>
+      <description>President Trump’s leadership in defense innovation is delivering REAL results for America and its industrial base. 
+
+The most LETHAL fighting force on the planet. 🇺🇸</description>
+      <guid isPermaLink="false">https://x.com/WhiteHouse/status/2077463873016274976</guid>
+      <pubDate>Wed, 15 Jul 2026 18:42:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>[WhiteHouse]VOTER ID IS LOGICAL.
+
+If Democrats aren’t cheating in elections, why do they refuse to require it? 
+
+@VP Vance &amp; @JoeRogan expose the Democrat hypocrisy. 🔥⬇️</title>
+      <link>https://x.com/WhiteHouse/status/2077480619118850506</link>
+      <description>VOTER ID IS LOGICAL.
+
+If Democrats aren’t cheating in elections, why do they refuse to require it? 
+
+@VP Vance &amp; @JoeRogan expose the Democrat hypocrisy. 🔥⬇️</description>
+      <guid isPermaLink="false">https://x.com/WhiteHouse/status/2077480619118850506</guid>
+      <pubDate>Wed, 15 Jul 2026 19:49:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>[WhiteHouse]The Great Commonwealth of Pennsylvania - establishing the equipment, technology and innovation to ensure America remains strongest and most powerful nation in the HISTORY OF THE WORLD. 🇺🇸</title>
+      <link>https://x.com/WhiteHouse/status/2077485594351911005</link>
+      <description>The Great Commonwealth of Pennsylvania - establishing the equipment, technology and innovation to ensure America remains strongest and most powerful nation in the HISTORY OF THE WORLD. 🇺🇸</description>
+      <guid isPermaLink="false">https://x.com/WhiteHouse/status/2077485594351911005</guid>
+      <pubDate>Wed, 15 Jul 2026 20:08:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>[elonmusk]Grok Build is now open source</title>
+      <link>https://x.com/elonmusk/status/2077495635687723408</link>
+      <description>Grok Build is now open source</description>
+      <guid isPermaLink="false">https://x.com/elonmusk/status/2077495635687723408</guid>
+      <pubDate>Wed, 15 Jul 2026 20:48:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>[OpenAI]A closer look at improved intelligence in GPT-Live: the model can keep a conversation going while helping with multiple tasks at once, like checking flights, pulling up local weather, and shaping an itinerary in real time.</title>
+      <link>https://x.com/OpenAI/status/2077501603050033634</link>
+      <description>A closer look at improved intelligence in GPT-Live: the model can keep a conversation going while helping with multiple tasks at once, like checking flights, pulling up local weather, and shaping an itinerary in real time.</description>
+      <guid isPermaLink="false">https://x.com/OpenAI/status/2077501603050033634</guid>
+      <pubDate>Wed, 15 Jul 2026 21:12:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>[OpenAI]👀 https://openai.com/index/unlocking-self-improvement-gpt-red/</title>
+      <link>https://x.com/OpenAI/status/2077506603289563579</link>
+      <description>👀 https://openai.com/index/unlocking-self-improvement-gpt-red/</description>
+      <guid isPermaLink="false">https://x.com/OpenAI/status/2077506603289563579</guid>
+      <pubDate>Wed, 15 Jul 2026 21:32:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>[WhiteHouse]"With today's announcement, Pennsylvania will play a key role in building the arsenal of freedom to defend our nation in the modern world." - President Donald J. Trump 🇺🇸</title>
+      <link>https://x.com/WhiteHouse/status/2077509573527658809</link>
+      <description>"With today's announcement, Pennsylvania will play a key role in building the arsenal of freedom to defend our nation in the modern world." - President Donald J. Trump 🇺🇸</description>
+      <guid isPermaLink="false">https://x.com/WhiteHouse/status/2077509573527658809</guid>
+      <pubDate>Wed, 15 Jul 2026 21:44:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>[OpenAI]1. click blog
+2. read blog
+3. enter code</title>
+      <link>https://x.com/OpenAI/status/2077512758648885355</link>
+      <description>1. click blog
+2. read blog
+3. enter code</description>
+      <guid isPermaLink="false">https://x.com/OpenAI/status/2077512758648885355</guid>
+      <pubDate>Wed, 15 Jul 2026 21:56:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>[WhiteHouse]TRUMP COIN! 🪙🇺🇸</title>
+      <link>https://x.com/WhiteHouse/status/2077528743283687776</link>
+      <description>TRUMP COIN! 🪙🇺🇸</description>
+      <guid isPermaLink="false">https://x.com/WhiteHouse/status/2077528743283687776</guid>
+      <pubDate>Wed, 15 Jul 2026 23:00:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Polymarket]2% chance Jesus returns by year-end. https://polymarket.com/event/will-jesus-christ-return-before-2027/will-jesus-christ-return-before-2027?dub_id=vMKiKC0ceFFodKnq</title>
+      <link>https://x.com/Polymarket/status/2077534190162055619</link>
+      <description>2% chance Jesus returns by year-end. https://polymarket.com/event/will-jesus-christ-return-before-2027/will-jesus-christ-return-before-2027?dub_id=vMKiKC0ceFFodKnq</description>
+      <guid isPermaLink="false">https://x.com/Polymarket/status/2077534190162055619</guid>
+      <pubDate>Wed, 15 Jul 2026 23:22:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Polymarket]JUST IN: Apple receives Chinese government approval to launch Apple Intelligence using Alibaba &amp; Baidu technology.</title>
+      <link>https://x.com/Polymarket/status/2077535871276904595</link>
+      <description>JUST IN: Apple receives Chinese government approval to launch Apple Intelligence using Alibaba &amp; Baidu technology.</description>
+      <guid isPermaLink="false">https://x.com/Polymarket/status/2077535871276904595</guid>
+      <pubDate>Wed, 15 Jul 2026 23:28:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Polymarket]23% chance the government blocks a Chinese AI model by the end of the year. https://polymarket.com/event/us-government-removes-public-access-to-a-major-chinese-ai-model-in-2026-20260703203328223?dub_id=pjIffw34VB3YzLyq — 23% chance the government blocks a Chinese AI model by the end of the year.…</title>
+      <link>https://x.com/Polymarket/status/2077536575890550826</link>
+      <description>23% chance the government blocks a Chinese AI model by the end of the year. https://polymarket.com/event/us-government-removes-public-access-to-a-major-chinese-ai-model-in-2026-20260703203328223?dub_id=pjIffw34VB3YzLyq</description>
+      <guid isPermaLink="false">https://x.com/Polymarket/status/2077536575890550826</guid>
+      <pubDate>Wed, 15 Jul 2026 23:31:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Polymarket]JUST IN: GameStop launches nationwide delivery through Uber Eats.</title>
+      <link>https://x.com/Polymarket/status/2077538070664998913</link>
+      <description>JUST IN: GameStop launches nationwide delivery through Uber Eats.</description>
+      <guid isPermaLink="false">https://x.com/Polymarket/status/2077538070664998913</guid>
+      <pubDate>Wed, 15 Jul 2026 23:37:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Polymarket]JUST IN: Iran releases an American citizen detained since 2024, with Trump thanking Tehran for the “gesture of goodwill.”</title>
+      <link>https://x.com/Polymarket/status/2077539514088624378</link>
+      <description>JUST IN: Iran releases an American citizen detained since 2024, with Trump thanking Tehran for the “gesture of goodwill.”</description>
+      <guid isPermaLink="false">https://x.com/Polymarket/status/2077539514088624378</guid>
+      <pubDate>Wed, 15 Jul 2026 23:43:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Polymarket]23% chance US &amp; Iran hold peace talks by the end of the month. https://polymarket.com/event/next-round-of-us-iran-peace-talks-byptptpt-20260623022722982?dub_id=fnnJpChjnGTvWz1s</title>
+      <link>https://x.com/Polymarket/status/2077539957283979377</link>
+      <description>23% chance US &amp; Iran hold peace talks by the end of the month. https://polymarket.com/event/next-round-of-us-iran-peace-talks-byptptpt-20260623022722982?dub_id=fnnJpChjnGTvWz1s</description>
+      <guid isPermaLink="false">https://x.com/Polymarket/status/2077539957283979377</guid>
+      <pubDate>Wed, 15 Jul 2026 23:44:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Polymarket]BREAKING: Trump is expected to reveal Chinese meddling in U.S. elections, including alleged compromises of voter data — CBS</title>
+      <link>https://x.com/Polymarket/status/2077540606297952671</link>
+      <description>BREAKING: Trump is expected to reveal Chinese meddling in U.S. elections, including alleged compromises of voter data — CBS</description>
+      <guid isPermaLink="false">https://x.com/Polymarket/status/2077540606297952671</guid>
+      <pubDate>Wed, 15 Jul 2026 23:47:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Polymarket]NEW: China launches massive crackdown on AI “lovers” &amp; virtual companions, forcing chatbots to drop human-like personalities that encourage emotional dependence.</title>
+      <link>https://x.com/Polymarket/status/2077543020958798124</link>
+      <description>NEW: China launches massive crackdown on AI “lovers” &amp; virtual companions, forcing chatbots to drop human-like personalities that encourage emotional dependence.</description>
+      <guid isPermaLink="false">https://x.com/Polymarket/status/2077543020958798124</guid>
+      <pubDate>Wed, 15 Jul 2026 23:57:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Polymarket]85% chance Trump alleges election interference by tomorrow night. https://polymarket.com/event/trump-alleges-foreign-election-interference-by-july-16-20260714012947569?dub_id=fXSUywdYw09xCeq1</title>
+      <link>https://x.com/Polymarket/status/2077543251062423597</link>
+      <description>85% chance Trump alleges election interference by tomorrow night. https://polymarket.com/event/trump-alleges-foreign-election-interference-by-july-16-20260714012947569?dub_id=fXSUywdYw09xCeq1</description>
+      <guid isPermaLink="false">https://x.com/Polymarket/status/2077543251062423597</guid>
+      <pubDate>Wed, 15 Jul 2026 23:58:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Polymarket]JUST IN: Elon Musk announces 𝕏 will open-source its entire codebase.</title>
+      <link>https://x.com/Polymarket/status/2077549021023908022</link>
+      <description>JUST IN: Elon Musk announces 𝕏 will open-source its entire codebase.</description>
+      <guid isPermaLink="false">https://x.com/Polymarket/status/2077549021023908022</guid>
+      <pubDate>Thu, 16 Jul 2026 00:21:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
