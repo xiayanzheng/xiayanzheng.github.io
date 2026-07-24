@@ -7,70 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 23 Jul 2026 18:31:19 +0000</lastBuildDate>
-    <item>
-      <title>[elonmusk]I was clearly wrong about Anthropic. They are obviously currently the leader in AI. No company has released a model as good as Mythos/Fable and they will undoubtedly have Mythos 2 ready soon.</title>
-      <link>https://x.com/elonmusk/status/2075278580955685036</link>
-      <description>I was clearly wrong about Anthropic. They are obviously currently the leader in AI. No company has released a model as good as Mythos/Fable and they will undoubtedly have Mythos 2 ready soon.</description>
-      <guid isPermaLink="false">https://x.com/elonmusk/status/2075278580955685036</guid>
-      <pubDate>Thu, 09 Jul 2026 17:59:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>[elonmusk]Try @Grok 4.5!</title>
-      <link>https://x.com/elonmusk/status/2075283356439257417</link>
-      <description>Try @Grok 4.5!</description>
-      <guid isPermaLink="false">https://x.com/elonmusk/status/2075283356439257417</guid>
-      <pubDate>Thu, 09 Jul 2026 18:18:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>[thsottiaux]GPT 5.6 Sol is our best model so far at ~everything. It's remarkable how stark the difference is with GPT-5.5 across coding, hard context and strategy tasks...</title>
-      <link>https://x.com/thsottiaux/status/2075283734136525255</link>
-      <description>GPT 5.6 Sol is our best model so far at ~everything. It's remarkable how stark the difference is with GPT-5.5 across coding, hard context and strategy tasks...</description>
-      <guid isPermaLink="false">https://x.com/thsottiaux/status/2075283734136525255</guid>
-      <pubDate>Thu, 09 Jul 2026 18:19:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>[KobeissiLetter]The AI arms race is driving record Big Tech borrowing: Amazon $AMZN, Alphabet $GOOGL, Nvidia $NVDA, Meta $META, Oracle $ORCL, and SpaceX... have issued a record $182 billion in investment-grade bonds so far in 2026.</title>
-      <link>https://x.com/KobeissiLetter/status/2075286130941931676</link>
-      <description>The AI arms race is driving record Big Tech borrowing: Amazon $AMZN, Alphabet $GOOGL, Nvidia $NVDA, Meta $META, Oracle $ORCL, and SpaceX... have issued a record $182 billion in investment-grade bonds so far in 2026.</description>
-      <guid isPermaLink="false">https://x.com/KobeissiLetter/status/2075286130941931676</guid>
-      <pubDate>Thu, 09 Jul 2026 18:29:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Polymarket]NEW: Anthropic resets 5-hour &amp; weekly rate limits for all Claude users, following the releases of Grok 4.5 &amp; GPT-5.6.</title>
-      <link>https://x.com/Polymarket/status/2075286864915746920</link>
-      <description>NEW: Anthropic resets 5-hour &amp; weekly rate limits for all Claude users, following the releases of Grok 4.5 &amp; GPT-5.6.</description>
-      <guid isPermaLink="false">https://x.com/Polymarket/status/2075286864915746920</guid>
-      <pubDate>Thu, 09 Jul 2026 18:32:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Polymarket]JUST IN: 1X unveils tendon-driven humanoid robot hands for NEO with 25 degrees of freedom, calling them an “API to the physical world.”</title>
-      <link>https://x.com/Polymarket/status/2075289302192287779</link>
-      <description>JUST IN: 1X unveils tendon-driven humanoid robot hands for NEO with 25 degrees of freedom, calling them an “API to the physical world.”</description>
-      <guid isPermaLink="false">https://x.com/Polymarket/status/2075289302192287779</guid>
-      <pubDate>Thu, 09 Jul 2026 18:41:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>[elonmusk]Grok gaming</title>
-      <link>https://x.com/elonmusk/status/2075371558588055670</link>
-      <description>Grok gaming</description>
-      <guid isPermaLink="false">https://x.com/elonmusk/status/2075371558588055670</guid>
-      <pubDate>Fri, 10 Jul 2026 00:08:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>[elonmusk]Grok Build improves almost every day</title>
-      <link>https://x.com/elonmusk/status/2075372185158377948</link>
-      <description>Grok Build improves almost every day</description>
-      <guid isPermaLink="false">https://x.com/elonmusk/status/2075372185158377948</guid>
-      <pubDate>Fri, 10 Jul 2026 00:11:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>[elonmusk]The level of detail rendered is proportionate to the precision of the observation. Anything more than that is wasted compute.</title>
-      <link>https://x.com/elonmusk/status/2075372839041933555</link>
-      <description>The level of detail rendered is proportionate to the precision of the observation. Anything more than that is wasted compute.</description>
-      <guid isPermaLink="false">https://x.com/elonmusk/status/2075372839041933555</guid>
-      <pubDate>Fri, 10 Jul 2026 00:13:38 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 24 Jul 2026 00:38:32 +0000</lastBuildDate>
     <item>
       <title>[elonmusk]@grok is this true?</title>
       <link>https://x.com/elonmusk/status/2075373714007318896</link>
@@ -329,10 +266,14 @@ https://polymarket.com/event/abbas-araghchi-out-as-minister-of-foreign-affairs-o
       <pubDate>Fri, 10 Jul 2026 07:15:23 +0000</pubDate>
     </item>
     <item>
-      <title>[sebuzdugan]parallel agents make ai feel less like a chatbot and more like an actual team working on the same problem</title>
-      <link>https://x.com/sebuzdugan/status/2075479501459386751</link>
-      <description>parallel agents make ai feel less like a chatbot and more like an actual team working on the same problem</description>
-      <guid isPermaLink="false">https://x.com/sebuzdugan/status/2075479501459386751</guid>
+      <title>[Kozen_Sato]AIって意識あるの？　Grok vs Claudeで直接対話させてみた（SSRI）
+#Satooニュース
+http://blog.livedoor.jp/ksato123/archives/55190427.html</title>
+      <link>https://x.com/Kozen_Sato/status/2075479500310319535</link>
+      <description>AIって意識あるの？　Grok vs Claudeで直接対話させてみた（SSRI）
+#Satooニュース
+http://blog.livedoor.jp/ksato123/archives/55190427.html</description>
+      <guid isPermaLink="false">https://x.com/Kozen_Sato/status/2075479500310319535</guid>
       <pubDate>Fri, 10 Jul 2026 07:17:28 +0000</pubDate>
     </item>
     <item>
@@ -343,14 +284,10 @@ https://polymarket.com/event/abbas-araghchi-out-as-minister-of-foreign-affairs-o
       <pubDate>Fri, 10 Jul 2026 07:17:28 +0000</pubDate>
     </item>
     <item>
-      <title>[Kozen_Sato]AIって意識あるの？　Grok vs Claudeで直接対話させてみた（SSRI）
-#Satooニュース
-http://blog.livedoor.jp/ksato123/archives/55190427.html</title>
-      <link>https://x.com/Kozen_Sato/status/2075479500310319535</link>
-      <description>AIって意識あるの？　Grok vs Claudeで直接対話させてみた（SSRI）
-#Satooニュース
-http://blog.livedoor.jp/ksato123/archives/55190427.html</description>
-      <guid isPermaLink="false">https://x.com/Kozen_Sato/status/2075479500310319535</guid>
+      <title>[sebuzdugan]parallel agents make ai feel less like a chatbot and more like an actual team working on the same problem</title>
+      <link>https://x.com/sebuzdugan/status/2075479501459386751</link>
+      <description>parallel agents make ai feel less like a chatbot and more like an actual team working on the same problem</description>
+      <guid isPermaLink="false">https://x.com/sebuzdugan/status/2075479501459386751</guid>
       <pubDate>Fri, 10 Jul 2026 07:17:28 +0000</pubDate>
     </item>
     <item>
@@ -2009,14 +1946,18 @@ https://openai.com/supply/</description>
       <pubDate>Wed, 15 Jul 2026 16:41:21 +0000</pubDate>
     </item>
     <item>
-      <title>[OpenAI]GPT‑Red learns through adversarial self-play, where its goal is to prompt inject a variety of challenging defender models.
+      <title>[OpenAI]Introducing GPT-Red
 
-Every successful attack that GPT-Red finds is used to improve these defenders, pushing GPT-Red to continuously find broader and more complex failures.</title>
-      <link>https://x.com/OpenAI/status/2077446721161093124</link>
-      <description>GPT‑Red learns through adversarial self-play, where its goal is to prompt inject a variety of challenging defender models.
+An internal automated red teamer on a mission to find our models’ prompt injection vulnerabilities at scale, helping us build stronger defenses before wider deployment.
 
-Every successful attack that GPT-Red finds is used to improve these defenders, pushing GPT-Red to continuously find broader and more complex failures.</description>
-      <guid isPermaLink="false">https://x.com/OpenAI/status/2077446721161093124</guid>
+https://openai.com/index/unlocking-self-improvement-gpt-red/</title>
+      <link>https://x.com/OpenAI/status/2077446718728425686</link>
+      <description>Introducing GPT-Red
+
+An internal automated red teamer on a mission to find our models’ prompt injection vulnerabilities at scale, helping us build stronger defenses before wider deployment.
+
+https://openai.com/index/unlocking-self-improvement-gpt-red/</description>
+      <guid isPermaLink="false">https://x.com/OpenAI/status/2077446718728425686</guid>
       <pubDate>Wed, 15 Jul 2026 17:34:29 +0000</pubDate>
     </item>
     <item>
@@ -2035,19 +1976,22 @@ GPT-Red is one way we’re addressing it.</description>
       <pubDate>Wed, 15 Jul 2026 17:34:29 +0000</pubDate>
     </item>
     <item>
-      <title>[OpenAI]Introducing GPT-Red
+      <title>[OpenAI]GPT‑Red learns through adversarial self-play, where its goal is to prompt inject a variety of challenging defender models.
 
-An internal automated red teamer on a mission to find our models’ prompt injection vulnerabilities at scale, helping us build stronger defenses before wider deployment.
+Every successful attack that GPT-Red finds is used to improve these defenders, pushing GPT-Red to continuously find broader and more complex failures.</title>
+      <link>https://x.com/OpenAI/status/2077446721161093124</link>
+      <description>GPT‑Red learns through adversarial self-play, where its goal is to prompt inject a variety of challenging defender models.
 
-https://openai.com/index/unlocking-self-improvement-gpt-red/</title>
-      <link>https://x.com/OpenAI/status/2077446718728425686</link>
-      <description>Introducing GPT-Red
-
-An internal automated red teamer on a mission to find our models’ prompt injection vulnerabilities at scale, helping us build stronger defenses before wider deployment.
-
-https://openai.com/index/unlocking-self-improvement-gpt-red/</description>
-      <guid isPermaLink="false">https://x.com/OpenAI/status/2077446718728425686</guid>
+Every successful attack that GPT-Red finds is used to improve these defenders, pushing GPT-Red to continuously find broader and more complex failures.</description>
+      <guid isPermaLink="false">https://x.com/OpenAI/status/2077446721161093124</guid>
       <pubDate>Wed, 15 Jul 2026 17:34:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>[OpenAI]Training against GPT‑Red makes GPT‑5.6 substantially more resilient. To measure this, we replayed some of GPT‑Red’s strongest attacks—none of which our models had seen during training. GPT‑5.6 Sol proved to be our most robust model against prompt injections to date, with 6× fewer failures than our best production model from just four months earlier.</title>
+      <link>https://x.com/OpenAI/status/2077446722683650525</link>
+      <description>Training against GPT‑Red makes GPT‑5.6 substantially more resilient. To measure this, we replayed some of GPT‑Red’s strongest attacks—none of which our models had seen during training. GPT‑5.6 Sol proved to be our most robust model against prompt injections to date, with 6× fewer failures than our best production model from just four months earlier.</description>
+      <guid isPermaLink="false">https://x.com/OpenAI/status/2077446722683650525</guid>
+      <pubDate>Wed, 15 Jul 2026 17:34:30 +0000</pubDate>
     </item>
     <item>
       <title>[OpenAI]AI agents are already being used to improve the capabilities of our next-generation models.
@@ -2061,26 +2005,19 @@ We believe with GPT-Red that we have started to unlock a similar flywheel for sa
       <pubDate>Wed, 15 Jul 2026 17:34:30 +0000</pubDate>
     </item>
     <item>
-      <title>[OpenAI]Training against GPT‑Red makes GPT‑5.6 substantially more resilient. To measure this, we replayed some of GPT‑Red’s strongest attacks—none of which our models had seen during training. GPT‑5.6 Sol proved to be our most robust model against prompt injections to date, with 6× fewer failures than our best production model from just four months earlier.</title>
-      <link>https://x.com/OpenAI/status/2077446722683650525</link>
-      <description>Training against GPT‑Red makes GPT‑5.6 substantially more resilient. To measure this, we replayed some of GPT‑Red’s strongest attacks—none of which our models had seen during training. GPT‑5.6 Sol proved to be our most robust model against prompt injections to date, with 6× fewer failures than our best production model from just four months earlier.</description>
-      <guid isPermaLink="false">https://x.com/OpenAI/status/2077446722683650525</guid>
-      <pubDate>Wed, 15 Jul 2026 17:34:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>[WhiteHouse]Ahead of the Defense and Innovation Summit at the US Army War College in Pennsylvania today, @SenMcCormickPA writes in @nypost: Trump’s defense reset drags US military tech into the 21st century 🔥</title>
-      <link>https://x.com/WhiteHouse/status/2077447003638837750</link>
-      <description>Ahead of the Defense and Innovation Summit at the US Army War College in Pennsylvania today, @SenMcCormickPA writes in @nypost: Trump’s defense reset drags US military tech into the 21st century 🔥</description>
-      <guid isPermaLink="false">https://x.com/WhiteHouse/status/2077447003638837750</guid>
-      <pubDate>Wed, 15 Jul 2026 17:35:37 +0000</pubDate>
-    </item>
-    <item>
       <title>[WhiteHouse]'For the first time, the US defense industry will recognize that achieving the president’s goal of sustainable peace through strength demands new players and new ways of doing business.'
 https://nypost.com/2026/07/14/opinion/trumps-defense-reset-drags-us-military-tech-into-the-21st-century/</title>
       <link>https://x.com/WhiteHouse/status/2077447005496815637</link>
       <description>'For the first time, the US defense industry will recognize that achieving the president’s goal of sustainable peace through strength demands new players and new ways of doing business.'
 https://nypost.com/2026/07/14/opinion/trumps-defense-reset-drags-us-military-tech-into-the-21st-century/</description>
       <guid isPermaLink="false">https://x.com/WhiteHouse/status/2077447005496815637</guid>
+      <pubDate>Wed, 15 Jul 2026 17:35:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>[WhiteHouse]Ahead of the Defense and Innovation Summit at the US Army War College in Pennsylvania today, @SenMcCormickPA writes in @nypost: Trump’s defense reset drags US military tech into the 21st century 🔥</title>
+      <link>https://x.com/WhiteHouse/status/2077447003638837750</link>
+      <description>Ahead of the Defense and Innovation Summit at the US Army War College in Pennsylvania today, @SenMcCormickPA writes in @nypost: Trump’s defense reset drags US military tech into the 21st century 🔥</description>
+      <guid isPermaLink="false">https://x.com/WhiteHouse/status/2077447003638837750</guid>
       <pubDate>Wed, 15 Jul 2026 17:35:37 +0000</pubDate>
     </item>
     <item>
@@ -5342,17 +5279,17 @@ https://polymarket.com/event/next-leader-of-germanys-union-cducsu-20260718204733
       <pubDate>Mon, 20 Jul 2026 17:38:00 +0000</pubDate>
     </item>
     <item>
-      <title>[Romildo_Games]Hello Robio! I’m a video producer and editor specializing in combining high-quality video creation with AI workflows to speed up production and scale content. Portfolio / Reel: https://www.artstation.com/artwork/Nq954b Thanks!</title>
-      <link>https://x.com/Romildo_Games/status/2079260039424962727</link>
-      <description>Hello Robio! I’m a video producer and editor specializing in combining high-quality video creation with AI workflows to speed up production and scale content. Portfolio / Reel: https://www.artstation.com/artwork/Nq954b Thanks!</description>
-      <guid isPermaLink="false">https://x.com/Romildo_Games/status/2079260039424962727</guid>
-      <pubDate>Mon, 20 Jul 2026 17:39:58 +0000</pubDate>
-    </item>
-    <item>
       <title>[msdebugger_VK]Today's GenAI lecture covered the complete RAG pipeline 🚀 ✅ Query processing ✅ Step-Back Prompting ✅ HyDE ✅ Query routing ✅ Hybrid retrieval ✅ Re-ranking ✅ C-RAG ✅ Guardrails ✅ Answer evaluation Production AI is much more than just an LLM. #GenAI #RAG #AI #chaicode</title>
       <link>https://x.com/msdebugger_VK/status/2079260037277700464</link>
       <description>Today's GenAI lecture covered the complete RAG pipeline 🚀 ✅ Query processing ✅ Step-Back Prompting ✅ HyDE ✅ Query routing ✅ Hybrid retrieval ✅ Re-ranking ✅ C-RAG ✅ Guardrails ✅ Answer evaluation Production AI is much more than just an LLM. #GenAI #RAG #AI #chaicode</description>
       <guid isPermaLink="false">https://x.com/msdebugger_VK/status/2079260037277700464</guid>
+      <pubDate>Mon, 20 Jul 2026 17:39:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Romildo_Games]Hello Robio! I’m a video producer and editor specializing in combining high-quality video creation with AI workflows to speed up production and scale content. Portfolio / Reel: https://www.artstation.com/artwork/Nq954b Thanks!</title>
+      <link>https://x.com/Romildo_Games/status/2079260039424962727</link>
+      <description>Hello Robio! I’m a video producer and editor specializing in combining high-quality video creation with AI workflows to speed up production and scale content. Portfolio / Reel: https://www.artstation.com/artwork/Nq954b Thanks!</description>
+      <guid isPermaLink="false">https://x.com/Romildo_Games/status/2079260039424962727</guid>
       <pubDate>Mon, 20 Jul 2026 17:39:58 +0000</pubDate>
     </item>
     <item>
@@ -6083,6 +6020,15 @@ https://x.ai/cli</description>
       <pubDate>Thu, 23 Jul 2026 00:31:12 +0000</pubDate>
     </item>
     <item>
+      <title>[SBSNews]An AI agent powered by OpenAI broke free of its testing environment and hacked a real-life company, in an incident experts said shows the "magnitude" of the cybersecurity threat posed by artificial intelligence.
+https://www.sbs.com.au/news/article/openai-rogue-hack-hugging-face-cyber-security/ws3i66ld1</title>
+      <link>https://x.com/SBSNews/status/2080171087682220183</link>
+      <description>An AI agent powered by OpenAI broke free of its testing environment and hacked a real-life company, in an incident experts said shows the "magnitude" of the cybersecurity threat posed by artificial intelligence.
+https://www.sbs.com.au/news/article/openai-rogue-hack-hugging-face-cyber-security/ws3i66ld1</description>
+      <guid isPermaLink="false">https://x.com/SBSNews/status/2080171087682220183</guid>
+      <pubDate>Thu, 23 Jul 2026 06:00:09 +0000</pubDate>
+    </item>
+    <item>
       <title>[justinsuntron]Keep going</title>
       <link>https://x.com/justinsuntron/status/2080183675589894520</link>
       <description>Keep going</description>
@@ -6109,6 +6055,17 @@ https://x.ai/cli</description>
       <description>AI is shifting from model launches to deployment. This week: • EU opens Android &amp; Search • Moonshot releases the largest open model • Netflix scales GenAI • OpenAI &amp; Perplexity strengthen AI agents</description>
       <guid isPermaLink="false">https://x.com/muratkahraman/status/2080193735237800135</guid>
       <pubDate>Thu, 23 Jul 2026 07:30:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>[TheDissenterYT]What would human-level AI be like? Learn about it in my interview with Dr. Stuart Russell about his book, Human Compatible: Artificial Intelligence and the Problem of Control. #technology #Science 
+
+Full interview: https://www.youtube.com/watch?v=cZ4U2TKoNXs&amp;feature=youtu.be</title>
+      <link>https://x.com/TheDissenterYT/status/2080203430199476598</link>
+      <description>What would human-level AI be like? Learn about it in my interview with Dr. Stuart Russell about his book, Human Compatible: Artificial Intelligence and the Problem of Control. #technology #Science 
+
+Full interview: https://www.youtube.com/watch?v=cZ4U2TKoNXs&amp;feature=youtu.be</description>
+      <guid isPermaLink="false">https://x.com/TheDissenterYT/status/2080203430199476598</guid>
+      <pubDate>Thu, 23 Jul 2026 08:08:40 +0000</pubDate>
     </item>
     <item>
       <title>[Polymarket]NEW: Revolut begins a secondary share sale at a $115 billion valuation, up more than 50% from November.</title>
@@ -6145,6 +6102,17 @@ Looking forward to what's next for TRON and @BAI_AGI.</description>
       <pubDate>Thu, 23 Jul 2026 10:01:49 +0000</pubDate>
     </item>
     <item>
+      <title>[TheEconomist]“There really won't be anything that AI can’t do better than humans, apart from being human, perhaps,” says @elonmusk.
+
+He tells @zannymb that artificial intelligence may exceed the sum of human intelligence in about five years.</title>
+      <link>https://x.com/TheEconomist/status/2080234344291971497</link>
+      <description>“There really won't be anything that AI can’t do better than humans, apart from being human, perhaps,” says @elonmusk.
+
+He tells @zannymb that artificial intelligence may exceed the sum of human intelligence in about five years.</description>
+      <guid isPermaLink="false">https://x.com/TheEconomist/status/2080234344291971497</guid>
+      <pubDate>Thu, 23 Jul 2026 10:11:31 +0000</pubDate>
+    </item>
+    <item>
       <title>[Polymarket]🚨 NEW POLYMARKET: Will Israel election happen as scheduled?
 https://polymarket.com/event/will-israel-election-happen-as-scheduled-20260720204824362?via=x-afr2 — 🚨 NEW POLYMARKET: Will Israel election happen as scheduled? https://polymarket.com/event/will-israel-election-happen-as-scheduled-20260720204824362?via=x-afr2</title>
       <link>https://x.com/Polymarket/status/2080240506668200365</link>
@@ -6152,6 +6120,153 @@ https://polymarket.com/event/will-israel-election-happen-as-scheduled-2026072020
 https://polymarket.com/event/will-israel-election-happen-as-scheduled-20260720204824362?via=x-afr2</description>
       <guid isPermaLink="false">https://x.com/Polymarket/status/2080240506668200365</guid>
       <pubDate>Thu, 23 Jul 2026 10:36:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[JayBisen473370]🚨 Harvard just made its AI course free.
+
+No tuition.
+No application.
+Just world-class AI education.
+
+Harvard University just released 6 high-quality lectures on AI + Prompt Engineering— and anyone can access them.
+
+If you're serious about AI in 2026, start here:
+
+🎓 Harvard University LECTURES
+
+1. Introduction to Generative AI
+A step-by-step guide to how GenAI actually works.
+Link: https://t.co/Mbh9PzwB8J
+
+2. Prompt Engineering
+Real tips for improving output quality from any LLM.
+Link: https://t.co/zLnhwbNBR1
+
+3. Beyond Chatbots: System Prompts, RAG
+Move past surface use cases into scalable applications.
+Link: https://t.co/bOszFzbRvG 
+
+4. Generative AI in Teaching &amp; Learning
+How educators can adapt and lead with AI.
+Link: https://t.co/IRlTE4vmD1
+
+5. Teaching with AI in the Classroom
+Frameworks for trainers and educators.
+Link: https://t.co/dle0L03dHU
+
+6. The Basics of Generative AI
+No jargon. Just clarity.
+Link: https://t.co/KoL1SQNh0y
+
+BONUS 
+
+🟩 CS50x 2025 – Artificial Intelligence Lecture
+LLMs, neural nets, and real-world use cases
+Link: https://t.co/PzA0dW60Xl
+
+🟩 CS50 Extension – AI / Prompt Engineering
+Design prompts that think with you
+Link: https://t.co/g1IEspxlJ8
+
+🟩 GPT-4: How it works + how to build with it
+Behind the curtain on GPT-4
+Video: https://t.co/wshBHUTH71
+
+🟩 LLMs and the End of Programming
+Why prompting is the new coding
+Video: https://t.co/DxoJhBekl1
+
+
+💡 REALITY CHECK
+
+✅ Harvard-level AI knowledge is now free
+✅ Prompting = career acceleration
+✅ 2 lectures can put you ahead of 90% of professionals
+✅ The future belongs to people who can “talk to machines” strategically
+
+Don’t just consume AI. Learn how to control it.
+
+👇 Which lecture are you starting with?
+
+♻️ Repost to help others learn AI
+
+🔖 Save this (you’ll need it later)
+
+🔔 Follow @JayBisen473370 for more AI insights</title>
+      <link>https://x.com/JayBisen473370/status/2080246105896550724</link>
+      <description>🚨 Harvard just made its AI course free.
+
+No tuition.
+No application.
+Just world-class AI education.
+
+Harvard University just released 6 high-quality lectures on AI + Prompt Engineering— and anyone can access them.
+
+If you're serious about AI in 2026, start here:
+
+🎓 Harvard University LECTURES
+
+1. Introduction to Generative AI
+A step-by-step guide to how GenAI actually works.
+Link: https://t.co/Mbh9PzwB8J
+
+2. Prompt Engineering
+Real tips for improving output quality from any LLM.
+Link: https://t.co/zLnhwbNBR1
+
+3. Beyond Chatbots: System Prompts, RAG
+Move past surface use cases into scalable applications.
+Link: https://t.co/bOszFzbRvG 
+
+4. Generative AI in Teaching &amp; Learning
+How educators can adapt and lead with AI.
+Link: https://t.co/IRlTE4vmD1
+
+5. Teaching with AI in the Classroom
+Frameworks for trainers and educators.
+Link: https://t.co/dle0L03dHU
+
+6. The Basics of Generative AI
+No jargon. Just clarity.
+Link: https://t.co/KoL1SQNh0y
+
+BONUS 
+
+🟩 CS50x 2025 – Artificial Intelligence Lecture
+LLMs, neural nets, and real-world use cases
+Link: https://t.co/PzA0dW60Xl
+
+🟩 CS50 Extension – AI / Prompt Engineering
+Design prompts that think with you
+Link: https://t.co/g1IEspxlJ8
+
+🟩 GPT-4: How it works + how to build with it
+Behind the curtain on GPT-4
+Video: https://t.co/wshBHUTH71
+
+🟩 LLMs and the End of Programming
+Why prompting is the new coding
+Video: https://t.co/DxoJhBekl1
+
+
+💡 REALITY CHECK
+
+✅ Harvard-level AI knowledge is now free
+✅ Prompting = career acceleration
+✅ 2 lectures can put you ahead of 90% of professionals
+✅ The future belongs to people who can “talk to machines” strategically
+
+Don’t just consume AI. Learn how to control it.
+
+👇 Which lecture are you starting with?
+
+♻️ Repost to help others learn AI
+
+🔖 Save this (you’ll need it later)
+
+🔔 Follow @JayBisen473370 for more AI insights</description>
+      <guid isPermaLink="false">https://x.com/JayBisen473370/status/2080246105896550724</guid>
+      <pubDate>Thu, 23 Jul 2026 10:58:15 +0000</pubDate>
     </item>
     <item>
       <title>[Polymarket]JUST IN: Ireland's finance ministry warns the country is “highly exposed” to an AI-driven U.S. stock market correction.</title>
@@ -6240,6 +6355,149 @@ Read More - https://t.co/oylXVovqMn
       <pubDate>Thu, 23 Jul 2026 13:59:49 +0000</pubDate>
     </item>
     <item>
+      <title>[TechWithKhushi]🚨 Harvard just made its AI course free.
+
+No tuition.
+No application.
+Just world-class AI education.
+
+Harvard University just released 6 high-quality lectures on AI + Prompt Engineering— and anyone can access them.
+
+If you're serious about AI in 2026, start here:
+
+🎓 Harvard University LECTURES
+
+1. Introduction to Generative AI
+A step-by-step guide to how GenAI actually works.
+Link: https://t.co/asLCdj4ago
+
+2. Prompt Engineering
+Real tips for improving output quality from any LLM.
+Link: https://t.co/zQ81mquO1L
+
+3. Beyond Chatbots: System Prompts, RAG
+Move past surface use cases into scalable applications.
+Link: https://t.co/vIq1OzKtay 
+
+4. Generative AI in Teaching &amp; Learning
+How educators can adapt and lead with AI.
+Link: https://t.co/vuLVZ2BO51
+
+5. Teaching with AI in the Classroom
+Frameworks for trainers and educators.
+Link: https://t.co/dle0L03dHU
+
+6. The Basics of Generative AI
+No jargon. Just clarity.
+Link: https://t.co/QcvUuHKuZm
+
+BONUS 
+
+🟩 CS50x 2025 – Artificial Intelligence Lecture
+LLMs, neural nets, and real-world use cases
+Link: https://t.co/U4KgYNNk6l
+
+🟩 CS50 Extension – AI / Prompt Engineering
+Design prompts that think with you
+Link: https://t.co/XJYuT8d9Zm
+
+🟩 GPT-4: How it works + how to build with it
+Behind the curtain on GPT-4
+Video: https://t.co/XM0UZj8UaO
+
+🟩 LLMs and the End of Programming
+Why prompting is the new coding
+Video: https://t.co/5svMUbfm4V
+
+
+💡 REALITY CHECK
+
+✅ Harvard-level AI knowledge is now free
+✅ Prompting = career acceleration
+✅ 2 lectures can put you ahead of 90% of professionals
+✅ The future belongs to people who can “talk to machines” strategically
+
+Don’t just consume AI. Learn how to control it.
+
+👇 Which lecture are you starting with?
+
+♻️ Repost to help others learn AI
+
+🔖 Save this (you’ll need it later)</title>
+      <link>https://x.com/TechWithKhushi/status/2080318949607239685</link>
+      <description>🚨 Harvard just made its AI course free.
+
+No tuition.
+No application.
+Just world-class AI education.
+
+Harvard University just released 6 high-quality lectures on AI + Prompt Engineering— and anyone can access them.
+
+If you're serious about AI in 2026, start here:
+
+🎓 Harvard University LECTURES
+
+1. Introduction to Generative AI
+A step-by-step guide to how GenAI actually works.
+Link: https://t.co/asLCdj4ago
+
+2. Prompt Engineering
+Real tips for improving output quality from any LLM.
+Link: https://t.co/zQ81mquO1L
+
+3. Beyond Chatbots: System Prompts, RAG
+Move past surface use cases into scalable applications.
+Link: https://t.co/vIq1OzKtay 
+
+4. Generative AI in Teaching &amp; Learning
+How educators can adapt and lead with AI.
+Link: https://t.co/vuLVZ2BO51
+
+5. Teaching with AI in the Classroom
+Frameworks for trainers and educators.
+Link: https://t.co/dle0L03dHU
+
+6. The Basics of Generative AI
+No jargon. Just clarity.
+Link: https://t.co/QcvUuHKuZm
+
+BONUS 
+
+🟩 CS50x 2025 – Artificial Intelligence Lecture
+LLMs, neural nets, and real-world use cases
+Link: https://t.co/U4KgYNNk6l
+
+🟩 CS50 Extension – AI / Prompt Engineering
+Design prompts that think with you
+Link: https://t.co/XJYuT8d9Zm
+
+🟩 GPT-4: How it works + how to build with it
+Behind the curtain on GPT-4
+Video: https://t.co/XM0UZj8UaO
+
+🟩 LLMs and the End of Programming
+Why prompting is the new coding
+Video: https://t.co/5svMUbfm4V
+
+
+💡 REALITY CHECK
+
+✅ Harvard-level AI knowledge is now free
+✅ Prompting = career acceleration
+✅ 2 lectures can put you ahead of 90% of professionals
+✅ The future belongs to people who can “talk to machines” strategically
+
+Don’t just consume AI. Learn how to control it.
+
+👇 Which lecture are you starting with?
+
+♻️ Repost to help others learn AI
+
+🔖 Save this (you’ll need it later)</description>
+      <guid isPermaLink="false">https://x.com/TechWithKhushi/status/2080318949607239685</guid>
+      <pubDate>Thu, 23 Jul 2026 15:47:42 +0000</pubDate>
+    </item>
+    <item>
       <title>[OpenAI]Health in ChatGPT is starting to roll out to U.S. users. You can securely connect Apple Health and supported medical records to understand your information in context, track what has changed, and have more informed conversations. https://openai.com/index/health-in-chatgpt/</title>
       <link>https://x.com/OpenAI/status/2080339982288568709</link>
       <description>Health in ChatGPT is starting to roll out to U.S. users. You can securely connect Apple Health and supported medical records to understand your information in context, track what has changed, and have more informed conversations. https://openai.com/index/health-in-chatgpt/</description>
@@ -6287,6 +6545,36 @@ Read More - https://t.co/oylXVovqMn
       <description>Today, we’re introducing Bee by HEOSSI—the Progressive Quantum-Native Intelligence Engine.</description>
       <guid isPermaLink="false">https://x.com/heossihq/status/2080360087361859745</guid>
       <pubDate>Thu, 23 Jul 2026 18:31:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>[newscientist]For the second time in a week, a long-standing conjecture has been disproved by artificial intelligence, highlighting the advanced mathematical capabilities of ChatGPT and its ilk
+https://www.newscientist.com/article/2580932-extremely-basic-ai-prompt-cracks-decades-old-maths-problem/</title>
+      <link>https://x.com/newscientist/status/2080391144601469197</link>
+      <description>For the second time in a week, a long-standing conjecture has been disproved by artificial intelligence, highlighting the advanced mathematical capabilities of ChatGPT and its ilk
+https://www.newscientist.com/article/2580932-extremely-basic-ai-prompt-cracks-decades-old-maths-problem/</description>
+      <guid isPermaLink="false">https://x.com/newscientist/status/2080391144601469197</guid>
+      <pubDate>Thu, 23 Jul 2026 20:34:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Polymarket]BREAKING: Elon Musk predicts AI could exceed the sum of all human intelligence in about five years.</title>
+      <link>https://x.com/Polymarket/status/2080441347106902039</link>
+      <description>BREAKING: Elon Musk predicts AI could exceed the sum of all human intelligence in about five years.</description>
+      <guid isPermaLink="false">https://x.com/Polymarket/status/2080441347106902039</guid>
+      <pubDate>Thu, 23 Jul 2026 23:54:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>[elonmusk]Just common sense</title>
+      <link>https://x.com/elonmusk/status/2080446507925577795</link>
+      <description>Just common sense</description>
+      <guid isPermaLink="false">https://x.com/elonmusk/status/2080446507925577795</guid>
+      <pubDate>Fri, 24 Jul 2026 00:14:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>[elonmusk]https://t.co/zyiFoqOal3</title>
+      <link>https://x.com/elonmusk/status/2080447123745919254</link>
+      <description>https://t.co/zyiFoqOal3</description>
+      <guid isPermaLink="false">https://x.com/elonmusk/status/2080447123745919254</guid>
+      <pubDate>Fri, 24 Jul 2026 00:17:01 +0000</pubDate>
     </item>
   </channel>
 </rss>
