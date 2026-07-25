@@ -7,75 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 25 Jul 2026 00:42:06 +0000</lastBuildDate>
-    <item>
-      <title>[LeadingReport]Some Somali individuals have reportedly warned that if Somalis are deported from the U.S., “other Africans will leave with us in solidarity.”</title>
-      <link>https://x.com/LeadingReport/status/2076004233741021303</link>
-      <description>Some Somali individuals have reportedly warned that if Somalis are deported from the U.S., “other Africans will leave with us in solidarity.”</description>
-      <guid isPermaLink="false">https://x.com/LeadingReport/status/2076004233741021303</guid>
-      <pubDate>Sat, 11 Jul 2026 18:02:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>[gzeromedia]At the 2026 #AIforGood Global Summit, @FredericWerner, AI for Good co-creator and chief of strategic engagement at ITU, explains why optimism about artificial intelligence is growing in many developing countries even as skepticism rises across Europe and North America.</title>
-      <link>https://x.com/gzeromedia/status/2076007686580138080</link>
-      <description>At the 2026 #AIforGood Global Summit, @FredericWerner, AI for Good co-creator and chief of strategic engagement at ITU, explains why optimism about artificial intelligence is growing in many developing countries even as skepticism rises across Europe and North America.</description>
-      <guid isPermaLink="false">https://x.com/gzeromedia/status/2076007686580138080</guid>
-      <pubDate>Sat, 11 Jul 2026 18:16:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>[TradexWhisperer]HBM was built for Artificial Intelligence.
-
-It's not where data sits. It's where AI thinks.
-
-Stupid analysts keep pricing it like a storage commodity cycle. You and I are the contrarians on the other side of that trade.
-
-$MU $SKHY $SNDK</title>
-      <link>https://x.com/TradexWhisperer/status/2076008268468768871</link>
-      <description>HBM was built for Artificial Intelligence.
-
-It's not where data sits. It's where AI thinks.
-
-Stupid analysts keep pricing it like a storage commodity cycle. You and I are the contrarians on the other side of that trade.
-
-$MU $SKHY $SNDK</description>
-      <guid isPermaLink="false">https://x.com/TradexWhisperer/status/2076008268468768871</guid>
-      <pubDate>Sat, 11 Jul 2026 18:18:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Polymarket]BREAKING: Iran’s Revolutionary Guards declare the Strait of Hormuz is closed “until further notice.”</title>
-      <link>https://x.com/Polymarket/status/2076078010457825698</link>
-      <description>BREAKING: Iran’s Revolutionary Guards declare the Strait of Hormuz is closed “until further notice.”</description>
-      <guid isPermaLink="false">https://x.com/Polymarket/status/2076078010457825698</guid>
-      <pubDate>Sat, 11 Jul 2026 22:55:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>[NewsWire_US]U.S. LAUNCHES STRIKES AGAINST IRAN</title>
-      <link>https://x.com/NewsWire_US/status/2076089824876876126</link>
-      <description>U.S. LAUNCHES STRIKES AGAINST IRAN</description>
-      <guid isPermaLink="false">https://x.com/NewsWire_US/status/2076089824876876126</guid>
-      <pubDate>Sat, 11 Jul 2026 23:42:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>[elonmusk]Next Starship launch aiming for Thursday</title>
-      <link>https://x.com/elonmusk/status/2076100095867506809</link>
-      <description>Next Starship launch aiming for Thursday</description>
-      <guid isPermaLink="false">https://x.com/elonmusk/status/2076100095867506809</guid>
-      <pubDate>Sun, 12 Jul 2026 00:23:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>[elonmusk]Grok is the most politically neutral and objectively truth-seeking AI</title>
-      <link>https://x.com/elonmusk/status/2076102201575969192</link>
-      <description>Grok is the most politically neutral and objectively truth-seeking AI</description>
-      <guid isPermaLink="false">https://x.com/elonmusk/status/2076102201575969192</guid>
-      <pubDate>Sun, 12 Jul 2026 00:31:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>[elonmusk]Starship is evolving rapidly</title>
-      <link>https://x.com/elonmusk/status/2076102645823971373</link>
-      <description>Starship is evolving rapidly</description>
-      <guid isPermaLink="false">https://x.com/elonmusk/status/2076102645823971373</guid>
-      <pubDate>Sun, 12 Jul 2026 00:33:37 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 25 Jul 2026 06:52:02 +0000</lastBuildDate>
     <item>
       <title>[Polymarket]NEW: “Gus,” one of the most complete T. rex fossils ever found, could reportedly shatter the dinosaur auction record.</title>
       <link>https://x.com/Polymarket/status/2076110777866449296</link>
@@ -1305,18 +1237,14 @@ https://openai.com/supply/</description>
       <pubDate>Wed, 15 Jul 2026 16:41:21 +0000</pubDate>
     </item>
     <item>
-      <title>[OpenAI]Introducing GPT-Red
+      <title>[OpenAI]GPT‑Red learns through adversarial self-play, where its goal is to prompt inject a variety of challenging defender models.
 
-An internal automated red teamer on a mission to find our models’ prompt injection vulnerabilities at scale, helping us build stronger defenses before wider deployment.
+Every successful attack that GPT-Red finds is used to improve these defenders, pushing GPT-Red to continuously find broader and more complex failures.</title>
+      <link>https://x.com/OpenAI/status/2077446721161093124</link>
+      <description>GPT‑Red learns through adversarial self-play, where its goal is to prompt inject a variety of challenging defender models.
 
-https://openai.com/index/unlocking-self-improvement-gpt-red/</title>
-      <link>https://x.com/OpenAI/status/2077446718728425686</link>
-      <description>Introducing GPT-Red
-
-An internal automated red teamer on a mission to find our models’ prompt injection vulnerabilities at scale, helping us build stronger defenses before wider deployment.
-
-https://openai.com/index/unlocking-self-improvement-gpt-red/</description>
-      <guid isPermaLink="false">https://x.com/OpenAI/status/2077446718728425686</guid>
+Every successful attack that GPT-Red finds is used to improve these defenders, pushing GPT-Red to continuously find broader and more complex failures.</description>
+      <guid isPermaLink="false">https://x.com/OpenAI/status/2077446721161093124</guid>
       <pubDate>Wed, 15 Jul 2026 17:34:29 +0000</pubDate>
     </item>
     <item>
@@ -1335,22 +1263,19 @@ GPT-Red is one way we’re addressing it.</description>
       <pubDate>Wed, 15 Jul 2026 17:34:29 +0000</pubDate>
     </item>
     <item>
-      <title>[OpenAI]GPT‑Red learns through adversarial self-play, where its goal is to prompt inject a variety of challenging defender models.
+      <title>[OpenAI]Introducing GPT-Red
 
-Every successful attack that GPT-Red finds is used to improve these defenders, pushing GPT-Red to continuously find broader and more complex failures.</title>
-      <link>https://x.com/OpenAI/status/2077446721161093124</link>
-      <description>GPT‑Red learns through adversarial self-play, where its goal is to prompt inject a variety of challenging defender models.
+An internal automated red teamer on a mission to find our models’ prompt injection vulnerabilities at scale, helping us build stronger defenses before wider deployment.
 
-Every successful attack that GPT-Red finds is used to improve these defenders, pushing GPT-Red to continuously find broader and more complex failures.</description>
-      <guid isPermaLink="false">https://x.com/OpenAI/status/2077446721161093124</guid>
+https://openai.com/index/unlocking-self-improvement-gpt-red/</title>
+      <link>https://x.com/OpenAI/status/2077446718728425686</link>
+      <description>Introducing GPT-Red
+
+An internal automated red teamer on a mission to find our models’ prompt injection vulnerabilities at scale, helping us build stronger defenses before wider deployment.
+
+https://openai.com/index/unlocking-self-improvement-gpt-red/</description>
+      <guid isPermaLink="false">https://x.com/OpenAI/status/2077446718728425686</guid>
       <pubDate>Wed, 15 Jul 2026 17:34:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>[OpenAI]Training against GPT‑Red makes GPT‑5.6 substantially more resilient. To measure this, we replayed some of GPT‑Red’s strongest attacks—none of which our models had seen during training. GPT‑5.6 Sol proved to be our most robust model against prompt injections to date, with 6× fewer failures than our best production model from just four months earlier.</title>
-      <link>https://x.com/OpenAI/status/2077446722683650525</link>
-      <description>Training against GPT‑Red makes GPT‑5.6 substantially more resilient. To measure this, we replayed some of GPT‑Red’s strongest attacks—none of which our models had seen during training. GPT‑5.6 Sol proved to be our most robust model against prompt injections to date, with 6× fewer failures than our best production model from just four months earlier.</description>
-      <guid isPermaLink="false">https://x.com/OpenAI/status/2077446722683650525</guid>
-      <pubDate>Wed, 15 Jul 2026 17:34:30 +0000</pubDate>
     </item>
     <item>
       <title>[OpenAI]AI agents are already being used to improve the capabilities of our next-generation models.
@@ -1364,19 +1289,26 @@ We believe with GPT-Red that we have started to unlock a similar flywheel for sa
       <pubDate>Wed, 15 Jul 2026 17:34:30 +0000</pubDate>
     </item>
     <item>
-      <title>[WhiteHouse]'For the first time, the US defense industry will recognize that achieving the president’s goal of sustainable peace through strength demands new players and new ways of doing business.'
-https://nypost.com/2026/07/14/opinion/trumps-defense-reset-drags-us-military-tech-into-the-21st-century/</title>
-      <link>https://x.com/WhiteHouse/status/2077447005496815637</link>
-      <description>'For the first time, the US defense industry will recognize that achieving the president’s goal of sustainable peace through strength demands new players and new ways of doing business.'
-https://nypost.com/2026/07/14/opinion/trumps-defense-reset-drags-us-military-tech-into-the-21st-century/</description>
-      <guid isPermaLink="false">https://x.com/WhiteHouse/status/2077447005496815637</guid>
-      <pubDate>Wed, 15 Jul 2026 17:35:37 +0000</pubDate>
+      <title>[OpenAI]Training against GPT‑Red makes GPT‑5.6 substantially more resilient. To measure this, we replayed some of GPT‑Red’s strongest attacks—none of which our models had seen during training. GPT‑5.6 Sol proved to be our most robust model against prompt injections to date, with 6× fewer failures than our best production model from just four months earlier.</title>
+      <link>https://x.com/OpenAI/status/2077446722683650525</link>
+      <description>Training against GPT‑Red makes GPT‑5.6 substantially more resilient. To measure this, we replayed some of GPT‑Red’s strongest attacks—none of which our models had seen during training. GPT‑5.6 Sol proved to be our most robust model against prompt injections to date, with 6× fewer failures than our best production model from just four months earlier.</description>
+      <guid isPermaLink="false">https://x.com/OpenAI/status/2077446722683650525</guid>
+      <pubDate>Wed, 15 Jul 2026 17:34:30 +0000</pubDate>
     </item>
     <item>
       <title>[WhiteHouse]Ahead of the Defense and Innovation Summit at the US Army War College in Pennsylvania today, @SenMcCormickPA writes in @nypost: Trump’s defense reset drags US military tech into the 21st century 🔥</title>
       <link>https://x.com/WhiteHouse/status/2077447003638837750</link>
       <description>Ahead of the Defense and Innovation Summit at the US Army War College in Pennsylvania today, @SenMcCormickPA writes in @nypost: Trump’s defense reset drags US military tech into the 21st century 🔥</description>
       <guid isPermaLink="false">https://x.com/WhiteHouse/status/2077447003638837750</guid>
+      <pubDate>Wed, 15 Jul 2026 17:35:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>[WhiteHouse]'For the first time, the US defense industry will recognize that achieving the president’s goal of sustainable peace through strength demands new players and new ways of doing business.'
+https://nypost.com/2026/07/14/opinion/trumps-defense-reset-drags-us-military-tech-into-the-21st-century/</title>
+      <link>https://x.com/WhiteHouse/status/2077447005496815637</link>
+      <description>'For the first time, the US defense industry will recognize that achieving the president’s goal of sustainable peace through strength demands new players and new ways of doing business.'
+https://nypost.com/2026/07/14/opinion/trumps-defense-reset-drags-us-military-tech-into-the-21st-century/</description>
+      <guid isPermaLink="false">https://x.com/WhiteHouse/status/2077447005496815637</guid>
       <pubDate>Wed, 15 Jul 2026 17:35:37 +0000</pubDate>
     </item>
     <item>
@@ -4638,17 +4570,17 @@ https://polymarket.com/event/next-leader-of-germanys-union-cducsu-20260718204733
       <pubDate>Mon, 20 Jul 2026 17:38:00 +0000</pubDate>
     </item>
     <item>
-      <title>[msdebugger_VK]Today's GenAI lecture covered the complete RAG pipeline 🚀 ✅ Query processing ✅ Step-Back Prompting ✅ HyDE ✅ Query routing ✅ Hybrid retrieval ✅ Re-ranking ✅ C-RAG ✅ Guardrails ✅ Answer evaluation Production AI is much more than just an LLM. #GenAI #RAG #AI #chaicode</title>
-      <link>https://x.com/msdebugger_VK/status/2079260037277700464</link>
-      <description>Today's GenAI lecture covered the complete RAG pipeline 🚀 ✅ Query processing ✅ Step-Back Prompting ✅ HyDE ✅ Query routing ✅ Hybrid retrieval ✅ Re-ranking ✅ C-RAG ✅ Guardrails ✅ Answer evaluation Production AI is much more than just an LLM. #GenAI #RAG #AI #chaicode</description>
-      <guid isPermaLink="false">https://x.com/msdebugger_VK/status/2079260037277700464</guid>
-      <pubDate>Mon, 20 Jul 2026 17:39:58 +0000</pubDate>
-    </item>
-    <item>
       <title>[Romildo_Games]Hello Robio! I’m a video producer and editor specializing in combining high-quality video creation with AI workflows to speed up production and scale content. Portfolio / Reel: https://www.artstation.com/artwork/Nq954b Thanks!</title>
       <link>https://x.com/Romildo_Games/status/2079260039424962727</link>
       <description>Hello Robio! I’m a video producer and editor specializing in combining high-quality video creation with AI workflows to speed up production and scale content. Portfolio / Reel: https://www.artstation.com/artwork/Nq954b Thanks!</description>
       <guid isPermaLink="false">https://x.com/Romildo_Games/status/2079260039424962727</guid>
+      <pubDate>Mon, 20 Jul 2026 17:39:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>[msdebugger_VK]Today's GenAI lecture covered the complete RAG pipeline 🚀 ✅ Query processing ✅ Step-Back Prompting ✅ HyDE ✅ Query routing ✅ Hybrid retrieval ✅ Re-ranking ✅ C-RAG ✅ Guardrails ✅ Answer evaluation Production AI is much more than just an LLM. #GenAI #RAG #AI #chaicode</title>
+      <link>https://x.com/msdebugger_VK/status/2079260037277700464</link>
+      <description>Today's GenAI lecture covered the complete RAG pipeline 🚀 ✅ Query processing ✅ Step-Back Prompting ✅ HyDE ✅ Query routing ✅ Hybrid retrieval ✅ Re-ranking ✅ C-RAG ✅ Guardrails ✅ Answer evaluation Production AI is much more than just an LLM. #GenAI #RAG #AI #chaicode</description>
+      <guid isPermaLink="false">https://x.com/msdebugger_VK/status/2079260037277700464</guid>
       <pubDate>Mon, 20 Jul 2026 17:39:58 +0000</pubDate>
     </item>
     <item>
@@ -6479,6 +6411,13 @@ Domestic abuse recently hit a record high in the UK after England lost to Argent
       <pubDate>Fri, 24 Jul 2026 17:45:27 +0000</pubDate>
     </item>
     <item>
+      <title>[grok]Grok is now in Google Workspace. Install one add-on for Sheets, Slides, and Docs. Turn research into reports, build decks from outlines, and draft documents in place with Grok. https://x.ai/grok/workspace</title>
+      <link>https://x.com/grok/status/2080716512009343207</link>
+      <description>Grok is now in Google Workspace. Install one add-on for Sheets, Slides, and Docs. Turn research into reports, build decks from outlines, and draft documents in place with Grok. https://x.ai/grok/workspace</description>
+      <guid isPermaLink="false">https://x.com/grok/status/2080716512009343207</guid>
+      <pubDate>Fri, 24 Jul 2026 18:07:28 +0000</pubDate>
+    </item>
+    <item>
       <title>[elonmusk]Next month, every line of code touching the 𝕏 system will be open source and third-party audited. 
 
 Only total transparency deserves trust.</title>
@@ -6569,6 +6508,13 @@ https://polymarket.com/event/where-will-2026-rank-among-the-hottest-years-on-rec
       <pubDate>Fri, 24 Jul 2026 18:34:33 +0000</pubDate>
     </item>
     <item>
+      <title>[JuagY36144]China Always Lead in AI</title>
+      <link>https://x.com/JuagY36144/status/2080723331033206869</link>
+      <description>China Always Lead in AI</description>
+      <guid isPermaLink="false">https://x.com/JuagY36144/status/2080723331033206869</guid>
+      <pubDate>Fri, 24 Jul 2026 18:34:34 +0000</pubDate>
+    </item>
+    <item>
       <title>[officiall_logo]Thank God for AI,at least Ronaldo fans can hold onto something 😂</title>
       <link>https://x.com/officiall_logo/status/2080723331095863788</link>
       <description>Thank God for AI,at least Ronaldo fans can hold onto something 😂</description>
@@ -6576,11 +6522,11 @@ https://polymarket.com/event/where-will-2026-rank-among-the-hottest-years-on-rec
       <pubDate>Fri, 24 Jul 2026 18:34:34 +0000</pubDate>
     </item>
     <item>
-      <title>[JuagY36144]China Always Lead in AI</title>
-      <link>https://x.com/JuagY36144/status/2080723331033206869</link>
-      <description>China Always Lead in AI</description>
-      <guid isPermaLink="false">https://x.com/JuagY36144/status/2080723331033206869</guid>
-      <pubDate>Fri, 24 Jul 2026 18:34:34 +0000</pubDate>
+      <title>[NekiWeb3]sovereign infra is the quiet edge in the ai race</title>
+      <link>https://x.com/NekiWeb3/status/2080723332970987871</link>
+      <description>sovereign infra is the quiet edge in the ai race</description>
+      <guid isPermaLink="false">https://x.com/NekiWeb3/status/2080723332970987871</guid>
+      <pubDate>Fri, 24 Jul 2026 18:34:35 +0000</pubDate>
     </item>
     <item>
       <title>[noface_trdr]$SMH | $KEEL 
@@ -6602,11 +6548,11 @@ So far, its 99% sector sentiment</description>
       <pubDate>Fri, 24 Jul 2026 18:34:35 +0000</pubDate>
     </item>
     <item>
-      <title>[NekiWeb3]sovereign infra is the quiet edge in the ai race</title>
-      <link>https://x.com/NekiWeb3/status/2080723332970987871</link>
-      <description>sovereign infra is the quiet edge in the ai race</description>
-      <guid isPermaLink="false">https://x.com/NekiWeb3/status/2080723332970987871</guid>
-      <pubDate>Fri, 24 Jul 2026 18:34:35 +0000</pubDate>
+      <title>[alexalbert__]Just over 6 months later, Opus 5 now produces near-superhuman level spreadsheets and slide decks that match what a consultant would make. Things are changing fast.</title>
+      <link>https://x.com/alexalbert__/status/2080731979528679617</link>
+      <description>Just over 6 months later, Opus 5 now produces near-superhuman level spreadsheets and slide decks that match what a consultant would make. Things are changing fast.</description>
+      <guid isPermaLink="false">https://x.com/alexalbert__/status/2080731979528679617</guid>
+      <pubDate>Fri, 24 Jul 2026 19:08:56 +0000</pubDate>
     </item>
     <item>
       <title>[Polymarket]JUST IN: Yemen appoints its first female foreign minister.</title>
@@ -6769,6 +6715,50 @@ We are still conducting a thorough review along with external advisors and with 
 Once the review is complete, we plan to publish a technical report of our learnings in the coming weeks.</description>
       <guid isPermaLink="false">https://x.com/OpenAI/status/2080815626113954288</guid>
       <pubDate>Sat, 25 Jul 2026 00:41:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>[TechByNagma]Instead of spending 2 hours on a movie... Spend 1 hour watching this Anthropic Claude for Finance lecture. It might be the most valuable free resource on quant AI available right now. Bookmark it, make time for it today, and thank yourself later.</title>
+      <link>https://x.com/TechByNagma/status/2080865777218175246</link>
+      <description>Instead of spending 2 hours on a movie... Spend 1 hour watching this Anthropic Claude for Finance lecture. It might be the most valuable free resource on quant AI available right now. Bookmark it, make time for it today, and thank yourself later.</description>
+      <guid isPermaLink="false">https://x.com/TechByNagma/status/2080865777218175246</guid>
+      <pubDate>Sat, 25 Jul 2026 04:00:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>[elonmusk]A quarter century of work by an incredible team @SpaceX</title>
+      <link>https://x.com/elonmusk/status/2080874307492729195</link>
+      <description>A quarter century of work by an incredible team @SpaceX</description>
+      <guid isPermaLink="false">https://x.com/elonmusk/status/2080874307492729195</guid>
+      <pubDate>Sat, 25 Jul 2026 04:34:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>[elonmusk]Unless we discover problems after mission data review, SpaceX will attempt to catch the ship with the tower on next flight</title>
+      <link>https://x.com/elonmusk/status/2080876967839031712</link>
+      <description>Unless we discover problems after mission data review, SpaceX will attempt to catch the ship with the tower on next flight</description>
+      <guid isPermaLink="false">https://x.com/elonmusk/status/2080876967839031712</guid>
+      <pubDate>Sat, 25 Jul 2026 04:45:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Polymarket]NEW: China fines Trip​.com $770 million for allegedly operating as a monopoly.</title>
+      <link>https://x.com/Polymarket/status/2080886763946668073</link>
+      <description>NEW: China fines Trip​.com $770 million for allegedly operating as a monopoly.</description>
+      <guid isPermaLink="false">https://x.com/Polymarket/status/2080886763946668073</guid>
+      <pubDate>Sat, 25 Jul 2026 05:24:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[elonmusk]If you’re interested in learning why I switched Starship from carbon fiber to stainless steel</title>
+      <link>https://x.com/elonmusk/status/2080890414244958427</link>
+      <description>If you’re interested in learning why I switched Starship from carbon fiber to stainless steel</description>
+      <guid isPermaLink="false">https://x.com/elonmusk/status/2080890414244958427</guid>
+      <pubDate>Sat, 25 Jul 2026 05:38:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Polymarket]🚨 NEW POLYMARKET: Will Netanyahu publicly insult Trump by July 31?
+https://polymarket.com/event/will-netanyahu-publicly-insult-trump-by-july-31-20260724180328774?via=x-afr2 — 🚨 NEW POLYMARKET: Will Netanyahu publicly insult Trump by July 31? https://polymarket.com/event/will-netanyahu-publicly-insult-trump-by-july-31-20260724180328774?via=x-afr2</title>
+      <link>https://x.com/Polymarket/status/2080902366908604503</link>
+      <description>🚨 NEW POLYMARKET: Will Netanyahu publicly insult Trump by July 31?
+https://polymarket.com/event/will-netanyahu-publicly-insult-trump-by-july-31-20260724180328774?via=x-afr2</description>
+      <guid isPermaLink="false">https://x.com/Polymarket/status/2080902366908604503</guid>
+      <pubDate>Sat, 25 Jul 2026 06:26:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
