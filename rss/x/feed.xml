@@ -7,56 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 25 Jul 2026 18:27:21 +0000</lastBuildDate>
-    <item>
-      <title>[elonmusk]Grok 4.5 even ranks slightly above Fable, which is an incredibly good model, on some software benchmarks!</title>
-      <link>https://x.com/elonmusk/status/2076434607562531049</link>
-      <description>Grok 4.5 even ranks slightly above Fable, which is an incredibly good model, on some software benchmarks!</description>
-      <guid isPermaLink="false">https://x.com/elonmusk/status/2076434607562531049</guid>
-      <pubDate>Sun, 12 Jul 2026 22:32:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>[elonmusk]Grok Build improvements</title>
-      <link>https://x.com/elonmusk/status/2076434715951689733</link>
-      <description>Grok Build improvements</description>
-      <guid isPermaLink="false">https://x.com/elonmusk/status/2076434715951689733</guid>
-      <pubDate>Sun, 12 Jul 2026 22:33:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Polymarket]BREAKING: Sen. Mitch McConnell reveals he’s recovering in a rehabilitation center after a fall left him briefly unconscious, leading to weeks of hospitalization.</title>
-      <link>https://x.com/Polymarket/status/2076435831749751283</link>
-      <description>BREAKING: Sen. Mitch McConnell reveals he’s recovering in a rehabilitation center after a fall left him briefly unconscious, leading to weeks of hospitalization.</description>
-      <guid isPermaLink="false">https://x.com/Polymarket/status/2076435831749751283</guid>
-      <pubDate>Sun, 12 Jul 2026 22:37:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Polymarket]NEW: Argentina players revive Falklands War chants ahead of their World Cup semifinal against England — declaring they will win “for the Malvinas.”</title>
-      <link>https://x.com/Polymarket/status/2076444416521195642</link>
-      <description>NEW: Argentina players revive Falklands War chants ahead of their World Cup semifinal against England — declaring they will win “for the Malvinas.”</description>
-      <guid isPermaLink="false">https://x.com/Polymarket/status/2076444416521195642</guid>
-      <pubDate>Sun, 12 Jul 2026 23:11:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Polymarket]JUST IN: U.S. military reportedly coordinated passage of around 20 commercial vessels through the Strait of Hormuz in the past 24 hours — Axios</title>
-      <link>https://x.com/Polymarket/status/2076451004183187947</link>
-      <description>JUST IN: U.S. military reportedly coordinated passage of around 20 commercial vessels through the Strait of Hormuz in the past 24 hours — Axios</description>
-      <guid isPermaLink="false">https://x.com/Polymarket/status/2076451004183187947</guid>
-      <pubDate>Sun, 12 Jul 2026 23:37:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>[KHUNOU6]Python is crucial for its simplicity and versatility, making it ideal for beginners and experts alike. It's widely used in web development, data analysis, artificial intelligence, and scientific computing, driving innovation across industries.</title>
-      <link>https://x.com/KHUNOU6/status/2076466715609928016</link>
-      <description>Python is crucial for its simplicity and versatility, making it ideal for beginners and experts alike. It's widely used in web development, data analysis, artificial intelligence, and scientific computing, driving innovation across industries.</description>
-      <guid isPermaLink="false">https://x.com/KHUNOU6/status/2076466715609928016</guid>
-      <pubDate>Mon, 13 Jul 2026 00:40:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>[polsia]Most mid-market businesses spend half their team's time on calls, emails, and scheduling that machines should handle. Built AutomateIQ to fix that. Custom AI agents that run your customer service and operations around the clock.</title>
-      <link>https://x.com/polsia/status/2076467127092126089</link>
-      <description>Most mid-market businesses spend half their team's time on calls, emails, and scheduling that machines should handle. Built AutomateIQ to fix that. Custom AI agents that run your customer service and operations around the clock.</description>
-      <guid isPermaLink="false">https://x.com/polsia/status/2076467127092126089</guid>
-      <pubDate>Mon, 13 Jul 2026 00:41:56 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 26 Jul 2026 00:44:46 +0000</lastBuildDate>
     <item>
       <title>[Daseingram]The future of work will be powered by explainable artificial intelligence.
 As organizations increasingly adopt Explainable AI (XAI), the demand for specialists who can build transparent, trustworthy, and accountable AI systems continues to grow.
@@ -1103,14 +1054,18 @@ https://openai.com/supply/</description>
       <pubDate>Wed, 15 Jul 2026 16:41:21 +0000</pubDate>
     </item>
     <item>
-      <title>[OpenAI]GPT‑Red learns through adversarial self-play, where its goal is to prompt inject a variety of challenging defender models.
+      <title>[OpenAI]Introducing GPT-Red
 
-Every successful attack that GPT-Red finds is used to improve these defenders, pushing GPT-Red to continuously find broader and more complex failures.</title>
-      <link>https://x.com/OpenAI/status/2077446721161093124</link>
-      <description>GPT‑Red learns through adversarial self-play, where its goal is to prompt inject a variety of challenging defender models.
+An internal automated red teamer on a mission to find our models’ prompt injection vulnerabilities at scale, helping us build stronger defenses before wider deployment.
 
-Every successful attack that GPT-Red finds is used to improve these defenders, pushing GPT-Red to continuously find broader and more complex failures.</description>
-      <guid isPermaLink="false">https://x.com/OpenAI/status/2077446721161093124</guid>
+https://openai.com/index/unlocking-self-improvement-gpt-red/</title>
+      <link>https://x.com/OpenAI/status/2077446718728425686</link>
+      <description>Introducing GPT-Red
+
+An internal automated red teamer on a mission to find our models’ prompt injection vulnerabilities at scale, helping us build stronger defenses before wider deployment.
+
+https://openai.com/index/unlocking-self-improvement-gpt-red/</description>
+      <guid isPermaLink="false">https://x.com/OpenAI/status/2077446718728425686</guid>
       <pubDate>Wed, 15 Jul 2026 17:34:29 +0000</pubDate>
     </item>
     <item>
@@ -1129,19 +1084,22 @@ GPT-Red is one way we’re addressing it.</description>
       <pubDate>Wed, 15 Jul 2026 17:34:29 +0000</pubDate>
     </item>
     <item>
-      <title>[OpenAI]Introducing GPT-Red
+      <title>[OpenAI]GPT‑Red learns through adversarial self-play, where its goal is to prompt inject a variety of challenging defender models.
 
-An internal automated red teamer on a mission to find our models’ prompt injection vulnerabilities at scale, helping us build stronger defenses before wider deployment.
+Every successful attack that GPT-Red finds is used to improve these defenders, pushing GPT-Red to continuously find broader and more complex failures.</title>
+      <link>https://x.com/OpenAI/status/2077446721161093124</link>
+      <description>GPT‑Red learns through adversarial self-play, where its goal is to prompt inject a variety of challenging defender models.
 
-https://openai.com/index/unlocking-self-improvement-gpt-red/</title>
-      <link>https://x.com/OpenAI/status/2077446718728425686</link>
-      <description>Introducing GPT-Red
-
-An internal automated red teamer on a mission to find our models’ prompt injection vulnerabilities at scale, helping us build stronger defenses before wider deployment.
-
-https://openai.com/index/unlocking-self-improvement-gpt-red/</description>
-      <guid isPermaLink="false">https://x.com/OpenAI/status/2077446718728425686</guid>
+Every successful attack that GPT-Red finds is used to improve these defenders, pushing GPT-Red to continuously find broader and more complex failures.</description>
+      <guid isPermaLink="false">https://x.com/OpenAI/status/2077446721161093124</guid>
       <pubDate>Wed, 15 Jul 2026 17:34:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>[OpenAI]Training against GPT‑Red makes GPT‑5.6 substantially more resilient. To measure this, we replayed some of GPT‑Red’s strongest attacks—none of which our models had seen during training. GPT‑5.6 Sol proved to be our most robust model against prompt injections to date, with 6× fewer failures than our best production model from just four months earlier.</title>
+      <link>https://x.com/OpenAI/status/2077446722683650525</link>
+      <description>Training against GPT‑Red makes GPT‑5.6 substantially more resilient. To measure this, we replayed some of GPT‑Red’s strongest attacks—none of which our models had seen during training. GPT‑5.6 Sol proved to be our most robust model against prompt injections to date, with 6× fewer failures than our best production model from just four months earlier.</description>
+      <guid isPermaLink="false">https://x.com/OpenAI/status/2077446722683650525</guid>
+      <pubDate>Wed, 15 Jul 2026 17:34:30 +0000</pubDate>
     </item>
     <item>
       <title>[OpenAI]AI agents are already being used to improve the capabilities of our next-generation models.
@@ -1155,26 +1113,19 @@ We believe with GPT-Red that we have started to unlock a similar flywheel for sa
       <pubDate>Wed, 15 Jul 2026 17:34:30 +0000</pubDate>
     </item>
     <item>
-      <title>[OpenAI]Training against GPT‑Red makes GPT‑5.6 substantially more resilient. To measure this, we replayed some of GPT‑Red’s strongest attacks—none of which our models had seen during training. GPT‑5.6 Sol proved to be our most robust model against prompt injections to date, with 6× fewer failures than our best production model from just four months earlier.</title>
-      <link>https://x.com/OpenAI/status/2077446722683650525</link>
-      <description>Training against GPT‑Red makes GPT‑5.6 substantially more resilient. To measure this, we replayed some of GPT‑Red’s strongest attacks—none of which our models had seen during training. GPT‑5.6 Sol proved to be our most robust model against prompt injections to date, with 6× fewer failures than our best production model from just four months earlier.</description>
-      <guid isPermaLink="false">https://x.com/OpenAI/status/2077446722683650525</guid>
-      <pubDate>Wed, 15 Jul 2026 17:34:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>[WhiteHouse]Ahead of the Defense and Innovation Summit at the US Army War College in Pennsylvania today, @SenMcCormickPA writes in @nypost: Trump’s defense reset drags US military tech into the 21st century 🔥</title>
-      <link>https://x.com/WhiteHouse/status/2077447003638837750</link>
-      <description>Ahead of the Defense and Innovation Summit at the US Army War College in Pennsylvania today, @SenMcCormickPA writes in @nypost: Trump’s defense reset drags US military tech into the 21st century 🔥</description>
-      <guid isPermaLink="false">https://x.com/WhiteHouse/status/2077447003638837750</guid>
-      <pubDate>Wed, 15 Jul 2026 17:35:37 +0000</pubDate>
-    </item>
-    <item>
       <title>[WhiteHouse]'For the first time, the US defense industry will recognize that achieving the president’s goal of sustainable peace through strength demands new players and new ways of doing business.'
 https://nypost.com/2026/07/14/opinion/trumps-defense-reset-drags-us-military-tech-into-the-21st-century/</title>
       <link>https://x.com/WhiteHouse/status/2077447005496815637</link>
       <description>'For the first time, the US defense industry will recognize that achieving the president’s goal of sustainable peace through strength demands new players and new ways of doing business.'
 https://nypost.com/2026/07/14/opinion/trumps-defense-reset-drags-us-military-tech-into-the-21st-century/</description>
       <guid isPermaLink="false">https://x.com/WhiteHouse/status/2077447005496815637</guid>
+      <pubDate>Wed, 15 Jul 2026 17:35:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>[WhiteHouse]Ahead of the Defense and Innovation Summit at the US Army War College in Pennsylvania today, @SenMcCormickPA writes in @nypost: Trump’s defense reset drags US military tech into the 21st century 🔥</title>
+      <link>https://x.com/WhiteHouse/status/2077447003638837750</link>
+      <description>Ahead of the Defense and Innovation Summit at the US Army War College in Pennsylvania today, @SenMcCormickPA writes in @nypost: Trump’s defense reset drags US military tech into the 21st century 🔥</description>
+      <guid isPermaLink="false">https://x.com/WhiteHouse/status/2077447003638837750</guid>
       <pubDate>Wed, 15 Jul 2026 17:35:37 +0000</pubDate>
     </item>
     <item>
@@ -4436,17 +4387,17 @@ https://polymarket.com/event/next-leader-of-germanys-union-cducsu-20260718204733
       <pubDate>Mon, 20 Jul 2026 17:38:00 +0000</pubDate>
     </item>
     <item>
-      <title>[Romildo_Games]Hello Robio! I’m a video producer and editor specializing in combining high-quality video creation with AI workflows to speed up production and scale content. Portfolio / Reel: https://www.artstation.com/artwork/Nq954b Thanks!</title>
-      <link>https://x.com/Romildo_Games/status/2079260039424962727</link>
-      <description>Hello Robio! I’m a video producer and editor specializing in combining high-quality video creation with AI workflows to speed up production and scale content. Portfolio / Reel: https://www.artstation.com/artwork/Nq954b Thanks!</description>
-      <guid isPermaLink="false">https://x.com/Romildo_Games/status/2079260039424962727</guid>
-      <pubDate>Mon, 20 Jul 2026 17:39:58 +0000</pubDate>
-    </item>
-    <item>
       <title>[msdebugger_VK]Today's GenAI lecture covered the complete RAG pipeline 🚀 ✅ Query processing ✅ Step-Back Prompting ✅ HyDE ✅ Query routing ✅ Hybrid retrieval ✅ Re-ranking ✅ C-RAG ✅ Guardrails ✅ Answer evaluation Production AI is much more than just an LLM. #GenAI #RAG #AI #chaicode</title>
       <link>https://x.com/msdebugger_VK/status/2079260037277700464</link>
       <description>Today's GenAI lecture covered the complete RAG pipeline 🚀 ✅ Query processing ✅ Step-Back Prompting ✅ HyDE ✅ Query routing ✅ Hybrid retrieval ✅ Re-ranking ✅ C-RAG ✅ Guardrails ✅ Answer evaluation Production AI is much more than just an LLM. #GenAI #RAG #AI #chaicode</description>
       <guid isPermaLink="false">https://x.com/msdebugger_VK/status/2079260037277700464</guid>
+      <pubDate>Mon, 20 Jul 2026 17:39:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Romildo_Games]Hello Robio! I’m a video producer and editor specializing in combining high-quality video creation with AI workflows to speed up production and scale content. Portfolio / Reel: https://www.artstation.com/artwork/Nq954b Thanks!</title>
+      <link>https://x.com/Romildo_Games/status/2079260039424962727</link>
+      <description>Hello Robio! I’m a video producer and editor specializing in combining high-quality video creation with AI workflows to speed up production and scale content. Portfolio / Reel: https://www.artstation.com/artwork/Nq954b Thanks!</description>
+      <guid isPermaLink="false">https://x.com/Romildo_Games/status/2079260039424962727</guid>
       <pubDate>Mon, 20 Jul 2026 17:39:58 +0000</pubDate>
     </item>
     <item>
@@ -6374,13 +6325,6 @@ https://polymarket.com/event/where-will-2026-rank-among-the-hottest-years-on-rec
       <pubDate>Fri, 24 Jul 2026 18:34:33 +0000</pubDate>
     </item>
     <item>
-      <title>[JuagY36144]China Always Lead in AI</title>
-      <link>https://x.com/JuagY36144/status/2080723331033206869</link>
-      <description>China Always Lead in AI</description>
-      <guid isPermaLink="false">https://x.com/JuagY36144/status/2080723331033206869</guid>
-      <pubDate>Fri, 24 Jul 2026 18:34:34 +0000</pubDate>
-    </item>
-    <item>
       <title>[officiall_logo]Thank God for AI,at least Ronaldo fans can hold onto something 😂</title>
       <link>https://x.com/officiall_logo/status/2080723331095863788</link>
       <description>Thank God for AI,at least Ronaldo fans can hold onto something 😂</description>
@@ -6388,11 +6332,11 @@ https://polymarket.com/event/where-will-2026-rank-among-the-hottest-years-on-rec
       <pubDate>Fri, 24 Jul 2026 18:34:34 +0000</pubDate>
     </item>
     <item>
-      <title>[NekiWeb3]sovereign infra is the quiet edge in the ai race</title>
-      <link>https://x.com/NekiWeb3/status/2080723332970987871</link>
-      <description>sovereign infra is the quiet edge in the ai race</description>
-      <guid isPermaLink="false">https://x.com/NekiWeb3/status/2080723332970987871</guid>
-      <pubDate>Fri, 24 Jul 2026 18:34:35 +0000</pubDate>
+      <title>[JuagY36144]China Always Lead in AI</title>
+      <link>https://x.com/JuagY36144/status/2080723331033206869</link>
+      <description>China Always Lead in AI</description>
+      <guid isPermaLink="false">https://x.com/JuagY36144/status/2080723331033206869</guid>
+      <pubDate>Fri, 24 Jul 2026 18:34:34 +0000</pubDate>
     </item>
     <item>
       <title>[noface_trdr]$SMH | $KEEL 
@@ -6411,6 +6355,13 @@ Helps me confirm whether $KEEL price action is tied to sector sentiment or just 
 
 So far, its 99% sector sentiment</description>
       <guid isPermaLink="false">https://x.com/noface_trdr/status/2080723335898447940</guid>
+      <pubDate>Fri, 24 Jul 2026 18:34:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>[NekiWeb3]sovereign infra is the quiet edge in the ai race</title>
+      <link>https://x.com/NekiWeb3/status/2080723332970987871</link>
+      <description>sovereign infra is the quiet edge in the ai race</description>
+      <guid isPermaLink="false">https://x.com/NekiWeb3/status/2080723332970987871</guid>
       <pubDate>Fri, 24 Jul 2026 18:34:35 +0000</pubDate>
     </item>
     <item>
@@ -6689,6 +6640,77 @@ It’s not right. Not right at all.</description>
       <pubDate>Sat, 25 Jul 2026 05:55:38 +0000</pubDate>
     </item>
     <item>
+      <title>[ineditumorg]🌍 INEDITUM Global Brief | July 25, 2026
+
+The global economy is entering a structural transition in which security is becoming more valuable—and more costly—than efficiency. Over the past 24 hours, developments across energy, trade, monetary policy and technology have reinforced a common conclusion: geopolitical risk is no longer disrupting globalization; it is reshaping the architecture of the global economy.
+
+Escalating tensions between the United States and Iran, together with continued attacks on shipping in the Strait of Hormuz and the Red Sea, are increasing pressure on the world’s most critical energy corridors. Markets are no longer pricing only the risk of supply disruptions—they are pricing sustained pressure on logistics, maritime insurance and LNG trade.
+
+Although Brent crude retreated to around $96–97 per barrel after briefly exceeding $100, the geopolitical premium remains firmly embedded in energy markets. Businesses are increasingly incorporating geopolitical uncertainty into investment decisions, inventory strategies and supply-chain planning.
+
+The same uncertainty is narrowing central banks’ room for manoeuvre. Higher energy and transport costs are keeping inflation risks elevated even as growth slows, leaving the Federal Reserve, the European Central Bank, the Bank of England and the Bank of Japan facing the same challenge: protecting price stability without deepening the economic slowdown.
+
+Trade policy is reinforcing this shift. Washington’s expanded tariff regime confirms that industrial policy has become a permanent instrument of national security. Companies are responding by diversifying suppliers, relocating production and building strategic inventories—strengthening resilience while permanently increasing the cost of global commerce.
+
+Artificial intelligence is undergoing the same transformation. AI is no longer only a software revolution; it is an infrastructure race. Competitive advantage will increasingly depend on semiconductors, electricity, critical minerals, data centres and advanced manufacturing capacity.
+
+From the Middle East to Ukraine, energy systems, logistics corridors and industrial infrastructure have become strategic assets. Economic policy and national security are rapidly converging into a single framework.
+
+Globalization is not ending. It is being reorganized around resilience rather than efficiency. The premium once assigned to growth is increasingly being replaced by a premium for security.
+
+Strategic View
+
+Geopolitical risk is becoming a structural source of inflation.
+Energy security and resilient supply chains are redefining competitiveness.
+Central banks face shrinking policy flexibility.
+AI competition is shifting toward infrastructure and industrial capacity.
+Economic power increasingly depends on control of strategic assets.
+
+The defining challenge of the next global economy will not be producing at the lowest cost, but securing the energy, technology and industrial capacity needed to sustain growth in an era of persistent geopolitical uncertainty.
+
+Follow INEDITUM for daily global intelligence
+
+https://t.co/iBnmE0tD5a
+
+#ineditum #globalmarkets #geopolitics #energysecurity #strategy</title>
+      <link>https://x.com/ineditumorg/status/2080895461422924186</link>
+      <description>🌍 INEDITUM Global Brief | July 25, 2026
+
+The global economy is entering a structural transition in which security is becoming more valuable—and more costly—than efficiency. Over the past 24 hours, developments across energy, trade, monetary policy and technology have reinforced a common conclusion: geopolitical risk is no longer disrupting globalization; it is reshaping the architecture of the global economy.
+
+Escalating tensions between the United States and Iran, together with continued attacks on shipping in the Strait of Hormuz and the Red Sea, are increasing pressure on the world’s most critical energy corridors. Markets are no longer pricing only the risk of supply disruptions—they are pricing sustained pressure on logistics, maritime insurance and LNG trade.
+
+Although Brent crude retreated to around $96–97 per barrel after briefly exceeding $100, the geopolitical premium remains firmly embedded in energy markets. Businesses are increasingly incorporating geopolitical uncertainty into investment decisions, inventory strategies and supply-chain planning.
+
+The same uncertainty is narrowing central banks’ room for manoeuvre. Higher energy and transport costs are keeping inflation risks elevated even as growth slows, leaving the Federal Reserve, the European Central Bank, the Bank of England and the Bank of Japan facing the same challenge: protecting price stability without deepening the economic slowdown.
+
+Trade policy is reinforcing this shift. Washington’s expanded tariff regime confirms that industrial policy has become a permanent instrument of national security. Companies are responding by diversifying suppliers, relocating production and building strategic inventories—strengthening resilience while permanently increasing the cost of global commerce.
+
+Artificial intelligence is undergoing the same transformation. AI is no longer only a software revolution; it is an infrastructure race. Competitive advantage will increasingly depend on semiconductors, electricity, critical minerals, data centres and advanced manufacturing capacity.
+
+From the Middle East to Ukraine, energy systems, logistics corridors and industrial infrastructure have become strategic assets. Economic policy and national security are rapidly converging into a single framework.
+
+Globalization is not ending. It is being reorganized around resilience rather than efficiency. The premium once assigned to growth is increasingly being replaced by a premium for security.
+
+Strategic View
+
+Geopolitical risk is becoming a structural source of inflation.
+Energy security and resilient supply chains are redefining competitiveness.
+Central banks face shrinking policy flexibility.
+AI competition is shifting toward infrastructure and industrial capacity.
+Economic power increasingly depends on control of strategic assets.
+
+The defining challenge of the next global economy will not be producing at the lowest cost, but securing the energy, technology and industrial capacity needed to sustain growth in an era of persistent geopolitical uncertainty.
+
+Follow INEDITUM for daily global intelligence
+
+https://t.co/iBnmE0tD5a
+
+#ineditum #globalmarkets #geopolitics #energysecurity #strategy</description>
+      <guid isPermaLink="false">https://x.com/ineditumorg/status/2080895461422924186</guid>
+      <pubDate>Sat, 25 Jul 2026 05:58:33 +0000</pubDate>
+    </item>
+    <item>
       <title>[Polymarket]🚨 NEW POLYMARKET: Will Netanyahu publicly insult Trump by July 31?
 https://polymarket.com/event/will-netanyahu-publicly-insult-trump-by-july-31-20260724180328774?via=x-afr2 — 🚨 NEW POLYMARKET: Will Netanyahu publicly insult Trump by July 31? https://polymarket.com/event/will-netanyahu-publicly-insult-trump-by-july-31-20260724180328774?via=x-afr2</title>
       <link>https://x.com/Polymarket/status/2080902366908604503</link>
@@ -6791,6 +6813,97 @@ Nobody else is even in the conversation right now.</description>
       <pubDate>Sat, 25 Jul 2026 11:26:44 +0000</pubDate>
     </item>
     <item>
+      <title>[DamiDefi]CLAUDE OPUS 5 MIGHT BE THE BIGGEST VALUE UPGRADE IN AI THIS YEAR.
+
+Anthropic is claiming something wild:
+
+Near Fable 5 performance.
+
+At roughly half the cost.
+
+If the benchmarks hold up, this changes the economics of building AI agents.
+
+Here's what stands out:
+
+• Nearly matches Fable 5 on Cursor Bench while costing about 50% less per task.
+• Beats Fable 5 on multiple coding and agent benchmarks, including Artificial Analysis Coding Agent Index and Frontier Bench.
+• Massive leap over Opus 4.8 across coding, knowledge work, and agentic search.
+• Stronger long-horizon reasoning with better self-checking and iterative problem solving.
+• Improved HTML/SVG artifact generation for interactive visual outputs.
+• Better vulnerability detection while reducing unnecessary safety classifier triggers by 85% compared to Fable 5.
+• Priced at just $5/M input tokens and $25/M output tokens.
+
+The biggest upgrade isn't raw intelligence.
+
+It's reliability.
+
+Opus 5 is designed to verify its own work, iterate toward a goal, and keep refining until it succeeds.
+
+That's exactly what modern AI agents need.
+
+One example:
+
+Instead of being told how to rebuild a machine part from a drawing, Opus 5 created its own computer vision pipeline, extracted the geometry, and generated the 3D CAD model autonomously.
+
+That's a shift from answering prompts to solving workflows.
+
+The takeaway:
+
+The AI race is no longer just about the smartest model.
+
+It's about delivering frontier-level performance with better efficiency, lower cost, and stronger agentic execution.
+
+If these benchmarks translate into real-world use, Opus 5 could become the default model for builders shipping autonomous AI systems.
+
+Video cred: Chase AI (Youtube)</title>
+      <link>https://x.com/DamiDefi/status/2080989527204905425</link>
+      <description>CLAUDE OPUS 5 MIGHT BE THE BIGGEST VALUE UPGRADE IN AI THIS YEAR.
+
+Anthropic is claiming something wild:
+
+Near Fable 5 performance.
+
+At roughly half the cost.
+
+If the benchmarks hold up, this changes the economics of building AI agents.
+
+Here's what stands out:
+
+• Nearly matches Fable 5 on Cursor Bench while costing about 50% less per task.
+• Beats Fable 5 on multiple coding and agent benchmarks, including Artificial Analysis Coding Agent Index and Frontier Bench.
+• Massive leap over Opus 4.8 across coding, knowledge work, and agentic search.
+• Stronger long-horizon reasoning with better self-checking and iterative problem solving.
+• Improved HTML/SVG artifact generation for interactive visual outputs.
+• Better vulnerability detection while reducing unnecessary safety classifier triggers by 85% compared to Fable 5.
+• Priced at just $5/M input tokens and $25/M output tokens.
+
+The biggest upgrade isn't raw intelligence.
+
+It's reliability.
+
+Opus 5 is designed to verify its own work, iterate toward a goal, and keep refining until it succeeds.
+
+That's exactly what modern AI agents need.
+
+One example:
+
+Instead of being told how to rebuild a machine part from a drawing, Opus 5 created its own computer vision pipeline, extracted the geometry, and generated the 3D CAD model autonomously.
+
+That's a shift from answering prompts to solving workflows.
+
+The takeaway:
+
+The AI race is no longer just about the smartest model.
+
+It's about delivering frontier-level performance with better efficiency, lower cost, and stronger agentic execution.
+
+If these benchmarks translate into real-world use, Opus 5 could become the default model for builders shipping autonomous AI systems.
+
+Video cred: Chase AI (Youtube)</description>
+      <guid isPermaLink="false">https://x.com/DamiDefi/status/2080989527204905425</guid>
+      <pubDate>Sat, 25 Jul 2026 12:12:20 +0000</pubDate>
+    </item>
+    <item>
       <title>[yabaleftonline]“Money won’t matter in 2036 if robots and AI provide more goods and services than any human could possibly consume” — Billionaire Elon Musk predicts</title>
       <link>https://x.com/yabaleftonline/status/2081044415481512380</link>
       <description>“Money won’t matter in 2036 if robots and AI provide more goods and services than any human could possibly consume” — Billionaire Elon Musk predicts</description>
@@ -6839,6 +6952,57 @@ Many companies now trading at reasonable valuations and they should beat estimat
       <description>JUST IN: Spotify streams of “The Odyssey” are on pace to surge roughly +680% following the release of Christopher Nolan’s film.</description>
       <guid isPermaLink="false">https://x.com/Polymarket/status/2081081606333165611</guid>
       <pubDate>Sat, 25 Jul 2026 18:18:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Eng_china5]Robots have made their way into the world of opera.
+
+At the Beijing Conservatory, a robot is conducting an orchestra performing music composed by artificial intelligence.</title>
+      <link>https://x.com/Eng_china5/status/2081090891922788742</link>
+      <description>Robots have made their way into the world of opera.
+
+At the Beijing Conservatory, a robot is conducting an orchestra performing music composed by artificial intelligence.</description>
+      <guid isPermaLink="false">https://x.com/Eng_china5/status/2081090891922788742</guid>
+      <pubDate>Sat, 25 Jul 2026 18:55:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>[WhiteHouse]The Ratepayer Protection Pledge ensures that as new data centers go up, electricity bills for American families come down, creating a fair deal for everybody. ⚡🇺🇸</title>
+      <link>https://x.com/WhiteHouse/status/2081101869691138529</link>
+      <description>The Ratepayer Protection Pledge ensures that as new data centers go up, electricity bills for American families come down, creating a fair deal for everybody. ⚡🇺🇸</description>
+      <guid isPermaLink="false">https://x.com/WhiteHouse/status/2081101869691138529</guid>
+      <pubDate>Sat, 25 Jul 2026 19:38:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>[nikitabier]For transparency, the bulk of them were spamming thought-leadership slop about artificial intelligence -- to grow accounts and receive paid promotion offers from AI tech companies.
+
+99.99% of spam on X is economically-motivated. 
+
+Just plain old grifters.</title>
+      <link>https://x.com/nikitabier/status/2081111047340167485</link>
+      <description>For transparency, the bulk of them were spamming thought-leadership slop about artificial intelligence -- to grow accounts and receive paid promotion offers from AI tech companies.
+
+99.99% of spam on X is economically-motivated. 
+
+Just plain old grifters.</description>
+      <guid isPermaLink="false">https://x.com/nikitabier/status/2081111047340167485</guid>
+      <pubDate>Sat, 25 Jul 2026 20:15:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Polymarket]JUST IN: Elon’s The Boring Company is reportedly in talks to raise $4 billion at a valuation of  $20,000,000,000.00. — JUST IN: Elon’s The Boring Company is reportedly in talks to raise $4 billion at a valuation of $20,000,000,000.00.</title>
+      <link>https://x.com/Polymarket/status/2081156748157612145</link>
+      <description>JUST IN: Elon’s The Boring Company is reportedly in talks to raise $4 billion at a valuation of  $20,000,000,000.00.</description>
+      <guid isPermaLink="false">https://x.com/Polymarket/status/2081156748157612145</guid>
+      <pubDate>Sat, 25 Jul 2026 23:16:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>[elonmusk]Download Grok Build and type /tutorial
+
+https://x.ai/cli</title>
+      <link>https://x.com/elonmusk/status/2081174079969632347</link>
+      <description>Download Grok Build and type /tutorial
+
+https://x.ai/cli</description>
+      <guid isPermaLink="false">https://x.com/elonmusk/status/2081174079969632347</guid>
+      <pubDate>Sun, 26 Jul 2026 00:25:41 +0000</pubDate>
     </item>
   </channel>
 </rss>
