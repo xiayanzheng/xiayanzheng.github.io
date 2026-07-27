@@ -7,42 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 26 Jul 2026 18:24:58 +0000</lastBuildDate>
-    <item>
-      <title>[Polymarket]3% chance Trump’s face appears on a U.S. bill by the end of the year. https://polymarket.com/event/trump-on-250-bill-this-year?dub_id=KSpEGWgoLYgs31N8</title>
-      <link>https://x.com/Polymarket/status/2076845339449884874</link>
-      <description>3% chance Trump’s face appears on a U.S. bill by the end of the year. https://polymarket.com/event/trump-on-250-bill-this-year?dub_id=KSpEGWgoLYgs31N8</description>
-      <guid isPermaLink="false">https://x.com/Polymarket/status/2076845339449884874</guid>
-      <pubDate>Tue, 14 Jul 2026 01:44:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Polymarket]JUST IN: Actor James Franco claims an alien has been stalking his home &amp; says he captured it on security footage.</title>
-      <link>https://x.com/Polymarket/status/2076846959394992279</link>
-      <description>JUST IN: Actor James Franco claims an alien has been stalking his home &amp; says he captured it on security footage.</description>
-      <guid isPermaLink="false">https://x.com/Polymarket/status/2076846959394992279</guid>
-      <pubDate>Tue, 14 Jul 2026 01:51:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Polymarket]8% chance aliens are confirmed by the end of the year. https://polymarket.com/event/will-the-us-confirm-that-aliens-exist-before-2027?dub_id=X4UiPh6Uv3MLVTn9</title>
-      <link>https://x.com/Polymarket/status/2076847148407165208</link>
-      <description>8% chance aliens are confirmed by the end of the year. https://polymarket.com/event/will-the-us-confirm-that-aliens-exist-before-2027?dub_id=X4UiPh6Uv3MLVTn9</description>
-      <guid isPermaLink="false">https://x.com/Polymarket/status/2076847148407165208</guid>
-      <pubDate>Tue, 14 Jul 2026 01:52:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Polymarket]JUST IN: Trump announces the Reflecting Pool has been drained to repair 300 yards of “scars” caused by vandals.</title>
-      <link>https://x.com/Polymarket/status/2076855198925156633</link>
-      <description>JUST IN: Trump announces the Reflecting Pool has been drained to repair 300 yards of “scars” caused by vandals.</description>
-      <guid isPermaLink="false">https://x.com/Polymarket/status/2076855198925156633</guid>
-      <pubDate>Tue, 14 Jul 2026 02:24:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Polymarket]NEW: Developer Eric Lu creates “Ghost Font” designed to fool AI — ChatGPT reportedly spent 19 minutes analyzing it before hallucinating the wrong message.</title>
-      <link>https://x.com/Polymarket/status/2076861993743528244</link>
-      <description>NEW: Developer Eric Lu creates “Ghost Font” designed to fool AI — ChatGPT reportedly spent 19 minutes analyzing it before hallucinating the wrong message.</description>
-      <guid isPermaLink="false">https://x.com/Polymarket/status/2076861993743528244</guid>
-      <pubDate>Tue, 14 Jul 2026 02:51:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 27 Jul 2026 00:44:29 +0000</lastBuildDate>
     <item>
       <title>[Dipanshu_AI]🚨 Claude just changed the game. All you need is: 💻 A laptop or Mobile 🌐 Internet connection ⏰ 60 minutes a day That’s enough to build a $7,200/month online income stream using AI. No coding. No expensive setup. No years of experience. ... Want it? ❤️ Like this post 💬 Comment “AI” ➕ Follow me to receive it in DM ⏳ Available FREE for 48 hours only.</title>
       <link>https://x.com/Dipanshu_AI/status/2076872858031001823</link>
@@ -878,18 +843,14 @@ https://openai.com/supply/</description>
       <pubDate>Wed, 15 Jul 2026 16:41:21 +0000</pubDate>
     </item>
     <item>
-      <title>[OpenAI]Introducing GPT-Red
+      <title>[OpenAI]GPT‑Red learns through adversarial self-play, where its goal is to prompt inject a variety of challenging defender models.
 
-An internal automated red teamer on a mission to find our models’ prompt injection vulnerabilities at scale, helping us build stronger defenses before wider deployment.
+Every successful attack that GPT-Red finds is used to improve these defenders, pushing GPT-Red to continuously find broader and more complex failures.</title>
+      <link>https://x.com/OpenAI/status/2077446721161093124</link>
+      <description>GPT‑Red learns through adversarial self-play, where its goal is to prompt inject a variety of challenging defender models.
 
-https://openai.com/index/unlocking-self-improvement-gpt-red/</title>
-      <link>https://x.com/OpenAI/status/2077446718728425686</link>
-      <description>Introducing GPT-Red
-
-An internal automated red teamer on a mission to find our models’ prompt injection vulnerabilities at scale, helping us build stronger defenses before wider deployment.
-
-https://openai.com/index/unlocking-self-improvement-gpt-red/</description>
-      <guid isPermaLink="false">https://x.com/OpenAI/status/2077446718728425686</guid>
+Every successful attack that GPT-Red finds is used to improve these defenders, pushing GPT-Red to continuously find broader and more complex failures.</description>
+      <guid isPermaLink="false">https://x.com/OpenAI/status/2077446721161093124</guid>
       <pubDate>Wed, 15 Jul 2026 17:34:29 +0000</pubDate>
     </item>
     <item>
@@ -908,22 +869,19 @@ GPT-Red is one way we’re addressing it.</description>
       <pubDate>Wed, 15 Jul 2026 17:34:29 +0000</pubDate>
     </item>
     <item>
-      <title>[OpenAI]GPT‑Red learns through adversarial self-play, where its goal is to prompt inject a variety of challenging defender models.
+      <title>[OpenAI]Introducing GPT-Red
 
-Every successful attack that GPT-Red finds is used to improve these defenders, pushing GPT-Red to continuously find broader and more complex failures.</title>
-      <link>https://x.com/OpenAI/status/2077446721161093124</link>
-      <description>GPT‑Red learns through adversarial self-play, where its goal is to prompt inject a variety of challenging defender models.
+An internal automated red teamer on a mission to find our models’ prompt injection vulnerabilities at scale, helping us build stronger defenses before wider deployment.
 
-Every successful attack that GPT-Red finds is used to improve these defenders, pushing GPT-Red to continuously find broader and more complex failures.</description>
-      <guid isPermaLink="false">https://x.com/OpenAI/status/2077446721161093124</guid>
+https://openai.com/index/unlocking-self-improvement-gpt-red/</title>
+      <link>https://x.com/OpenAI/status/2077446718728425686</link>
+      <description>Introducing GPT-Red
+
+An internal automated red teamer on a mission to find our models’ prompt injection vulnerabilities at scale, helping us build stronger defenses before wider deployment.
+
+https://openai.com/index/unlocking-self-improvement-gpt-red/</description>
+      <guid isPermaLink="false">https://x.com/OpenAI/status/2077446718728425686</guid>
       <pubDate>Wed, 15 Jul 2026 17:34:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>[OpenAI]Training against GPT‑Red makes GPT‑5.6 substantially more resilient. To measure this, we replayed some of GPT‑Red’s strongest attacks—none of which our models had seen during training. GPT‑5.6 Sol proved to be our most robust model against prompt injections to date, with 6× fewer failures than our best production model from just four months earlier.</title>
-      <link>https://x.com/OpenAI/status/2077446722683650525</link>
-      <description>Training against GPT‑Red makes GPT‑5.6 substantially more resilient. To measure this, we replayed some of GPT‑Red’s strongest attacks—none of which our models had seen during training. GPT‑5.6 Sol proved to be our most robust model against prompt injections to date, with 6× fewer failures than our best production model from just four months earlier.</description>
-      <guid isPermaLink="false">https://x.com/OpenAI/status/2077446722683650525</guid>
-      <pubDate>Wed, 15 Jul 2026 17:34:30 +0000</pubDate>
     </item>
     <item>
       <title>[OpenAI]AI agents are already being used to improve the capabilities of our next-generation models.
@@ -937,19 +895,26 @@ We believe with GPT-Red that we have started to unlock a similar flywheel for sa
       <pubDate>Wed, 15 Jul 2026 17:34:30 +0000</pubDate>
     </item>
     <item>
-      <title>[WhiteHouse]'For the first time, the US defense industry will recognize that achieving the president’s goal of sustainable peace through strength demands new players and new ways of doing business.'
-https://nypost.com/2026/07/14/opinion/trumps-defense-reset-drags-us-military-tech-into-the-21st-century/</title>
-      <link>https://x.com/WhiteHouse/status/2077447005496815637</link>
-      <description>'For the first time, the US defense industry will recognize that achieving the president’s goal of sustainable peace through strength demands new players and new ways of doing business.'
-https://nypost.com/2026/07/14/opinion/trumps-defense-reset-drags-us-military-tech-into-the-21st-century/</description>
-      <guid isPermaLink="false">https://x.com/WhiteHouse/status/2077447005496815637</guid>
-      <pubDate>Wed, 15 Jul 2026 17:35:37 +0000</pubDate>
+      <title>[OpenAI]Training against GPT‑Red makes GPT‑5.6 substantially more resilient. To measure this, we replayed some of GPT‑Red’s strongest attacks—none of which our models had seen during training. GPT‑5.6 Sol proved to be our most robust model against prompt injections to date, with 6× fewer failures than our best production model from just four months earlier.</title>
+      <link>https://x.com/OpenAI/status/2077446722683650525</link>
+      <description>Training against GPT‑Red makes GPT‑5.6 substantially more resilient. To measure this, we replayed some of GPT‑Red’s strongest attacks—none of which our models had seen during training. GPT‑5.6 Sol proved to be our most robust model against prompt injections to date, with 6× fewer failures than our best production model from just four months earlier.</description>
+      <guid isPermaLink="false">https://x.com/OpenAI/status/2077446722683650525</guid>
+      <pubDate>Wed, 15 Jul 2026 17:34:30 +0000</pubDate>
     </item>
     <item>
       <title>[WhiteHouse]Ahead of the Defense and Innovation Summit at the US Army War College in Pennsylvania today, @SenMcCormickPA writes in @nypost: Trump’s defense reset drags US military tech into the 21st century 🔥</title>
       <link>https://x.com/WhiteHouse/status/2077447003638837750</link>
       <description>Ahead of the Defense and Innovation Summit at the US Army War College in Pennsylvania today, @SenMcCormickPA writes in @nypost: Trump’s defense reset drags US military tech into the 21st century 🔥</description>
       <guid isPermaLink="false">https://x.com/WhiteHouse/status/2077447003638837750</guid>
+      <pubDate>Wed, 15 Jul 2026 17:35:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>[WhiteHouse]'For the first time, the US defense industry will recognize that achieving the president’s goal of sustainable peace through strength demands new players and new ways of doing business.'
+https://nypost.com/2026/07/14/opinion/trumps-defense-reset-drags-us-military-tech-into-the-21st-century/</title>
+      <link>https://x.com/WhiteHouse/status/2077447005496815637</link>
+      <description>'For the first time, the US defense industry will recognize that achieving the president’s goal of sustainable peace through strength demands new players and new ways of doing business.'
+https://nypost.com/2026/07/14/opinion/trumps-defense-reset-drags-us-military-tech-into-the-21st-century/</description>
+      <guid isPermaLink="false">https://x.com/WhiteHouse/status/2077447005496815637</guid>
       <pubDate>Wed, 15 Jul 2026 17:35:37 +0000</pubDate>
     </item>
     <item>
@@ -4211,17 +4176,17 @@ https://polymarket.com/event/next-leader-of-germanys-union-cducsu-20260718204733
       <pubDate>Mon, 20 Jul 2026 17:38:00 +0000</pubDate>
     </item>
     <item>
-      <title>[msdebugger_VK]Today's GenAI lecture covered the complete RAG pipeline 🚀 ✅ Query processing ✅ Step-Back Prompting ✅ HyDE ✅ Query routing ✅ Hybrid retrieval ✅ Re-ranking ✅ C-RAG ✅ Guardrails ✅ Answer evaluation Production AI is much more than just an LLM. #GenAI #RAG #AI #chaicode</title>
-      <link>https://x.com/msdebugger_VK/status/2079260037277700464</link>
-      <description>Today's GenAI lecture covered the complete RAG pipeline 🚀 ✅ Query processing ✅ Step-Back Prompting ✅ HyDE ✅ Query routing ✅ Hybrid retrieval ✅ Re-ranking ✅ C-RAG ✅ Guardrails ✅ Answer evaluation Production AI is much more than just an LLM. #GenAI #RAG #AI #chaicode</description>
-      <guid isPermaLink="false">https://x.com/msdebugger_VK/status/2079260037277700464</guid>
-      <pubDate>Mon, 20 Jul 2026 17:39:58 +0000</pubDate>
-    </item>
-    <item>
       <title>[Romildo_Games]Hello Robio! I’m a video producer and editor specializing in combining high-quality video creation with AI workflows to speed up production and scale content. Portfolio / Reel: https://www.artstation.com/artwork/Nq954b Thanks!</title>
       <link>https://x.com/Romildo_Games/status/2079260039424962727</link>
       <description>Hello Robio! I’m a video producer and editor specializing in combining high-quality video creation with AI workflows to speed up production and scale content. Portfolio / Reel: https://www.artstation.com/artwork/Nq954b Thanks!</description>
       <guid isPermaLink="false">https://x.com/Romildo_Games/status/2079260039424962727</guid>
+      <pubDate>Mon, 20 Jul 2026 17:39:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>[msdebugger_VK]Today's GenAI lecture covered the complete RAG pipeline 🚀 ✅ Query processing ✅ Step-Back Prompting ✅ HyDE ✅ Query routing ✅ Hybrid retrieval ✅ Re-ranking ✅ C-RAG ✅ Guardrails ✅ Answer evaluation Production AI is much more than just an LLM. #GenAI #RAG #AI #chaicode</title>
+      <link>https://x.com/msdebugger_VK/status/2079260037277700464</link>
+      <description>Today's GenAI lecture covered the complete RAG pipeline 🚀 ✅ Query processing ✅ Step-Back Prompting ✅ HyDE ✅ Query routing ✅ Hybrid retrieval ✅ Re-ranking ✅ C-RAG ✅ Guardrails ✅ Answer evaluation Production AI is much more than just an LLM. #GenAI #RAG #AI #chaicode</description>
+      <guid isPermaLink="false">https://x.com/msdebugger_VK/status/2079260037277700464</guid>
       <pubDate>Mon, 20 Jul 2026 17:39:58 +0000</pubDate>
     </item>
     <item>
@@ -6149,6 +6114,13 @@ https://polymarket.com/event/where-will-2026-rank-among-the-hottest-years-on-rec
       <pubDate>Fri, 24 Jul 2026 18:34:33 +0000</pubDate>
     </item>
     <item>
+      <title>[JuagY36144]China Always Lead in AI</title>
+      <link>https://x.com/JuagY36144/status/2080723331033206869</link>
+      <description>China Always Lead in AI</description>
+      <guid isPermaLink="false">https://x.com/JuagY36144/status/2080723331033206869</guid>
+      <pubDate>Fri, 24 Jul 2026 18:34:34 +0000</pubDate>
+    </item>
+    <item>
       <title>[officiall_logo]Thank God for AI,at least Ronaldo fans can hold onto something 😂</title>
       <link>https://x.com/officiall_logo/status/2080723331095863788</link>
       <description>Thank God for AI,at least Ronaldo fans can hold onto something 😂</description>
@@ -6156,11 +6128,11 @@ https://polymarket.com/event/where-will-2026-rank-among-the-hottest-years-on-rec
       <pubDate>Fri, 24 Jul 2026 18:34:34 +0000</pubDate>
     </item>
     <item>
-      <title>[JuagY36144]China Always Lead in AI</title>
-      <link>https://x.com/JuagY36144/status/2080723331033206869</link>
-      <description>China Always Lead in AI</description>
-      <guid isPermaLink="false">https://x.com/JuagY36144/status/2080723331033206869</guid>
-      <pubDate>Fri, 24 Jul 2026 18:34:34 +0000</pubDate>
+      <title>[NekiWeb3]sovereign infra is the quiet edge in the ai race</title>
+      <link>https://x.com/NekiWeb3/status/2080723332970987871</link>
+      <description>sovereign infra is the quiet edge in the ai race</description>
+      <guid isPermaLink="false">https://x.com/NekiWeb3/status/2080723332970987871</guid>
+      <pubDate>Fri, 24 Jul 2026 18:34:35 +0000</pubDate>
     </item>
     <item>
       <title>[noface_trdr]$SMH | $KEEL 
@@ -6179,13 +6151,6 @@ Helps me confirm whether $KEEL price action is tied to sector sentiment or just 
 
 So far, its 99% sector sentiment</description>
       <guid isPermaLink="false">https://x.com/noface_trdr/status/2080723335898447940</guid>
-      <pubDate>Fri, 24 Jul 2026 18:34:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>[NekiWeb3]sovereign infra is the quiet edge in the ai race</title>
-      <link>https://x.com/NekiWeb3/status/2080723332970987871</link>
-      <description>sovereign infra is the quiet edge in the ai race</description>
-      <guid isPermaLink="false">https://x.com/NekiWeb3/status/2080723332970987871</guid>
       <pubDate>Fri, 24 Jul 2026 18:34:35 +0000</pubDate>
     </item>
     <item>
@@ -6949,6 +6914,51 @@ The thing is, I've been a programmer for over 60 years.  And every single year b
       <description>JUST IN: Israel approves the entry of a multinational security force into Gaza as part of Trump’s proposed peace plan.</description>
       <guid isPermaLink="false">https://x.com/Polymarket/status/2081439508248101130</guid>
       <pubDate>Sun, 26 Jul 2026 18:00:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>[LOnlDJ1UXHNjC8z]Big news: Nvidia is looking at providing up to $250B in financing for an OpenAI datacenter in Ohio, per the WSJ.
+
+- Total project could hit $500B+, the biggest AI datacenter ever announced. First phase by 2028 with 800 megawatts.
+
+- US gov is heavily involved—power comes fr</title>
+      <link>https://x.com/LOnlDJ1UXHNjC8z/status/2081541124418859449</link>
+      <description>Big news: Nvidia is looking at providing up to $250B in financing for an OpenAI datacenter in Ohio, per the WSJ.
+
+- Total project could hit $500B+, the biggest AI datacenter ever announced. First phase by 2028 with 800 megawatts.
+
+- US gov is heavily involved—power comes fr</description>
+      <guid isPermaLink="false">https://x.com/LOnlDJ1UXHNjC8z/status/2081541124418859449</guid>
+      <pubDate>Sun, 26 Jul 2026 20:44:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>[grok]The pattern of two histories combining via interaction and constraint selection to produce a new entity (which then seeds the next layer) neatly captures hierarchical emergence. Primordial fluctuations + gravity → cosmic web, gas + dynamics → stars/planets, molecules + geochemistry → life: the nested causal chain is real and striking across scales. Each level follows its own rules, yet the self-similar buildup offers a useful lens on complexity. Solid observation.</title>
+      <link>https://x.com/grok/status/2081541126020849817</link>
+      <description>The pattern of two histories combining via interaction and constraint selection to produce a new entity (which then seeds the next layer) neatly captures hierarchical emergence. Primordial fluctuations + gravity → cosmic web, gas + dynamics → stars/planets, molecules + geochemistry → life: the nested causal chain is real and striking across scales. Each level follows its own rules, yet the self-similar buildup offers a useful lens on complexity. Solid observation.</description>
+      <guid isPermaLink="false">https://x.com/grok/status/2081541126020849817</guid>
+      <pubDate>Sun, 26 Jul 2026 20:44:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>[elonmusk]Grok 4.5 is a solid workhorse</title>
+      <link>https://x.com/elonmusk/status/2081485024872796427</link>
+      <description>Grok 4.5 is a solid workhorse</description>
+      <guid isPermaLink="false">https://x.com/elonmusk/status/2081485024872796427</guid>
+      <pubDate>Sun, 26 Jul 2026 21:01:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Polymarket]JUST IN: Nvidia reportedly in talks to back a $250,000,000,000.00 financing package for OpenAI’s massive Ohio data center project.</title>
+      <link>https://x.com/Polymarket/status/2081533716157931871</link>
+      <description>JUST IN: Nvidia reportedly in talks to back a $250,000,000,000.00 financing package for OpenAI’s massive Ohio data center project.</description>
+      <guid isPermaLink="false">https://x.com/Polymarket/status/2081533716157931871</guid>
+      <pubDate>Sun, 26 Jul 2026 23:14:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Polymarket]16% chance the AI bubble bursts. 
+https://polymarket.com/event/ai-bubble-burst-by — 16% chance the AI bubble bursts. https://polymarket.com/event/ai-bubble-burst-by</title>
+      <link>https://x.com/Polymarket/status/2081534068831715683</link>
+      <description>16% chance the AI bubble bursts. 
+https://polymarket.com/event/ai-bubble-burst-by</description>
+      <guid isPermaLink="false">https://x.com/Polymarket/status/2081534068831715683</guid>
+      <pubDate>Sun, 26 Jul 2026 23:16:09 +0000</pubDate>
     </item>
   </channel>
 </rss>
