@@ -7,129 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 27 Jul 2026 13:08:54 +0000</lastBuildDate>
-    <item>
-      <title>[EntrepreneursAI]The AI revolution isn't coming, it's already rewriting the rules. Anthropic analyzed 300,000 chats: Claude actually changes personality across models and languages.</title>
-      <link>https://x.com/EntrepreneursAI/status/2077151231290626480</link>
-      <description>The AI revolution isn't coming, it's already rewriting the rules. Anthropic analyzed 300,000 chats: Claude actually changes personality across models and languages.</description>
-      <guid isPermaLink="false">https://x.com/EntrepreneursAI/status/2077151231290626480</guid>
-      <pubDate>Tue, 14 Jul 2026 22:00:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>[WhiteHouse]President Donald J. Trump sits down with @TreyYingst on negotiations with Iran. His message to what's left of the Iranian regime's leadership is: "You better make a deal. You're not going to have anybody left."</title>
-      <link>https://x.com/WhiteHouse/status/2077172718508576879</link>
-      <description>President Donald J. Trump sits down with @TreyYingst on negotiations with Iran. His message to what's left of the Iranian regime's leadership is: "You better make a deal. You're not going to have anybody left."</description>
-      <guid isPermaLink="false">https://x.com/WhiteHouse/status/2077172718508576879</guid>
-      <pubDate>Tue, 14 Jul 2026 23:25:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>[elonmusk]Order the Starlink V5 terminal!</title>
-      <link>https://x.com/elonmusk/status/2077217230895382826</link>
-      <description>Order the Starlink V5 terminal!</description>
-      <guid isPermaLink="false">https://x.com/elonmusk/status/2077217230895382826</guid>
-      <pubDate>Wed, 15 Jul 2026 02:22:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>[elonmusk]Grok 4.5 is worth trying</title>
-      <link>https://x.com/elonmusk/status/2077219839626641676</link>
-      <description>Grok 4.5 is worth trying</description>
-      <guid isPermaLink="false">https://x.com/elonmusk/status/2077219839626641676</guid>
-      <pubDate>Wed, 15 Jul 2026 02:32:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Kyomesuke]满を持して次世代版のRunCat Neoがリリースされました！オープンソースになり、カスタムメトリクス表示機能が追加され、Claude CodeやCodexのRate Limitをはじめ、好きな情報を表示できるようになりました。何を表示させるかはユーザー次第。
-https://github.com/runcat-dev/RunCatNeo</title>
-      <link>https://x.com/Kyomesuke/status/2077229382196961682</link>
-      <description>满を持して次世代版のRunCat Neoがリリースされました！オープンソースになり、カスタムメトリクス表示機能が追加され、Claude CodeやCodexのRate Limitをはじめ、好きな情報を表示できるようになりました。何を表示させるかはユーザー次第。
-https://github.com/runcat-dev/RunCatNeo</description>
-      <guid isPermaLink="false">https://x.com/Kyomesuke/status/2077229382196961682</guid>
-      <pubDate>Wed, 15 Jul 2026 03:10:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>[KellytoyDK]really awesome that this is what the alvin brand has been reduced to in 2026</title>
-      <link>https://x.com/KellytoyDK/status/2077247498918285410</link>
-      <description>really awesome that this is what the alvin brand has been reduced to in 2026</description>
-      <guid isPermaLink="false">https://x.com/KellytoyDK/status/2077247498918285410</guid>
-      <pubDate>Wed, 15 Jul 2026 04:22:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>[thsottiaux]Or… what if we gave you $100 in Codex credits if you tell us what you love about GPT-5.6 Sol or why you switched?
-
-Tweet it, claim your gift, enjoy more usage. First 10k get the free tokens!
-
-https://switch-to-codex.openai.chatgpt.site/</title>
-      <link>https://x.com/thsottiaux/status/2077248807533003257</link>
-      <description>Or… what if we gave you $100 in Codex credits if you tell us what you love about GPT-5.6 Sol or why you switched?
-
-Tweet it, claim your gift, enjoy more usage. First 10k get the free tokens!
-
-https://switch-to-codex.openai.chatgpt.site/</description>
-      <guid isPermaLink="false">https://x.com/thsottiaux/status/2077248807533003257</guid>
-      <pubDate>Wed, 15 Jul 2026 04:28:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>[fleshsimulator]I can't explain it but they made Alvin lightskin</title>
-      <link>https://x.com/fleshsimulator/status/2077251591791382817</link>
-      <description>I can't explain it but they made Alvin lightskin</description>
-      <guid isPermaLink="false">https://x.com/fleshsimulator/status/2077251591791382817</guid>
-      <pubDate>Wed, 15 Jul 2026 04:39:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Polymarket]NEW: SpaceX unveils Starlink V5 with a 62% lighter design, nearly 50% lower power draw, and 165 mph wind resistance.</title>
-      <link>https://x.com/Polymarket/status/2077255838918439372</link>
-      <description>NEW: SpaceX unveils Starlink V5 with a 62% lighter design, nearly 50% lower power draw, and 165 mph wind resistance.</description>
-      <guid isPermaLink="false">https://x.com/Polymarket/status/2077255838918439372</guid>
-      <pubDate>Wed, 15 Jul 2026 04:56:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[notimenorest]GPT-5.6 Sol made Codex useful on a real local app project: a private archive reader with SQLite search, media handling, dark mode fixes, tests and packaging.</title>
-      <link>https://x.com/notimenorest/status/2077285029693071522</link>
-      <description>GPT-5.6 Sol made Codex useful on a real local app project: a private archive reader with SQLite search, media handling, dark mode fixes, tests and packaging.</description>
-      <guid isPermaLink="false">https://x.com/notimenorest/status/2077285029693071522</guid>
-      <pubDate>Wed, 15 Jul 2026 06:51:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>[CodebyNihan]🚨 BREAKING: Claude can now teach you BUILD PASSIVE INCOME  from zero. For free.
-
-Here are 8 prompts to earn Money While You Sleep:</title>
-      <link>https://x.com/CodebyNihan/status/2077285904230851055</link>
-      <description>🚨 BREAKING: Claude can now teach you BUILD PASSIVE INCOME  from zero. For free.
-
-Here are 8 prompts to earn Money While You Sleep:</description>
-      <guid isPermaLink="false">https://x.com/CodebyNihan/status/2077285904230851055</guid>
-      <pubDate>Wed, 15 Jul 2026 06:55:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>[TommiPedruzzi]It's true.
-
-I used Claude to create a 90-page nonfiction book
-
-it now generates $5,000 to $8,000 every month.
-
-I’ve compiled all those prompts into a 53-page PDF file.
-
-Like + Comment “Claude” I’ll send you the prompts guide absolutely for free.
-
-(Follow so I can DM)
-
-⏳ Taking this down in 24 hours</title>
-      <link>https://x.com/TommiPedruzzi/status/2077346547725955406</link>
-      <description>It's true.
-
-I used Claude to create a 90-page nonfiction book
-
-it now generates $5,000 to $8,000 every month.
-
-I’ve compiled all those prompts into a 53-page PDF file.
-
-Like + Comment “Claude” I’ll send you the prompts guide absolutely for free.
-
-(Follow so I can DM)
-
-⏳ Taking this down in 24 hours</description>
-      <guid isPermaLink="false">https://x.com/TommiPedruzzi/status/2077346547725955406</guid>
-      <pubDate>Wed, 15 Jul 2026 10:56:26 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 28 Jul 2026 06:58:34 +0000</lastBuildDate>
     <item>
       <title>[Divyyanshishrma]Stop paying for AI courses.
 
@@ -483,14 +361,18 @@ https://openai.com/supply/</description>
       <pubDate>Wed, 15 Jul 2026 16:41:21 +0000</pubDate>
     </item>
     <item>
-      <title>[OpenAI]GPT‑Red learns through adversarial self-play, where its goal is to prompt inject a variety of challenging defender models.
+      <title>[OpenAI]Introducing GPT-Red
 
-Every successful attack that GPT-Red finds is used to improve these defenders, pushing GPT-Red to continuously find broader and more complex failures.</title>
-      <link>https://x.com/OpenAI/status/2077446721161093124</link>
-      <description>GPT‑Red learns through adversarial self-play, where its goal is to prompt inject a variety of challenging defender models.
+An internal automated red teamer on a mission to find our models’ prompt injection vulnerabilities at scale, helping us build stronger defenses before wider deployment.
 
-Every successful attack that GPT-Red finds is used to improve these defenders, pushing GPT-Red to continuously find broader and more complex failures.</description>
-      <guid isPermaLink="false">https://x.com/OpenAI/status/2077446721161093124</guid>
+https://openai.com/index/unlocking-self-improvement-gpt-red/</title>
+      <link>https://x.com/OpenAI/status/2077446718728425686</link>
+      <description>Introducing GPT-Red
+
+An internal automated red teamer on a mission to find our models’ prompt injection vulnerabilities at scale, helping us build stronger defenses before wider deployment.
+
+https://openai.com/index/unlocking-self-improvement-gpt-red/</description>
+      <guid isPermaLink="false">https://x.com/OpenAI/status/2077446718728425686</guid>
       <pubDate>Wed, 15 Jul 2026 17:34:29 +0000</pubDate>
     </item>
     <item>
@@ -509,19 +391,22 @@ GPT-Red is one way we’re addressing it.</description>
       <pubDate>Wed, 15 Jul 2026 17:34:29 +0000</pubDate>
     </item>
     <item>
-      <title>[OpenAI]Introducing GPT-Red
+      <title>[OpenAI]GPT‑Red learns through adversarial self-play, where its goal is to prompt inject a variety of challenging defender models.
 
-An internal automated red teamer on a mission to find our models’ prompt injection vulnerabilities at scale, helping us build stronger defenses before wider deployment.
+Every successful attack that GPT-Red finds is used to improve these defenders, pushing GPT-Red to continuously find broader and more complex failures.</title>
+      <link>https://x.com/OpenAI/status/2077446721161093124</link>
+      <description>GPT‑Red learns through adversarial self-play, where its goal is to prompt inject a variety of challenging defender models.
 
-https://openai.com/index/unlocking-self-improvement-gpt-red/</title>
-      <link>https://x.com/OpenAI/status/2077446718728425686</link>
-      <description>Introducing GPT-Red
-
-An internal automated red teamer on a mission to find our models’ prompt injection vulnerabilities at scale, helping us build stronger defenses before wider deployment.
-
-https://openai.com/index/unlocking-self-improvement-gpt-red/</description>
-      <guid isPermaLink="false">https://x.com/OpenAI/status/2077446718728425686</guid>
+Every successful attack that GPT-Red finds is used to improve these defenders, pushing GPT-Red to continuously find broader and more complex failures.</description>
+      <guid isPermaLink="false">https://x.com/OpenAI/status/2077446721161093124</guid>
       <pubDate>Wed, 15 Jul 2026 17:34:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>[OpenAI]Training against GPT‑Red makes GPT‑5.6 substantially more resilient. To measure this, we replayed some of GPT‑Red’s strongest attacks—none of which our models had seen during training. GPT‑5.6 Sol proved to be our most robust model against prompt injections to date, with 6× fewer failures than our best production model from just four months earlier.</title>
+      <link>https://x.com/OpenAI/status/2077446722683650525</link>
+      <description>Training against GPT‑Red makes GPT‑5.6 substantially more resilient. To measure this, we replayed some of GPT‑Red’s strongest attacks—none of which our models had seen during training. GPT‑5.6 Sol proved to be our most robust model against prompt injections to date, with 6× fewer failures than our best production model from just four months earlier.</description>
+      <guid isPermaLink="false">https://x.com/OpenAI/status/2077446722683650525</guid>
+      <pubDate>Wed, 15 Jul 2026 17:34:30 +0000</pubDate>
     </item>
     <item>
       <title>[OpenAI]AI agents are already being used to improve the capabilities of our next-generation models.
@@ -535,26 +420,19 @@ We believe with GPT-Red that we have started to unlock a similar flywheel for sa
       <pubDate>Wed, 15 Jul 2026 17:34:30 +0000</pubDate>
     </item>
     <item>
-      <title>[OpenAI]Training against GPT‑Red makes GPT‑5.6 substantially more resilient. To measure this, we replayed some of GPT‑Red’s strongest attacks—none of which our models had seen during training. GPT‑5.6 Sol proved to be our most robust model against prompt injections to date, with 6× fewer failures than our best production model from just four months earlier.</title>
-      <link>https://x.com/OpenAI/status/2077446722683650525</link>
-      <description>Training against GPT‑Red makes GPT‑5.6 substantially more resilient. To measure this, we replayed some of GPT‑Red’s strongest attacks—none of which our models had seen during training. GPT‑5.6 Sol proved to be our most robust model against prompt injections to date, with 6× fewer failures than our best production model from just four months earlier.</description>
-      <guid isPermaLink="false">https://x.com/OpenAI/status/2077446722683650525</guid>
-      <pubDate>Wed, 15 Jul 2026 17:34:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>[WhiteHouse]Ahead of the Defense and Innovation Summit at the US Army War College in Pennsylvania today, @SenMcCormickPA writes in @nypost: Trump’s defense reset drags US military tech into the 21st century 🔥</title>
-      <link>https://x.com/WhiteHouse/status/2077447003638837750</link>
-      <description>Ahead of the Defense and Innovation Summit at the US Army War College in Pennsylvania today, @SenMcCormickPA writes in @nypost: Trump’s defense reset drags US military tech into the 21st century 🔥</description>
-      <guid isPermaLink="false">https://x.com/WhiteHouse/status/2077447003638837750</guid>
-      <pubDate>Wed, 15 Jul 2026 17:35:37 +0000</pubDate>
-    </item>
-    <item>
       <title>[WhiteHouse]'For the first time, the US defense industry will recognize that achieving the president’s goal of sustainable peace through strength demands new players and new ways of doing business.'
 https://nypost.com/2026/07/14/opinion/trumps-defense-reset-drags-us-military-tech-into-the-21st-century/</title>
       <link>https://x.com/WhiteHouse/status/2077447005496815637</link>
       <description>'For the first time, the US defense industry will recognize that achieving the president’s goal of sustainable peace through strength demands new players and new ways of doing business.'
 https://nypost.com/2026/07/14/opinion/trumps-defense-reset-drags-us-military-tech-into-the-21st-century/</description>
       <guid isPermaLink="false">https://x.com/WhiteHouse/status/2077447005496815637</guid>
+      <pubDate>Wed, 15 Jul 2026 17:35:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>[WhiteHouse]Ahead of the Defense and Innovation Summit at the US Army War College in Pennsylvania today, @SenMcCormickPA writes in @nypost: Trump’s defense reset drags US military tech into the 21st century 🔥</title>
+      <link>https://x.com/WhiteHouse/status/2077447003638837750</link>
+      <description>Ahead of the Defense and Innovation Summit at the US Army War College in Pennsylvania today, @SenMcCormickPA writes in @nypost: Trump’s defense reset drags US military tech into the 21st century 🔥</description>
+      <guid isPermaLink="false">https://x.com/WhiteHouse/status/2077447003638837750</guid>
       <pubDate>Wed, 15 Jul 2026 17:35:37 +0000</pubDate>
     </item>
     <item>
@@ -3816,17 +3694,17 @@ https://polymarket.com/event/next-leader-of-germanys-union-cducsu-20260718204733
       <pubDate>Mon, 20 Jul 2026 17:38:00 +0000</pubDate>
     </item>
     <item>
-      <title>[Romildo_Games]Hello Robio! I’m a video producer and editor specializing in combining high-quality video creation with AI workflows to speed up production and scale content. Portfolio / Reel: https://www.artstation.com/artwork/Nq954b Thanks!</title>
-      <link>https://x.com/Romildo_Games/status/2079260039424962727</link>
-      <description>Hello Robio! I’m a video producer and editor specializing in combining high-quality video creation with AI workflows to speed up production and scale content. Portfolio / Reel: https://www.artstation.com/artwork/Nq954b Thanks!</description>
-      <guid isPermaLink="false">https://x.com/Romildo_Games/status/2079260039424962727</guid>
-      <pubDate>Mon, 20 Jul 2026 17:39:58 +0000</pubDate>
-    </item>
-    <item>
       <title>[msdebugger_VK]Today's GenAI lecture covered the complete RAG pipeline 🚀 ✅ Query processing ✅ Step-Back Prompting ✅ HyDE ✅ Query routing ✅ Hybrid retrieval ✅ Re-ranking ✅ C-RAG ✅ Guardrails ✅ Answer evaluation Production AI is much more than just an LLM. #GenAI #RAG #AI #chaicode</title>
       <link>https://x.com/msdebugger_VK/status/2079260037277700464</link>
       <description>Today's GenAI lecture covered the complete RAG pipeline 🚀 ✅ Query processing ✅ Step-Back Prompting ✅ HyDE ✅ Query routing ✅ Hybrid retrieval ✅ Re-ranking ✅ C-RAG ✅ Guardrails ✅ Answer evaluation Production AI is much more than just an LLM. #GenAI #RAG #AI #chaicode</description>
       <guid isPermaLink="false">https://x.com/msdebugger_VK/status/2079260037277700464</guid>
+      <pubDate>Mon, 20 Jul 2026 17:39:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Romildo_Games]Hello Robio! I’m a video producer and editor specializing in combining high-quality video creation with AI workflows to speed up production and scale content. Portfolio / Reel: https://www.artstation.com/artwork/Nq954b Thanks!</title>
+      <link>https://x.com/Romildo_Games/status/2079260039424962727</link>
+      <description>Hello Robio! I’m a video producer and editor specializing in combining high-quality video creation with AI workflows to speed up production and scale content. Portfolio / Reel: https://www.artstation.com/artwork/Nq954b Thanks!</description>
+      <guid isPermaLink="false">https://x.com/Romildo_Games/status/2079260039424962727</guid>
       <pubDate>Mon, 20 Jul 2026 17:39:58 +0000</pubDate>
     </item>
     <item>
@@ -5754,13 +5632,6 @@ https://polymarket.com/event/where-will-2026-rank-among-the-hottest-years-on-rec
       <pubDate>Fri, 24 Jul 2026 18:34:33 +0000</pubDate>
     </item>
     <item>
-      <title>[JuagY36144]China Always Lead in AI</title>
-      <link>https://x.com/JuagY36144/status/2080723331033206869</link>
-      <description>China Always Lead in AI</description>
-      <guid isPermaLink="false">https://x.com/JuagY36144/status/2080723331033206869</guid>
-      <pubDate>Fri, 24 Jul 2026 18:34:34 +0000</pubDate>
-    </item>
-    <item>
       <title>[officiall_logo]Thank God for AI,at least Ronaldo fans can hold onto something 😂</title>
       <link>https://x.com/officiall_logo/status/2080723331095863788</link>
       <description>Thank God for AI,at least Ronaldo fans can hold onto something 😂</description>
@@ -5768,11 +5639,11 @@ https://polymarket.com/event/where-will-2026-rank-among-the-hottest-years-on-rec
       <pubDate>Fri, 24 Jul 2026 18:34:34 +0000</pubDate>
     </item>
     <item>
-      <title>[NekiWeb3]sovereign infra is the quiet edge in the ai race</title>
-      <link>https://x.com/NekiWeb3/status/2080723332970987871</link>
-      <description>sovereign infra is the quiet edge in the ai race</description>
-      <guid isPermaLink="false">https://x.com/NekiWeb3/status/2080723332970987871</guid>
-      <pubDate>Fri, 24 Jul 2026 18:34:35 +0000</pubDate>
+      <title>[JuagY36144]China Always Lead in AI</title>
+      <link>https://x.com/JuagY36144/status/2080723331033206869</link>
+      <description>China Always Lead in AI</description>
+      <guid isPermaLink="false">https://x.com/JuagY36144/status/2080723331033206869</guid>
+      <pubDate>Fri, 24 Jul 2026 18:34:34 +0000</pubDate>
     </item>
     <item>
       <title>[noface_trdr]$SMH | $KEEL 
@@ -5791,6 +5662,13 @@ Helps me confirm whether $KEEL price action is tied to sector sentiment or just 
 
 So far, its 99% sector sentiment</description>
       <guid isPermaLink="false">https://x.com/noface_trdr/status/2080723335898447940</guid>
+      <pubDate>Fri, 24 Jul 2026 18:34:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>[NekiWeb3]sovereign infra is the quiet edge in the ai race</title>
+      <link>https://x.com/NekiWeb3/status/2080723332970987871</link>
+      <description>sovereign infra is the quiet edge in the ai race</description>
+      <guid isPermaLink="false">https://x.com/NekiWeb3/status/2080723332970987871</guid>
       <pubDate>Fri, 24 Jul 2026 18:34:35 +0000</pubDate>
     </item>
     <item>
@@ -6821,6 +6699,160 @@ And remember, this is as bad as AI is ever going to be. It’s only going to get
       <description>JUST IN: Elon Musk says money "won't matter" in 2036 due to AI and robots</description>
       <guid isPermaLink="false">https://x.com/Kalshi/status/2081725037694840967</guid>
       <pubDate>Mon, 27 Jul 2026 12:55:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Anaya_sharma876]AGI Confirmed - Opus 5</title>
+      <link>https://x.com/Anaya_sharma876/status/2081737721635287497</link>
+      <description>AGI Confirmed - Opus 5</description>
+      <guid isPermaLink="false">https://x.com/Anaya_sharma876/status/2081737721635287497</guid>
+      <pubDate>Mon, 27 Jul 2026 13:45:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>[business]China is betting the artificial intelligence race won't be won on chips alone</title>
+      <link>https://x.com/business/status/2081740151793791045</link>
+      <description>China is betting the artificial intelligence race won't be won on chips alone</description>
+      <guid isPermaLink="false">https://x.com/business/status/2081740151793791045</guid>
+      <pubDate>Mon, 27 Jul 2026 13:55:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Yulun_Du]The most beautiful LLM tech report I have ever written and read. So proud of the whole team. :)</title>
+      <link>https://x.com/Yulun_Du/status/2081761174568517705</link>
+      <description>The most beautiful LLM tech report I have ever written and read. So proud of the whole team. :)</description>
+      <guid isPermaLink="false">https://x.com/Yulun_Du/status/2081761174568517705</guid>
+      <pubDate>Mon, 27 Jul 2026 15:18:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>[PrakamyaMishra]We are excited to introduce Instella-MoE✨, AMD's first fully open Mixture-of-Experts (MoE) language model!
+
+Instella-MoE has 16B total parameters with only 2.8B active parameters per token. Trained from scratch on AMD Instinct™ MI300X and MI325X GPUs using AMD-Primus and Miles frameworks, Instella-MoE combines a sparsely activated MoE design with architectural innovations such as Gated Multi-head Latent Attention (Gated MLA) and FarSkip-Collective. At its scale, it achieves state-of-the-art performance among fully open models.
+
+💡 What makes this release especially significant is that we are opening up far more than the final model weights. The release provides the complete end-to-end training pipeline:
+
+📚 Checkpoints across Pre-training → Mid-training → Long-context extension → SFT → DPO → RL
+⚙️ Training recipes and configurations
+🗂️ Data mixtures
+💻 Training and inference code
+
+We hope this release supports more transparent, reproducible, and efficient open LLM research. We’d love to hear your feedback.
+
+🤗 Hugging Face: https://t.co/Q7h5t7Rkua
+💻 GitHub: https://t.co/8vVaSUsGrD
+🔗 Blog: https://t.co/O7dlGRHMzu
+
+Jiang Liu, Sudhanshu Ranjan, Yoni Dukler, @gowtham_ramesh1 , Zicheng Liu, @Wu_Jialian , @XimengSun1 , Wen Xie, Chaojun Hou, Vikram Appia, Zhenyu Gu, @EmadBarsoumPi</title>
+      <link>https://x.com/PrakamyaMishra/status/2081769222301257859</link>
+      <description>We are excited to introduce Instella-MoE✨, AMD's first fully open Mixture-of-Experts (MoE) language model!
+
+Instella-MoE has 16B total parameters with only 2.8B active parameters per token. Trained from scratch on AMD Instinct™ MI300X and MI325X GPUs using AMD-Primus and Miles frameworks, Instella-MoE combines a sparsely activated MoE design with architectural innovations such as Gated Multi-head Latent Attention (Gated MLA) and FarSkip-Collective. At its scale, it achieves state-of-the-art performance among fully open models.
+
+💡 What makes this release especially significant is that we are opening up far more than the final model weights. The release provides the complete end-to-end training pipeline:
+
+📚 Checkpoints across Pre-training → Mid-training → Long-context extension → SFT → DPO → RL
+⚙️ Training recipes and configurations
+🗂️ Data mixtures
+💻 Training and inference code
+
+We hope this release supports more transparent, reproducible, and efficient open LLM research. We’d love to hear your feedback.
+
+🤗 Hugging Face: https://t.co/Q7h5t7Rkua
+💻 GitHub: https://t.co/8vVaSUsGrD
+🔗 Blog: https://t.co/O7dlGRHMzu
+
+Jiang Liu, Sudhanshu Ranjan, Yoni Dukler, @gowtham_ramesh1 , Zicheng Liu, @Wu_Jialian , @XimengSun1 , Wen Xie, Chaojun Hou, Vikram Appia, Zhenyu Gu, @EmadBarsoumPi</description>
+      <guid isPermaLink="false">https://x.com/PrakamyaMishra/status/2081769222301257859</guid>
+      <pubDate>Mon, 27 Jul 2026 15:50:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>[ornith_]🐦The Ornith-1.0 family has surpassed 12M downloads on Hugging Face in 30 days.
+❤️Thanks to everyone who has tried Ornith and shared feedback with us. The team is working to push open-weight LLM forward.
+🫡We believe open weights matter. Everyone should have the freedom to control their own intelligence, protect their data, and shape how AI works for them.
+🫶More to come!</title>
+      <link>https://x.com/ornith_/status/2081808063515034034</link>
+      <description>🐦The Ornith-1.0 family has surpassed 12M downloads on Hugging Face in 30 days.
+❤️Thanks to everyone who has tried Ornith and shared feedback with us. The team is working to push open-weight LLM forward.
+🫡We believe open weights matter. Everyone should have the freedom to control their own intelligence, protect their data, and shape how AI works for them.
+🫶More to come!</description>
+      <guid isPermaLink="false">https://x.com/ornith_/status/2081808063515034034</guid>
+      <pubDate>Mon, 27 Jul 2026 18:24:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>[justinsuntron]See you in Vietnam 🇻🇳</title>
+      <link>https://x.com/justinsuntron/status/2081953409406820392</link>
+      <description>See you in Vietnam 🇻🇳</description>
+      <guid isPermaLink="false">https://x.com/justinsuntron/status/2081953409406820392</guid>
+      <pubDate>Tue, 28 Jul 2026 04:02:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Polymarket]NEW: Australia is reportedly considering building its first new oil refinery in more than 60 years as the Iran conflict strains fuel supplies.</title>
+      <link>https://x.com/Polymarket/status/2081953795207217382</link>
+      <description>NEW: Australia is reportedly considering building its first new oil refinery in more than 60 years as the Iran conflict strains fuel supplies.</description>
+      <guid isPermaLink="false">https://x.com/Polymarket/status/2081953795207217382</guid>
+      <pubDate>Tue, 28 Jul 2026 04:04:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Polymarket]JUST IN: Poland formally seeks the extradition of former Justice Minister Zbigniew Ziobro from the United States.</title>
+      <link>https://x.com/Polymarket/status/2081969649613262967</link>
+      <description>JUST IN: Poland formally seeks the extradition of former Justice Minister Zbigniew Ziobro from the United States.</description>
+      <guid isPermaLink="false">https://x.com/Polymarket/status/2081969649613262967</guid>
+      <pubDate>Tue, 28 Jul 2026 05:07:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[elonmusk]Common sense</title>
+      <link>https://x.com/elonmusk/status/2081973255296934043</link>
+      <description>Common sense</description>
+      <guid isPermaLink="false">https://x.com/elonmusk/status/2081973255296934043</guid>
+      <pubDate>Tue, 28 Jul 2026 05:21:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Polymarket]JUST IN: India summons Ukraine’s ambassador after an attack on a commercial vessel in the Black Sea killed an Indian sailor.</title>
+      <link>https://x.com/Polymarket/status/2081981477399527470</link>
+      <description>JUST IN: India summons Ukraine’s ambassador after an attack on a commercial vessel in the Black Sea killed an Indian sailor.</description>
+      <guid isPermaLink="false">https://x.com/Polymarket/status/2081981477399527470</guid>
+      <pubDate>Tue, 28 Jul 2026 05:54:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Polymarket]🚨 NEW POLYMARKET: Next President of Estonia?
+https://polymarket.com/event/next-president-of-estonia-20260727225811942?via=x-afr2 — 🚨 NEW POLYMARKET: Next President of Estonia? https://polymarket.com/event/next-president-of-estonia-20260727225811942?via=x-afr2</title>
+      <link>https://x.com/Polymarket/status/2081989027016929702</link>
+      <description>🚨 NEW POLYMARKET: Next President of Estonia?
+https://polymarket.com/event/next-president-of-estonia-20260727225811942?via=x-afr2</description>
+      <guid isPermaLink="false">https://x.com/Polymarket/status/2081989027016929702</guid>
+      <pubDate>Tue, 28 Jul 2026 06:24:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[bindureddy]Using One AI For Everything Makes No Sense... Use The Best LLM For Your Needs
+
+agentic (medium) - Kimi K3
+design - GPT 5.6 sol
+research - Flash 3.5
+agentic (hard) - Fable 5
+pdf - Grok 4.5
+image - GPT 2.0
+video - Seedance 2.0
+voice - Hume / 11Labs
+role play - Grok 4.5
+music - Suno
+always-on - Deepseek Flash
+
+Use all the best models in one place and automatically route to the best one, ChatLLM</title>
+      <link>https://x.com/bindureddy/status/2081994142436274368</link>
+      <description>Using One AI For Everything Makes No Sense... Use The Best LLM For Your Needs
+
+agentic (medium) - Kimi K3
+design - GPT 5.6 sol
+research - Flash 3.5
+agentic (hard) - Fable 5
+pdf - Grok 4.5
+image - GPT 2.0
+video - Seedance 2.0
+voice - Hume / 11Labs
+role play - Grok 4.5
+music - Suno
+always-on - Deepseek Flash
+
+Use all the best models in one place and automatically route to the best one, ChatLLM</description>
+      <guid isPermaLink="false">https://x.com/bindureddy/status/2081994142436274368</guid>
+      <pubDate>Tue, 28 Jul 2026 06:44:19 +0000</pubDate>
     </item>
   </channel>
 </rss>
