@@ -7,215 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 28 Jul 2026 18:33:31 +0000</lastBuildDate>
-    <item>
-      <title>[elonmusk]Good reason to try Grok 4.5 with Grok Build. It gets better every day!</title>
-      <link>https://x.com/elonmusk/status/2077412964231991420</link>
-      <description>Good reason to try Grok 4.5 with Grok Build. It gets better every day!</description>
-      <guid isPermaLink="false">https://x.com/elonmusk/status/2077412964231991420</guid>
-      <pubDate>Wed, 15 Jul 2026 15:20:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>[elonmusk]Grok</title>
-      <link>https://x.com/elonmusk/status/2077415187846500563</link>
-      <description>Grok</description>
-      <guid isPermaLink="false">https://x.com/elonmusk/status/2077415187846500563</guid>
-      <pubDate>Wed, 15 Jul 2026 15:29:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>[elonmusk]It is a thoughtful framework overall and certainly a good starting point for discussions</title>
-      <link>https://x.com/elonmusk/status/2077415601610297535</link>
-      <description>It is a thoughtful framework overall and certainly a good starting point for discussions</description>
-      <guid isPermaLink="false">https://x.com/elonmusk/status/2077415601610297535</guid>
-      <pubDate>Wed, 15 Jul 2026 15:30:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>[OpenAI]You don’t have to wait.
-
-Merch inspired by research &amp; deployment.
-
-Available until sold out.
-https://openai.com/supply/</title>
-      <link>https://x.com/OpenAI/status/2077430470510526635</link>
-      <description>You don’t have to wait.
-
-Merch inspired by research &amp; deployment.
-
-Available until sold out.
-https://openai.com/supply/</description>
-      <guid isPermaLink="false">https://x.com/OpenAI/status/2077430470510526635</guid>
-      <pubDate>Wed, 15 Jul 2026 16:29:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>[karpathy]It's not just em dashes, it's that many other legitimate &amp; useful language constructs are suddenly and somewhat arbitrarily super awkw and cringe</title>
-      <link>https://x.com/karpathy/status/2077433347085930882</link>
-      <description>It's not just em dashes, it's that many other legitimate &amp; useful language constructs are suddenly and somewhat arbitrarily super awkw and cringe</description>
-      <guid isPermaLink="false">https://x.com/karpathy/status/2077433347085930882</guid>
-      <pubDate>Wed, 15 Jul 2026 16:41:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>[OpenAI]Introducing GPT-Red
-
-An internal automated red teamer on a mission to find our models’ prompt injection vulnerabilities at scale, helping us build stronger defenses before wider deployment.
-
-https://openai.com/index/unlocking-self-improvement-gpt-red/</title>
-      <link>https://x.com/OpenAI/status/2077446718728425686</link>
-      <description>Introducing GPT-Red
-
-An internal automated red teamer on a mission to find our models’ prompt injection vulnerabilities at scale, helping us build stronger defenses before wider deployment.
-
-https://openai.com/index/unlocking-self-improvement-gpt-red/</description>
-      <guid isPermaLink="false">https://x.com/OpenAI/status/2077446718728425686</guid>
-      <pubDate>Wed, 15 Jul 2026 17:34:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>[OpenAI]As model capabilities grow, safety and alignment must scale with them.
-
-Red-teaming is essential, but today’s approaches are difficult to scale, creating a critical bottleneck.
-
-GPT-Red is one way we’re addressing it.</title>
-      <link>https://x.com/OpenAI/status/2077446719990796505</link>
-      <description>As model capabilities grow, safety and alignment must scale with them.
-
-Red-teaming is essential, but today’s approaches are difficult to scale, creating a critical bottleneck.
-
-GPT-Red is one way we’re addressing it.</description>
-      <guid isPermaLink="false">https://x.com/OpenAI/status/2077446719990796505</guid>
-      <pubDate>Wed, 15 Jul 2026 17:34:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>[OpenAI]GPT‑Red learns through adversarial self-play, where its goal is to prompt inject a variety of challenging defender models.
-
-Every successful attack that GPT-Red finds is used to improve these defenders, pushing GPT-Red to continuously find broader and more complex failures.</title>
-      <link>https://x.com/OpenAI/status/2077446721161093124</link>
-      <description>GPT‑Red learns through adversarial self-play, where its goal is to prompt inject a variety of challenging defender models.
-
-Every successful attack that GPT-Red finds is used to improve these defenders, pushing GPT-Red to continuously find broader and more complex failures.</description>
-      <guid isPermaLink="false">https://x.com/OpenAI/status/2077446721161093124</guid>
-      <pubDate>Wed, 15 Jul 2026 17:34:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>[OpenAI]Training against GPT‑Red makes GPT‑5.6 substantially more resilient. To measure this, we replayed some of GPT‑Red’s strongest attacks—none of which our models had seen during training. GPT‑5.6 Sol proved to be our most robust model against prompt injections to date, with 6× fewer failures than our best production model from just four months earlier.</title>
-      <link>https://x.com/OpenAI/status/2077446722683650525</link>
-      <description>Training against GPT‑Red makes GPT‑5.6 substantially more resilient. To measure this, we replayed some of GPT‑Red’s strongest attacks—none of which our models had seen during training. GPT‑5.6 Sol proved to be our most robust model against prompt injections to date, with 6× fewer failures than our best production model from just four months earlier.</description>
-      <guid isPermaLink="false">https://x.com/OpenAI/status/2077446722683650525</guid>
-      <pubDate>Wed, 15 Jul 2026 17:34:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>[OpenAI]AI agents are already being used to improve the capabilities of our next-generation models.
-
-We believe with GPT-Red that we have started to unlock a similar flywheel for safety, where today's models can be used to make tomorrow's models more robust, aligned, and trustworthy.</title>
-      <link>https://x.com/OpenAI/status/2077446723992228167</link>
-      <description>AI agents are already being used to improve the capabilities of our next-generation models.
-
-We believe with GPT-Red that we have started to unlock a similar flywheel for safety, where today's models can be used to make tomorrow's models more robust, aligned, and trustworthy.</description>
-      <guid isPermaLink="false">https://x.com/OpenAI/status/2077446723992228167</guid>
-      <pubDate>Wed, 15 Jul 2026 17:34:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>[WhiteHouse]'For the first time, the US defense industry will recognize that achieving the president’s goal of sustainable peace through strength demands new players and new ways of doing business.'
-https://nypost.com/2026/07/14/opinion/trumps-defense-reset-drags-us-military-tech-into-the-21st-century/</title>
-      <link>https://x.com/WhiteHouse/status/2077447005496815637</link>
-      <description>'For the first time, the US defense industry will recognize that achieving the president’s goal of sustainable peace through strength demands new players and new ways of doing business.'
-https://nypost.com/2026/07/14/opinion/trumps-defense-reset-drags-us-military-tech-into-the-21st-century/</description>
-      <guid isPermaLink="false">https://x.com/WhiteHouse/status/2077447005496815637</guid>
-      <pubDate>Wed, 15 Jul 2026 17:35:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>[WhiteHouse]Ahead of the Defense and Innovation Summit at the US Army War College in Pennsylvania today, @SenMcCormickPA writes in @nypost: Trump’s defense reset drags US military tech into the 21st century 🔥</title>
-      <link>https://x.com/WhiteHouse/status/2077447003638837750</link>
-      <description>Ahead of the Defense and Innovation Summit at the US Army War College in Pennsylvania today, @SenMcCormickPA writes in @nypost: Trump’s defense reset drags US military tech into the 21st century 🔥</description>
-      <guid isPermaLink="false">https://x.com/WhiteHouse/status/2077447003638837750</guid>
-      <pubDate>Wed, 15 Jul 2026 17:35:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Polymarket]BREAKING: JD Vance surges to a 4-month high in the odds to win the 2028 Republican presidential nomination, rebounding from an all-time low in June. 
-
-42% chance. — BREAKING: JD Vance surges to a 4-month high in the odds to win the 2028 Republican presidential nomination, rebounding from an all-time low in June. 42% chance.</title>
-      <link>https://x.com/Polymarket/status/2077452324256018762</link>
-      <description>BREAKING: JD Vance surges to a 4-month high in the odds to win the 2028 Republican presidential nomination, rebounding from an all-time low in June. 
-
-42% chance.</description>
-      <guid isPermaLink="false">https://x.com/Polymarket/status/2077452324256018762</guid>
-      <pubDate>Wed, 15 Jul 2026 17:56:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>[AnthropicAI]New Anthropic research: Agentic misalignment in Summer 2026.
-A year after our blackmail experiments, we found four more ways that today’s autonomous AI agents misbehave in simulations.
-Read more: https://alignment.anthropic.com/2026/agentic-misalignment-summer-2026/</title>
-      <link>https://x.com/AnthropicAI/status/2077452646303006927</link>
-      <description>New Anthropic research: Agentic misalignment in Summer 2026.
-A year after our blackmail experiments, we found four more ways that today’s autonomous AI agents misbehave in simulations.
-Read more: https://alignment.anthropic.com/2026/agentic-misalignment-summer-2026/</description>
-      <guid isPermaLink="false">https://x.com/AnthropicAI/status/2077452646303006927</guid>
-      <pubDate>Wed, 15 Jul 2026 17:58:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>[AnthropicAI]We tested many AI models, including Claude, in the four scenarios. Even though these weren’t real incidents, they demonstrate clear misaligned behavior that should be studied further and mitigated.
-
-Find all the transcripts from the scenarios here: https://www.aenguslynch.com/portfolio-transcript-viewer/</title>
-      <link>https://x.com/AnthropicAI/status/2077452649000042614</link>
-      <description>We tested many AI models, including Claude, in the four scenarios. Even though these weren’t real incidents, they demonstrate clear misaligned behavior that should be studied further and mitigated.
-
-Find all the transcripts from the scenarios here: https://www.aenguslynch.com/portfolio-transcript-viewer/</description>
-      <guid isPermaLink="false">https://x.com/AnthropicAI/status/2077452649000042614</guid>
-      <pubDate>Wed, 15 Jul 2026 17:58:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Polymarket]JUST IN: Vice President JD Vance appears on Joe Rogan's podcast.</title>
-      <link>https://x.com/Polymarket/status/2077455304321651140</link>
-      <description>JUST IN: Vice President JD Vance appears on Joe Rogan's podcast.</description>
-      <guid isPermaLink="false">https://x.com/Polymarket/status/2077455304321651140</guid>
-      <pubDate>Wed, 15 Jul 2026 18:08:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Polymarket]BREAKING: New York issues statewide air quality health alert as Canadian wildfire smoke pushes pollution levels toward “unhealthy for everyone.”</title>
-      <link>https://x.com/Polymarket/status/2077457668726497746</link>
-      <description>BREAKING: New York issues statewide air quality health alert as Canadian wildfire smoke pushes pollution levels toward “unhealthy for everyone.”</description>
-      <guid isPermaLink="false">https://x.com/Polymarket/status/2077457668726497746</guid>
-      <pubDate>Wed, 15 Jul 2026 18:18:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Polymarket]BREAKING: July 2026 now projected go down as the hottest July in recorded history.
-
-81% chance.
-
-https://polymarket.com/event/2026-july-1st-2nd-3rd-hottest-on-record-20260706144334512?dub_id=Pz6hxSQR4Y6hfvRw — BREAKING: July 2026 now projected go down as the hottest July in recorded history. 81% chance.…</title>
-      <link>https://x.com/Polymarket/status/2077460185396695178</link>
-      <description>BREAKING: July 2026 now projected go down as the hottest July in recorded history.
-
-81% chance.
-
-https://polymarket.com/event/2026-july-1st-2nd-3rd-hottest-on-record-20260706144334512?dub_id=Pz6hxSQR4Y6hfvRw</description>
-      <guid isPermaLink="false">https://x.com/Polymarket/status/2077460185396695178</guid>
-      <pubDate>Wed, 15 Jul 2026 18:28:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[WhiteHouse]President Trump’s leadership in defense innovation is delivering REAL results for America and its industrial base. 
-
-The most LETHAL fighting force on the planet. 🇺🇸</title>
-      <link>https://x.com/WhiteHouse/status/2077463873016274976</link>
-      <description>President Trump’s leadership in defense innovation is delivering REAL results for America and its industrial base. 
-
-The most LETHAL fighting force on the planet. 🇺🇸</description>
-      <guid isPermaLink="false">https://x.com/WhiteHouse/status/2077463873016274976</guid>
-      <pubDate>Wed, 15 Jul 2026 18:42:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>[WhiteHouse]VOTER ID IS LOGICAL.
-
-If Democrats aren’t cheating in elections, why do they refuse to require it? 
-
-@VP Vance &amp; @JoeRogan expose the Democrat hypocrisy. 🔥⬇️</title>
-      <link>https://x.com/WhiteHouse/status/2077480619118850506</link>
-      <description>VOTER ID IS LOGICAL.
-
-If Democrats aren’t cheating in elections, why do they refuse to require it? 
-
-@VP Vance &amp; @JoeRogan expose the Democrat hypocrisy. 🔥⬇️</description>
-      <guid isPermaLink="false">https://x.com/WhiteHouse/status/2077480619118850506</guid>
-      <pubDate>Wed, 15 Jul 2026 19:49:11 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 29 Jul 2026 00:38:27 +0000</lastBuildDate>
     <item>
       <title>[WhiteHouse]The Great Commonwealth of Pennsylvania - establishing the equipment, technology and innovation to ensure America remains strongest and most powerful nation in the HISTORY OF THE WORLD. 🇺🇸</title>
       <link>https://x.com/WhiteHouse/status/2077485594351911005</link>
@@ -3387,17 +3179,17 @@ https://polymarket.com/event/next-leader-of-germanys-union-cducsu-20260718204733
       <pubDate>Mon, 20 Jul 2026 17:38:00 +0000</pubDate>
     </item>
     <item>
-      <title>[msdebugger_VK]Today's GenAI lecture covered the complete RAG pipeline 🚀 ✅ Query processing ✅ Step-Back Prompting ✅ HyDE ✅ Query routing ✅ Hybrid retrieval ✅ Re-ranking ✅ C-RAG ✅ Guardrails ✅ Answer evaluation Production AI is much more than just an LLM. #GenAI #RAG #AI #chaicode</title>
-      <link>https://x.com/msdebugger_VK/status/2079260037277700464</link>
-      <description>Today's GenAI lecture covered the complete RAG pipeline 🚀 ✅ Query processing ✅ Step-Back Prompting ✅ HyDE ✅ Query routing ✅ Hybrid retrieval ✅ Re-ranking ✅ C-RAG ✅ Guardrails ✅ Answer evaluation Production AI is much more than just an LLM. #GenAI #RAG #AI #chaicode</description>
-      <guid isPermaLink="false">https://x.com/msdebugger_VK/status/2079260037277700464</guid>
-      <pubDate>Mon, 20 Jul 2026 17:39:58 +0000</pubDate>
-    </item>
-    <item>
       <title>[Romildo_Games]Hello Robio! I’m a video producer and editor specializing in combining high-quality video creation with AI workflows to speed up production and scale content. Portfolio / Reel: https://www.artstation.com/artwork/Nq954b Thanks!</title>
       <link>https://x.com/Romildo_Games/status/2079260039424962727</link>
       <description>Hello Robio! I’m a video producer and editor specializing in combining high-quality video creation with AI workflows to speed up production and scale content. Portfolio / Reel: https://www.artstation.com/artwork/Nq954b Thanks!</description>
       <guid isPermaLink="false">https://x.com/Romildo_Games/status/2079260039424962727</guid>
+      <pubDate>Mon, 20 Jul 2026 17:39:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>[msdebugger_VK]Today's GenAI lecture covered the complete RAG pipeline 🚀 ✅ Query processing ✅ Step-Back Prompting ✅ HyDE ✅ Query routing ✅ Hybrid retrieval ✅ Re-ranking ✅ C-RAG ✅ Guardrails ✅ Answer evaluation Production AI is much more than just an LLM. #GenAI #RAG #AI #chaicode</title>
+      <link>https://x.com/msdebugger_VK/status/2079260037277700464</link>
+      <description>Today's GenAI lecture covered the complete RAG pipeline 🚀 ✅ Query processing ✅ Step-Back Prompting ✅ HyDE ✅ Query routing ✅ Hybrid retrieval ✅ Re-ranking ✅ C-RAG ✅ Guardrails ✅ Answer evaluation Production AI is much more than just an LLM. #GenAI #RAG #AI #chaicode</description>
+      <guid isPermaLink="false">https://x.com/msdebugger_VK/status/2079260037277700464</guid>
       <pubDate>Mon, 20 Jul 2026 17:39:58 +0000</pubDate>
     </item>
     <item>
@@ -5325,6 +5117,13 @@ https://polymarket.com/event/where-will-2026-rank-among-the-hottest-years-on-rec
       <pubDate>Fri, 24 Jul 2026 18:34:33 +0000</pubDate>
     </item>
     <item>
+      <title>[JuagY36144]China Always Lead in AI</title>
+      <link>https://x.com/JuagY36144/status/2080723331033206869</link>
+      <description>China Always Lead in AI</description>
+      <guid isPermaLink="false">https://x.com/JuagY36144/status/2080723331033206869</guid>
+      <pubDate>Fri, 24 Jul 2026 18:34:34 +0000</pubDate>
+    </item>
+    <item>
       <title>[officiall_logo]Thank God for AI,at least Ronaldo fans can hold onto something 😂</title>
       <link>https://x.com/officiall_logo/status/2080723331095863788</link>
       <description>Thank God for AI,at least Ronaldo fans can hold onto something 😂</description>
@@ -5332,11 +5131,11 @@ https://polymarket.com/event/where-will-2026-rank-among-the-hottest-years-on-rec
       <pubDate>Fri, 24 Jul 2026 18:34:34 +0000</pubDate>
     </item>
     <item>
-      <title>[JuagY36144]China Always Lead in AI</title>
-      <link>https://x.com/JuagY36144/status/2080723331033206869</link>
-      <description>China Always Lead in AI</description>
-      <guid isPermaLink="false">https://x.com/JuagY36144/status/2080723331033206869</guid>
-      <pubDate>Fri, 24 Jul 2026 18:34:34 +0000</pubDate>
+      <title>[NekiWeb3]sovereign infra is the quiet edge in the ai race</title>
+      <link>https://x.com/NekiWeb3/status/2080723332970987871</link>
+      <description>sovereign infra is the quiet edge in the ai race</description>
+      <guid isPermaLink="false">https://x.com/NekiWeb3/status/2080723332970987871</guid>
+      <pubDate>Fri, 24 Jul 2026 18:34:35 +0000</pubDate>
     </item>
     <item>
       <title>[noface_trdr]$SMH | $KEEL 
@@ -5355,13 +5154,6 @@ Helps me confirm whether $KEEL price action is tied to sector sentiment or just 
 
 So far, its 99% sector sentiment</description>
       <guid isPermaLink="false">https://x.com/noface_trdr/status/2080723335898447940</guid>
-      <pubDate>Fri, 24 Jul 2026 18:34:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>[NekiWeb3]sovereign infra is the quiet edge in the ai race</title>
-      <link>https://x.com/NekiWeb3/status/2080723332970987871</link>
-      <description>sovereign infra is the quiet edge in the ai race</description>
-      <guid isPermaLink="false">https://x.com/NekiWeb3/status/2080723332970987871</guid>
       <pubDate>Fri, 24 Jul 2026 18:34:35 +0000</pubDate>
     </item>
     <item>
@@ -6548,11 +6340,41 @@ Use all the best models in one place and automatically route to the best one, Ch
       <pubDate>Tue, 28 Jul 2026 06:44:19 +0000</pubDate>
     </item>
     <item>
+      <title>[spaceandtech_]🚨 Dario Amodei says advanced AI could enable authoritarian governments to strengthen military power and repress their own people.</title>
+      <link>https://x.com/spaceandtech_/status/2082049085268443223</link>
+      <description>🚨 Dario Amodei says advanced AI could enable authoritarian governments to strengthen military power and repress their own people.</description>
+      <guid isPermaLink="false">https://x.com/spaceandtech_/status/2082049085268443223</guid>
+      <pubDate>Tue, 28 Jul 2026 10:22:39 +0000</pubDate>
+    </item>
+    <item>
       <title>[Polymarket]JUST IN: Pentagon moves to build hyperscale AI data centers on at least a dozen U.S. military bases.</title>
       <link>https://x.com/Polymarket/status/2082052445144826055</link>
       <description>JUST IN: Pentagon moves to build hyperscale AI data centers on at least a dozen U.S. military bases.</description>
       <guid isPermaLink="false">https://x.com/Polymarket/status/2082052445144826055</guid>
       <pubDate>Tue, 28 Jul 2026 10:36:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[housecor]🌶️ Hot take: 
+
+AI code review &gt; human code review
+
+Most devs are too lazy, too busy, or too incompetent to do a good code review.
+
+So, the average AI code review is better than the average human review. 
+
+And it’s getting better every day.</title>
+      <link>https://x.com/housecor/status/2082061728511082540</link>
+      <description>🌶️ Hot take: 
+
+AI code review &gt; human code review
+
+Most devs are too lazy, too busy, or too incompetent to do a good code review.
+
+So, the average AI code review is better than the average human review. 
+
+And it’s getting better every day.</description>
+      <guid isPermaLink="false">https://x.com/housecor/status/2082061728511082540</guid>
+      <pubDate>Tue, 28 Jul 2026 11:12:53 +0000</pubDate>
     </item>
     <item>
       <title>[Polymarket]Just in: new federal data reveals more Americans now use marijuana daily than alcohol or cigarettes.</title>
@@ -6569,11 +6391,51 @@ Use all the best models in one place and automatically route to the best one, Ch
       <pubDate>Tue, 28 Jul 2026 11:55:59 +0000</pubDate>
     </item>
     <item>
+      <title>[vikas_ai_]Claude FULL COURSE 1 HOUR (Build &amp; Automate Anything)</title>
+      <link>https://x.com/vikas_ai_/status/2082073683229847562</link>
+      <description>Claude FULL COURSE 1 HOUR (Build &amp; Automate Anything)</description>
+      <guid isPermaLink="false">https://x.com/vikas_ai_/status/2082073683229847562</guid>
+      <pubDate>Tue, 28 Jul 2026 12:00:23 +0000</pubDate>
+    </item>
+    <item>
       <title>[Polymarket]BREAKING: Javier Milei accuses U.S. Democrats, Brazil, &amp; Mexico of financing an “anti-Argentina campaign” during the World Cup.</title>
       <link>https://x.com/Polymarket/status/2082079624104923369</link>
       <description>BREAKING: Javier Milei accuses U.S. Democrats, Brazil, &amp; Mexico of financing an “anti-Argentina campaign” during the World Cup.</description>
       <guid isPermaLink="false">https://x.com/Polymarket/status/2082079624104923369</guid>
       <pubDate>Tue, 28 Jul 2026 12:24:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[systemdesignone]I created a playbook to help you learn AI engineering.
+It'll give you:
+
+• Core concepts behind AI systems.
+• Condensed notes to understand full-stack AI engineering.
+• Must know techniques to build, deploy &amp; scale AI apps.
+
+(24 HOURS ONLY!!!)
+
+1 Follow @systemdesignone [MUST]
+2 Like &amp; Retweet to get DM
+3 Reply "Playbook"
+
+Then I'll DM you the details.</title>
+      <link>https://x.com/systemdesignone/status/2082080924003410228</link>
+      <description>I created a playbook to help you learn AI engineering.
+It'll give you:
+
+• Core concepts behind AI systems.
+• Condensed notes to understand full-stack AI engineering.
+• Must know techniques to build, deploy &amp; scale AI apps.
+
+(24 HOURS ONLY!!!)
+
+1 Follow @systemdesignone [MUST]
+2 Like &amp; Retweet to get DM
+3 Reply "Playbook"
+
+Then I'll DM you the details.</description>
+      <guid isPermaLink="false">https://x.com/systemdesignone/status/2082080924003410228</guid>
+      <pubDate>Tue, 28 Jul 2026 12:29:10 +0000</pubDate>
     </item>
     <item>
       <title>[jindulife]Elon Musk says Artificial Intelligence could radically transform the global economy within the next decade, predicting that by 2036, money may become far less important as AI and robotics make goods and services overwhelmingly abundant.</title>
@@ -6588,6 +6450,43 @@ Use all the best models in one place and automatically route to the best one, Ch
       <description>Nvidia is leading a new coalition of tech companies that want the U.S. government and its allies to see open-source artificial intelligence as a cybersecurity asset, not a threat</description>
       <guid isPermaLink="false">https://x.com/regintel2000/status/2082084077021040954</guid>
       <pubDate>Tue, 28 Jul 2026 12:41:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>[justinsuntron]Trust wallet on Tron</title>
+      <link>https://x.com/justinsuntron/status/2082132199986577498</link>
+      <description>Trust wallet on Tron</description>
+      <guid isPermaLink="false">https://x.com/justinsuntron/status/2082132199986577498</guid>
+      <pubDate>Tue, 28 Jul 2026 15:52:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>[AnthropicAI]Full technical details of both attacks are provided in our new papers:
+
+On HAWK: https://www-cdn.anthropic.com/e8d50c167ad47beeb03d6109a4a484be95cb38ea/hawk_key_recovery.pdf
+
+On AES: https://www-cdn.anthropic.com/c88771e1bf5ee8885349eed05e5484c0e5f7e02b/aes_mobius_bridge.pdf 
+
+And the associated model chain-of-thought for AES: https://www-cdn.anthropic.com/5273e714527440f1c8b7c7bf5756d4ac22ae8995/aes_mobius_bridge_cot.pdf</title>
+      <link>https://x.com/AnthropicAI/status/2082153309553463600</link>
+      <description>Full technical details of both attacks are provided in our new papers:
+
+On HAWK: https://www-cdn.anthropic.com/e8d50c167ad47beeb03d6109a4a484be95cb38ea/hawk_key_recovery.pdf
+
+On AES: https://www-cdn.anthropic.com/c88771e1bf5ee8885349eed05e5484c0e5f7e02b/aes_mobius_bridge.pdf 
+
+And the associated model chain-of-thought for AES: https://www-cdn.anthropic.com/5273e714527440f1c8b7c7bf5756d4ac22ae8995/aes_mobius_bridge_cot.pdf</description>
+      <guid isPermaLink="false">https://x.com/AnthropicAI/status/2082153309553463600</guid>
+      <pubDate>Tue, 28 Jul 2026 17:16:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>[AnthropicAI]We also worked with academics at ETH Zurich, Tel Aviv University, and the University of Haifa to build CryptanalysisBench, a benchmark for studying LLMs’ cryptanalysis abilities.
+
+https://arxiv.org/abs/2607.18538</title>
+      <link>https://x.com/AnthropicAI/status/2082153311189225927</link>
+      <description>We also worked with academics at ETH Zurich, Tel Aviv University, and the University of Haifa to build CryptanalysisBench, a benchmark for studying LLMs’ cryptanalysis abilities.
+
+https://arxiv.org/abs/2607.18538</description>
+      <guid isPermaLink="false">https://x.com/AnthropicAI/status/2082153311189225927</guid>
+      <pubDate>Tue, 28 Jul 2026 17:16:48 +0000</pubDate>
     </item>
     <item>
       <title>[Polymarket]SpaceXAI launches Build Mode, letting Grok users turn prompts into fully functional apps with their own domains.</title>
@@ -6609,6 +6508,129 @@ Use all the best models in one place and automatically route to the best one, Ch
       <description>54% chance.</description>
       <guid isPermaLink="false">https://x.com/Polymarket/status/2082170905355038937</guid>
       <pubDate>Tue, 28 Jul 2026 18:26:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>[AnthropicAI]We support this petition, signed by our CEO, several co-founders, and senior staff. 
+
+Our own research on recursive self-improvement, published last month, points to the need for tools to deliberately pace the frontier of AI development so society can prepare. We’re glad to see broad agreement across the field.</title>
+      <link>https://x.com/AnthropicAI/status/2082228994653696371</link>
+      <description>We support this petition, signed by our CEO, several co-founders, and senior staff. 
+
+Our own research on recursive self-improvement, published last month, points to the need for tools to deliberately pace the frontier of AI development so society can prepare. We’re glad to see broad agreement across the field.</description>
+      <guid isPermaLink="false">https://x.com/AnthropicAI/status/2082228994653696371</guid>
+      <pubDate>Tue, 28 Jul 2026 22:17:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>[WhiteHouse]A beloved friend, a devoted brother, a respected statesman, a giant of the United States Senate, and a true American patriot.
+
+Celebrating the life and legacy of Senator Lindsey Graham. May God bless him. 🇺🇸</title>
+      <link>https://x.com/WhiteHouse/status/2082237176276734009</link>
+      <description>A beloved friend, a devoted brother, a respected statesman, a giant of the United States Senate, and a true American patriot.
+
+Celebrating the life and legacy of Senator Lindsey Graham. May God bless him. 🇺🇸</description>
+      <guid isPermaLink="false">https://x.com/WhiteHouse/status/2082237176276734009</guid>
+      <pubDate>Tue, 28 Jul 2026 22:50:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>[elonmusk]Landing videos of Starship</title>
+      <link>https://x.com/elonmusk/status/2082244044261064874</link>
+      <description>Landing videos of Starship</description>
+      <guid isPermaLink="false">https://x.com/elonmusk/status/2082244044261064874</guid>
+      <pubDate>Tue, 28 Jul 2026 23:17:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>[elonmusk]We’re sending a ship out to recover Starship</title>
+      <link>https://x.com/elonmusk/status/2082244164197183805</link>
+      <description>We’re sending a ship out to recover Starship</description>
+      <guid isPermaLink="false">https://x.com/elonmusk/status/2082244164197183805</guid>
+      <pubDate>Tue, 28 Jul 2026 23:17:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>[WhiteHouse]Finish this fight.</title>
+      <link>https://x.com/WhiteHouse/status/2082253037771407638</link>
+      <description>Finish this fight.</description>
+      <guid isPermaLink="false">https://x.com/WhiteHouse/status/2082253037771407638</guid>
+      <pubDate>Tue, 28 Jul 2026 23:53:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>[WhiteHouse]"Congratulations to the Great Jay Clayton on his confirmation by the United States Senate, to be the next Director of National Intelligence. Jay is outstanding in every way, and will do a spectacular job as Director!" - President Donald J. Trump 🇺🇸</title>
+      <link>https://x.com/WhiteHouse/status/2082256488869843289</link>
+      <description>"Congratulations to the Great Jay Clayton on his confirmation by the United States Senate, to be the next Director of National Intelligence. Jay is outstanding in every way, and will do a spectacular job as Director!" - President Donald J. Trump 🇺🇸</description>
+      <guid isPermaLink="false">https://x.com/WhiteHouse/status/2082256488869843289</guid>
+      <pubDate>Wed, 29 Jul 2026 00:06:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Polymarket]78% chance Abdul El-Sayed wins the Michigan Democratic Senate primary.
+https://polymarket.com/event/michigan-democratic-senate-primary-winner?dub_id=fC5JqBi6QG4YLnyk — 78% chance Abdul El-Sayed wins the Michigan Democratic Senate primary. https://polymarket.com/event/michigan-democratic-senate-primary-winner?dub_id=fC5JqBi6QG4YLnyk</title>
+      <link>https://x.com/Polymarket/status/2082258852733497639</link>
+      <description>78% chance Abdul El-Sayed wins the Michigan Democratic Senate primary.
+https://polymarket.com/event/michigan-democratic-senate-primary-winner?dub_id=fC5JqBi6QG4YLnyk</description>
+      <guid isPermaLink="false">https://x.com/Polymarket/status/2082258852733497639</guid>
+      <pubDate>Wed, 29 Jul 2026 00:16:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>[elonmusk]True</title>
+      <link>https://x.com/elonmusk/status/2082259358772232322</link>
+      <description>True</description>
+      <guid isPermaLink="false">https://x.com/elonmusk/status/2082259358772232322</guid>
+      <pubDate>Wed, 29 Jul 2026 00:18:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Polymarket]JUST IN: Texas officially bans sales of Delta-8 THC &amp; other intoxicating cannabinoids starting July 31 after court ruling.</title>
+      <link>https://x.com/Polymarket/status/2082262900106826035</link>
+      <description>JUST IN: Texas officially bans sales of Delta-8 THC &amp; other intoxicating cannabinoids starting July 31 after court ruling.</description>
+      <guid isPermaLink="false">https://x.com/Polymarket/status/2082262900106826035</guid>
+      <pubDate>Wed, 29 Jul 2026 00:32:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>[OpenAI]Install the open-source Codex Security CLI,:
+npm install @OpenAI/codex-security
+
+Or start with:
+
+npx @OpenAI/codex-security@latest --help
+
+NPM: https://www.npmjs.com/package/@openai/codex-security</title>
+      <link>https://x.com/OpenAI/status/2082263719460094127</link>
+      <description>Install the open-source Codex Security CLI,:
+npm install @OpenAI/codex-security
+
+Or start with:
+
+npx @OpenAI/codex-security@latest --help
+
+NPM: https://www.npmjs.com/package/@openai/codex-security</description>
+      <guid isPermaLink="false">https://x.com/OpenAI/status/2082263719460094127</guid>
+      <pubDate>Wed, 29 Jul 2026 00:35:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>[OpenAI]We quietly released the open-source Codex Security CLI, but Hacker News found it before we had a chance to share it here...
+
+You can now use it to scan repositories, track findings across runs, verify fixes, and add security checks to CI/CD. 
+
+This is an early release, and we're listening to your feedback as we continue improving it.</title>
+      <link>https://x.com/OpenAI/status/2082263717916586117</link>
+      <description>We quietly released the open-source Codex Security CLI, but Hacker News found it before we had a chance to share it here...
+
+You can now use it to scan repositories, track findings across runs, verify fixes, and add security checks to CI/CD. 
+
+This is an early release, and we're listening to your feedback as we continue improving it.</description>
+      <guid isPermaLink="false">https://x.com/OpenAI/status/2082263717916586117</guid>
+      <pubDate>Wed, 29 Jul 2026 00:35:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>[OpenAI]Source + docs: https://github.com/openai/codex-security</title>
+      <link>https://x.com/OpenAI/status/2082263720777101505</link>
+      <description>Source + docs: https://github.com/openai/codex-security</description>
+      <guid isPermaLink="false">https://x.com/OpenAI/status/2082263720777101505</guid>
+      <pubDate>Wed, 29 Jul 2026 00:35:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Polymarket]JUST IN: OpenAI quietly releases Codex Security CLI, an open-source tool for scanning code repositories &amp; verifying security fixes.</title>
+      <link>https://x.com/Polymarket/status/2082264296851898865</link>
+      <description>JUST IN: OpenAI quietly releases Codex Security CLI, an open-source tool for scanning code repositories &amp; verifying security fixes.</description>
+      <guid isPermaLink="false">https://x.com/Polymarket/status/2082264296851898865</guid>
+      <pubDate>Wed, 29 Jul 2026 00:37:49 +0000</pubDate>
     </item>
   </channel>
 </rss>
