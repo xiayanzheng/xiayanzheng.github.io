@@ -7,260 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 01 Aug 2026 12:26:02 +0000</lastBuildDate>
-    <item>
-      <title>[HootRepublic]Axios reports that China may have erased America's lead in artificial intelligence, citing the frontier-level performance of models like the open-weight Kimi. #AI #ArtificialIntelligence</title>
-      <link>https://x.com/HootRepublic/status/2078368460971852281</link>
-      <description>Axios reports that China may have erased America's lead in artificial intelligence, citing the frontier-level performance of models like the open-weight Kimi. #AI #ArtificialIntelligence</description>
-      <guid isPermaLink="false">https://x.com/HootRepublic/status/2078368460971852281</guid>
-      <pubDate>Sat, 18 Jul 2026 06:37:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>[elonmusk]Grok Build improves almost every day</title>
-      <link>https://x.com/elonmusk/status/2078368743634149460</link>
-      <description>Grok Build improves almost every day</description>
-      <guid isPermaLink="false">https://x.com/elonmusk/status/2078368743634149460</guid>
-      <pubDate>Sat, 18 Jul 2026 06:38:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>[elonmusk]Mass drivers on the mf Moon!!</title>
-      <link>https://x.com/elonmusk/status/2078368917404151868</link>
-      <description>Mass drivers on the mf Moon!!</description>
-      <guid isPermaLink="false">https://x.com/elonmusk/status/2078368917404151868</guid>
-      <pubDate>Sat, 18 Jul 2026 06:38:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>[adrianocirasole]President Xi Jinping set out China's policy positions, vision and proposals on artificial intelligence development and governance at one of the field's most influential international events, to be held in Shanghai from July 17 to 20. @bbc https://www.chinadailyhk.com/hk/article/636379</title>
-      <link>https://x.com/adrianocirasole/status/2078369110547689501</link>
-      <description>President Xi Jinping set out China's policy positions, vision and proposals on artificial intelligence development and governance at one of the field's most influential international events, to be held in Shanghai from July 17 to 20. @bbc https://www.chinadailyhk.com/hk/article/636379</description>
-      <guid isPermaLink="false">https://x.com/adrianocirasole/status/2078369110547689501</guid>
-      <pubDate>Sat, 18 Jul 2026 06:39:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Anaminona]When AI Begins to Transform Scientific Thinking. Public discussions about artificial intelligence in science usually revolve around the same questions. How can literature reviews be accelerated? How can better prompts be written? Which models are best suited for which tasks? The debate often remains focused on the level of tools. Yet perhaps the real transformation is taking place somewhere entirely different. ...</title>
-      <link>https://x.com/Anaminona/status/2078369256387866744</link>
-      <description>When AI Begins to Transform Scientific Thinking. Public discussions about artificial intelligence in science usually revolve around the same questions. How can literature reviews be accelerated? How can better prompts be written? Which models are best suited for which tasks? The debate often remains focused on the level of tools. Yet perhaps the real transformation is taking place somewhere entirely different. ...</description>
-      <guid isPermaLink="false">https://x.com/Anaminona/status/2078369256387866744</guid>
-      <pubDate>Sat, 18 Jul 2026 06:40:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>[MkSilvija]"America is back. 🇺🇸"</title>
-      <link>https://x.com/MkSilvija/status/2078370184167862423</link>
-      <description>"America is back. 🇺🇸"</description>
-      <guid isPermaLink="false">https://x.com/MkSilvija/status/2078370184167862423</guid>
-      <pubDate>Sat, 18 Jul 2026 06:44:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[mikenevermiss]Kimi K3 vs GPT-5.6 Sol vs Fable 5
-
-I gave all three models the exact same game design prompt.
-
-I looked at three things: how fast they built it, how good the design looked, and how the gameplay felt.
-
-Results:
-
-Kimi K3 had the best design. It understood what made the game fun and added the right features. The pace and gameplay also felt natural.
-
-Fable 5 and GPT-5.6 Sol both made the gameplay feel too fast. (The video wasn’t sped up.)
-
-Overall ranking (design, features, and cost):
-
-→ Kimi K3: 9.5/10 · $0.030
-
-→ Fable 5: 7.5/10 · $0.38
-
-→ GPT-5.6 Sol: 7/10 · $0.11</title>
-      <link>https://x.com/mikenevermiss/status/2078370395426541775</link>
-      <description>Kimi K3 vs GPT-5.6 Sol vs Fable 5
-
-I gave all three models the exact same game design prompt.
-
-I looked at three things: how fast they built it, how good the design looked, and how the gameplay felt.
-
-Results:
-
-Kimi K3 had the best design. It understood what made the game fun and added the right features. The pace and gameplay also felt natural.
-
-Fable 5 and GPT-5.6 Sol both made the gameplay feel too fast. (The video wasn’t sped up.)
-
-Overall ranking (design, features, and cost):
-
-→ Kimi K3: 9.5/10 · $0.030
-
-→ Fable 5: 7.5/10 · $0.38
-
-→ GPT-5.6 Sol: 7/10 · $0.11</description>
-      <guid isPermaLink="false">https://x.com/mikenevermiss/status/2078370395426541775</guid>
-      <pubDate>Sat, 18 Jul 2026 06:44:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>[TheAIColony]If you want to become an AI engineer in 2026 and don't know where to start.
-
-Here's the complete list of free resources you actually need.
-
-1. Stanford CS229- Machine Learning
-
-The course Andrew Ng built before he became Andrew Ng. Full lectures on YouTube. Problem sets on the Stanford site. Audit free on Coursera.
-Link: https://t.co/kcp03y7HYo
-
-2. Harvard CS50 AI - Intro to AI with Python
-
-The cleanest beginner AI course on the internet. Harvard puts it out for free. No excuses.
-Link: https://t.co/WeqTXDQJkL
-
-3. MIT 6.S191 - Deep Learning
-
-MIT's official intro to deep learning. Updated every year. Guest speakers from Google, Microsoft, MIT labs.
-Link: https://t.co/xc96daDRjI
-
-4. UC Berkeley - LLM Agents MOOC
-
-Guest lectures from Anthropic, OpenAI, Google DeepMind, and NVIDIA on how agents actually work. The most industry-relevant free course on agents right now.
-Link: https://t.co/QHc5cWowok
-
-5. Hugging Face LLM Course
-
-Covers transformers, fine-tuning, deployment, and advanced LLM techniques. Built by the team that ships the tools you'll actually use on the job.
-Link: https://t.co/fbqi5ssoa4
-
-6. Hugging Face AI Agents Course
-
-Goes from theory to production. You build with smol-agents, LangGraph, and LlamaIndex. Free certificate included.
-Link: https://t.co/VLlR9nMWdR
-
-7. Anthropic Academy – Developer Deep Dive
-
-13 free courses from the team that built Claude. Covers the API, MCP, prompt engineering, and production integration patterns. Launched March 2026. No paywall.
-Link: https://t.co/ge7a8N6KgN
-
-8. Anthropic Prompt Engineering Course
-
-9 chapters, hands-on exercises, runs directly in Claude. The only prompt engineering course where you learn from the people who built the model.
-Link: https://t.co/mHrMhrIkRS
-
-9. DeepLearningAI Short Courses
-
-88 free courses. Each one runs 1–2 hours. Built with OpenAI, LangChain, Anthropic, and Mistral. Start with "ChatGPT Prompt Engineering for Developers."
-Link: https://t.co/PAvboBghuv
-
-10. fast AI - Practical Deep Learning for Coders
-
-Jeremy Howard's course. Code-first. No math gatekeeping. The fastest way to go from zero to actually building neural networks.
-Link: https://t.co/SYVoM3UoJq
-
-All of it is free. None of it requires a paid subscription.
-
-Then read the article below The 12 month path to becoming an AI engineer.</title>
-      <link>https://x.com/TheAIColony/status/2078388769363730610</link>
-      <description>If you want to become an AI engineer in 2026 and don't know where to start.
-
-Here's the complete list of free resources you actually need.
-
-1. Stanford CS229- Machine Learning
-
-The course Andrew Ng built before he became Andrew Ng. Full lectures on YouTube. Problem sets on the Stanford site. Audit free on Coursera.
-Link: https://t.co/kcp03y7HYo
-
-2. Harvard CS50 AI - Intro to AI with Python
-
-The cleanest beginner AI course on the internet. Harvard puts it out for free. No excuses.
-Link: https://t.co/WeqTXDQJkL
-
-3. MIT 6.S191 - Deep Learning
-
-MIT's official intro to deep learning. Updated every year. Guest speakers from Google, Microsoft, MIT labs.
-Link: https://t.co/xc96daDRjI
-
-4. UC Berkeley - LLM Agents MOOC
-
-Guest lectures from Anthropic, OpenAI, Google DeepMind, and NVIDIA on how agents actually work. The most industry-relevant free course on agents right now.
-Link: https://t.co/QHc5cWowok
-
-5. Hugging Face LLM Course
-
-Covers transformers, fine-tuning, deployment, and advanced LLM techniques. Built by the team that ships the tools you'll actually use on the job.
-Link: https://t.co/fbqi5ssoa4
-
-6. Hugging Face AI Agents Course
-
-Goes from theory to production. You build with smol-agents, LangGraph, and LlamaIndex. Free certificate included.
-Link: https://t.co/VLlR9nMWdR
-
-7. Anthropic Academy – Developer Deep Dive
-
-13 free courses from the team that built Claude. Covers the API, MCP, prompt engineering, and production integration patterns. Launched March 2026. No paywall.
-Link: https://t.co/ge7a8N6KgN
-
-8. Anthropic Prompt Engineering Course
-
-9 chapters, hands-on exercises, runs directly in Claude. The only prompt engineering course where you learn from the people who built the model.
-Link: https://t.co/mHrMhrIkRS
-
-9. DeepLearningAI Short Courses
-
-88 free courses. Each one runs 1–2 hours. Built with OpenAI, LangChain, Anthropic, and Mistral. Start with "ChatGPT Prompt Engineering for Developers."
-Link: https://t.co/PAvboBghuv
-
-10. fast AI - Practical Deep Learning for Coders
-
-Jeremy Howard's course. Code-first. No math gatekeeping. The fastest way to go from zero to actually building neural networks.
-Link: https://t.co/SYVoM3UoJq
-
-All of it is free. None of it requires a paid subscription.
-
-Then read the article below The 12 month path to becoming an AI engineer.</description>
-      <guid isPermaLink="false">https://x.com/TheAIColony/status/2078388769363730610</guid>
-      <pubDate>Sat, 18 Jul 2026 07:57:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>[elonmusk]🤔</title>
-      <link>https://x.com/elonmusk/status/2078397140435390690</link>
-      <description>🤔</description>
-      <guid isPermaLink="false">https://x.com/elonmusk/status/2078397140435390690</guid>
-      <pubDate>Sat, 18 Jul 2026 08:31:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>[chamath]The future is open source. We need to embrace it and get on with it. 
-
-Imagine if America closed the door on open source.
-
-We would explicitly be forcing American companies to pay $26-56 per 1MM tokens for the same intelligence their adversaries/competitors around the world would pay $0.50-1 for. 
-
-This is economically unsustainable unless AI is bullshit. 
-
-If it’s the supposed through line of all future economic activity that we’ve been told it is, we can’t handicap America at such a meaningful cost disadvantage. 
-
-This can also be viewed thru a military lens and not just a simple economic one as well.
-
-Letting our adversaries attack us for $0.50 per 1MM tokens while we spend $26-56 per 1MM tokens to defend ourselves is equally ruinous.
-
-It’s the Cold War Soviet collapse in reverse.</title>
-      <link>https://x.com/chamath/status/2078404014635446534</link>
-      <description>The future is open source. We need to embrace it and get on with it. 
-
-Imagine if America closed the door on open source.
-
-We would explicitly be forcing American companies to pay $26-56 per 1MM tokens for the same intelligence their adversaries/competitors around the world would pay $0.50-1 for. 
-
-This is economically unsustainable unless AI is bullshit. 
-
-If it’s the supposed through line of all future economic activity that we’ve been told it is, we can’t handicap America at such a meaningful cost disadvantage. 
-
-This can also be viewed thru a military lens and not just a simple economic one as well.
-
-Letting our adversaries attack us for $0.50 per 1MM tokens while we spend $26-56 per 1MM tokens to defend ourselves is equally ruinous.
-
-It’s the Cold War Soviet collapse in reverse.</description>
-      <guid isPermaLink="false">https://x.com/chamath/status/2078404014635446534</guid>
-      <pubDate>Sat, 18 Jul 2026 08:58:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Polymarket]JUST IN: Poland’s president vetoes bills that would have expanded rights for same-sex couples.</title>
-      <link>https://x.com/Polymarket/status/2078412460306899307</link>
-      <description>JUST IN: Poland’s president vetoes bills that would have expanded rights for same-sex couples.</description>
-      <guid isPermaLink="false">https://x.com/Polymarket/status/2078412460306899307</guid>
-      <pubDate>Sat, 18 Jul 2026 09:32:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 01 Aug 2026 18:24:20 +0000</lastBuildDate>
     <item>
       <title>[justinsuntron]有”孙学”，就有”颖学”。
 
@@ -1860,17 +1607,17 @@ https://polymarket.com/event/next-leader-of-germanys-union-cducsu-20260718204733
       <pubDate>Mon, 20 Jul 2026 17:38:00 +0000</pubDate>
     </item>
     <item>
-      <title>[Romildo_Games]Hello Robio! I’m a video producer and editor specializing in combining high-quality video creation with AI workflows to speed up production and scale content. Portfolio / Reel: https://www.artstation.com/artwork/Nq954b Thanks!</title>
-      <link>https://x.com/Romildo_Games/status/2079260039424962727</link>
-      <description>Hello Robio! I’m a video producer and editor specializing in combining high-quality video creation with AI workflows to speed up production and scale content. Portfolio / Reel: https://www.artstation.com/artwork/Nq954b Thanks!</description>
-      <guid isPermaLink="false">https://x.com/Romildo_Games/status/2079260039424962727</guid>
-      <pubDate>Mon, 20 Jul 2026 17:39:58 +0000</pubDate>
-    </item>
-    <item>
       <title>[msdebugger_VK]Today's GenAI lecture covered the complete RAG pipeline 🚀 ✅ Query processing ✅ Step-Back Prompting ✅ HyDE ✅ Query routing ✅ Hybrid retrieval ✅ Re-ranking ✅ C-RAG ✅ Guardrails ✅ Answer evaluation Production AI is much more than just an LLM. #GenAI #RAG #AI #chaicode</title>
       <link>https://x.com/msdebugger_VK/status/2079260037277700464</link>
       <description>Today's GenAI lecture covered the complete RAG pipeline 🚀 ✅ Query processing ✅ Step-Back Prompting ✅ HyDE ✅ Query routing ✅ Hybrid retrieval ✅ Re-ranking ✅ C-RAG ✅ Guardrails ✅ Answer evaluation Production AI is much more than just an LLM. #GenAI #RAG #AI #chaicode</description>
       <guid isPermaLink="false">https://x.com/msdebugger_VK/status/2079260037277700464</guid>
+      <pubDate>Mon, 20 Jul 2026 17:39:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Romildo_Games]Hello Robio! I’m a video producer and editor specializing in combining high-quality video creation with AI workflows to speed up production and scale content. Portfolio / Reel: https://www.artstation.com/artwork/Nq954b Thanks!</title>
+      <link>https://x.com/Romildo_Games/status/2079260039424962727</link>
+      <description>Hello Robio! I’m a video producer and editor specializing in combining high-quality video creation with AI workflows to speed up production and scale content. Portfolio / Reel: https://www.artstation.com/artwork/Nq954b Thanks!</description>
+      <guid isPermaLink="false">https://x.com/Romildo_Games/status/2079260039424962727</guid>
       <pubDate>Mon, 20 Jul 2026 17:39:58 +0000</pubDate>
     </item>
     <item>
@@ -3798,13 +3545,6 @@ https://polymarket.com/event/where-will-2026-rank-among-the-hottest-years-on-rec
       <pubDate>Fri, 24 Jul 2026 18:34:33 +0000</pubDate>
     </item>
     <item>
-      <title>[JuagY36144]China Always Lead in AI</title>
-      <link>https://x.com/JuagY36144/status/2080723331033206869</link>
-      <description>China Always Lead in AI</description>
-      <guid isPermaLink="false">https://x.com/JuagY36144/status/2080723331033206869</guid>
-      <pubDate>Fri, 24 Jul 2026 18:34:34 +0000</pubDate>
-    </item>
-    <item>
       <title>[officiall_logo]Thank God for AI,at least Ronaldo fans can hold onto something 😂</title>
       <link>https://x.com/officiall_logo/status/2080723331095863788</link>
       <description>Thank God for AI,at least Ronaldo fans can hold onto something 😂</description>
@@ -3812,11 +3552,11 @@ https://polymarket.com/event/where-will-2026-rank-among-the-hottest-years-on-rec
       <pubDate>Fri, 24 Jul 2026 18:34:34 +0000</pubDate>
     </item>
     <item>
-      <title>[NekiWeb3]sovereign infra is the quiet edge in the ai race</title>
-      <link>https://x.com/NekiWeb3/status/2080723332970987871</link>
-      <description>sovereign infra is the quiet edge in the ai race</description>
-      <guid isPermaLink="false">https://x.com/NekiWeb3/status/2080723332970987871</guid>
-      <pubDate>Fri, 24 Jul 2026 18:34:35 +0000</pubDate>
+      <title>[JuagY36144]China Always Lead in AI</title>
+      <link>https://x.com/JuagY36144/status/2080723331033206869</link>
+      <description>China Always Lead in AI</description>
+      <guid isPermaLink="false">https://x.com/JuagY36144/status/2080723331033206869</guid>
+      <pubDate>Fri, 24 Jul 2026 18:34:34 +0000</pubDate>
     </item>
     <item>
       <title>[noface_trdr]$SMH | $KEEL 
@@ -3835,6 +3575,13 @@ Helps me confirm whether $KEEL price action is tied to sector sentiment or just 
 
 So far, its 99% sector sentiment</description>
       <guid isPermaLink="false">https://x.com/noface_trdr/status/2080723335898447940</guid>
+      <pubDate>Fri, 24 Jul 2026 18:34:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>[NekiWeb3]sovereign infra is the quiet edge in the ai race</title>
+      <link>https://x.com/NekiWeb3/status/2080723332970987871</link>
+      <description>sovereign infra is the quiet edge in the ai race</description>
+      <guid isPermaLink="false">https://x.com/NekiWeb3/status/2080723332970987871</guid>
       <pubDate>Fri, 24 Jul 2026 18:34:35 +0000</pubDate>
     </item>
     <item>
@@ -5140,6 +4887,17 @@ Then I'll DM you the details.</description>
       <pubDate>Tue, 28 Jul 2026 15:52:55 +0000</pubDate>
     </item>
     <item>
+      <title>[AnthropicAI]We also worked with academics at ETH Zurich, Tel Aviv University, and the University of Haifa to build CryptanalysisBench, a benchmark for studying LLMs’ cryptanalysis abilities.
+
+https://arxiv.org/abs/2607.18538</title>
+      <link>https://x.com/AnthropicAI/status/2082153311189225927</link>
+      <description>We also worked with academics at ETH Zurich, Tel Aviv University, and the University of Haifa to build CryptanalysisBench, a benchmark for studying LLMs’ cryptanalysis abilities.
+
+https://arxiv.org/abs/2607.18538</description>
+      <guid isPermaLink="false">https://x.com/AnthropicAI/status/2082153311189225927</guid>
+      <pubDate>Tue, 28 Jul 2026 17:16:48 +0000</pubDate>
+    </item>
+    <item>
       <title>[AnthropicAI]Full technical details of both attacks are provided in our new papers:
 
 On HAWK: https://www-cdn.anthropic.com/e8d50c167ad47beeb03d6109a4a484be95cb38ea/hawk_key_recovery.pdf
@@ -5156,17 +4914,6 @@ On AES: https://www-cdn.anthropic.com/c88771e1bf5ee8885349eed05e5484c0e5f7e02b/a
 
 And the associated model chain-of-thought for AES: https://www-cdn.anthropic.com/5273e714527440f1c8b7c7bf5756d4ac22ae8995/aes_mobius_bridge_cot.pdf</description>
       <guid isPermaLink="false">https://x.com/AnthropicAI/status/2082153309553463600</guid>
-      <pubDate>Tue, 28 Jul 2026 17:16:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>[AnthropicAI]We also worked with academics at ETH Zurich, Tel Aviv University, and the University of Haifa to build CryptanalysisBench, a benchmark for studying LLMs’ cryptanalysis abilities.
-
-https://arxiv.org/abs/2607.18538</title>
-      <link>https://x.com/AnthropicAI/status/2082153311189225927</link>
-      <description>We also worked with academics at ETH Zurich, Tel Aviv University, and the University of Haifa to build CryptanalysisBench, a benchmark for studying LLMs’ cryptanalysis abilities.
-
-https://arxiv.org/abs/2607.18538</description>
-      <guid isPermaLink="false">https://x.com/AnthropicAI/status/2082153311189225927</guid>
       <pubDate>Tue, 28 Jul 2026 17:16:48 +0000</pubDate>
     </item>
     <item>
@@ -5264,6 +5011,21 @@ https://polymarket.com/event/michigan-democratic-senate-primary-winner?dub_id=fC
       <pubDate>Wed, 29 Jul 2026 00:32:16 +0000</pubDate>
     </item>
     <item>
+      <title>[OpenAI]We quietly released the open-source Codex Security CLI, but Hacker News found it before we had a chance to share it here...
+
+You can now use it to scan repositories, track findings across runs, verify fixes, and add security checks to CI/CD. 
+
+This is an early release, and we're listening to your feedback as we continue improving it.</title>
+      <link>https://x.com/OpenAI/status/2082263717916586117</link>
+      <description>We quietly released the open-source Codex Security CLI, but Hacker News found it before we had a chance to share it here...
+
+You can now use it to scan repositories, track findings across runs, verify fixes, and add security checks to CI/CD. 
+
+This is an early release, and we're listening to your feedback as we continue improving it.</description>
+      <guid isPermaLink="false">https://x.com/OpenAI/status/2082263717916586117</guid>
+      <pubDate>Wed, 29 Jul 2026 00:35:31 +0000</pubDate>
+    </item>
+    <item>
       <title>[OpenAI]Install the open-source Codex Security CLI,:
 npm install @OpenAI/codex-security
 
@@ -5282,21 +5044,6 @@ npx @OpenAI/codex-security@latest --help
 
 NPM: https://www.npmjs.com/package/@openai/codex-security</description>
       <guid isPermaLink="false">https://x.com/OpenAI/status/2082263719460094127</guid>
-      <pubDate>Wed, 29 Jul 2026 00:35:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>[OpenAI]We quietly released the open-source Codex Security CLI, but Hacker News found it before we had a chance to share it here...
-
-You can now use it to scan repositories, track findings across runs, verify fixes, and add security checks to CI/CD. 
-
-This is an early release, and we're listening to your feedback as we continue improving it.</title>
-      <link>https://x.com/OpenAI/status/2082263717916586117</link>
-      <description>We quietly released the open-source Codex Security CLI, but Hacker News found it before we had a chance to share it here...
-
-You can now use it to scan repositories, track findings across runs, verify fixes, and add security checks to CI/CD. 
-
-This is an early release, and we're listening to your feedback as we continue improving it.</description>
-      <guid isPermaLink="false">https://x.com/OpenAI/status/2082263717916586117</guid>
       <pubDate>Wed, 29 Jul 2026 00:35:31 +0000</pubDate>
     </item>
     <item>
@@ -6251,6 +5998,67 @@ https://polymarket.com/event/anthropic-resets-claude-usage-limit-byptptpt-202607
       <pubDate>Sat, 01 Aug 2026 10:18:00 +0000</pubDate>
     </item>
     <item>
+      <title>[inyaSamuel1]Follow the Theme, Not Just the Ticker
+
+Markets rarely move for reasons that belong to them alone. A single shift somewhere in the wider economy can travel through crypto, equities, and commodities all at once even when the assets involved look like they share nothing in common.
+
+The same force, showing up in different places
+
+Take AI driven demand as an example. When enthusiasm and spending around artificial intelligence pick up, that energy doesn't stay contained to one sector. It can lift AI adjacent tokens in crypto, push semiconductor and tech stocks higher, and even shift demand for the energy needed to power data centers. Three completely different markets, moving because of one shared story underneath them.
+
+Why single chart research falls short:
+
+Watching one asset in isolation only ever shows half the picture. The more useful questions sit a level above the chart: What's actually driving this move? Is the same theme showing up anywhere else? Are other markets backing up the idea, or quietly pushing against it? And what would have to happen for the whole thesis to unravel?
+
+Skip those questions, and it's easy to mistake one data point for the full story when the real confirmation, or the real warning sign, might be sitting somewhere else entirely.
+
+Seeing it in practice:
+
+If AI infrastructure spending keeps accelerating, crypto could see it through renewed interest in AI linked tokens. Equities could see it through strong earnings guidance from chipmakers and cloud providers. Energy markets could see it through rising demand tied to data center power consumption. Different tickers, one connecting thread and noticing that thread tells you more than staring at any single chart ever could.
+
+Where Quant AI (@tryquantio) fits:
+
+Quant AI is built around researching crypto, equities, and commodities in one conversation, instead of treating each as its own closed off silo. That makes it far easier to trace a theme as it moves across asset classes, and to notice early when it's holding up or starting to break down rather than finding out from one chart after the fact.
+
+The strongest signal isn't always sitting in the asset you're watching. Often, it's in how everything else is quietly responding to the same underlying story.
+
+Join the whitelist now → 
+https://t.co/Doe0tpzjTL 
+
+#QuantAIPioneers</title>
+      <link>https://x.com/inyaSamuel1/status/2083502647504474134</link>
+      <description>Follow the Theme, Not Just the Ticker
+
+Markets rarely move for reasons that belong to them alone. A single shift somewhere in the wider economy can travel through crypto, equities, and commodities all at once even when the assets involved look like they share nothing in common.
+
+The same force, showing up in different places
+
+Take AI driven demand as an example. When enthusiasm and spending around artificial intelligence pick up, that energy doesn't stay contained to one sector. It can lift AI adjacent tokens in crypto, push semiconductor and tech stocks higher, and even shift demand for the energy needed to power data centers. Three completely different markets, moving because of one shared story underneath them.
+
+Why single chart research falls short:
+
+Watching one asset in isolation only ever shows half the picture. The more useful questions sit a level above the chart: What's actually driving this move? Is the same theme showing up anywhere else? Are other markets backing up the idea, or quietly pushing against it? And what would have to happen for the whole thesis to unravel?
+
+Skip those questions, and it's easy to mistake one data point for the full story when the real confirmation, or the real warning sign, might be sitting somewhere else entirely.
+
+Seeing it in practice:
+
+If AI infrastructure spending keeps accelerating, crypto could see it through renewed interest in AI linked tokens. Equities could see it through strong earnings guidance from chipmakers and cloud providers. Energy markets could see it through rising demand tied to data center power consumption. Different tickers, one connecting thread and noticing that thread tells you more than staring at any single chart ever could.
+
+Where Quant AI (@tryquantio) fits:
+
+Quant AI is built around researching crypto, equities, and commodities in one conversation, instead of treating each as its own closed off silo. That makes it far easier to trace a theme as it moves across asset classes, and to notice early when it's holding up or starting to break down rather than finding out from one chart after the fact.
+
+The strongest signal isn't always sitting in the asset you're watching. Often, it's in how everything else is quietly responding to the same underlying story.
+
+Join the whitelist now → 
+https://t.co/Doe0tpzjTL 
+
+#QuantAIPioneers</description>
+      <guid isPermaLink="false">https://x.com/inyaSamuel1/status/2083502647504474134</guid>
+      <pubDate>Sat, 01 Aug 2026 10:38:35 +0000</pubDate>
+    </item>
+    <item>
       <title>[Polymarket]JUST IN: U.S. makes visa bonds of up to $20,000 permanent for applicants from 50 countries, in an effort to reduce overstays.</title>
       <link>https://x.com/Polymarket/status/2083526407364424113</link>
       <description>JUST IN: U.S. makes visa bonds of up to $20,000 permanent for applicants from 50 countries, in an effort to reduce overstays.</description>
@@ -6289,6 +6097,174 @@ https://polymarket.com/event/anthropic-resets-claude-usage-limit-byptptpt-202607
 #EFC preparing a proposal to make formal approach with Man United soon for the 20 year old forward.</description>
       <guid isPermaLink="false">https://x.com/FabrizioRomano/status/2083529328445284398</guid>
       <pubDate>Sat, 01 Aug 2026 12:24:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Omaofweb3]Billionaire investor Jeremy Grantham is warning everyday investors to completely avoid U.S. stocks, technology, and cryptocurrency.
+
+With 60 years of investing experience and over $165 billion previously under management, Grantham believes Bitcoin will inevitably crash to zero, calling cryptocurrency an unnecessary piece of nonsense that only facilitates illicit transactions. He argues that major market bubbles consistently form around game-changing technologies like railroads and the internet, leading to overinvestment before eventually bursting and dragging down the broader economy.
+
+Grantham warns that the current market landscape is building toward the largest bubble in history, driven primarily by artificial intelligence.
+
+“If you have a big position in U.S. technology stocks, my personal advice would be to sell it all.”</title>
+      <link>https://x.com/Omaofweb3/status/2083554401956835376</link>
+      <description>Billionaire investor Jeremy Grantham is warning everyday investors to completely avoid U.S. stocks, technology, and cryptocurrency.
+
+With 60 years of investing experience and over $165 billion previously under management, Grantham believes Bitcoin will inevitably crash to zero, calling cryptocurrency an unnecessary piece of nonsense that only facilitates illicit transactions. He argues that major market bubbles consistently form around game-changing technologies like railroads and the internet, leading to overinvestment before eventually bursting and dragging down the broader economy.
+
+Grantham warns that the current market landscape is building toward the largest bubble in history, driven primarily by artificial intelligence.
+
+“If you have a big position in U.S. technology stocks, my personal advice would be to sell it all.”</description>
+      <guid isPermaLink="false">https://x.com/Omaofweb3/status/2083554401956835376</guid>
+      <pubDate>Sat, 01 Aug 2026 14:04:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>[ShinyNfts]Good Night X,
+
+Can i get GN ?
+
+Enjoy the Saturday night! 
+
+Canopy Network have gained tremendous momentum recently. @CNPYNetwork 
+
+The idea of achieving independence through growth, rather than treating it as an inherent necessity, seems like a more natural path for a network’s development.
+
+In an era where artificial intelligence has brought development costs close to zero, CNPYNetwork is truly building a native AI blockchain infrastructure.
+
+I don’t think the next wave of blockchain adoption will stem solely from launching more networks, there are already enough chains out there.
+
+The real big question is whether developers have better ways to build something useful on top of them, and that’s where the infrastructure becomes crucial.
+
+If launching a network is too complex or maintaining it requires too many resources, many good ideas may never make it past the early stages.
+
+Canopy Network is working to overcome this challenge by focusing on the infrastructure and environment needed for new ecosystems to thrive.
+
+CNPYNetwork’s system directly lowers the barrier to entry for web3 development to the point where “if you have an idea, you can build it.” Think of this as a web3 vision for everyone.
+
+The true era of public Web3 could begin right here. Canopy’s contribution at this crossroads is immense.
+
+Its vision isn’t limited to a single application or narrative; it focuses on creating an environment where builders can launch, develop, and scale blockchain ecosystems more efficiently.
+
+Much of the conversation in crypto revolves around performance metrics:
+
+* Higher throughput
+
+* Lower fees
+
+* Faster finality
+
+These improvements are important, but they don’t answer another crucial question:
+
+How easy is it for builders to create something new?
+
+That’s why I continue to follow infrastructure projects like Canopy.
+
+
+I think Canopy will be a major turning point for blockchain in terms of creativity in the future. It’s still in the very early stages, and the testnet is active.</title>
+      <link>https://x.com/ShinyNfts/status/2083573831445155861</link>
+      <description>Good Night X,
+
+Can i get GN ?
+
+Enjoy the Saturday night! 
+
+Canopy Network have gained tremendous momentum recently. @CNPYNetwork 
+
+The idea of achieving independence through growth, rather than treating it as an inherent necessity, seems like a more natural path for a network’s development.
+
+In an era where artificial intelligence has brought development costs close to zero, CNPYNetwork is truly building a native AI blockchain infrastructure.
+
+I don’t think the next wave of blockchain adoption will stem solely from launching more networks, there are already enough chains out there.
+
+The real big question is whether developers have better ways to build something useful on top of them, and that’s where the infrastructure becomes crucial.
+
+If launching a network is too complex or maintaining it requires too many resources, many good ideas may never make it past the early stages.
+
+Canopy Network is working to overcome this challenge by focusing on the infrastructure and environment needed for new ecosystems to thrive.
+
+CNPYNetwork’s system directly lowers the barrier to entry for web3 development to the point where “if you have an idea, you can build it.” Think of this as a web3 vision for everyone.
+
+The true era of public Web3 could begin right here. Canopy’s contribution at this crossroads is immense.
+
+Its vision isn’t limited to a single application or narrative; it focuses on creating an environment where builders can launch, develop, and scale blockchain ecosystems more efficiently.
+
+Much of the conversation in crypto revolves around performance metrics:
+
+* Higher throughput
+
+* Lower fees
+
+* Faster finality
+
+These improvements are important, but they don’t answer another crucial question:
+
+How easy is it for builders to create something new?
+
+That’s why I continue to follow infrastructure projects like Canopy.
+
+
+I think Canopy will be a major turning point for blockchain in terms of creativity in the future. It’s still in the very early stages, and the testnet is active.</description>
+      <guid isPermaLink="false">https://x.com/ShinyNfts/status/2083573831445155861</guid>
+      <pubDate>Sat, 01 Aug 2026 15:21:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Dr_Singularity]To give you a direct and clear answer right away: No, ChatGPT (or any other AI model) did not solve these problems. If an AI had actually solved all 10 of these problems, it would be one of the greatest breakthroughs in the history of science and artificial intelligence, signaling that AI has achieved superhuman research capabilities in pure mathematics.</title>
+      <link>https://x.com/Dr_Singularity/status/2083581121678217255</link>
+      <description>To give you a direct and clear answer right away: No, ChatGPT (or any other AI model) did not solve these problems. If an AI had actually solved all 10 of these problems, it would be one of the greatest breakthroughs in the history of science and artificial intelligence, signaling that AI has achieved superhuman research capabilities in pure mathematics.</description>
+      <guid isPermaLink="false">https://x.com/Dr_Singularity/status/2083581121678217255</guid>
+      <pubDate>Sat, 01 Aug 2026 15:50:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>[WhiteHouse]God bless our troops. 🇺🇸</title>
+      <link>https://x.com/WhiteHouse/status/2083581521785471474</link>
+      <description>God bless our troops. 🇺🇸</description>
+      <guid isPermaLink="false">https://x.com/WhiteHouse/status/2083581521785471474</guid>
+      <pubDate>Sat, 01 Aug 2026 15:52:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[elonmusk]Welcome to the Singularity. 
+
+How’s the temperature?</title>
+      <link>https://x.com/elonmusk/status/2083584786161938810</link>
+      <description>Welcome to the Singularity. 
+
+How’s the temperature?</description>
+      <guid isPermaLink="false">https://x.com/elonmusk/status/2083584786161938810</guid>
+      <pubDate>Sat, 01 Aug 2026 16:04:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>[elonmusk]He really is</title>
+      <link>https://x.com/elonmusk/status/2083584977560588346</link>
+      <description>He really is</description>
+      <guid isPermaLink="false">https://x.com/elonmusk/status/2083584977560588346</guid>
+      <pubDate>Sat, 01 Aug 2026 16:05:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>[elonmusk]Exactly</title>
+      <link>https://x.com/elonmusk/status/2083595079357239628</link>
+      <description>Exactly</description>
+      <guid isPermaLink="false">https://x.com/elonmusk/status/2083595079357239628</guid>
+      <pubDate>Sat, 01 Aug 2026 16:45:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>[elonmusk]A special effect like this used to take months of effort by a specialized company</title>
+      <link>https://x.com/elonmusk/status/2083595725552734528</link>
+      <description>A special effect like this used to take months of effort by a specialized company</description>
+      <guid isPermaLink="false">https://x.com/elonmusk/status/2083595725552734528</guid>
+      <pubDate>Sat, 01 Aug 2026 16:48:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>[WhiteHouse]American elections should be for American citizens only.</title>
+      <link>https://x.com/WhiteHouse/status/2083600732997997006</link>
+      <description>American elections should be for American citizens only.</description>
+      <guid isPermaLink="false">https://x.com/WhiteHouse/status/2083600732997997006</guid>
+      <pubDate>Sat, 01 Aug 2026 17:08:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Polymarket]JUST IN: FIFA member associations are reportedly weighing a de facto vote of no confidence in Gianni Infantino. 34% chance Infantino is out by year-end.</title>
+      <link>https://x.com/Polymarket/status/2083604020040450130</link>
+      <description>JUST IN: FIFA member associations are reportedly weighing a de facto vote of no confidence in Gianni Infantino. 34% chance Infantino is out by year-end.</description>
+      <guid isPermaLink="false">https://x.com/Polymarket/status/2083604020040450130</guid>
+      <pubDate>Sat, 01 Aug 2026 17:21:24 +0000</pubDate>
     </item>
   </channel>
 </rss>
