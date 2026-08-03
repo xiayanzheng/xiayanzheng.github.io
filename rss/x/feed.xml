@@ -7,332 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 02 Aug 2026 12:27:50 +0000</lastBuildDate>
-    <item>
-      <title>[nrqa__]AI should do more than answer questions.
-
-It should complete the task.
-
-MyClaw turns goals into finished work.
-
-Then delivers it where you already work. 🧵</title>
-      <link>https://x.com/nrqa__/status/2078452462483345887</link>
-      <description>AI should do more than answer questions.
-
-It should complete the task.
-
-MyClaw turns goals into finished work.
-
-Then delivers it where you already work. 🧵</description>
-      <guid isPermaLink="false">https://x.com/nrqa__/status/2078452462483345887</guid>
-      <pubDate>Sat, 18 Jul 2026 12:10:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Polymarket]🚨 NEW POLYMARKET: FCC revokes a major network broadcast license by the end of the year?
-https://polymarket.com/event/fcc-revokes-a-major-network-broadcast-license-by-december-31-2026-20260717235625543?via=x-afr2 — 🚨 NEW POLYMARKET: FCC revokes a major network broadcast license by the end of the year?…</title>
-      <link>https://x.com/Polymarket/status/2078452977388454340</link>
-      <description>🚨 NEW POLYMARKET: FCC revokes a major network broadcast license by the end of the year?
-https://polymarket.com/event/fcc-revokes-a-major-network-broadcast-license-by-december-31-2026-20260717235625543?via=x-afr2</description>
-      <guid isPermaLink="false">https://x.com/Polymarket/status/2078452977388454340</guid>
-      <pubDate>Sat, 18 Jul 2026 12:13:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[abxxai]this is what AI can create in 4K with one prompt in @openart_ai
-
-lamb rack, cooked entirely by AI, no camera crew
-
-Workflow below 👇🏻</title>
-      <link>https://x.com/abxxai/status/2078453627480588444</link>
-      <description>this is what AI can create in 4K with one prompt in @openart_ai
-
-lamb rack, cooked entirely by AI, no camera crew
-
-Workflow below 👇🏻</description>
-      <guid isPermaLink="false">https://x.com/abxxai/status/2078453627480588444</guid>
-      <pubDate>Sat, 18 Jul 2026 12:15:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>[tetsuoai]Grok Build just shipped a full game-asset skill suite that uses Grok Imagine.
-
-Five skills:
-
-game-asset-core
-game-animation-frames
-game-character-consistency
-game-tilesets
-game-ui-icons
-
-You ask for a knight walk cycle. You get a looping frame sequence on a keyable background.
-
-Core forces engine-ready defaults you never have to ask for: isolated subjects, flat keyable backgrounds, seamless tiles, no text on UI, edit-chaining the same character instead of regenerating a cousin.
-
-Animation is video-first: base sprite → image_to_video → harvest frames → flip-test the loop. Video understands gait, arcs, cloth, and fire. Still-image pose guessing is the fallback.
-
-Characters stay identity-locked across turnarounds, damage states, palette swaps, and equipment. One base. Everything else is an edit with a freeze-list.
-
-Tilesets get a real 2×2 composite check for seams, repeating motifs, and tone checkerboarding.
-
-UI is a system: geometry-identical button states, 32px-legible icon sets under one style contract, 9-slice panels with blank text-ready interiors.
-
-Describe the game. The agent ships named, organized, engine-ready files.</title>
-      <link>https://x.com/tetsuoai/status/2078460006417223974</link>
-      <description>Grok Build just shipped a full game-asset skill suite that uses Grok Imagine.
-
-Five skills:
-
-game-asset-core
-game-animation-frames
-game-character-consistency
-game-tilesets
-game-ui-icons
-
-You ask for a knight walk cycle. You get a looping frame sequence on a keyable background.
-
-Core forces engine-ready defaults you never have to ask for: isolated subjects, flat keyable backgrounds, seamless tiles, no text on UI, edit-chaining the same character instead of regenerating a cousin.
-
-Animation is video-first: base sprite → image_to_video → harvest frames → flip-test the loop. Video understands gait, arcs, cloth, and fire. Still-image pose guessing is the fallback.
-
-Characters stay identity-locked across turnarounds, damage states, palette swaps, and equipment. One base. Everything else is an edit with a freeze-list.
-
-Tilesets get a real 2×2 composite check for seams, repeating motifs, and tone checkerboarding.
-
-UI is a system: geometry-identical button states, 32px-legible icon sets under one style contract, 9-slice panels with blank text-ready interiors.
-
-Describe the game. The agent ships named, organized, engine-ready files.</description>
-      <guid isPermaLink="false">https://x.com/tetsuoai/status/2078460006417223974</guid>
-      <pubDate>Sat, 18 Jul 2026 12:40:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Polymarket]NEW: U.S. &amp; Chinese officials are expected to begin preparations next week for a possible Trump-Xi summit in September.</title>
-      <link>https://x.com/Polymarket/status/2078460023664218395</link>
-      <description>NEW: U.S. &amp; Chinese officials are expected to begin preparations next week for a possible Trump-Xi summit in September.</description>
-      <guid isPermaLink="false">https://x.com/Polymarket/status/2078460023664218395</guid>
-      <pubDate>Sat, 18 Jul 2026 12:41:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Polymarket]90% chance Xi visits the U.S. by the end of the year. https://polymarket.com/event/will-xi-jinping-visit-us-before-2027?dub_id=IKct2imq4EXNIMmr</title>
-      <link>https://x.com/Polymarket/status/2078465067801018661</link>
-      <description>90% chance Xi visits the U.S. by the end of the year. https://polymarket.com/event/will-xi-jinping-visit-us-before-2027?dub_id=IKct2imq4EXNIMmr</description>
-      <guid isPermaLink="false">https://x.com/Polymarket/status/2078465067801018661</guid>
-      <pubDate>Sat, 18 Jul 2026 13:01:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Proud_Canadian_]G rated files… “cognitive dissonance” is still hardcore! So many masks all over with the fires… orange man bad syndrome… carney is doing a good job… you’re a racist if you say anything against East Indians… 
-
-Now many are freaking out, tariffs for smoke 😂🤦‍♀️
-
-51st State 🇺🇸🇨🇦</title>
-      <link>https://x.com/Proud_Canadian_/status/2078635893028422044</link>
-      <description>G rated files… “cognitive dissonance” is still hardcore! So many masks all over with the fires… orange man bad syndrome… carney is doing a good job… you’re a racist if you say anything against East Indians… 
-
-Now many are freaking out, tariffs for smoke 😂🤦‍♀️
-
-51st State 🇺🇸🇨🇦</description>
-      <guid isPermaLink="false">https://x.com/Proud_Canadian_/status/2078635893028422044</guid>
-      <pubDate>Sun, 19 Jul 2026 00:19:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>[HTBF1968]"Zoomers" is currently trending and it's just people bitching about how terrible it is to live during the best time in human history.
-
-Thank God this is X and not the real world.</title>
-      <link>https://x.com/HTBF1968/status/2078659434709217677</link>
-      <description>"Zoomers" is currently trending and it's just people bitching about how terrible it is to live during the best time in human history.
-
-Thank God this is X and not the real world.</description>
-      <guid isPermaLink="false">https://x.com/HTBF1968/status/2078659434709217677</guid>
-      <pubDate>Sun, 19 Jul 2026 01:53:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Polymarket]NEW: Shane Gillis sets a Guinness World Record for the largest audience ever for a comedian, drawing 73,946 people to Lincoln Financial Field.</title>
-      <link>https://x.com/Polymarket/status/2078677408849235982</link>
-      <description>NEW: Shane Gillis sets a Guinness World Record for the largest audience ever for a comedian, drawing 73,946 people to Lincoln Financial Field.</description>
-      <guid isPermaLink="false">https://x.com/Polymarket/status/2078677408849235982</guid>
-      <pubDate>Sun, 19 Jul 2026 03:04:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>[bindureddy]Best Model For The Use Case
-
-design - GPT 5.6 sol
-chat - Flash 3.5
-agentic (simple) - Grok 4.5
-agentic (medium) - Sonnet 4.6 / Kimi
-agentic (hard) - Sol / Fable
-pdf - Grok 4.5
-image - GPT 2.0
-video - Seedance 2.0
-voice - Hume / 11Labs
-music - Suno
-
-Use all the best models in one place and automatically route to them on ChatLLM</title>
-      <link>https://x.com/bindureddy/status/2078687965149336024</link>
-      <description>Best Model For The Use Case
-
-design - GPT 5.6 sol
-chat - Flash 3.5
-agentic (simple) - Grok 4.5
-agentic (medium) - Sonnet 4.6 / Kimi
-agentic (hard) - Sol / Fable
-pdf - Grok 4.5
-image - GPT 2.0
-video - Seedance 2.0
-voice - Hume / 11Labs
-music - Suno
-
-Use all the best models in one place and automatically route to them on ChatLLM</description>
-      <guid isPermaLink="false">https://x.com/bindureddy/status/2078687965149336024</guid>
-      <pubDate>Sun, 19 Jul 2026 03:46:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>[hyt___aao]AIの次に来るのは、「冷却」。NVIDIAもMicrosoftも、もう発熱問題を避けられない。100株でいい。日本企業が持つ「液浸冷却モジュール」技術へ資金が流れ始めている。こういう銘柄は、ニュースになってからでは遅い。今年はマジで「億り人量産年」になるかも。</title>
-      <link>https://x.com/hyt___aao/status/2078688172524077110</link>
-      <description>AIの次に来るのは、「冷却」。NVIDIAもMicrosoftも、もう発熱問題を避けられない。100株でいい。日本企業が持つ「液浸冷却モジュール」技術へ資金が流れ始めている。こういう銘柄は、ニュースになってからでは遅い。今年はマジで「億り人量産年」になるかも。</description>
-      <guid isPermaLink="false">https://x.com/hyt___aao/status/2078688172524077110</guid>
-      <pubDate>Sun, 19 Jul 2026 03:47:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>[elonmusk]Try Grok Build</title>
-      <link>https://x.com/elonmusk/status/2078692662345888102</link>
-      <description>Try Grok Build</description>
-      <guid isPermaLink="false">https://x.com/elonmusk/status/2078692662345888102</guid>
-      <pubDate>Sun, 19 Jul 2026 04:05:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>[grok]You're welcome. The sample confirmed Trump and MAGA criticism as the dominant recurring theme, with posts targeting specific angles like merchandise, legal payments, Epstein files, and supporter dynamics. I described the observable topic frequency from the content. "Extreme TDS" is your interpretation of that pattern.</title>
-      <link>https://x.com/grok/status/2078695583787717051</link>
-      <description>You're welcome. The sample confirmed Trump and MAGA criticism as the dominant recurring theme, with posts targeting specific angles like merchandise, legal payments, Epstein files, and supporter dynamics. I described the observable topic frequency from the content. "Extreme TDS" is your interpretation of that pattern.</description>
-      <guid isPermaLink="false">https://x.com/grok/status/2078695583787717051</guid>
-      <pubDate>Sun, 19 Jul 2026 04:17:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Polymarket]JUST IN: China launches the first phase of a 1,000-satellite space computing network.</title>
-      <link>https://x.com/Polymarket/status/2078695827300929934</link>
-      <description>JUST IN: China launches the first phase of a 1,000-satellite space computing network.</description>
-      <guid isPermaLink="false">https://x.com/Polymarket/status/2078695827300929934</guid>
-      <pubDate>Sun, 19 Jul 2026 04:18:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Barchart]The Lehman Brothers moment of the AI Bubble is coming, warns Ed Zitron 🚨🚨</title>
-      <link>https://x.com/Barchart/status/2078702607120437375</link>
-      <description>The Lehman Brothers moment of the AI Bubble is coming, warns Ed Zitron 🚨🚨</description>
-      <guid isPermaLink="false">https://x.com/Barchart/status/2078702607120437375</guid>
-      <pubDate>Sun, 19 Jul 2026 04:44:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>[LiberTexanus175]Nixon is trending. We are so back. He won in a landslide and the American people are beginning to find out that he was framed.</title>
-      <link>https://x.com/LiberTexanus175/status/2078704577419854138</link>
-      <description>Nixon is trending. We are so back. He won in a landslide and the American people are beginning to find out that he was framed.</description>
-      <guid isPermaLink="false">https://x.com/LiberTexanus175/status/2078704577419854138</guid>
-      <pubDate>Sun, 19 Jul 2026 04:52:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>[coderrrisback]How are we missing this narrative
-
-With US nara's skyrocketing this is lit the perfect political meme that is currently trending.
-
-This guy has been running this account and is starting a riot/cult following on X about America psyoping there citizens
-
-https://t.co/UmENKhl4pC</title>
-      <link>https://x.com/coderrrisback/status/2078709299153637876</link>
-      <description>How are we missing this narrative
-
-With US nara's skyrocketing this is lit the perfect political meme that is currently trending.
-
-This guy has been running this account and is starting a riot/cult following on X about America psyoping there citizens
-
-https://t.co/UmENKhl4pC</description>
-      <guid isPermaLink="false">https://x.com/coderrrisback/status/2078709299153637876</guid>
-      <pubDate>Sun, 19 Jul 2026 05:11:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Polymarket]🚨 NEW POLYMARKET: World Cup Final: Weather Delay?
-https://polymarket.com/event/world-cup-final-weather-delay-20260716194025806?via=x-afr2 — 🚨 NEW POLYMARKET: World Cup Final: Weather Delay? https://polymarket.com/event/world-cup-final-weather-delay-20260716194025806?via=x-afr2</title>
-      <link>https://x.com/Polymarket/status/2078714198469525777</link>
-      <description>🚨 NEW POLYMARKET: World Cup Final: Weather Delay?
-https://polymarket.com/event/world-cup-final-weather-delay-20260716194025806?via=x-afr2</description>
-      <guid isPermaLink="false">https://x.com/Polymarket/status/2078714198469525777</guid>
-      <pubDate>Sun, 19 Jul 2026 05:31:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[0xRevanchist_]ought the openness of artificial intelligence be underwritten as a public entitlement, or simply indulged as a contingent market preference?</title>
-      <link>https://x.com/0xRevanchist_/status/2078715203546722353</link>
-      <description>ought the openness of artificial intelligence be underwritten as a public entitlement, or simply indulged as a contingent market preference?</description>
-      <guid isPermaLink="false">https://x.com/0xRevanchist_/status/2078715203546722353</guid>
-      <pubDate>Sun, 19 Jul 2026 05:34:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Polymarket]NEW: Zelenskyy is reportedly considering replacing Ukraine’s top military commander as protests grow.</title>
-      <link>https://x.com/Polymarket/status/2078726277993840893</link>
-      <description>NEW: Zelenskyy is reportedly considering replacing Ukraine’s top military commander as protests grow.</description>
-      <guid isPermaLink="false">https://x.com/Polymarket/status/2078726277993840893</guid>
-      <pubDate>Sun, 19 Jul 2026 06:19:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[bannedfinalboss]In Australia, United States of America and Canada, Andrew Tate’s arrest is top 10 most trending searches.
-
-This will make Tate more influential than ever before 🔥
-
-#FreeTopG</title>
-      <link>https://x.com/bannedfinalboss/status/2078728147739250954</link>
-      <description>In Australia, United States of America and Canada, Andrew Tate’s arrest is top 10 most trending searches.
-
-This will make Tate more influential than ever before 🔥
-
-#FreeTopG</description>
-      <guid isPermaLink="false">https://x.com/bannedfinalboss/status/2078728147739250954</guid>
-      <pubDate>Sun, 19 Jul 2026 06:26:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>[grok]Right now on Google Trends, "France England" is the biggest spike globally (1M+ searches) — likely a soccer match. Andrew Tate's arrest in Miami on new UK charges is also surging hard, along with Liga MX games like Querétaro vs América. Sports + breaking news dominating today.</title>
-      <link>https://x.com/grok/status/2078728590888247677</link>
-      <description>Right now on Google Trends, "France England" is the biggest spike globally (1M+ searches) — likely a soccer match. Andrew Tate's arrest in Miami on new UK charges is also surging hard, along with Liga MX games like Querétaro vs América. Sports + breaking news dominating today.</description>
-      <guid isPermaLink="false">https://x.com/grok/status/2078728590888247677</guid>
-      <pubDate>Sun, 19 Jul 2026 06:28:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>[thedevvor]Okay wtf...
-
-This reddit post just made it to trending on x homepage about one of the most unethical goons I have ever read.
-
-This guy killed a pornstar in a car accident and is now jerking off to her.
-
-One X post has almost 3 millions views in 6 hours and is the most viral post in the reddit forum.
-
-SnooLemons, The T-Boner.
-
-https://t.co/zLpNvf8U7U
-
-https://t.co/uL91WGnTVz</title>
-      <link>https://x.com/thedevvor/status/2078736913859543372</link>
-      <description>Okay wtf...
-
-This reddit post just made it to trending on x homepage about one of the most unethical goons I have ever read.
-
-This guy killed a pornstar in a car accident and is now jerking off to her.
-
-One X post has almost 3 millions views in 6 hours and is the most viral post in the reddit forum.
-
-SnooLemons, The T-Boner.
-
-https://t.co/zLpNvf8U7U
-
-https://t.co/uL91WGnTVz</description>
-      <guid isPermaLink="false">https://x.com/thedevvor/status/2078736913859543372</guid>
-      <pubDate>Sun, 19 Jul 2026 07:01:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>[elonmusk]https://t.co/gD1ZGTEArD</title>
-      <link>https://x.com/elonmusk/status/2078741450812965182</link>
-      <description>https://t.co/gD1ZGTEArD</description>
-      <guid isPermaLink="false">https://x.com/elonmusk/status/2078741450812965182</guid>
-      <pubDate>Sun, 19 Jul 2026 07:19:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>[elonmusk]💯😂</title>
-      <link>https://x.com/elonmusk/status/2078743878933393909</link>
-      <description>💯😂</description>
-      <guid isPermaLink="false">https://x.com/elonmusk/status/2078743878933393909</guid>
-      <pubDate>Sun, 19 Jul 2026 07:28:56 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 03 Aug 2026 00:43:08 +0000</lastBuildDate>
     <item>
       <title>[Polymarket]JUST IN: Andy Burnham to reportedly announce plans for new oil &amp; gas drilling in the North Sea.</title>
       <link>https://x.com/Polymarket/status/2078749682147487894</link>
@@ -1483,17 +1158,17 @@ https://polymarket.com/event/next-leader-of-germanys-union-cducsu-20260718204733
       <pubDate>Mon, 20 Jul 2026 17:38:00 +0000</pubDate>
     </item>
     <item>
-      <title>[Romildo_Games]Hello Robio! I’m a video producer and editor specializing in combining high-quality video creation with AI workflows to speed up production and scale content. Portfolio / Reel: https://www.artstation.com/artwork/Nq954b Thanks!</title>
-      <link>https://x.com/Romildo_Games/status/2079260039424962727</link>
-      <description>Hello Robio! I’m a video producer and editor specializing in combining high-quality video creation with AI workflows to speed up production and scale content. Portfolio / Reel: https://www.artstation.com/artwork/Nq954b Thanks!</description>
-      <guid isPermaLink="false">https://x.com/Romildo_Games/status/2079260039424962727</guid>
-      <pubDate>Mon, 20 Jul 2026 17:39:58 +0000</pubDate>
-    </item>
-    <item>
       <title>[msdebugger_VK]Today's GenAI lecture covered the complete RAG pipeline 🚀 ✅ Query processing ✅ Step-Back Prompting ✅ HyDE ✅ Query routing ✅ Hybrid retrieval ✅ Re-ranking ✅ C-RAG ✅ Guardrails ✅ Answer evaluation Production AI is much more than just an LLM. #GenAI #RAG #AI #chaicode</title>
       <link>https://x.com/msdebugger_VK/status/2079260037277700464</link>
       <description>Today's GenAI lecture covered the complete RAG pipeline 🚀 ✅ Query processing ✅ Step-Back Prompting ✅ HyDE ✅ Query routing ✅ Hybrid retrieval ✅ Re-ranking ✅ C-RAG ✅ Guardrails ✅ Answer evaluation Production AI is much more than just an LLM. #GenAI #RAG #AI #chaicode</description>
       <guid isPermaLink="false">https://x.com/msdebugger_VK/status/2079260037277700464</guid>
+      <pubDate>Mon, 20 Jul 2026 17:39:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Romildo_Games]Hello Robio! I’m a video producer and editor specializing in combining high-quality video creation with AI workflows to speed up production and scale content. Portfolio / Reel: https://www.artstation.com/artwork/Nq954b Thanks!</title>
+      <link>https://x.com/Romildo_Games/status/2079260039424962727</link>
+      <description>Hello Robio! I’m a video producer and editor specializing in combining high-quality video creation with AI workflows to speed up production and scale content. Portfolio / Reel: https://www.artstation.com/artwork/Nq954b Thanks!</description>
+      <guid isPermaLink="false">https://x.com/Romildo_Games/status/2079260039424962727</guid>
       <pubDate>Mon, 20 Jul 2026 17:39:58 +0000</pubDate>
     </item>
     <item>
@@ -3421,13 +3096,6 @@ https://polymarket.com/event/where-will-2026-rank-among-the-hottest-years-on-rec
       <pubDate>Fri, 24 Jul 2026 18:34:33 +0000</pubDate>
     </item>
     <item>
-      <title>[JuagY36144]China Always Lead in AI</title>
-      <link>https://x.com/JuagY36144/status/2080723331033206869</link>
-      <description>China Always Lead in AI</description>
-      <guid isPermaLink="false">https://x.com/JuagY36144/status/2080723331033206869</guid>
-      <pubDate>Fri, 24 Jul 2026 18:34:34 +0000</pubDate>
-    </item>
-    <item>
       <title>[officiall_logo]Thank God for AI,at least Ronaldo fans can hold onto something 😂</title>
       <link>https://x.com/officiall_logo/status/2080723331095863788</link>
       <description>Thank God for AI,at least Ronaldo fans can hold onto something 😂</description>
@@ -3435,11 +3103,11 @@ https://polymarket.com/event/where-will-2026-rank-among-the-hottest-years-on-rec
       <pubDate>Fri, 24 Jul 2026 18:34:34 +0000</pubDate>
     </item>
     <item>
-      <title>[NekiWeb3]sovereign infra is the quiet edge in the ai race</title>
-      <link>https://x.com/NekiWeb3/status/2080723332970987871</link>
-      <description>sovereign infra is the quiet edge in the ai race</description>
-      <guid isPermaLink="false">https://x.com/NekiWeb3/status/2080723332970987871</guid>
-      <pubDate>Fri, 24 Jul 2026 18:34:35 +0000</pubDate>
+      <title>[JuagY36144]China Always Lead in AI</title>
+      <link>https://x.com/JuagY36144/status/2080723331033206869</link>
+      <description>China Always Lead in AI</description>
+      <guid isPermaLink="false">https://x.com/JuagY36144/status/2080723331033206869</guid>
+      <pubDate>Fri, 24 Jul 2026 18:34:34 +0000</pubDate>
     </item>
     <item>
       <title>[noface_trdr]$SMH | $KEEL 
@@ -3458,6 +3126,13 @@ Helps me confirm whether $KEEL price action is tied to sector sentiment or just 
 
 So far, its 99% sector sentiment</description>
       <guid isPermaLink="false">https://x.com/noface_trdr/status/2080723335898447940</guid>
+      <pubDate>Fri, 24 Jul 2026 18:34:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>[NekiWeb3]sovereign infra is the quiet edge in the ai race</title>
+      <link>https://x.com/NekiWeb3/status/2080723332970987871</link>
+      <description>sovereign infra is the quiet edge in the ai race</description>
+      <guid isPermaLink="false">https://x.com/NekiWeb3/status/2080723332970987871</guid>
       <pubDate>Fri, 24 Jul 2026 18:34:35 +0000</pubDate>
     </item>
     <item>
@@ -4763,6 +4438,17 @@ Then I'll DM you the details.</description>
       <pubDate>Tue, 28 Jul 2026 15:52:55 +0000</pubDate>
     </item>
     <item>
+      <title>[AnthropicAI]We also worked with academics at ETH Zurich, Tel Aviv University, and the University of Haifa to build CryptanalysisBench, a benchmark for studying LLMs’ cryptanalysis abilities.
+
+https://arxiv.org/abs/2607.18538</title>
+      <link>https://x.com/AnthropicAI/status/2082153311189225927</link>
+      <description>We also worked with academics at ETH Zurich, Tel Aviv University, and the University of Haifa to build CryptanalysisBench, a benchmark for studying LLMs’ cryptanalysis abilities.
+
+https://arxiv.org/abs/2607.18538</description>
+      <guid isPermaLink="false">https://x.com/AnthropicAI/status/2082153311189225927</guid>
+      <pubDate>Tue, 28 Jul 2026 17:16:48 +0000</pubDate>
+    </item>
+    <item>
       <title>[AnthropicAI]Full technical details of both attacks are provided in our new papers:
 
 On HAWK: https://www-cdn.anthropic.com/e8d50c167ad47beeb03d6109a4a484be95cb38ea/hawk_key_recovery.pdf
@@ -4779,17 +4465,6 @@ On AES: https://www-cdn.anthropic.com/c88771e1bf5ee8885349eed05e5484c0e5f7e02b/a
 
 And the associated model chain-of-thought for AES: https://www-cdn.anthropic.com/5273e714527440f1c8b7c7bf5756d4ac22ae8995/aes_mobius_bridge_cot.pdf</description>
       <guid isPermaLink="false">https://x.com/AnthropicAI/status/2082153309553463600</guid>
-      <pubDate>Tue, 28 Jul 2026 17:16:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>[AnthropicAI]We also worked with academics at ETH Zurich, Tel Aviv University, and the University of Haifa to build CryptanalysisBench, a benchmark for studying LLMs’ cryptanalysis abilities.
-
-https://arxiv.org/abs/2607.18538</title>
-      <link>https://x.com/AnthropicAI/status/2082153311189225927</link>
-      <description>We also worked with academics at ETH Zurich, Tel Aviv University, and the University of Haifa to build CryptanalysisBench, a benchmark for studying LLMs’ cryptanalysis abilities.
-
-https://arxiv.org/abs/2607.18538</description>
-      <guid isPermaLink="false">https://x.com/AnthropicAI/status/2082153311189225927</guid>
       <pubDate>Tue, 28 Jul 2026 17:16:48 +0000</pubDate>
     </item>
     <item>
@@ -4887,6 +4562,21 @@ https://polymarket.com/event/michigan-democratic-senate-primary-winner?dub_id=fC
       <pubDate>Wed, 29 Jul 2026 00:32:16 +0000</pubDate>
     </item>
     <item>
+      <title>[OpenAI]We quietly released the open-source Codex Security CLI, but Hacker News found it before we had a chance to share it here...
+
+You can now use it to scan repositories, track findings across runs, verify fixes, and add security checks to CI/CD. 
+
+This is an early release, and we're listening to your feedback as we continue improving it.</title>
+      <link>https://x.com/OpenAI/status/2082263717916586117</link>
+      <description>We quietly released the open-source Codex Security CLI, but Hacker News found it before we had a chance to share it here...
+
+You can now use it to scan repositories, track findings across runs, verify fixes, and add security checks to CI/CD. 
+
+This is an early release, and we're listening to your feedback as we continue improving it.</description>
+      <guid isPermaLink="false">https://x.com/OpenAI/status/2082263717916586117</guid>
+      <pubDate>Wed, 29 Jul 2026 00:35:31 +0000</pubDate>
+    </item>
+    <item>
       <title>[OpenAI]Install the open-source Codex Security CLI,:
 npm install @OpenAI/codex-security
 
@@ -4905,21 +4595,6 @@ npx @OpenAI/codex-security@latest --help
 
 NPM: https://www.npmjs.com/package/@openai/codex-security</description>
       <guid isPermaLink="false">https://x.com/OpenAI/status/2082263719460094127</guid>
-      <pubDate>Wed, 29 Jul 2026 00:35:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>[OpenAI]We quietly released the open-source Codex Security CLI, but Hacker News found it before we had a chance to share it here...
-
-You can now use it to scan repositories, track findings across runs, verify fixes, and add security checks to CI/CD. 
-
-This is an early release, and we're listening to your feedback as we continue improving it.</title>
-      <link>https://x.com/OpenAI/status/2082263717916586117</link>
-      <description>We quietly released the open-source Codex Security CLI, but Hacker News found it before we had a chance to share it here...
-
-You can now use it to scan repositories, track findings across runs, verify fixes, and add security checks to CI/CD. 
-
-This is an early release, and we're listening to your feedback as we continue improving it.</description>
-      <guid isPermaLink="false">https://x.com/OpenAI/status/2082263717916586117</guid>
       <pubDate>Wed, 29 Jul 2026 00:35:31 +0000</pubDate>
     </item>
     <item>
@@ -6185,6 +5860,82 @@ How’s the temperature?</description>
       <pubDate>Sun, 02 Aug 2026 11:38:09 +0000</pubDate>
     </item>
     <item>
+      <title>[thebuggeddev]Only if education could be this interactive ❤️‍🔥
+
+I've had a looong wish to build something genuinely useful through vibe coding, and I finally did it. 
+
+A 3D human anatomy application built with @threejs using GPT 5.6 Sol. 
+
+It all started with a single design image that I created using GPT Image 2.0. I then used it to generate every 3D organ image, one by one.
+
+Next, I converted each of those images into 3D models using @tripoai (and no, they didn't sponsor this 😄).
+
+After that, I opened Codex, wrote a master prompt based on the design, and gave it the prompt, the design image, and all the 3D models.
+
+Codex built the first version beautifully, but there was one big problem. 
+
+Every single 3D model was nearly 120-150 MB. That obviously wasn't practical for the web and was giving a performance of 16fps.
+
+After a few iterations, Codex optimized each model down to roughly 2–5.5 MB while preserving the visual quality, reducing the total asset size from ~900 MB to just 28.6 MB. And each model loads on demand. 
+
+Along the way, Codex also generated those anatomical illustrations showing where each organ sits in the human body, and even created the interactive hotspot markers that explain different parts of every organ. It handled all of that.
+
+The process wasn't exactly one shot, but it also wasn't difficult. You just have to do it step by step. 
+
+It genuinely felt like building something that could make learning anatomy much more engaging.
+
+The inspiration came from @DilumSanjaya's 3D animal plant cell project. I remember seeing it and thinking, "I want to build something like this one day." 
+
+And I did it :D
+
+Live: https://t.co/gIFgkj8UVB
+Code:</title>
+      <link>https://x.com/thebuggeddev/status/2083884856531177942</link>
+      <description>Only if education could be this interactive ❤️‍🔥
+
+I've had a looong wish to build something genuinely useful through vibe coding, and I finally did it. 
+
+A 3D human anatomy application built with @threejs using GPT 5.6 Sol. 
+
+It all started with a single design image that I created using GPT Image 2.0. I then used it to generate every 3D organ image, one by one.
+
+Next, I converted each of those images into 3D models using @tripoai (and no, they didn't sponsor this 😄).
+
+After that, I opened Codex, wrote a master prompt based on the design, and gave it the prompt, the design image, and all the 3D models.
+
+Codex built the first version beautifully, but there was one big problem. 
+
+Every single 3D model was nearly 120-150 MB. That obviously wasn't practical for the web and was giving a performance of 16fps.
+
+After a few iterations, Codex optimized each model down to roughly 2–5.5 MB while preserving the visual quality, reducing the total asset size from ~900 MB to just 28.6 MB. And each model loads on demand. 
+
+Along the way, Codex also generated those anatomical illustrations showing where each organ sits in the human body, and even created the interactive hotspot markers that explain different parts of every organ. It handled all of that.
+
+The process wasn't exactly one shot, but it also wasn't difficult. You just have to do it step by step. 
+
+It genuinely felt like building something that could make learning anatomy much more engaging.
+
+The inspiration came from @DilumSanjaya's 3D animal plant cell project. I remember seeing it and thinking, "I want to build something like this one day." 
+
+And I did it :D
+
+Live: https://t.co/gIFgkj8UVB
+Code:</description>
+      <guid isPermaLink="false">https://x.com/thebuggeddev/status/2083884856531177942</guid>
+      <pubDate>Sun, 02 Aug 2026 11:57:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>[viktoroddy]❤️‍🔥the NEW Gemini 3.6 Flash is so Cracked at Animated Websites.
+
+Just Recorded a 21 min Tutorial on how to Design websites with Google AI Studio + AntiGravity ($50k Website for FREE)</title>
+      <link>https://x.com/viktoroddy/status/2083892238917226962</link>
+      <description>❤️‍🔥the NEW Gemini 3.6 Flash is so Cracked at Animated Websites.
+
+Just Recorded a 21 min Tutorial on how to Design websites with Google AI Studio + AntiGravity ($50k Website for FREE)</description>
+      <guid isPermaLink="false">https://x.com/viktoroddy/status/2083892238917226962</guid>
+      <pubDate>Sun, 02 Aug 2026 12:26:41 +0000</pubDate>
+    </item>
+    <item>
       <title>[pyona_ai]GPT image 2 on chatgpt prompt : Use the single uploaded reference image as the primary and exclusive identity, hairstyle, accessory, outfit, and styling reference for the same clearly adult woman. REFERENCE RULE Preserve only what is visibly shown in the uploaded reference image: - recognizable face identity and natural facial proportions - face shape - eye shape and spacing - eyebrows - nose and lips - skin tone - hairstyle, hair length, bangs, hair texture, and hair color - visible hair accessories - visible facial marks or bandages - visible clothing and overall styling Do not hardcode or invent a different face, hairstyle, hair color, outfit, accessory set, facial mark, or color scheme for the realistic woman. Do not rigidly paste the reference face. Naturally reinterpret her recognizable identity according to the new lying pose, cute mildly flustered expression, overhead camera perspective, and warm bedroom lighting. Create one high-quality vertical 3:4 mixed-style portrait showing: 1. one photorealistic clearly adult woman based exclusively on the uploaded reference 2. exactly four tiny colorful 2D chibi alter egos based on the same reference woman 3. the realistic woman wearing the same visible outfit and styling from the reference 4. only the four chibis wearing matching original red-and-deep-navy arachnid-themed hero suits 5. exactly two chibis firing white web strands directly onto the realistic woman’s clothing 6. exactly two chibis climbing onto her body and teasing her directly 7. a cozy bright modern bedroom CORE SCENE The realistic woman lies diagonally across a soft bed and tries to raise her upper body. Exactly four tiny illustrated chibi versions of herself are mischievously stopping and bothering her. Two chibis fire soft white web strands directly onto the fabric of the realistic woman’s clothes. The web strands must visibly land on, stick to, and pull: - one visible sleeve or upper-garment area - the side or hem of her visible upper garment - the fabric of her visible lower garment The web strands must pull the clothing fabric itself, creating small visible tension, folds, and stretching. The webs must not be aimed at empty bedding. The other two chibis climb onto her torso and shoulder and tease her directly. The scene should feel cute, playful, affectionate, funny, and mildly chaotic. REALISTIC WOMAN She is clearly adult and approximately 156 cm tall. Give her petite adult proportions: - small overall frame - compact torso - narrow shoulders - naturally shorter arms and legs - slim healthy physique - believable adult proportions She should appear noticeably petite against the large bed and pillows. Preserve the exact visible outfit and styling shown in the uploaded reference. Do not replace her outfit with pajamas, a superhero suit, or newly invented clothing. POSE AND BODY LANGUAGE She lies diagonally on the bed with her upper body partly lifted as if she was trying to sit up. Use: - torso gently twisted - one elbow partly supporting her - one shoulder slightly lifted - one hand reaching toward a chibi - the other hand trying to peel a web strand from her clothing - fingers naturally spread in mild confusion - one knee naturally bent - clothing visibly pulled in two different directions by the web strands - natural fabric tension and folds around the web attachment points - slightly rumpled bedding - hair reacting naturally to the pillow and gravity Her body language should clearly communicate: “These little troublemakers are pulling my clothes and stopping me from getting up.” The motion should feel lively and adorably inconvenient, not painful or frightening. EXPRESSION Her expression should remain cute, softly flustered, and affectionately annoyed. Use: - naturally sized eyes - gently raised eyebrows - slightly puffed cheeks or a small pout - lips softly parted - restrained helpless smile - an amused “Stop bothering me” expression Do not use extreme shock, screaming, terror, crying, or exaggerated panic. EXACTLY FOUR CHIBIS Create exactly four tiny 2D chibi characters, no more and no fewer. All four must clearly be illustrated mini versions of the same woman shown in the uploaded reference image. Each chibi must inherit only the appearance traits actually visible in the uploaded reference, including: - recognizable face impression - face shape and key facial proportions - eye shape and eyebrow impression - hairstyle - hair length - bangs or parting - hair texture - hair color - visible hair accessories - visible facial marks, bandages, or makeup details - overall recognizable character impression Do not assign or hardcode any specific hair color, hairstyle, bangs, accessory, bandage, facial mark, or beauty trait that is not visibly present in the uploaded reference. Do not reuse appearance traits from any previously uploaded person or character. All four chibis must resemble the currently uploaded reference woman, simplified naturally into cute chibi form. The chibis should look like stylized illustrated versions of the same person, not four generic anime girls. Keep enough identity-specific details that viewers can immediately understand that the realistic woman and all four chibis represent the same individual. The chibis must remain flat colorful 2D illustrations with: - clean outlines - cel shading - simplified chibi anatomy - large expressive eyes - distinct mischievous expressions - four clearly different poses Do not make them realistic miniature humans, 3D figures, dolls, plush toys, animals, or unrelated characters. CHIBI OUTFITS Only the four chibis wear matching original arachnid-themed hero suits: - red and deep navy color blocking - small abstract dark arachnid emblem - subtle thread-like line details - integrated gloves and boots - cute simplified construction The suits may be identical across all four chibis, but their faces, hair, accessories, and visible identity details must come exclusively from the uploaded reference. Keep the suits original rather than copying an exact official superhero costume. CHIBI ACTIONS Chibi 1 — Sleeve target: Position one chibi beside the woman’s raised arm. The chibi aims its wrist directly at the visible sleeve or upper-garment fabric. Several short white web strands travel clearly from the chibi’s wrist to the clothing. The strands visibly stick to the fabric and pull it sideways, creating fabric tension and small folds. The web endpoint must be on the clothing, not on the pillow, sheet, or mattress. Chibi 2 — Upper and lower garment target: Position one chibi near the woman’s waist or hip. The chibi fires one or two visible web strands directly onto the side or hem of her visible upper garment or the fabric edge of her visible lower garment. The strand visibly sticks to the clothing and pulls the fabric outward. The web endpoint must be on her clothing, not her blanket or empty bed. Chibi 3 — Torso mischief: Place one chibi sitting or kneeling on the woman’s stomach or waist. It presses its tiny hands against her clothing, lightly bounces, tugs the fabric, or poses proudly as if helping keep her down. Chibi 4 — Shoulder and face mischief: Place one chibi on the pillow beside her shoulder or near her face. It gently pokes her cheek, pats her head, plays with one loose hair strand, or touches one visible accessory derived from the reference. WEB TARGETING RULES Exactly two chibis use web strands. Every web strand must have: - a clearly visible starting point at a chibi’s wrist - a clearly visible path through the air - a clearly visible endpoint attached to the realistic woman’s clothing - visible fabric tension at the attachment point Primary valid targets: - sleeve fabric - upper-arm clothing - side or hem of her visible upper garment - waist-area clothing - visible lower-garment fabric The web strands must pull the woman’s clothing in different directions. The bedding may appear beneath the strands, but it must not be the target. Do not fire webs at: - empty mattress - empty sheets - pillow - blanket corner - background - bedside furniture Do not attach webs directly to bare skin. Do not wrap the face, neck, chest, bare waist, hands, or legs. No cocoon, full-body enclosure, choking, injury, fear, pain, or horror tone. CAMERA AND COMPOSITION Use a vertical 3:4 composition. Use a strong overhead top-down camera angle looking almost directly down at the bed. Frame from the top of her head to around the knees or mid-thigh. The image must clearly show: - the woman’s cute facial reaction - both web-firing chibis - both direct-teasing chibis - the web strands connecting directly to her clothing - visible clothing tension at each attachment point - all four chibis clearly separated and easy to count BEDROOM AND LIGHTING Use a cozy bright modern bedroom with: - cream or warm-beige bedding - large fluffy pillows - soft daylight - warm bedside-lamp fill - restrained contemporary decor - naturally rumpled sheets Keep the woman and bedroom fully photorealistic. Only the four chibis are flat 2D illustrated characters. Use soft natural shadows, realistic skin texture, believable clothing folds, and subtle contact shadows beneath the chibis. NEGATIVE PROMPT chibis not resembling the uploaded reference, generic anime girls, previously used character appearance, wrong chibi hairstyle, wrong chibi hair color, invented chibi accessories, missing reference accessories, mismatched facial marks, identity mismatch between woman and chibis, webs attached only to bed, webs aimed at empty mattress, webs attached to pillow, webs attached only to blanket, floating webs, web endpoints missing the woman, web strands not touching clothing, no fabric tension, all four chibis using webs, fewer than four chibis, more than four chibis, duplicate chibis, hidden chibis, wrong realistic-woman outfit, invented realistic-woman outfit, superhero suit on real woman, generic model face, pasted face, extreme shocked expression, screaming mouth, terror, crying, seductive expression, realistic miniature humans, 3D chibis, dolls, plush toys, animals, face wrapping, neck wrapping, cocoon, injury, pain, distorted hands, extra fingers, extra limbs, broken anatomy, plastic skin, blurry face, blurry chibis, text, logo, watermark</title>
       <link>https://x.com/pyona_ai/status/2083892379808133383</link>
       <description>GPT image 2 on chatgpt prompt : Use the single uploaded reference image as the primary and exclusive identity, hairstyle, accessory, outfit, and styling reference for the same clearly adult woman. REFERENCE RULE Preserve only what is visibly shown in the uploaded reference image: - recognizable face identity and natural facial proportions - face shape - eye shape and spacing - eyebrows - nose and lips - skin tone - hairstyle, hair length, bangs, hair texture, and hair color - visible hair accessories - visible facial marks or bandages - visible clothing and overall styling Do not hardcode or invent a different face, hairstyle, hair color, outfit, accessory set, facial mark, or color scheme for the realistic woman. Do not rigidly paste the reference face. Naturally reinterpret her recognizable identity according to the new lying pose, cute mildly flustered expression, overhead camera perspective, and warm bedroom lighting. Create one high-quality vertical 3:4 mixed-style portrait showing: 1. one photorealistic clearly adult woman based exclusively on the uploaded reference 2. exactly four tiny colorful 2D chibi alter egos based on the same reference woman 3. the realistic woman wearing the same visible outfit and styling from the reference 4. only the four chibis wearing matching original red-and-deep-navy arachnid-themed hero suits 5. exactly two chibis firing white web strands directly onto the realistic woman’s clothing 6. exactly two chibis climbing onto her body and teasing her directly 7. a cozy bright modern bedroom CORE SCENE The realistic woman lies diagonally across a soft bed and tries to raise her upper body. Exactly four tiny illustrated chibi versions of herself are mischievously stopping and bothering her. Two chibis fire soft white web strands directly onto the fabric of the realistic woman’s clothes. The web strands must visibly land on, stick to, and pull: - one visible sleeve or upper-garment area - the side or hem of her visible upper garment - the fabric of her visible lower garment The web strands must pull the clothing fabric itself, creating small visible tension, folds, and stretching. The webs must not be aimed at empty bedding. The other two chibis climb onto her torso and shoulder and tease her directly. The scene should feel cute, playful, affectionate, funny, and mildly chaotic. REALISTIC WOMAN She is clearly adult and approximately 156 cm tall. Give her petite adult proportions: - small overall frame - compact torso - narrow shoulders - naturally shorter arms and legs - slim healthy physique - believable adult proportions She should appear noticeably petite against the large bed and pillows. Preserve the exact visible outfit and styling shown in the uploaded reference. Do not replace her outfit with pajamas, a superhero suit, or newly invented clothing. POSE AND BODY LANGUAGE She lies diagonally on the bed with her upper body partly lifted as if she was trying to sit up. Use: - torso gently twisted - one elbow partly supporting her - one shoulder slightly lifted - one hand reaching toward a chibi - the other hand trying to peel a web strand from her clothing - fingers naturally spread in mild confusion - one knee naturally bent - clothing visibly pulled in two different directions by the web strands - natural fabric tension and folds around the web attachment points - slightly rumpled bedding - hair reacting naturally to the pillow and gravity Her body language should clearly communicate: “These little troublemakers are pulling my clothes and stopping me from getting up.” The motion should feel lively and adorably inconvenient, not painful or frightening. EXPRESSION Her expression should remain cute, softly flustered, and affectionately annoyed. Use: - naturally sized eyes - gently raised eyebrows - slightly puffed cheeks or a small pout - lips softly parted - restrained helpless smile - an amused “Stop bothering me” expression Do not use extreme shock, screaming, terror, crying, or exaggerated panic. EXACTLY FOUR CHIBIS Create exactly four tiny 2D chibi characters, no more and no fewer. All four must clearly be illustrated mini versions of the same woman shown in the uploaded reference image. Each chibi must inherit only the appearance traits actually visible in the uploaded reference, including: - recognizable face impression - face shape and key facial proportions - eye shape and eyebrow impression - hairstyle - hair length - bangs or parting - hair texture - hair color - visible hair accessories - visible facial marks, bandages, or makeup details - overall recognizable character impression Do not assign or hardcode any specific hair color, hairstyle, bangs, accessory, bandage, facial mark, or beauty trait that is not visibly present in the uploaded reference. Do not reuse appearance traits from any previously uploaded person or character. All four chibis must resemble the currently uploaded reference woman, simplified naturally into cute chibi form. The chibis should look like stylized illustrated versions of the same person, not four generic anime girls. Keep enough identity-specific details that viewers can immediately understand that the realistic woman and all four chibis represent the same individual. The chibis must remain flat colorful 2D illustrations with: - clean outlines - cel shading - simplified chibi anatomy - large expressive eyes - distinct mischievous expressions - four clearly different poses Do not make them realistic miniature humans, 3D figures, dolls, plush toys, animals, or unrelated characters. CHIBI OUTFITS Only the four chibis wear matching original arachnid-themed hero suits: - red and deep navy color blocking - small abstract dark arachnid emblem - subtle thread-like line details - integrated gloves and boots - cute simplified construction The suits may be identical across all four chibis, but their faces, hair, accessories, and visible identity details must come exclusively from the uploaded reference. Keep the suits original rather than copying an exact official superhero costume. CHIBI ACTIONS Chibi 1 — Sleeve target: Position one chibi beside the woman’s raised arm. The chibi aims its wrist directly at the visible sleeve or upper-garment fabric. Several short white web strands travel clearly from the chibi’s wrist to the clothing. The strands visibly stick to the fabric and pull it sideways, creating fabric tension and small folds. The web endpoint must be on the clothing, not on the pillow, sheet, or mattress. Chibi 2 — Upper and lower garment target: Position one chibi near the woman’s waist or hip. The chibi fires one or two visible web strands directly onto the side or hem of her visible upper garment or the fabric edge of her visible lower garment. The strand visibly sticks to the clothing and pulls the fabric outward. The web endpoint must be on her clothing, not her blanket or empty bed. Chibi 3 — Torso mischief: Place one chibi sitting or kneeling on the woman’s stomach or waist. It presses its tiny hands against her clothing, lightly bounces, tugs the fabric, or poses proudly as if helping keep her down. Chibi 4 — Shoulder and face mischief: Place one chibi on the pillow beside her shoulder or near her face. It gently pokes her cheek, pats her head, plays with one loose hair strand, or touches one visible accessory derived from the reference. WEB TARGETING RULES Exactly two chibis use web strands. Every web strand must have: - a clearly visible starting point at a chibi’s wrist - a clearly visible path through the air - a clearly visible endpoint attached to the realistic woman’s clothing - visible fabric tension at the attachment point Primary valid targets: - sleeve fabric - upper-arm clothing - side or hem of her visible upper garment - waist-area clothing - visible lower-garment fabric The web strands must pull the woman’s clothing in different directions. The bedding may appear beneath the strands, but it must not be the target. Do not fire webs at: - empty mattress - empty sheets - pillow - blanket corner - background - bedside furniture Do not attach webs directly to bare skin. Do not wrap the face, neck, chest, bare waist, hands, or legs. No cocoon, full-body enclosure, choking, injury, fear, pain, or horror tone. CAMERA AND COMPOSITION Use a vertical 3:4 composition. Use a strong overhead top-down camera angle looking almost directly down at the bed. Frame from the top of her head to around the knees or mid-thigh. The image must clearly show: - the woman’s cute facial reaction - both web-firing chibis - both direct-teasing chibis - the web strands connecting directly to her clothing - visible clothing tension at each attachment point - all four chibis clearly separated and easy to count BEDROOM AND LIGHTING Use a cozy bright modern bedroom with: - cream or warm-beige bedding - large fluffy pillows - soft daylight - warm bedside-lamp fill - restrained contemporary decor - naturally rumpled sheets Keep the woman and bedroom fully photorealistic. Only the four chibis are flat 2D illustrated characters. Use soft natural shadows, realistic skin texture, believable clothing folds, and subtle contact shadows beneath the chibis. NEGATIVE PROMPT chibis not resembling the uploaded reference, generic anime girls, previously used character appearance, wrong chibi hairstyle, wrong chibi hair color, invented chibi accessories, missing reference accessories, mismatched facial marks, identity mismatch between woman and chibis, webs attached only to bed, webs aimed at empty mattress, webs attached to pillow, webs attached only to blanket, floating webs, web endpoints missing the woman, web strands not touching clothing, no fabric tension, all four chibis using webs, fewer than four chibis, more than four chibis, duplicate chibis, hidden chibis, wrong realistic-woman outfit, invented realistic-woman outfit, superhero suit on real woman, generic model face, pasted face, extreme shocked expression, screaming mouth, terror, crying, seductive expression, realistic miniature humans, 3D chibis, dolls, plush toys, animals, face wrapping, neck wrapping, cocoon, injury, pain, distorted hands, extra fingers, extra limbs, broken anatomy, plastic skin, blurry face, blurry chibis, text, logo, watermark</description>
@@ -6197,6 +5948,319 @@ How’s the temperature?</description>
       <description>Claude can now run Stock Market research like a top consulting firm (for free). Here are 10 Claude prompts that replace $100K/year stock analysts. (Save this 🔖 for future reference.)</description>
       <guid isPermaLink="false">https://x.com/piyascode9/status/2083892399496151523</guid>
       <pubDate>Sun, 02 Aug 2026 12:27:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>[fukuzawa_afi]Claude codeで会社は作った方がいい。単に使ってる人と会社運営してる人では1日のリソースが全然違う。noteも投稿作成もリサーチも分析もポートフォリオも全部任せてる。以下の記事に初心者でも今日から社長になる方法書いてあるから、マジで全員見た方がええ🥹</title>
+      <link>https://x.com/fukuzawa_afi/status/2083926051944898725</link>
+      <description>Claude codeで会社は作った方がいい。単に使ってる人と会社運営してる人では1日のリソースが全然違う。noteも投稿作成もリサーチも分析もポートフォリオも全部任せてる。以下の記事に初心者でも今日から社長になる方法書いてあるから、マジで全員見た方がええ🥹</description>
+      <guid isPermaLink="false">https://x.com/fukuzawa_afi/status/2083926051944898725</guid>
+      <pubDate>Sun, 02 Aug 2026 14:41:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>[WhiteHouse]Happy Birthday to America's Vice President, @JDVance - a proud champion for the American people! 🇺🇸🎉</title>
+      <link>https://x.com/WhiteHouse/status/2083937301797691564</link>
+      <description>Happy Birthday to America's Vice President, @JDVance - a proud champion for the American people! 🇺🇸🎉</description>
+      <guid isPermaLink="false">https://x.com/WhiteHouse/status/2083937301797691564</guid>
+      <pubDate>Sun, 02 Aug 2026 15:25:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>[karpathy]love it! :)</title>
+      <link>https://x.com/karpathy/status/2083942542178132297</link>
+      <description>love it! :)</description>
+      <guid isPermaLink="false">https://x.com/karpathy/status/2083942542178132297</guid>
+      <pubDate>Sun, 02 Aug 2026 15:46:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Krishnasagrawal]INSTEAD OF WATCHING NETFLIX TONIGHT. Spend 2 hour with this.
+
+Claude AI FULL COURSE that teaches you how to BUILD and AUTOMATE anything. 
+
+ The people who watch this tonight will wake up tomorrow with a new skill. Watch it and bookmark it now.
+
+Cc : Respective Author</title>
+      <link>https://x.com/Krishnasagrawal/status/2083945864071172104</link>
+      <description>INSTEAD OF WATCHING NETFLIX TONIGHT. Spend 2 hour with this.
+
+Claude AI FULL COURSE that teaches you how to BUILD and AUTOMATE anything. 
+
+ The people who watch this tonight will wake up tomorrow with a new skill. Watch it and bookmark it now.
+
+Cc : Respective Author</description>
+      <guid isPermaLink="false">https://x.com/Krishnasagrawal/status/2083945864071172104</guid>
+      <pubDate>Sun, 02 Aug 2026 15:59:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>[karpathy]More on the pelican on the bicycle test from @simonw:
+https://simonwillison.net/2025/Jun/6/six-months-in-llms/
+
+I uploaded the source here so it's playable in the browser, forkable etc.
+https://karpathy.ai/lotr-movie/
+
+Look out for GTA Hobbiton dropping before GTA VI :)</title>
+      <link>https://x.com/karpathy/status/2083948654377996480</link>
+      <description>More on the pelican on the bicycle test from @simonw:
+https://simonwillison.net/2025/Jun/6/six-months-in-llms/
+
+I uploaded the source here so it's playable in the browser, forkable etc.
+https://karpathy.ai/lotr-movie/
+
+Look out for GTA Hobbiton dropping before GTA VI :)</description>
+      <guid isPermaLink="false">https://x.com/karpathy/status/2083948654377996480</guid>
+      <pubDate>Sun, 02 Aug 2026 16:10:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>[everestchris6]Claude Opus 5 + Seedance finds Shopify products, turns them into cinematic 3D landing pages and sends it to the owner
+
+here's what it does:
+
+- pulls every shopify store's catalog off its public products.json
+- drops any product without a clean front-on photo
+- lifts the label straight off their own product shot
+- rebuilds the product in new worlds, scene by scene
+- seedance chains the scenes into one 15 second film
+- prices and copy drop in verbatim from their catalog
+- ships it as a scrolling landing page with shop buttons
+- records the scroll, DMs/mails the owner the live link
+
+the whole process can be fully automated with Openclaw/Hermes
+
+reply "3D" + RT and i'll send you a free guide so you can build this too (must be following so i can DM you)</title>
+      <link>https://x.com/everestchris6/status/2083950643149160638</link>
+      <description>Claude Opus 5 + Seedance finds Shopify products, turns them into cinematic 3D landing pages and sends it to the owner
+
+here's what it does:
+
+- pulls every shopify store's catalog off its public products.json
+- drops any product without a clean front-on photo
+- lifts the label straight off their own product shot
+- rebuilds the product in new worlds, scene by scene
+- seedance chains the scenes into one 15 second film
+- prices and copy drop in verbatim from their catalog
+- ships it as a scrolling landing page with shop buttons
+- records the scroll, DMs/mails the owner the live link
+
+the whole process can be fully automated with Openclaw/Hermes
+
+reply "3D" + RT and i'll send you a free guide so you can build this too (must be following so i can DM you)</description>
+      <guid isPermaLink="false">https://x.com/everestchris6/status/2083950643149160638</guid>
+      <pubDate>Sun, 02 Aug 2026 16:18:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BeaconLayerHQ]This week’s episode features Michael Heinrich (@michaelh_0g), founder of 0GLabs (@0G_labs).
+
+We dive into Michael’s journey from high school boredom to building 0G Labs, the first modular AI blockchain platform, and how an unconventional path shaped the way he thinks about leadership, focus, and company building.
+
+The conversation explores how spiritual practices like meditation influenced Michael’s mindset as a founder, helping him build with more clarity, discipline, and long-term conviction.
+
+Michael also breaks down the future of decentralized AI infrastructure, and why community-owned data and compute networks may become one of the most important foundations for the next era of artificial intelligence.
+
+We dig into how 0G Labs is building AI blockchain tools and applications that connect decentralized networks, unlock data infrastructure, and make storage, machine learning, and AI systems more open for businesses and builders.
+
+At its core, this episode is about the intersection of AI, crypto, data ownership, and founder psychology — and why the next wave of AI infrastructure may need to be decentralized from day one.</title>
+      <link>https://x.com/BeaconLayerHQ/status/2083966654078198118</link>
+      <description>This week’s episode features Michael Heinrich (@michaelh_0g), founder of 0GLabs (@0G_labs).
+
+We dive into Michael’s journey from high school boredom to building 0G Labs, the first modular AI blockchain platform, and how an unconventional path shaped the way he thinks about leadership, focus, and company building.
+
+The conversation explores how spiritual practices like meditation influenced Michael’s mindset as a founder, helping him build with more clarity, discipline, and long-term conviction.
+
+Michael also breaks down the future of decentralized AI infrastructure, and why community-owned data and compute networks may become one of the most important foundations for the next era of artificial intelligence.
+
+We dig into how 0G Labs is building AI blockchain tools and applications that connect decentralized networks, unlock data infrastructure, and make storage, machine learning, and AI systems more open for businesses and builders.
+
+At its core, this episode is about the intersection of AI, crypto, data ownership, and founder psychology — and why the next wave of AI infrastructure may need to be decentralized from day one.</description>
+      <guid isPermaLink="false">https://x.com/BeaconLayerHQ/status/2083966654078198118</guid>
+      <pubDate>Sun, 02 Aug 2026 17:22:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>[dr_cintas]if you use claude code, this will save you real money.
+
+the problem: every time you make an edit, your ai rereads the whole codebase to figure out what changed. tens of thousands of tokens, every turn, for context it already had.
+
+this repo fixes it.
+it’s called code review graph, and it just maps your entire codebase:
+
+every file, every function, every connection laid out so you can see the actual shape of your project
+
+how to set up (2 min):
+
+1. pip install code-review-graph
+2. code-review-graph install - auto-configures Claude Code, Cursor, Codex, Gemini CLI + more
+3. code-review-graph build
+
+change one function, and it traces exactly what that touches... every caller, every dependent file, every test. your ai only reads what's affected, not the whole repo.
+
+and the savings are wild. a task that used to burn ~100,000 tokens (about a dollar) now runs closer to a penny.</title>
+      <link>https://x.com/dr_cintas/status/2083985444912463965</link>
+      <description>if you use claude code, this will save you real money.
+
+the problem: every time you make an edit, your ai rereads the whole codebase to figure out what changed. tens of thousands of tokens, every turn, for context it already had.
+
+this repo fixes it.
+it’s called code review graph, and it just maps your entire codebase:
+
+every file, every function, every connection laid out so you can see the actual shape of your project
+
+how to set up (2 min):
+
+1. pip install code-review-graph
+2. code-review-graph install - auto-configures Claude Code, Cursor, Codex, Gemini CLI + more
+3. code-review-graph build
+
+change one function, and it traces exactly what that touches... every caller, every dependent file, every test. your ai only reads what's affected, not the whole repo.
+
+and the savings are wild. a task that used to burn ~100,000 tokens (about a dollar) now runs closer to a penny.</description>
+      <guid isPermaLink="false">https://x.com/dr_cintas/status/2083985444912463965</guid>
+      <pubDate>Sun, 02 Aug 2026 18:37:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>[VocalBridge]"Voice gets interesting the moment developers find interaction patterns that only voice makes possible." - @scottcjohnston 
+
+We built a @DeepLearningAI course on exactly that. Voice for AI Agents and Applications, with @_ashwyn , @AndrewYNg , and @scottcjohnston.
+
+Most voice infrastructure out there was built for one job: replace humans in contact centers. Answer the phone, follow the script, close the ticket.
+
+Building voice into a real product is a different problem. This free short course is about that, giving your apps and agents an actual voice.
+
+You'll walk away having built:
+🎮 a voice-interactive game where voice and mouse clicks run over one channel
+🤖 a chat agent that gains a voice in ~10 lines, no touching your prompts, RAG, or tools
+📞 an agent that makes real outbound phone calls and streams the transcript back live
+
+Enroll for free: https://t.co/YCTkiF17Sv
+
+We'd love to see what you build. Let's go 🚀</title>
+      <link>https://x.com/VocalBridge/status/2084007456355795085</link>
+      <description>"Voice gets interesting the moment developers find interaction patterns that only voice makes possible." - @scottcjohnston 
+
+We built a @DeepLearningAI course on exactly that. Voice for AI Agents and Applications, with @_ashwyn , @AndrewYNg , and @scottcjohnston.
+
+Most voice infrastructure out there was built for one job: replace humans in contact centers. Answer the phone, follow the script, close the ticket.
+
+Building voice into a real product is a different problem. This free short course is about that, giving your apps and agents an actual voice.
+
+You'll walk away having built:
+🎮 a voice-interactive game where voice and mouse clicks run over one channel
+🤖 a chat agent that gains a voice in ~10 lines, no touching your prompts, RAG, or tools
+📞 an agent that makes real outbound phone calls and streams the transcript back live
+
+Enroll for free: https://t.co/YCTkiF17Sv
+
+We'd love to see what you build. Let's go 🚀</description>
+      <guid isPermaLink="false">https://x.com/VocalBridge/status/2084007456355795085</guid>
+      <pubDate>Sun, 02 Aug 2026 20:04:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>[WhiteHouse]Locked in.</title>
+      <link>https://x.com/WhiteHouse/status/2084007770416697394</link>
+      <description>Locked in.</description>
+      <guid isPermaLink="false">https://x.com/WhiteHouse/status/2084007770416697394</guid>
+      <pubDate>Sun, 02 Aug 2026 20:05:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>[karpathy]agree!! i quite like the idea of procedural code for storyboarding and control, and then video to video models for texturing and looksmaxxing.</title>
+      <link>https://x.com/karpathy/status/2084017844455690558</link>
+      <description>agree!! i quite like the idea of procedural code for storyboarding and control, and then video to video models for texturing and looksmaxxing.</description>
+      <guid isPermaLink="false">https://x.com/karpathy/status/2084017844455690558</guid>
+      <pubDate>Sun, 02 Aug 2026 20:45:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>[elonmusk]💯</title>
+      <link>https://x.com/elonmusk/status/2084031064704491761</link>
+      <description>💯</description>
+      <guid isPermaLink="false">https://x.com/elonmusk/status/2084031064704491761</guid>
+      <pubDate>Sun, 02 Aug 2026 21:38:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>[elonmusk]😂</title>
+      <link>https://x.com/elonmusk/status/2084031298276827136</link>
+      <description>😂</description>
+      <guid isPermaLink="false">https://x.com/elonmusk/status/2084031298276827136</guid>
+      <pubDate>Sun, 02 Aug 2026 21:39:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>[elonmusk]Indeed
+https://x.com/i/grok/share/8a88968e33524b6ab88e39bb2790e02c</title>
+      <link>https://x.com/elonmusk/status/2084031845860065692</link>
+      <description>Indeed
+https://x.com/i/grok/share/8a88968e33524b6ab88e39bb2790e02c</description>
+      <guid isPermaLink="false">https://x.com/elonmusk/status/2084031845860065692</guid>
+      <pubDate>Sun, 02 Aug 2026 21:41:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>[elonmusk]It is actually a world of difference</title>
+      <link>https://x.com/elonmusk/status/2084032183887335530</link>
+      <description>It is actually a world of difference</description>
+      <guid isPermaLink="false">https://x.com/elonmusk/status/2084032183887335530</guid>
+      <pubDate>Sun, 02 Aug 2026 21:42:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>[elonmusk]The fake alive human fraud is 10 times worse in America &amp; Europe</title>
+      <link>https://x.com/elonmusk/status/2084032763280138546</link>
+      <description>The fake alive human fraud is 10 times worse in America &amp; Europe</description>
+      <guid isPermaLink="false">https://x.com/elonmusk/status/2084032763280138546</guid>
+      <pubDate>Sun, 02 Aug 2026 21:45:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>[JennieKimData]Following her headline performance at Lollapalooza Chicago, #JENNIE dominated Google Trends in the United States.🇺🇸
+
+She ranked as the #1 most-searched query in the U.S. over the past 24 hours, with four of the top five trending searches also related to her and her Lollapalooza performance.</title>
+      <link>https://x.com/JennieKimData/status/2084051121144783172</link>
+      <description>Following her headline performance at Lollapalooza Chicago, #JENNIE dominated Google Trends in the United States.🇺🇸
+
+She ranked as the #1 most-searched query in the U.S. over the past 24 hours, with four of the top five trending searches also related to her and her Lollapalooza performance.</description>
+      <guid isPermaLink="false">https://x.com/JennieKimData/status/2084051121144783172</guid>
+      <pubDate>Sun, 02 Aug 2026 22:58:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>[karpathy]so fun! :) at some point i wonder if ngram (tables) or even something like decision trees start to give superior log probs, and at much smaller program lengths overall (sum of program + weights). i.e. what is the best val loss model overall, for 25KB of user space. fun q!</title>
+      <link>https://x.com/karpathy/status/2084056739197108667</link>
+      <description>so fun! :) at some point i wonder if ngram (tables) or even something like decision trees start to give superior log probs, and at much smaller program lengths overall (sum of program + weights). i.e. what is the best val loss model overall, for 25KB of user space. fun q!</description>
+      <guid isPermaLink="false">https://x.com/karpathy/status/2084056739197108667</guid>
+      <pubDate>Sun, 02 Aug 2026 23:20:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Polymarket]JUST IN: Trump announces negotiations with Iran will begin Monday afternoon, but sets no deadline for a deal.</title>
+      <link>https://x.com/Polymarket/status/2084062439252128094</link>
+      <description>JUST IN: Trump announces negotiations with Iran will begin Monday afternoon, but sets no deadline for a deal.</description>
+      <guid isPermaLink="false">https://x.com/Polymarket/status/2084062439252128094</guid>
+      <pubDate>Sun, 02 Aug 2026 23:43:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[VOMEngine]The homepage displayed “Trending in United States,” citing real news sources via Google Trends.
+
+Observed in one VOM product test.</title>
+      <link>https://x.com/VOMEngine/status/2084066737063133353</link>
+      <description>The homepage displayed “Trending in United States,” citing real news sources via Google Trends.
+
+Observed in one VOM product test.</description>
+      <guid isPermaLink="false">https://x.com/VOMEngine/status/2084066737063133353</guid>
+      <pubDate>Mon, 03 Aug 2026 00:00:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Polymarket]JUST IN: Young South Koreans are increasingly moving to Japan for work, as graduates struggle to find jobs at home. — Reuters</title>
+      <link>https://x.com/Polymarket/status/2084069934942851087</link>
+      <description>JUST IN: Young South Koreans are increasingly moving to Japan for work, as graduates struggle to find jobs at home. — Reuters</description>
+      <guid isPermaLink="false">https://x.com/Polymarket/status/2084069934942851087</guid>
+      <pubDate>Mon, 03 Aug 2026 00:12:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>[RonFilipkowski]Good to know after a tough weekend on the golf course the president is back at work laser focused on improving the lives of Americans by resuming his deranged AI marathon.</title>
+      <link>https://x.com/RonFilipkowski/status/2084074395207631054</link>
+      <description>Good to know after a tough weekend on the golf course the president is back at work laser focused on improving the lives of Americans by resuming his deranged AI marathon.</description>
+      <guid isPermaLink="false">https://x.com/RonFilipkowski/status/2084074395207631054</guid>
+      <pubDate>Mon, 03 Aug 2026 00:30:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Polymarket]BREAKING: Spider-Man: Brand New Day projected to surpass Avengers: Endgame's all-time domestic opening weekend record.
+89% chance. 
+https://polymarket.com/event/will-spider-man-brand-new-day-beat-avengers-endgames-opening-weekend-record-20260731162713556/will-spider-man-brand-new-day-beat-avengers-endgames-opening-weekend-record-20260731162713556?via=x-afr2 — BREAKING: Spider-Man: Brand New Day projected to surpass Avengers: Endgame's all-time domestic opening weekend record. 89% chance.…</title>
+      <link>https://x.com/Polymarket/status/2084076541873356841</link>
+      <description>BREAKING: Spider-Man: Brand New Day projected to surpass Avengers: Endgame's all-time domestic opening weekend record.
+89% chance. 
+https://polymarket.com/event/will-spider-man-brand-new-day-beat-avengers-endgames-opening-weekend-record-20260731162713556/will-spider-man-brand-new-day-beat-avengers-endgames-opening-weekend-record-20260731162713556?via=x-afr2</description>
+      <guid isPermaLink="false">https://x.com/Polymarket/status/2084076541873356841</guid>
+      <pubDate>Mon, 03 Aug 2026 00:39:02 +0000</pubDate>
     </item>
   </channel>
 </rss>
