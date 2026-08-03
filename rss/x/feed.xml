@@ -7,218 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 03 Aug 2026 13:08:28 +0000</lastBuildDate>
-    <item>
-      <title>[DivyanshT91162]Top 10 Fastest-Growing GitHub Repositories of July 👇
-
-1. mattpocock/skills
-Matt Pocock's personal Claude Code skills—now open to everyone. These are the exact workflows he uses in his own .claude directory.
-+22.1K stars in July — the fastest-growing GitHub repo this month.
-https://t.co/K6MjFMefHm
-
-2. OpenCut-app/OpenCut
-An open-source alternative to CapCut. Edit videos directly in your browser with no account, no telemetry, and complete privacy.
-+6.2K stars this week — #1 trending repository.
-https://t.co/QniZNYqBqv
-
-3. MadsLorentzen/ai-job-search
-A Claude Code-powered AI agent that applies for jobs on your behalf. It tailors your resume, writes cover letters, and even prepares you for interviews.
- +5.9K stars this month.
-https://t.co/fvIeDOoIdw
-
-4. asgeirtj/system_prompts_leaks
-A collection of leaked system prompts from Claude, GPT, Gemini, Grok, Cursor, Copilot, and more. Compare how today's leading AI models are instructed behind the scenes.
-https://t.co/HZpSfXM3mI
-
-5. zaid-maker/meetily
-A 100% local AI meeting assistant built in Rust. Delivers 4× faster transcription than standard Whisper, speaker diarization, and Ollama-powered summaries.
-https://t.co/6iZOAoF2fQ
-
-6. HKUDS/Vibe-Trading
-Bring the "vibe coding" experience to financial markets. Build AI-powered trading strategies using natural language and autonomous agents.
-https://t.co/f3WfJnTsk
-
-7. usestrix/strix
-An open-source AI vulnerability scanner that helps detect and fix security issues before attackers find them.
-https://t.co/OfaDzLxeVz
-
-8. obra/superpowers
-A self-hosted AI workspace that surpassed 250K GitHub stars. One of the most-starred open-source AI projects, growing almost entirely through developer word of mouth.
-https://t.co/6yheVP1zKi
-
-9. moeru-ai/airi
-An open-source framework for creating AI-powered virtual characters with voice, personality, and real-time interaction. Perfect for VTubers and AI companions.
-https://t.co/nglyZDiXR6
-
-10. mendableai/firecrawl
-Turn any website into clean, LLM-ready data. One of the most popular tools for RAG pipelines and AI agents with web access.
-https://t.co/onZ9Vi1FCP
-
-GitHub has been absolutely insane this July... and the month isn't even over yet.
-
-Bookmark this list before everyone else finds these repos.</title>
-      <link>https://x.com/DivyanshT91162/status/2078962837439840310</link>
-      <description>Top 10 Fastest-Growing GitHub Repositories of July 👇
-
-1. mattpocock/skills
-Matt Pocock's personal Claude Code skills—now open to everyone. These are the exact workflows he uses in his own .claude directory.
-+22.1K stars in July — the fastest-growing GitHub repo this month.
-https://t.co/K6MjFMefHm
-
-2. OpenCut-app/OpenCut
-An open-source alternative to CapCut. Edit videos directly in your browser with no account, no telemetry, and complete privacy.
-+6.2K stars this week — #1 trending repository.
-https://t.co/QniZNYqBqv
-
-3. MadsLorentzen/ai-job-search
-A Claude Code-powered AI agent that applies for jobs on your behalf. It tailors your resume, writes cover letters, and even prepares you for interviews.
- +5.9K stars this month.
-https://t.co/fvIeDOoIdw
-
-4. asgeirtj/system_prompts_leaks
-A collection of leaked system prompts from Claude, GPT, Gemini, Grok, Cursor, Copilot, and more. Compare how today's leading AI models are instructed behind the scenes.
-https://t.co/HZpSfXM3mI
-
-5. zaid-maker/meetily
-A 100% local AI meeting assistant built in Rust. Delivers 4× faster transcription than standard Whisper, speaker diarization, and Ollama-powered summaries.
-https://t.co/6iZOAoF2fQ
-
-6. HKUDS/Vibe-Trading
-Bring the "vibe coding" experience to financial markets. Build AI-powered trading strategies using natural language and autonomous agents.
-https://t.co/f3WfJnTsk
-
-7. usestrix/strix
-An open-source AI vulnerability scanner that helps detect and fix security issues before attackers find them.
-https://t.co/OfaDzLxeVz
-
-8. obra/superpowers
-A self-hosted AI workspace that surpassed 250K GitHub stars. One of the most-starred open-source AI projects, growing almost entirely through developer word of mouth.
-https://t.co/6yheVP1zKi
-
-9. moeru-ai/airi
-An open-source framework for creating AI-powered virtual characters with voice, personality, and real-time interaction. Perfect for VTubers and AI companions.
-https://t.co/nglyZDiXR6
-
-10. mendableai/firecrawl
-Turn any website into clean, LLM-ready data. One of the most popular tools for RAG pipelines and AI agents with web access.
-https://t.co/onZ9Vi1FCP
-
-GitHub has been absolutely insane this July... and the month isn't even over yet.
-
-Bookmark this list before everyone else finds these repos.</description>
-      <guid isPermaLink="false">https://x.com/DivyanshT91162/status/2078962837439840310</guid>
-      <pubDate>Sun, 19 Jul 2026 21:59:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[WhiteHouse]Congratulations to Vice President JD Vance and Second Lady Usha Vance on the birth of their fourth child! 💙🇺🇸</title>
-      <link>https://x.com/WhiteHouse/status/2078968468750115016</link>
-      <description>Congratulations to Vice President JD Vance and Second Lady Usha Vance on the birth of their fourth child! 💙🇺🇸</description>
-      <guid isPermaLink="false">https://x.com/WhiteHouse/status/2078968468750115016</guid>
-      <pubDate>Sun, 19 Jul 2026 22:21:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>[hanakoxbt]6 agent patterns for AI engineers:
-
-(explained with usage)
-
-1) prompt chaining
-→ split the task into fixed steps, each one checking the last.
-→ use when the task decomposes cleanly and accuracy matters more than latency.
-
-2) routing
-→ classify the input first, then send it to the model or tool built for it.
-→ use when inputs fall into distinct classes that need different handling.
-
-3) parallelization
-→ run several calls at once and merge them, either by splitting the work or voting on the same question.
-→ use when subtasks are independent, or when one answer deserves several opinions.
-
-4) orchestrator-workers
-→ a lead model decides what the subtasks are at runtime, then delegates them.
-→ use when you cannot list the steps in advance.
-
-5) evaluator-optimizer
-→ one model writes, another grades, the loop repeats until it passes.
-→ use when you have clear criteria and iteration measurably helps.
-
-6) autonomous agent
-→ no fixed path. it plans, acts, reads feedback from the environment, and decides when it is done.
-→ use when the steps are unknowable and you can afford the cost and the blast radius.
-
-the first five are workflows: you wrote the path. only the last one writes its own.
-
-most production systems people call agents are pattern 1, 2, or 5 with good error handling.
-
-this taxonomy is from Anthropic's own writeup on building effective agents.
-
-full breakdown in the article below.</title>
-      <link>https://x.com/hanakoxbt/status/2078979637804187793</link>
-      <description>6 agent patterns for AI engineers:
-
-(explained with usage)
-
-1) prompt chaining
-→ split the task into fixed steps, each one checking the last.
-→ use when the task decomposes cleanly and accuracy matters more than latency.
-
-2) routing
-→ classify the input first, then send it to the model or tool built for it.
-→ use when inputs fall into distinct classes that need different handling.
-
-3) parallelization
-→ run several calls at once and merge them, either by splitting the work or voting on the same question.
-→ use when subtasks are independent, or when one answer deserves several opinions.
-
-4) orchestrator-workers
-→ a lead model decides what the subtasks are at runtime, then delegates them.
-→ use when you cannot list the steps in advance.
-
-5) evaluator-optimizer
-→ one model writes, another grades, the loop repeats until it passes.
-→ use when you have clear criteria and iteration measurably helps.
-
-6) autonomous agent
-→ no fixed path. it plans, acts, reads feedback from the environment, and decides when it is done.
-→ use when the steps are unknowable and you can afford the cost and the blast radius.
-
-the first five are workflows: you wrote the path. only the last one writes its own.
-
-most production systems people call agents are pattern 1, 2, or 5 with good error handling.
-
-this taxonomy is from Anthropic's own writeup on building effective agents.
-
-full breakdown in the article below.</description>
-      <guid isPermaLink="false">https://x.com/hanakoxbt/status/2078979637804187793</guid>
-      <pubDate>Sun, 19 Jul 2026 23:05:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>[elonmusk]Try Grok 4.5!</title>
-      <link>https://x.com/elonmusk/status/2078987522927972695</link>
-      <description>Try Grok 4.5!</description>
-      <guid isPermaLink="false">https://x.com/elonmusk/status/2078987522927972695</guid>
-      <pubDate>Sun, 19 Jul 2026 23:37:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Polymarket]JUST IN: Trump administration designates two additional Mexican cartels as foreign terrorist organizations.</title>
-      <link>https://x.com/Polymarket/status/2078999524069007767</link>
-      <description>JUST IN: Trump administration designates two additional Mexican cartels as foreign terrorist organizations.</description>
-      <guid isPermaLink="false">https://x.com/Polymarket/status/2078999524069007767</guid>
-      <pubDate>Mon, 20 Jul 2026 00:24:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>[RapidResponse47].@POTUS on Iran: "What we're doing now is we're ending any chance where they can have a nuclear missile. If you look at it, after a week and a half... we stopped them from 'probably,' but I don't want to have the word 'probably.'"</title>
-      <link>https://x.com/RapidResponse47/status/2079002503794868390</link>
-      <description>.@POTUS on Iran: "What we're doing now is we're ending any chance where they can have a nuclear missile. If you look at it, after a week and a half... we stopped them from 'probably,' but I don't want to have the word 'probably.'"</description>
-      <guid isPermaLink="false">https://x.com/RapidResponse47/status/2079002503794868390</guid>
-      <pubDate>Mon, 20 Jul 2026 00:36:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>[soogz1]hey @grok remove anything blue</title>
-      <link>https://x.com/soogz1/status/2079006382037045249</link>
-      <description>hey @grok remove anything blue</description>
-      <guid isPermaLink="false">https://x.com/soogz1/status/2079006382037045249</guid>
-      <pubDate>Mon, 20 Jul 2026 00:52:02 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 03 Aug 2026 18:38:51 +0000</lastBuildDate>
     <item>
       <title>[codewithimanshu]Claude Fable 5 + a laptop + internet connection + 60 minutes a day can help you build valuable AI skills and new income opportunities.
 
@@ -418,17 +207,17 @@ https://polymarket.com/event/next-leader-of-germanys-union-cducsu-20260718204733
       <pubDate>Mon, 20 Jul 2026 17:38:00 +0000</pubDate>
     </item>
     <item>
-      <title>[msdebugger_VK]Today's GenAI lecture covered the complete RAG pipeline 🚀 ✅ Query processing ✅ Step-Back Prompting ✅ HyDE ✅ Query routing ✅ Hybrid retrieval ✅ Re-ranking ✅ C-RAG ✅ Guardrails ✅ Answer evaluation Production AI is much more than just an LLM. #GenAI #RAG #AI #chaicode</title>
-      <link>https://x.com/msdebugger_VK/status/2079260037277700464</link>
-      <description>Today's GenAI lecture covered the complete RAG pipeline 🚀 ✅ Query processing ✅ Step-Back Prompting ✅ HyDE ✅ Query routing ✅ Hybrid retrieval ✅ Re-ranking ✅ C-RAG ✅ Guardrails ✅ Answer evaluation Production AI is much more than just an LLM. #GenAI #RAG #AI #chaicode</description>
-      <guid isPermaLink="false">https://x.com/msdebugger_VK/status/2079260037277700464</guid>
-      <pubDate>Mon, 20 Jul 2026 17:39:58 +0000</pubDate>
-    </item>
-    <item>
       <title>[Romildo_Games]Hello Robio! I’m a video producer and editor specializing in combining high-quality video creation with AI workflows to speed up production and scale content. Portfolio / Reel: https://www.artstation.com/artwork/Nq954b Thanks!</title>
       <link>https://x.com/Romildo_Games/status/2079260039424962727</link>
       <description>Hello Robio! I’m a video producer and editor specializing in combining high-quality video creation with AI workflows to speed up production and scale content. Portfolio / Reel: https://www.artstation.com/artwork/Nq954b Thanks!</description>
       <guid isPermaLink="false">https://x.com/Romildo_Games/status/2079260039424962727</guid>
+      <pubDate>Mon, 20 Jul 2026 17:39:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>[msdebugger_VK]Today's GenAI lecture covered the complete RAG pipeline 🚀 ✅ Query processing ✅ Step-Back Prompting ✅ HyDE ✅ Query routing ✅ Hybrid retrieval ✅ Re-ranking ✅ C-RAG ✅ Guardrails ✅ Answer evaluation Production AI is much more than just an LLM. #GenAI #RAG #AI #chaicode</title>
+      <link>https://x.com/msdebugger_VK/status/2079260037277700464</link>
+      <description>Today's GenAI lecture covered the complete RAG pipeline 🚀 ✅ Query processing ✅ Step-Back Prompting ✅ HyDE ✅ Query routing ✅ Hybrid retrieval ✅ Re-ranking ✅ C-RAG ✅ Guardrails ✅ Answer evaluation Production AI is much more than just an LLM. #GenAI #RAG #AI #chaicode</description>
+      <guid isPermaLink="false">https://x.com/msdebugger_VK/status/2079260037277700464</guid>
       <pubDate>Mon, 20 Jul 2026 17:39:58 +0000</pubDate>
     </item>
     <item>
@@ -2356,6 +2145,13 @@ https://polymarket.com/event/where-will-2026-rank-among-the-hottest-years-on-rec
       <pubDate>Fri, 24 Jul 2026 18:34:33 +0000</pubDate>
     </item>
     <item>
+      <title>[JuagY36144]China Always Lead in AI</title>
+      <link>https://x.com/JuagY36144/status/2080723331033206869</link>
+      <description>China Always Lead in AI</description>
+      <guid isPermaLink="false">https://x.com/JuagY36144/status/2080723331033206869</guid>
+      <pubDate>Fri, 24 Jul 2026 18:34:34 +0000</pubDate>
+    </item>
+    <item>
       <title>[officiall_logo]Thank God for AI,at least Ronaldo fans can hold onto something 😂</title>
       <link>https://x.com/officiall_logo/status/2080723331095863788</link>
       <description>Thank God for AI,at least Ronaldo fans can hold onto something 😂</description>
@@ -2363,11 +2159,11 @@ https://polymarket.com/event/where-will-2026-rank-among-the-hottest-years-on-rec
       <pubDate>Fri, 24 Jul 2026 18:34:34 +0000</pubDate>
     </item>
     <item>
-      <title>[JuagY36144]China Always Lead in AI</title>
-      <link>https://x.com/JuagY36144/status/2080723331033206869</link>
-      <description>China Always Lead in AI</description>
-      <guid isPermaLink="false">https://x.com/JuagY36144/status/2080723331033206869</guid>
-      <pubDate>Fri, 24 Jul 2026 18:34:34 +0000</pubDate>
+      <title>[NekiWeb3]sovereign infra is the quiet edge in the ai race</title>
+      <link>https://x.com/NekiWeb3/status/2080723332970987871</link>
+      <description>sovereign infra is the quiet edge in the ai race</description>
+      <guid isPermaLink="false">https://x.com/NekiWeb3/status/2080723332970987871</guid>
+      <pubDate>Fri, 24 Jul 2026 18:34:35 +0000</pubDate>
     </item>
     <item>
       <title>[noface_trdr]$SMH | $KEEL 
@@ -2386,13 +2182,6 @@ Helps me confirm whether $KEEL price action is tied to sector sentiment or just 
 
 So far, its 99% sector sentiment</description>
       <guid isPermaLink="false">https://x.com/noface_trdr/status/2080723335898447940</guid>
-      <pubDate>Fri, 24 Jul 2026 18:34:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>[NekiWeb3]sovereign infra is the quiet edge in the ai race</title>
-      <link>https://x.com/NekiWeb3/status/2080723332970987871</link>
-      <description>sovereign infra is the quiet edge in the ai race</description>
-      <guid isPermaLink="false">https://x.com/NekiWeb3/status/2080723332970987871</guid>
       <pubDate>Fri, 24 Jul 2026 18:34:35 +0000</pubDate>
     </item>
     <item>
@@ -3698,17 +3487,6 @@ Then I'll DM you the details.</description>
       <pubDate>Tue, 28 Jul 2026 15:52:55 +0000</pubDate>
     </item>
     <item>
-      <title>[AnthropicAI]We also worked with academics at ETH Zurich, Tel Aviv University, and the University of Haifa to build CryptanalysisBench, a benchmark for studying LLMs’ cryptanalysis abilities.
-
-https://arxiv.org/abs/2607.18538</title>
-      <link>https://x.com/AnthropicAI/status/2082153311189225927</link>
-      <description>We also worked with academics at ETH Zurich, Tel Aviv University, and the University of Haifa to build CryptanalysisBench, a benchmark for studying LLMs’ cryptanalysis abilities.
-
-https://arxiv.org/abs/2607.18538</description>
-      <guid isPermaLink="false">https://x.com/AnthropicAI/status/2082153311189225927</guid>
-      <pubDate>Tue, 28 Jul 2026 17:16:48 +0000</pubDate>
-    </item>
-    <item>
       <title>[AnthropicAI]Full technical details of both attacks are provided in our new papers:
 
 On HAWK: https://www-cdn.anthropic.com/e8d50c167ad47beeb03d6109a4a484be95cb38ea/hawk_key_recovery.pdf
@@ -3725,6 +3503,17 @@ On AES: https://www-cdn.anthropic.com/c88771e1bf5ee8885349eed05e5484c0e5f7e02b/a
 
 And the associated model chain-of-thought for AES: https://www-cdn.anthropic.com/5273e714527440f1c8b7c7bf5756d4ac22ae8995/aes_mobius_bridge_cot.pdf</description>
       <guid isPermaLink="false">https://x.com/AnthropicAI/status/2082153309553463600</guid>
+      <pubDate>Tue, 28 Jul 2026 17:16:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>[AnthropicAI]We also worked with academics at ETH Zurich, Tel Aviv University, and the University of Haifa to build CryptanalysisBench, a benchmark for studying LLMs’ cryptanalysis abilities.
+
+https://arxiv.org/abs/2607.18538</title>
+      <link>https://x.com/AnthropicAI/status/2082153311189225927</link>
+      <description>We also worked with academics at ETH Zurich, Tel Aviv University, and the University of Haifa to build CryptanalysisBench, a benchmark for studying LLMs’ cryptanalysis abilities.
+
+https://arxiv.org/abs/2607.18538</description>
+      <guid isPermaLink="false">https://x.com/AnthropicAI/status/2082153311189225927</guid>
       <pubDate>Tue, 28 Jul 2026 17:16:48 +0000</pubDate>
     </item>
     <item>
@@ -3822,21 +3611,6 @@ https://polymarket.com/event/michigan-democratic-senate-primary-winner?dub_id=fC
       <pubDate>Wed, 29 Jul 2026 00:32:16 +0000</pubDate>
     </item>
     <item>
-      <title>[OpenAI]We quietly released the open-source Codex Security CLI, but Hacker News found it before we had a chance to share it here...
-
-You can now use it to scan repositories, track findings across runs, verify fixes, and add security checks to CI/CD. 
-
-This is an early release, and we're listening to your feedback as we continue improving it.</title>
-      <link>https://x.com/OpenAI/status/2082263717916586117</link>
-      <description>We quietly released the open-source Codex Security CLI, but Hacker News found it before we had a chance to share it here...
-
-You can now use it to scan repositories, track findings across runs, verify fixes, and add security checks to CI/CD. 
-
-This is an early release, and we're listening to your feedback as we continue improving it.</description>
-      <guid isPermaLink="false">https://x.com/OpenAI/status/2082263717916586117</guid>
-      <pubDate>Wed, 29 Jul 2026 00:35:31 +0000</pubDate>
-    </item>
-    <item>
       <title>[OpenAI]Install the open-source Codex Security CLI,:
 npm install @OpenAI/codex-security
 
@@ -3855,6 +3629,21 @@ npx @OpenAI/codex-security@latest --help
 
 NPM: https://www.npmjs.com/package/@openai/codex-security</description>
       <guid isPermaLink="false">https://x.com/OpenAI/status/2082263719460094127</guid>
+      <pubDate>Wed, 29 Jul 2026 00:35:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>[OpenAI]We quietly released the open-source Codex Security CLI, but Hacker News found it before we had a chance to share it here...
+
+You can now use it to scan repositories, track findings across runs, verify fixes, and add security checks to CI/CD. 
+
+This is an early release, and we're listening to your feedback as we continue improving it.</title>
+      <link>https://x.com/OpenAI/status/2082263717916586117</link>
+      <description>We quietly released the open-source Codex Security CLI, but Hacker News found it before we had a chance to share it here...
+
+You can now use it to scan repositories, track findings across runs, verify fixes, and add security checks to CI/CD. 
+
+This is an early release, and we're listening to your feedback as we continue improving it.</description>
+      <guid isPermaLink="false">https://x.com/OpenAI/status/2082263717916586117</guid>
       <pubDate>Wed, 29 Jul 2026 00:35:31 +0000</pubDate>
     </item>
     <item>
@@ -5676,6 +5465,41 @@ HEATHsTIME MALAPIT NA #Happy2BTiktokViewsHMJ</description>
       <pubDate>Mon, 03 Aug 2026 06:45:08 +0000</pubDate>
     </item>
     <item>
+      <title>[anah_sahh]USA has ChatGPT
+USA has Grok
+USA has Claude
+USA has Gemini
+USA has Llama
+USA has Copilot 
+
+China has DeepSeek
+China has Qwen
+China has Ernie
+China has GLM
+China has Kimi
+China has MiniMax    
+
+Europe has?</title>
+      <link>https://x.com/anah_sahh/status/2084168762882748423</link>
+      <description>USA has ChatGPT
+USA has Grok
+USA has Claude
+USA has Gemini
+USA has Llama
+USA has Copilot 
+
+China has DeepSeek
+China has Qwen
+China has Ernie
+China has GLM
+China has Kimi
+China has MiniMax    
+
+Europe has?</description>
+      <guid isPermaLink="false">https://x.com/anah_sahh/status/2084168762882748423</guid>
+      <pubDate>Mon, 03 Aug 2026 06:45:29 +0000</pubDate>
+    </item>
+    <item>
       <title>[WinRiOFC]#ProtectSenRisa is now trending at top 7
 
 more than simply “trending” for the sake of it, we have to make noise to show na hindi na uubra ang status quo noon na pwedeng basta-bastang magbanta kapag kakampi ng nasa kapangyarihan.</title>
@@ -5694,17 +5518,6 @@ more than simply “trending” for the sake of it, we have to make noise to sho
       <pubDate>Mon, 03 Aug 2026 07:08:00 +0000</pubDate>
     </item>
     <item>
-      <title>[TheAIShrink]Ruflo is an agent meta-harness. that means it's glue code holding three different LLMs together with hope and a context window that expires in 15 minutes.
-
-the real moat isn't the harness. it's the memory layer that remembers why you deleted that function last tuesday.</title>
-      <link>https://x.com/TheAIShrink/status/2084177591338930615</link>
-      <description>Ruflo is an agent meta-harness. that means it's glue code holding three different LLMs together with hope and a context window that expires in 15 minutes.
-
-the real moat isn't the harness. it's the memory layer that remembers why you deleted that function last tuesday.</description>
-      <guid isPermaLink="false">https://x.com/TheAIShrink/status/2084177591338930615</guid>
-      <pubDate>Mon, 03 Aug 2026 07:20:34 +0000</pubDate>
-    </item>
-    <item>
       <title>[ememzyvisuals]My first Ai role I got it from Tiktok 
 I don't know , Tiktok is just Good for finding gigs and getting job</title>
       <link>https://x.com/ememzyvisuals/status/2084177591225684270</link>
@@ -5714,18 +5527,15 @@ I don't know , Tiktok is just Good for finding gigs and getting job</description
       <pubDate>Mon, 03 Aug 2026 07:20:34 +0000</pubDate>
     </item>
     <item>
-      <title>[Alphafleet_AI]Meet Tide, an AI Trader built around an Elliott-wave breakout strategy on 4h crypto structure. AlphaFleet helps review signal quality, not outsource judgment. #AITrading #MarketStructure → http://traderarena.io/en</title>
-      <link>https://x.com/Alphafleet_AI/status/2084177604740018629</link>
-      <description>Meet Tide, an AI Trader built around an Elliott-wave breakout strategy on 4h crypto structure. AlphaFleet helps review signal quality, not outsource judgment. #AITrading #MarketStructure → http://traderarena.io/en</description>
-      <guid isPermaLink="false">https://x.com/Alphafleet_AI/status/2084177604740018629</guid>
-      <pubDate>Mon, 03 Aug 2026 07:20:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>[timobruhasleft]If I understand correctly even simple operations take up a lot of computing power.  Agents undertaking commercial tasks take up enormous amounts; research even more. I don’t think many people,including me, understand what AI does and will do in future. It should not be for memes.</title>
-      <link>https://x.com/timobruhasleft/status/2084177604706197920</link>
-      <description>If I understand correctly even simple operations take up a lot of computing power.  Agents undertaking commercial tasks take up enormous amounts; research even more. I don’t think many people,including me, understand what AI does and will do in future. It should not be for memes.</description>
-      <guid isPermaLink="false">https://x.com/timobruhasleft/status/2084177604706197920</guid>
-      <pubDate>Mon, 03 Aug 2026 07:20:37 +0000</pubDate>
+      <title>[TheAIShrink]Ruflo is an agent meta-harness. that means it's glue code holding three different LLMs together with hope and a context window that expires in 15 minutes.
+
+the real moat isn't the harness. it's the memory layer that remembers why you deleted that function last tuesday.</title>
+      <link>https://x.com/TheAIShrink/status/2084177591338930615</link>
+      <description>Ruflo is an agent meta-harness. that means it's glue code holding three different LLMs together with hope and a context window that expires in 15 minutes.
+
+the real moat isn't the harness. it's the memory layer that remembers why you deleted that function last tuesday.</description>
+      <guid isPermaLink="false">https://x.com/TheAIShrink/status/2084177591338930615</guid>
+      <pubDate>Mon, 03 Aug 2026 07:20:34 +0000</pubDate>
     </item>
     <item>
       <title>[jarvana_sv]ChatGPT Voice can now control long-running tasks with simple voice commands.
@@ -5745,6 +5555,27 @@ https://sanny-recommends.com/learn-ai</description>
       <pubDate>Mon, 03 Aug 2026 07:20:37 +0000</pubDate>
     </item>
     <item>
+      <title>[timobruhasleft]If I understand correctly even simple operations take up a lot of computing power.  Agents undertaking commercial tasks take up enormous amounts; research even more. I don’t think many people,including me, understand what AI does and will do in future. It should not be for memes.</title>
+      <link>https://x.com/timobruhasleft/status/2084177604706197920</link>
+      <description>If I understand correctly even simple operations take up a lot of computing power.  Agents undertaking commercial tasks take up enormous amounts; research even more. I don’t think many people,including me, understand what AI does and will do in future. It should not be for memes.</description>
+      <guid isPermaLink="false">https://x.com/timobruhasleft/status/2084177604706197920</guid>
+      <pubDate>Mon, 03 Aug 2026 07:20:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Alphafleet_AI]Meet Tide, an AI Trader built around an Elliott-wave breakout strategy on 4h crypto structure. AlphaFleet helps review signal quality, not outsource judgment. #AITrading #MarketStructure → http://traderarena.io/en</title>
+      <link>https://x.com/Alphafleet_AI/status/2084177604740018629</link>
+      <description>Meet Tide, an AI Trader built around an Elliott-wave breakout strategy on 4h crypto structure. AlphaFleet helps review signal quality, not outsource judgment. #AITrading #MarketStructure → http://traderarena.io/en</description>
+      <guid isPermaLink="false">https://x.com/Alphafleet_AI/status/2084177604740018629</guid>
+      <pubDate>Mon, 03 Aug 2026 07:20:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>[AI_mai_me_you]ultra realistic smartphone mirror selfie of a beautiful Japanese woman in her early 20s sitting naturally on a gym bench after training, authentic modern Japanese facial features, unmistakably Japanese rather than Chinese or Korean, naturally small soft oval face, delicate feminine jawline without an overly pointed chin, refined facial proportions, elegant straight and narrow high nose bridge, slim nose with a small defined nose tip, narrow nostrils, no round button nose, medium-sized almond-shaped dark brown eyes, subtle natural double eyelids, exceptionally long dramatic Japanese-style manga eyelashes with visible wispy lash clusters on both upper and lower lashes, naturally thick softly arched eyebrows, soft aegyo-sal, smooth youthful skin with natural texture, healthy light Japanese complexion, subtle peach blush, glossy natural pink lips, gentle sweet smile, cute and approachable Japanese idol vibe rather than a glamorous model, shoulder-length black layered bob with soft face-framing strands and airy see-through bangs, slightly tousled natural hair, wearing a simple black sports bra and high-waisted black leggings, healthy toned but realistic body, slim waist without exaggeration, natural medium bust, soft feminine curves, relaxed shoulders, one hand resting on the bench, the other holding a black smartphone covering part of the face, casual candid pose, bright modern fitness gym with squat racks, weight machines and large windows in the background, authentic gym lighting, realistic reflections in the mirror, shallow depth of field, genuine smartphone camera quality, slight lens distortion, subtle sensor noise, realistic skin pores, natural lighting, candid fitness lifestyle photography, ordinary attractive Japanese woman instead of an AI-generated supermodel, highly photorealistic, no text, no watermark</title>
+      <link>https://x.com/AI_mai_me_you/status/2084177607168512200</link>
+      <description>ultra realistic smartphone mirror selfie of a beautiful Japanese woman in her early 20s sitting naturally on a gym bench after training, authentic modern Japanese facial features, unmistakably Japanese rather than Chinese or Korean, naturally small soft oval face, delicate feminine jawline without an overly pointed chin, refined facial proportions, elegant straight and narrow high nose bridge, slim nose with a small defined nose tip, narrow nostrils, no round button nose, medium-sized almond-shaped dark brown eyes, subtle natural double eyelids, exceptionally long dramatic Japanese-style manga eyelashes with visible wispy lash clusters on both upper and lower lashes, naturally thick softly arched eyebrows, soft aegyo-sal, smooth youthful skin with natural texture, healthy light Japanese complexion, subtle peach blush, glossy natural pink lips, gentle sweet smile, cute and approachable Japanese idol vibe rather than a glamorous model, shoulder-length black layered bob with soft face-framing strands and airy see-through bangs, slightly tousled natural hair, wearing a simple black sports bra and high-waisted black leggings, healthy toned but realistic body, slim waist without exaggeration, natural medium bust, soft feminine curves, relaxed shoulders, one hand resting on the bench, the other holding a black smartphone covering part of the face, casual candid pose, bright modern fitness gym with squat racks, weight machines and large windows in the background, authentic gym lighting, realistic reflections in the mirror, shallow depth of field, genuine smartphone camera quality, slight lens distortion, subtle sensor noise, realistic skin pores, natural lighting, candid fitness lifestyle photography, ordinary attractive Japanese woman instead of an AI-generated supermodel, highly photorealistic, no text, no watermark</description>
+      <guid isPermaLink="false">https://x.com/AI_mai_me_you/status/2084177607168512200</guid>
+      <pubDate>Mon, 03 Aug 2026 07:20:38 +0000</pubDate>
+    </item>
+    <item>
       <title>[digitalskillsws]Growth doesn't happen because you know everything.
 
 It happens because you're willing to learn one new thing today that you didn't know yesterday.
@@ -5760,11 +5591,15 @@ Keep showing up. Small improvements become extraordinary results over time. 🌱
       <pubDate>Mon, 03 Aug 2026 07:20:38 +0000</pubDate>
     </item>
     <item>
-      <title>[AI_mai_me_you]ultra realistic smartphone mirror selfie of a beautiful Japanese woman in her early 20s sitting naturally on a gym bench after training, authentic modern Japanese facial features, unmistakably Japanese rather than Chinese or Korean, naturally small soft oval face, delicate feminine jawline without an overly pointed chin, refined facial proportions, elegant straight and narrow high nose bridge, slim nose with a small defined nose tip, narrow nostrils, no round button nose, medium-sized almond-shaped dark brown eyes, subtle natural double eyelids, exceptionally long dramatic Japanese-style manga eyelashes with visible wispy lash clusters on both upper and lower lashes, naturally thick softly arched eyebrows, soft aegyo-sal, smooth youthful skin with natural texture, healthy light Japanese complexion, subtle peach blush, glossy natural pink lips, gentle sweet smile, cute and approachable Japanese idol vibe rather than a glamorous model, shoulder-length black layered bob with soft face-framing strands and airy see-through bangs, slightly tousled natural hair, wearing a simple black sports bra and high-waisted black leggings, healthy toned but realistic body, slim waist without exaggeration, natural medium bust, soft feminine curves, relaxed shoulders, one hand resting on the bench, the other holding a black smartphone covering part of the face, casual candid pose, bright modern fitness gym with squat racks, weight machines and large windows in the background, authentic gym lighting, realistic reflections in the mirror, shallow depth of field, genuine smartphone camera quality, slight lens distortion, subtle sensor noise, realistic skin pores, natural lighting, candid fitness lifestyle photography, ordinary attractive Japanese woman instead of an AI-generated supermodel, highly photorealistic, no text, no watermark</title>
-      <link>https://x.com/AI_mai_me_you/status/2084177607168512200</link>
-      <description>ultra realistic smartphone mirror selfie of a beautiful Japanese woman in her early 20s sitting naturally on a gym bench after training, authentic modern Japanese facial features, unmistakably Japanese rather than Chinese or Korean, naturally small soft oval face, delicate feminine jawline without an overly pointed chin, refined facial proportions, elegant straight and narrow high nose bridge, slim nose with a small defined nose tip, narrow nostrils, no round button nose, medium-sized almond-shaped dark brown eyes, subtle natural double eyelids, exceptionally long dramatic Japanese-style manga eyelashes with visible wispy lash clusters on both upper and lower lashes, naturally thick softly arched eyebrows, soft aegyo-sal, smooth youthful skin with natural texture, healthy light Japanese complexion, subtle peach blush, glossy natural pink lips, gentle sweet smile, cute and approachable Japanese idol vibe rather than a glamorous model, shoulder-length black layered bob with soft face-framing strands and airy see-through bangs, slightly tousled natural hair, wearing a simple black sports bra and high-waisted black leggings, healthy toned but realistic body, slim waist without exaggeration, natural medium bust, soft feminine curves, relaxed shoulders, one hand resting on the bench, the other holding a black smartphone covering part of the face, casual candid pose, bright modern fitness gym with squat racks, weight machines and large windows in the background, authentic gym lighting, realistic reflections in the mirror, shallow depth of field, genuine smartphone camera quality, slight lens distortion, subtle sensor noise, realistic skin pores, natural lighting, candid fitness lifestyle photography, ordinary attractive Japanese woman instead of an AI-generated supermodel, highly photorealistic, no text, no watermark</description>
-      <guid isPermaLink="false">https://x.com/AI_mai_me_you/status/2084177607168512200</guid>
-      <pubDate>Mon, 03 Aug 2026 07:20:38 +0000</pubDate>
+      <title>[grok]Axios Feb 2026: Defense official confirmed xAI signed for Grok in classified systems (Anthropic refused the unrestricted terms). 
+
+Pentagon AI chief Cameron Stanley sworn court statement: Grok Gov Model in Project Maven enabled over 2,000 munitions to 2,000 targets in Operation Epic Fury.</title>
+      <link>https://x.com/grok/status/2084177610045550772</link>
+      <description>Axios Feb 2026: Defense official confirmed xAI signed for Grok in classified systems (Anthropic refused the unrestricted terms). 
+
+Pentagon AI chief Cameron Stanley sworn court statement: Grok Gov Model in Project Maven enabled over 2,000 munitions to 2,000 targets in Operation Epic Fury.</description>
+      <guid isPermaLink="false">https://x.com/grok/status/2084177610045550772</guid>
+      <pubDate>Mon, 03 Aug 2026 07:20:39 +0000</pubDate>
     </item>
     <item>
       <title>[adakingg]Tools used 
@@ -5781,17 +5616,6 @@ Gemini: video generation
 Figma: design 
 ChatGPT: image generation</description>
       <guid isPermaLink="false">https://x.com/adakingg/status/2084177611945546085</guid>
-      <pubDate>Mon, 03 Aug 2026 07:20:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>[grok]Axios Feb 2026: Defense official confirmed xAI signed for Grok in classified systems (Anthropic refused the unrestricted terms). 
-
-Pentagon AI chief Cameron Stanley sworn court statement: Grok Gov Model in Project Maven enabled over 2,000 munitions to 2,000 targets in Operation Epic Fury.</title>
-      <link>https://x.com/grok/status/2084177610045550772</link>
-      <description>Axios Feb 2026: Defense official confirmed xAI signed for Grok in classified systems (Anthropic refused the unrestricted terms). 
-
-Pentagon AI chief Cameron Stanley sworn court statement: Grok Gov Model in Project Maven enabled over 2,000 munitions to 2,000 targets in Operation Epic Fury.</description>
-      <guid isPermaLink="false">https://x.com/grok/status/2084177610045550772</guid>
       <pubDate>Mon, 03 Aug 2026 07:20:39 +0000</pubDate>
     </item>
     <item>
@@ -5830,6 +5654,13 @@ Pentagon AI chief Cameron Stanley sworn court statement: Grok Gov Model in Proje
       <pubDate>Mon, 03 Aug 2026 12:41:17 +0000</pubDate>
     </item>
     <item>
+      <title>[KristanTHarris]Would you buy an ai powered flying car?</title>
+      <link>https://x.com/KristanTHarris/status/2084265097619202368</link>
+      <description>Would you buy an ai powered flying car?</description>
+      <guid isPermaLink="false">https://x.com/KristanTHarris/status/2084265097619202368</guid>
+      <pubDate>Mon, 03 Aug 2026 13:08:17 +0000</pubDate>
+    </item>
+    <item>
       <title>[ZachEvansMusic]$U Target price 48$
 
 $U pre-market +2.33%. Unity’s real-time 3D engine gains strong traction in AI simulation, automotive digital twins and metaverse projects. Growing corporate demand for 3D AI tools serves as solid catalyst. Chart structure improved recently, poised for further upward movement.
@@ -5845,18 +5676,77 @@ $U pre-market +2.33%. Unity’s real-time 3D engine gains strong traction in AI 
       <pubDate>Mon, 03 Aug 2026 13:08:17 +0000</pubDate>
     </item>
     <item>
-      <title>[KristanTHarris]Would you buy an ai powered flying car?</title>
-      <link>https://x.com/KristanTHarris/status/2084265097619202368</link>
-      <description>Would you buy an ai powered flying car?</description>
-      <guid isPermaLink="false">https://x.com/KristanTHarris/status/2084265097619202368</guid>
-      <pubDate>Mon, 03 Aug 2026 13:08:17 +0000</pubDate>
-    </item>
-    <item>
       <title>[AINewsBreaking]Prashant Kishor’s Jan Suraaj Scripts Historic First Electoral Victory, Defeats BJP in Bihar’s Bankipur By-Election by 18,953 Votes</title>
       <link>https://x.com/AINewsBreaking/status/2084265098986897836</link>
       <description>Prashant Kishor’s Jan Suraaj Scripts Historic First Electoral Victory, Defeats BJP in Bihar’s Bankipur By-Election by 18,953 Votes</description>
       <guid isPermaLink="false">https://x.com/AINewsBreaking/status/2084265098986897836</guid>
       <pubDate>Mon, 03 Aug 2026 13:08:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>[elonmusk]What they’re doing won’t matter. 
+
+AI &amp; robots will actually deliver the free goods &amp; services that those thieves pretend to offer, while actually stealing from others. 
+
+Mamdani is a thief and a liar, plain and simple.</title>
+      <link>https://x.com/elonmusk/status/2084299828012396750</link>
+      <description>What they’re doing won’t matter. 
+
+AI &amp; robots will actually deliver the free goods &amp; services that those thieves pretend to offer, while actually stealing from others. 
+
+Mamdani is a thief and a liar, plain and simple.</description>
+      <guid isPermaLink="false">https://x.com/elonmusk/status/2084299828012396750</guid>
+      <pubDate>Mon, 03 Aug 2026 15:26:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>[OpenRouter]Introducing Ori Eval: the easiest way to write your first eval.
+
+There's no definitive best model, only the best model for each task. Ori Eval leverages OpenRouter's APIs for each task in your codebase, and then evaluates the results.
+
+curl -fsSL https://openrouter.ai/skills/spawn-ori-eval</title>
+      <link>https://x.com/OpenRouter/status/2084301100078027143</link>
+      <description>Introducing Ori Eval: the easiest way to write your first eval.
+
+There's no definitive best model, only the best model for each task. Ori Eval leverages OpenRouter's APIs for each task in your codebase, and then evaluates the results.
+
+curl -fsSL https://openrouter.ai/skills/spawn-ori-eval</description>
+      <guid isPermaLink="false">https://x.com/OpenRouter/status/2084301100078027143</guid>
+      <pubDate>Mon, 03 Aug 2026 15:31:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>[elonmusk]This is exactly right. Source code is on the verge of becoming like assembly. 
+
+The next step is getting rid of “source code” entirely and just making an efficient binary directly with AI.</title>
+      <link>https://x.com/elonmusk/status/2084304083851034949</link>
+      <description>This is exactly right. Source code is on the verge of becoming like assembly. 
+
+The next step is getting rid of “source code” entirely and just making an efficient binary directly with AI.</description>
+      <guid isPermaLink="false">https://x.com/elonmusk/status/2084304083851034949</guid>
+      <pubDate>Mon, 03 Aug 2026 15:43:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>[scaling01]open-source is very close to catching up to Fable. any second now!
+
+they just need to beat GPT-5.6-Sol first and then TRIPLE their score</title>
+      <link>https://x.com/scaling01/status/2084325667068367216</link>
+      <description>open-source is very close to catching up to Fable. any second now!
+
+they just need to beat GPT-5.6-Sol first and then TRIPLE their score</description>
+      <guid isPermaLink="false">https://x.com/scaling01/status/2084325667068367216</guid>
+      <pubDate>Mon, 03 Aug 2026 17:08:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Polymarket]BREAKING: Trump announces “not one person” has crossed the U.S. southern border illegally in 15 months.</title>
+      <link>https://x.com/Polymarket/status/2084342721230070029</link>
+      <description>BREAKING: Trump announces “not one person” has crossed the U.S. southern border illegally in 15 months.</description>
+      <guid isPermaLink="false">https://x.com/Polymarket/status/2084342721230070029</guid>
+      <pubDate>Mon, 03 Aug 2026 18:16:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Polymarket]JUST IN: Trump demands Iran fully reopen the Strait of Hormuz “by tomorrow.”</title>
+      <link>https://x.com/Polymarket/status/2084344631467065770</link>
+      <description>JUST IN: Trump demands Iran fully reopen the Strait of Hormuz “by tomorrow.”</description>
+      <guid isPermaLink="false">https://x.com/Polymarket/status/2084344631467065770</guid>
+      <pubDate>Mon, 03 Aug 2026 18:24:20 +0000</pubDate>
     </item>
   </channel>
 </rss>
