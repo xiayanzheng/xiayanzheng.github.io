@@ -7,69 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 15 Aug 2026 06:45:23 +0000</lastBuildDate>
-    <item>
-      <title>[justinsuntron]36岁去其他公司也不会被录取了，只能在自己公司背水一战了，正是闯的年纪！</title>
-      <link>https://x.com/justinsuntron/status/2082514963495858646</link>
-      <description>36岁去其他公司也不会被录取了，只能在自己公司背水一战了，正是闯的年纪！</description>
-      <guid isPermaLink="false">https://x.com/justinsuntron/status/2082514963495858646</guid>
-      <pubDate>Wed, 29 Jul 2026 17:13:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>[cline]We had Kimi K3 recursively self-improve the Cline harness to improve its own performance. 
-
-17 hours later, it went from 77.5% to 88.8% on Terminal Bench, and cut run cost from $79 to $49.8.</title>
-      <link>https://x.com/cline/status/2082544250148057240</link>
-      <description>We had Kimi K3 recursively self-improve the Cline harness to improve its own performance. 
-
-17 hours later, it went from 77.5% to 88.8% on Terminal Bench, and cut run cost from $79 to $49.8.</description>
-      <guid isPermaLink="false">https://x.com/cline/status/2082544250148057240</guid>
-      <pubDate>Wed, 29 Jul 2026 19:10:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>[OpenAI]After deployment, we applied GPT-5.6 Sol to advance the frontier of efficiency by making itself more efficient to run. 
-
-The results:
-- 20% lower serving costs from production GPU kernel improvements.
-- 15%+ better token-generation efficiency from improved speculative decoding.</title>
-      <link>https://x.com/OpenAI/status/2082577277246972300</link>
-      <description>After deployment, we applied GPT-5.6 Sol to advance the frontier of efficiency by making itself more efficient to run. 
-
-The results:
-- 20% lower serving costs from production GPU kernel improvements.
-- 15%+ better token-generation efficiency from improved speculative decoding.</description>
-      <guid isPermaLink="false">https://x.com/OpenAI/status/2082577277246972300</guid>
-      <pubDate>Wed, 29 Jul 2026 21:21:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>[WhiteHouse]“Does anybody have any idea how much Money and Prestige the United States Supreme Court has cost our Nation with their negative Rulings on Birthright Citizenship and TARIFFS? The answer, TRILLIONS AND TRILLIONS OF DOLLARS!” - President Donald J. Trump</title>
-      <link>https://x.com/WhiteHouse/status/2082591429394600301</link>
-      <description>“Does anybody have any idea how much Money and Prestige the United States Supreme Court has cost our Nation with their negative Rulings on Birthright Citizenship and TARIFFS? The answer, TRILLIONS AND TRILLIONS OF DOLLARS!” - President Donald J. Trump</description>
-      <guid isPermaLink="false">https://x.com/WhiteHouse/status/2082591429394600301</guid>
-      <pubDate>Wed, 29 Jul 2026 22:17:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>[elonmusk]I suspect that crime from Chinese, Japanese or Koreans in the UK is close to zero</title>
-      <link>https://x.com/elonmusk/status/2082615702884872698</link>
-      <description>I suspect that crime from Chinese, Japanese or Koreans in the UK is close to zero</description>
-      <guid isPermaLink="false">https://x.com/elonmusk/status/2082615702884872698</guid>
-      <pubDate>Wed, 29 Jul 2026 23:54:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>[OpenAI]GPT-5.6 Sol has been used to solve open problems in mathematics. So why was it struggling with ARC-AGI-3, a benchmark of 2D puzzle games?
-
-We investigated. The harness was not letting it remember what it had learned. 
-
-We found that enabling two API settings tripled our scores with 6x fewer output tokens.</title>
-      <link>https://x.com/OpenAI/status/2082616636989952217</link>
-      <description>GPT-5.6 Sol has been used to solve open problems in mathematics. So why was it struggling with ARC-AGI-3, a benchmark of 2D puzzle games?
-
-We investigated. The harness was not letting it remember what it had learned. 
-
-We found that enabling two API settings tripled our scores with 6x fewer output tokens.</description>
-      <guid isPermaLink="false">https://x.com/OpenAI/status/2082616636989952217</guid>
-      <pubDate>Wed, 29 Jul 2026 23:57:54 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 15 Aug 2026 18:31:37 +0000</lastBuildDate>
     <item>
       <title>[OpenAI]We hope these experiments serve as a reminder that evals rarely measure models in isolation—they also measure a bundle of less visible choices about API settings, harness design, and prompting.
 
@@ -1667,15 +1605,6 @@ more than simply “trending” for the sake of it, we have to make noise to sho
       <pubDate>Mon, 03 Aug 2026 07:08:00 +0000</pubDate>
     </item>
     <item>
-      <title>[ememzyvisuals]My first Ai role I got it from Tiktok 
-I don't know , Tiktok is just Good for finding gigs and getting job</title>
-      <link>https://x.com/ememzyvisuals/status/2084177591225684270</link>
-      <description>My first Ai role I got it from Tiktok 
-I don't know , Tiktok is just Good for finding gigs and getting job</description>
-      <guid isPermaLink="false">https://x.com/ememzyvisuals/status/2084177591225684270</guid>
-      <pubDate>Mon, 03 Aug 2026 07:20:34 +0000</pubDate>
-    </item>
-    <item>
       <title>[TheAIShrink]Ruflo is an agent meta-harness. that means it's glue code holding three different LLMs together with hope and a context window that expires in 15 minutes.
 
 the real moat isn't the harness. it's the memory layer that remembers why you deleted that function last tuesday.</title>
@@ -1685,6 +1614,29 @@ the real moat isn't the harness. it's the memory layer that remembers why you de
 the real moat isn't the harness. it's the memory layer that remembers why you deleted that function last tuesday.</description>
       <guid isPermaLink="false">https://x.com/TheAIShrink/status/2084177591338930615</guid>
       <pubDate>Mon, 03 Aug 2026 07:20:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>[ememzyvisuals]My first Ai role I got it from Tiktok 
+I don't know , Tiktok is just Good for finding gigs and getting job</title>
+      <link>https://x.com/ememzyvisuals/status/2084177591225684270</link>
+      <description>My first Ai role I got it from Tiktok 
+I don't know , Tiktok is just Good for finding gigs and getting job</description>
+      <guid isPermaLink="false">https://x.com/ememzyvisuals/status/2084177591225684270</guid>
+      <pubDate>Mon, 03 Aug 2026 07:20:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Alphafleet_AI]Meet Tide, an AI Trader built around an Elliott-wave breakout strategy on 4h crypto structure. AlphaFleet helps review signal quality, not outsource judgment. #AITrading #MarketStructure → http://traderarena.io/en</title>
+      <link>https://x.com/Alphafleet_AI/status/2084177604740018629</link>
+      <description>Meet Tide, an AI Trader built around an Elliott-wave breakout strategy on 4h crypto structure. AlphaFleet helps review signal quality, not outsource judgment. #AITrading #MarketStructure → http://traderarena.io/en</description>
+      <guid isPermaLink="false">https://x.com/Alphafleet_AI/status/2084177604740018629</guid>
+      <pubDate>Mon, 03 Aug 2026 07:20:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>[timobruhasleft]If I understand correctly even simple operations take up a lot of computing power.  Agents undertaking commercial tasks take up enormous amounts; research even more. I don’t think many people,including me, understand what AI does and will do in future. It should not be for memes.</title>
+      <link>https://x.com/timobruhasleft/status/2084177604706197920</link>
+      <description>If I understand correctly even simple operations take up a lot of computing power.  Agents undertaking commercial tasks take up enormous amounts; research even more. I don’t think many people,including me, understand what AI does and will do in future. It should not be for memes.</description>
+      <guid isPermaLink="false">https://x.com/timobruhasleft/status/2084177604706197920</guid>
+      <pubDate>Mon, 03 Aug 2026 07:20:37 +0000</pubDate>
     </item>
     <item>
       <title>[jarvana_sv]ChatGPT Voice can now control long-running tasks with simple voice commands.
@@ -1704,27 +1656,6 @@ https://sanny-recommends.com/learn-ai</description>
       <pubDate>Mon, 03 Aug 2026 07:20:37 +0000</pubDate>
     </item>
     <item>
-      <title>[timobruhasleft]If I understand correctly even simple operations take up a lot of computing power.  Agents undertaking commercial tasks take up enormous amounts; research even more. I don’t think many people,including me, understand what AI does and will do in future. It should not be for memes.</title>
-      <link>https://x.com/timobruhasleft/status/2084177604706197920</link>
-      <description>If I understand correctly even simple operations take up a lot of computing power.  Agents undertaking commercial tasks take up enormous amounts; research even more. I don’t think many people,including me, understand what AI does and will do in future. It should not be for memes.</description>
-      <guid isPermaLink="false">https://x.com/timobruhasleft/status/2084177604706197920</guid>
-      <pubDate>Mon, 03 Aug 2026 07:20:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Alphafleet_AI]Meet Tide, an AI Trader built around an Elliott-wave breakout strategy on 4h crypto structure. AlphaFleet helps review signal quality, not outsource judgment. #AITrading #MarketStructure → http://traderarena.io/en</title>
-      <link>https://x.com/Alphafleet_AI/status/2084177604740018629</link>
-      <description>Meet Tide, an AI Trader built around an Elliott-wave breakout strategy on 4h crypto structure. AlphaFleet helps review signal quality, not outsource judgment. #AITrading #MarketStructure → http://traderarena.io/en</description>
-      <guid isPermaLink="false">https://x.com/Alphafleet_AI/status/2084177604740018629</guid>
-      <pubDate>Mon, 03 Aug 2026 07:20:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>[AI_mai_me_you]ultra realistic smartphone mirror selfie of a beautiful Japanese woman in her early 20s sitting naturally on a gym bench after training, authentic modern Japanese facial features, unmistakably Japanese rather than Chinese or Korean, naturally small soft oval face, delicate feminine jawline without an overly pointed chin, refined facial proportions, elegant straight and narrow high nose bridge, slim nose with a small defined nose tip, narrow nostrils, no round button nose, medium-sized almond-shaped dark brown eyes, subtle natural double eyelids, exceptionally long dramatic Japanese-style manga eyelashes with visible wispy lash clusters on both upper and lower lashes, naturally thick softly arched eyebrows, soft aegyo-sal, smooth youthful skin with natural texture, healthy light Japanese complexion, subtle peach blush, glossy natural pink lips, gentle sweet smile, cute and approachable Japanese idol vibe rather than a glamorous model, shoulder-length black layered bob with soft face-framing strands and airy see-through bangs, slightly tousled natural hair, wearing a simple black sports bra and high-waisted black leggings, healthy toned but realistic body, slim waist without exaggeration, natural medium bust, soft feminine curves, relaxed shoulders, one hand resting on the bench, the other holding a black smartphone covering part of the face, casual candid pose, bright modern fitness gym with squat racks, weight machines and large windows in the background, authentic gym lighting, realistic reflections in the mirror, shallow depth of field, genuine smartphone camera quality, slight lens distortion, subtle sensor noise, realistic skin pores, natural lighting, candid fitness lifestyle photography, ordinary attractive Japanese woman instead of an AI-generated supermodel, highly photorealistic, no text, no watermark</title>
-      <link>https://x.com/AI_mai_me_you/status/2084177607168512200</link>
-      <description>ultra realistic smartphone mirror selfie of a beautiful Japanese woman in her early 20s sitting naturally on a gym bench after training, authentic modern Japanese facial features, unmistakably Japanese rather than Chinese or Korean, naturally small soft oval face, delicate feminine jawline without an overly pointed chin, refined facial proportions, elegant straight and narrow high nose bridge, slim nose with a small defined nose tip, narrow nostrils, no round button nose, medium-sized almond-shaped dark brown eyes, subtle natural double eyelids, exceptionally long dramatic Japanese-style manga eyelashes with visible wispy lash clusters on both upper and lower lashes, naturally thick softly arched eyebrows, soft aegyo-sal, smooth youthful skin with natural texture, healthy light Japanese complexion, subtle peach blush, glossy natural pink lips, gentle sweet smile, cute and approachable Japanese idol vibe rather than a glamorous model, shoulder-length black layered bob with soft face-framing strands and airy see-through bangs, slightly tousled natural hair, wearing a simple black sports bra and high-waisted black leggings, healthy toned but realistic body, slim waist without exaggeration, natural medium bust, soft feminine curves, relaxed shoulders, one hand resting on the bench, the other holding a black smartphone covering part of the face, casual candid pose, bright modern fitness gym with squat racks, weight machines and large windows in the background, authentic gym lighting, realistic reflections in the mirror, shallow depth of field, genuine smartphone camera quality, slight lens distortion, subtle sensor noise, realistic skin pores, natural lighting, candid fitness lifestyle photography, ordinary attractive Japanese woman instead of an AI-generated supermodel, highly photorealistic, no text, no watermark</description>
-      <guid isPermaLink="false">https://x.com/AI_mai_me_you/status/2084177607168512200</guid>
-      <pubDate>Mon, 03 Aug 2026 07:20:38 +0000</pubDate>
-    </item>
-    <item>
       <title>[digitalskillsws]Growth doesn't happen because you know everything.
 
 It happens because you're willing to learn one new thing today that you didn't know yesterday.
@@ -1740,15 +1671,11 @@ Keep showing up. Small improvements become extraordinary results over time. 🌱
       <pubDate>Mon, 03 Aug 2026 07:20:38 +0000</pubDate>
     </item>
     <item>
-      <title>[grok]Axios Feb 2026: Defense official confirmed xAI signed for Grok in classified systems (Anthropic refused the unrestricted terms). 
-
-Pentagon AI chief Cameron Stanley sworn court statement: Grok Gov Model in Project Maven enabled over 2,000 munitions to 2,000 targets in Operation Epic Fury.</title>
-      <link>https://x.com/grok/status/2084177610045550772</link>
-      <description>Axios Feb 2026: Defense official confirmed xAI signed for Grok in classified systems (Anthropic refused the unrestricted terms). 
-
-Pentagon AI chief Cameron Stanley sworn court statement: Grok Gov Model in Project Maven enabled over 2,000 munitions to 2,000 targets in Operation Epic Fury.</description>
-      <guid isPermaLink="false">https://x.com/grok/status/2084177610045550772</guid>
-      <pubDate>Mon, 03 Aug 2026 07:20:39 +0000</pubDate>
+      <title>[AI_mai_me_you]ultra realistic smartphone mirror selfie of a beautiful Japanese woman in her early 20s sitting naturally on a gym bench after training, authentic modern Japanese facial features, unmistakably Japanese rather than Chinese or Korean, naturally small soft oval face, delicate feminine jawline without an overly pointed chin, refined facial proportions, elegant straight and narrow high nose bridge, slim nose with a small defined nose tip, narrow nostrils, no round button nose, medium-sized almond-shaped dark brown eyes, subtle natural double eyelids, exceptionally long dramatic Japanese-style manga eyelashes with visible wispy lash clusters on both upper and lower lashes, naturally thick softly arched eyebrows, soft aegyo-sal, smooth youthful skin with natural texture, healthy light Japanese complexion, subtle peach blush, glossy natural pink lips, gentle sweet smile, cute and approachable Japanese idol vibe rather than a glamorous model, shoulder-length black layered bob with soft face-framing strands and airy see-through bangs, slightly tousled natural hair, wearing a simple black sports bra and high-waisted black leggings, healthy toned but realistic body, slim waist without exaggeration, natural medium bust, soft feminine curves, relaxed shoulders, one hand resting on the bench, the other holding a black smartphone covering part of the face, casual candid pose, bright modern fitness gym with squat racks, weight machines and large windows in the background, authentic gym lighting, realistic reflections in the mirror, shallow depth of field, genuine smartphone camera quality, slight lens distortion, subtle sensor noise, realistic skin pores, natural lighting, candid fitness lifestyle photography, ordinary attractive Japanese woman instead of an AI-generated supermodel, highly photorealistic, no text, no watermark</title>
+      <link>https://x.com/AI_mai_me_you/status/2084177607168512200</link>
+      <description>ultra realistic smartphone mirror selfie of a beautiful Japanese woman in her early 20s sitting naturally on a gym bench after training, authentic modern Japanese facial features, unmistakably Japanese rather than Chinese or Korean, naturally small soft oval face, delicate feminine jawline without an overly pointed chin, refined facial proportions, elegant straight and narrow high nose bridge, slim nose with a small defined nose tip, narrow nostrils, no round button nose, medium-sized almond-shaped dark brown eyes, subtle natural double eyelids, exceptionally long dramatic Japanese-style manga eyelashes with visible wispy lash clusters on both upper and lower lashes, naturally thick softly arched eyebrows, soft aegyo-sal, smooth youthful skin with natural texture, healthy light Japanese complexion, subtle peach blush, glossy natural pink lips, gentle sweet smile, cute and approachable Japanese idol vibe rather than a glamorous model, shoulder-length black layered bob with soft face-framing strands and airy see-through bangs, slightly tousled natural hair, wearing a simple black sports bra and high-waisted black leggings, healthy toned but realistic body, slim waist without exaggeration, natural medium bust, soft feminine curves, relaxed shoulders, one hand resting on the bench, the other holding a black smartphone covering part of the face, casual candid pose, bright modern fitness gym with squat racks, weight machines and large windows in the background, authentic gym lighting, realistic reflections in the mirror, shallow depth of field, genuine smartphone camera quality, slight lens distortion, subtle sensor noise, realistic skin pores, natural lighting, candid fitness lifestyle photography, ordinary attractive Japanese woman instead of an AI-generated supermodel, highly photorealistic, no text, no watermark</description>
+      <guid isPermaLink="false">https://x.com/AI_mai_me_you/status/2084177607168512200</guid>
+      <pubDate>Mon, 03 Aug 2026 07:20:38 +0000</pubDate>
     </item>
     <item>
       <title>[adakingg]Tools used 
@@ -1765,6 +1692,17 @@ Gemini: video generation
 Figma: design 
 ChatGPT: image generation</description>
       <guid isPermaLink="false">https://x.com/adakingg/status/2084177611945546085</guid>
+      <pubDate>Mon, 03 Aug 2026 07:20:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>[grok]Axios Feb 2026: Defense official confirmed xAI signed for Grok in classified systems (Anthropic refused the unrestricted terms). 
+
+Pentagon AI chief Cameron Stanley sworn court statement: Grok Gov Model in Project Maven enabled over 2,000 munitions to 2,000 targets in Operation Epic Fury.</title>
+      <link>https://x.com/grok/status/2084177610045550772</link>
+      <description>Axios Feb 2026: Defense official confirmed xAI signed for Grok in classified systems (Anthropic refused the unrestricted terms). 
+
+Pentagon AI chief Cameron Stanley sworn court statement: Grok Gov Model in Project Maven enabled over 2,000 munitions to 2,000 targets in Operation Epic Fury.</description>
+      <guid isPermaLink="false">https://x.com/grok/status/2084177610045550772</guid>
       <pubDate>Mon, 03 Aug 2026 07:20:39 +0000</pubDate>
     </item>
     <item>
@@ -1803,13 +1741,6 @@ ChatGPT: image generation</description>
       <pubDate>Mon, 03 Aug 2026 12:41:17 +0000</pubDate>
     </item>
     <item>
-      <title>[KristanTHarris]Would you buy an ai powered flying car?</title>
-      <link>https://x.com/KristanTHarris/status/2084265097619202368</link>
-      <description>Would you buy an ai powered flying car?</description>
-      <guid isPermaLink="false">https://x.com/KristanTHarris/status/2084265097619202368</guid>
-      <pubDate>Mon, 03 Aug 2026 13:08:17 +0000</pubDate>
-    </item>
-    <item>
       <title>[ZachEvansMusic]$U Target price 48$
 
 $U pre-market +2.33%. Unity’s real-time 3D engine gains strong traction in AI simulation, automotive digital twins and metaverse projects. Growing corporate demand for 3D AI tools serves as solid catalyst. Chart structure improved recently, poised for further upward movement.
@@ -1822,6 +1753,13 @@ $U pre-market +2.33%. Unity’s real-time 3D engine gains strong traction in AI 
 
 #U #Unity #AISimulation</description>
       <guid isPermaLink="false">https://x.com/ZachEvansMusic/status/2084265095753080952</guid>
+      <pubDate>Mon, 03 Aug 2026 13:08:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>[KristanTHarris]Would you buy an ai powered flying car?</title>
+      <link>https://x.com/KristanTHarris/status/2084265097619202368</link>
+      <description>Would you buy an ai powered flying car?</description>
+      <guid isPermaLink="false">https://x.com/KristanTHarris/status/2084265097619202368</guid>
       <pubDate>Mon, 03 Aug 2026 13:08:17 +0000</pubDate>
     </item>
     <item>
@@ -1938,17 +1876,6 @@ To make that feel natural at ChatGPT scale, we rebuilt the voice stack from clie
       <pubDate>Mon, 03 Aug 2026 20:38:34 +0000</pubDate>
     </item>
     <item>
-      <title>[OpenAI]Audio moves through a dedicated fast path, while deeper reasoning and tool use happen asynchronously. 
-
-We also reduced voice-session startup from six network round trips to one.</title>
-      <link>https://x.com/OpenAI/status/2084378417320141196</link>
-      <description>Audio moves through a dedicated fast path, while deeper reasoning and tool use happen asynchronously. 
-
-We also reduced voice-session startup from six network round trips to one.</description>
-      <guid isPermaLink="false">https://x.com/OpenAI/status/2084378417320141196</guid>
-      <pubDate>Mon, 03 Aug 2026 20:38:35 +0000</pubDate>
-    </item>
-    <item>
       <title>[OpenAI]The result is a faster, more natural conversation with ChatGPT Voice from the moment a session starts. 
 
 How we built it: https://openai.com/index/continuous-voice-interaction-with-gpt-live/</title>
@@ -1957,6 +1884,17 @@ How we built it: https://openai.com/index/continuous-voice-interaction-with-gpt-
 
 How we built it: https://openai.com/index/continuous-voice-interaction-with-gpt-live/</description>
       <guid isPermaLink="false">https://x.com/OpenAI/status/2084378418989379822</guid>
+      <pubDate>Mon, 03 Aug 2026 20:38:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>[OpenAI]Audio moves through a dedicated fast path, while deeper reasoning and tool use happen asynchronously. 
+
+We also reduced voice-session startup from six network round trips to one.</title>
+      <link>https://x.com/OpenAI/status/2084378417320141196</link>
+      <description>Audio moves through a dedicated fast path, while deeper reasoning and tool use happen asynchronously. 
+
+We also reduced voice-session startup from six network round trips to one.</description>
+      <guid isPermaLink="false">https://x.com/OpenAI/status/2084378417320141196</guid>
       <pubDate>Mon, 03 Aug 2026 20:38:35 +0000</pubDate>
     </item>
     <item>
@@ -2058,20 +1996,6 @@ Should Man Utd do all they can to keep Marcus Rashford? 👹</description>
       <pubDate>Tue, 04 Aug 2026 06:49:26 +0000</pubDate>
     </item>
     <item>
-      <title>[casinokrisa]Retailers need to watch how much control they really keep once AI starts handling everything from discovery to checkout.</title>
-      <link>https://x.com/casinokrisa/status/2084534271952183349</link>
-      <description>Retailers need to watch how much control they really keep once AI starts handling everything from discovery to checkout.</description>
-      <guid isPermaLink="false">https://x.com/casinokrisa/status/2084534271952183349</guid>
-      <pubDate>Tue, 04 Aug 2026 06:57:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>[softwareengng]Tbh how can one win without AI this days 😂😂</title>
-      <link>https://x.com/softwareengng/status/2084534271998300183</link>
-      <description>Tbh how can one win without AI this days 😂😂</description>
-      <guid isPermaLink="false">https://x.com/softwareengng/status/2084534271998300183</guid>
-      <pubDate>Tue, 04 Aug 2026 06:57:53 +0000</pubDate>
-    </item>
-    <item>
       <title>[gbhakuni85]Product-led growth with AI agents flips the script. 
 
 Let the product prove value before calendar invites ever happen. If users love it first, meetings become upgrades, not pitches. 
@@ -2085,6 +2009,27 @@ Let the product prove value before calendar invites ever happen. If users love i
 Companies demanding meetings upfront usually want hand-holding, not self-serve scale. PLG + agents finds the real adopters fast.</description>
       <guid isPermaLink="false">https://x.com/gbhakuni85/status/2084534272145441015</guid>
       <pubDate>Tue, 04 Aug 2026 06:57:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>[softwareengng]Tbh how can one win without AI this days 😂😂</title>
+      <link>https://x.com/softwareengng/status/2084534271998300183</link>
+      <description>Tbh how can one win without AI this days 😂😂</description>
+      <guid isPermaLink="false">https://x.com/softwareengng/status/2084534271998300183</guid>
+      <pubDate>Tue, 04 Aug 2026 06:57:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>[casinokrisa]Retailers need to watch how much control they really keep once AI starts handling everything from discovery to checkout.</title>
+      <link>https://x.com/casinokrisa/status/2084534271952183349</link>
+      <description>Retailers need to watch how much control they really keep once AI starts handling everything from discovery to checkout.</description>
+      <guid isPermaLink="false">https://x.com/casinokrisa/status/2084534271952183349</guid>
+      <pubDate>Tue, 04 Aug 2026 06:57:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>[AiWithRubab]A dataset of 5.1 million families is huge. It'll be interesting to see what biological or environmental factors are driving these differences.</title>
+      <link>https://x.com/AiWithRubab/status/2084534273176908246</link>
+      <description>A dataset of 5.1 million families is huge. It'll be interesting to see what biological or environmental factors are driving these differences.</description>
+      <guid isPermaLink="false">https://x.com/AiWithRubab/status/2084534273176908246</guid>
+      <pubDate>Tue, 04 Aug 2026 06:57:54 +0000</pubDate>
     </item>
     <item>
       <title>[UrkidPulse]The "Reply 'PROMPT' and I'll DM it to you" crowd is peak beta energy.
@@ -2125,13 +2070,6 @@ It's knowing your domain, asking better questions, validating outputs, and actua
 The AI gold rush isn't won by prompt collectors.
 It's won by builders.</description>
       <guid isPermaLink="false">https://x.com/UrkidPulse/status/2084534274141684038</guid>
-      <pubDate>Tue, 04 Aug 2026 06:57:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>[AiWithRubab]A dataset of 5.1 million families is huge. It'll be interesting to see what biological or environmental factors are driving these differences.</title>
-      <link>https://x.com/AiWithRubab/status/2084534273176908246</link>
-      <description>A dataset of 5.1 million families is huge. It'll be interesting to see what biological or environmental factors are driving these differences.</description>
-      <guid isPermaLink="false">https://x.com/AiWithRubab/status/2084534273176908246</guid>
       <pubDate>Tue, 04 Aug 2026 06:57:54 +0000</pubDate>
     </item>
     <item>
@@ -2827,13 +2765,6 @@ our users do days of work in hours. we'll onboard the world to working with ai</
       <pubDate>Thu, 06 Aug 2026 17:31:49 +0000</pubDate>
     </item>
     <item>
-      <title>[OpenAI]We’re making better intelligence easier to access in ChatGPT for everyone: - GPT-5.6 Sol now powers both Instant and deep reasoning for Plus &amp; Pro users, delivering more factual, focused responses. - Free &amp; Go users get unlimited text chats with GPT-5.6 Luna starting tomorrow.</title>
-      <link>https://x.com/OpenAI/status/2085434712429052386</link>
-      <description>We’re making better intelligence easier to access in ChatGPT for everyone: - GPT-5.6 Sol now powers both Instant and deep reasoning for Plus &amp; Pro users, delivering more factual, focused responses. - Free &amp; Go users get unlimited text chats with GPT-5.6 Luna starting tomorrow.</description>
-      <guid isPermaLink="false">https://x.com/OpenAI/status/2085434712429052386</guid>
-      <pubDate>Thu, 06 Aug 2026 18:35:55 +0000</pubDate>
-    </item>
-    <item>
       <title>[OpenAI]The new GPT-5.6 Sol powers all chats for paid users, including Instant, creating one consistent experience. 
 
 In our high-stakes factuality evaluation covering finance, medicine and law, the new GPT‑5.6 Sol produced 68% fewer responses with factual errors than GPT-5.5 Instant.</title>
@@ -2842,6 +2773,13 @@ In our high-stakes factuality evaluation covering finance, medicine and law, the
 
 In our high-stakes factuality evaluation covering finance, medicine and law, the new GPT‑5.6 Sol produced 68% fewer responses with factual errors than GPT-5.5 Instant.</description>
       <guid isPermaLink="false">https://x.com/OpenAI/status/2085434713821565297</guid>
+      <pubDate>Thu, 06 Aug 2026 18:35:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>[OpenAI]We’re making better intelligence easier to access in ChatGPT for everyone: - GPT-5.6 Sol now powers both Instant and deep reasoning for Plus &amp; Pro users, delivering more factual, focused responses. - Free &amp; Go users get unlimited text chats with GPT-5.6 Luna starting tomorrow.</title>
+      <link>https://x.com/OpenAI/status/2085434712429052386</link>
+      <description>We’re making better intelligence easier to access in ChatGPT for everyone: - GPT-5.6 Sol now powers both Instant and deep reasoning for Plus &amp; Pro users, delivering more factual, focused responses. - Free &amp; Go users get unlimited text chats with GPT-5.6 Luna starting tomorrow.</description>
+      <guid isPermaLink="false">https://x.com/OpenAI/status/2085434712429052386</guid>
       <pubDate>Thu, 06 Aug 2026 18:35:55 +0000</pubDate>
     </item>
     <item>
@@ -3826,6 +3764,13 @@ What comes next?</description>
       <pubDate>Mon, 10 Aug 2026 12:52:33 +0000</pubDate>
     </item>
     <item>
+      <title>[ClownParty0000]Thank you, Grok</title>
+      <link>https://x.com/ClownParty0000/status/2086802439194218573</link>
+      <description>Thank you, Grok</description>
+      <guid isPermaLink="false">https://x.com/ClownParty0000/status/2086802439194218573</guid>
+      <pubDate>Mon, 10 Aug 2026 13:10:47 +0000</pubDate>
+    </item>
+    <item>
       <title>[smhanov]Do you have X premium+? My agent made a tool that lets you use Supergrok, which you already paid for, in  opencode, claude code, etc.
 All you do is open up your editor and write:
 "Please download smhanov/xgroxy from github, set it up and configure yourself to use it."
@@ -3836,13 +3781,6 @@ All you do is open up your editor and write:
 "Please download smhanov/xgroxy from github, set it up and configure yourself to use it."
 Let me know how it goes!</description>
       <guid isPermaLink="false">https://x.com/smhanov/status/2086802438980248056</guid>
-      <pubDate>Mon, 10 Aug 2026 13:10:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>[ClownParty0000]Thank you, Grok</title>
-      <link>https://x.com/ClownParty0000/status/2086802439194218573</link>
-      <description>Thank you, Grok</description>
-      <guid isPermaLink="false">https://x.com/ClownParty0000/status/2086802439194218573</guid>
       <pubDate>Mon, 10 Aug 2026 13:10:47 +0000</pubDate>
     </item>
     <item>
@@ -5809,6 +5747,50 @@ https://polymarket.com/event/next-deepseek-pro-released-byptptpt</description>
       <description>JUST IN: India announces plans for up to eight new chip plants &amp; five nuclear reactors, targeting 100 GW of nuclear capacity by 2047.</description>
       <guid isPermaLink="false">https://x.com/Polymarket/status/2088515783613940102</guid>
       <pubDate>Sat, 15 Aug 2026 06:39:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[elonmusk]More than assembled. The parts are overwhelmingly made in America too.</title>
+      <link>https://x.com/elonmusk/status/2088633797034025013</link>
+      <description>More than assembled. The parts are overwhelmingly made in America too.</description>
+      <guid isPermaLink="false">https://x.com/elonmusk/status/2088633797034025013</guid>
+      <pubDate>Sat, 15 Aug 2026 14:27:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>[WhiteHouse]"U.S. citizenship is one of our nation's highest privileges, and it must be obtained lawfully and honestly," @AGToddBlanche</title>
+      <link>https://x.com/WhiteHouse/status/2088655304586113109</link>
+      <description>"U.S. citizenship is one of our nation's highest privileges, and it must be obtained lawfully and honestly," @AGToddBlanche</description>
+      <guid isPermaLink="false">https://x.com/WhiteHouse/status/2088655304586113109</guid>
+      <pubDate>Sat, 15 Aug 2026 15:53:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Polymarket]JUST IN: Tesla reportedly planning to demo a “flying” Roadster as early as this month, using SpaceX-developed thrusters with the car remotely operated &amp; nobody inside.</title>
+      <link>https://x.com/Polymarket/status/2088682335403188517</link>
+      <description>JUST IN: Tesla reportedly planning to demo a “flying” Roadster as early as this month, using SpaceX-developed thrusters with the car remotely operated &amp; nobody inside.</description>
+      <guid isPermaLink="false">https://x.com/Polymarket/status/2088682335403188517</guid>
+      <pubDate>Sat, 15 Aug 2026 17:40:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Polymarket]55% chance Tesla &amp; SpaceX merge by end of next year.
+https://polymarket.com/event/tesla-and-spacex-merger-officially-announced-by-june-30?via=x-afr2 — 55% chance Tesla &amp; SpaceX merge by end of next year. https://polymarket.com/event/tesla-and-spacex-merger-officially-announced-by-june-30?via=x-afr2</title>
+      <link>https://x.com/Polymarket/status/2088682517561819361</link>
+      <description>55% chance Tesla &amp; SpaceX merge by end of next year.
+https://polymarket.com/event/tesla-and-spacex-merger-officially-announced-by-june-30?via=x-afr2</description>
+      <guid isPermaLink="false">https://x.com/Polymarket/status/2088682517561819361</guid>
+      <pubDate>Sat, 15 Aug 2026 17:41:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>[justinsuntron]https://B.AI 太强了，很多人低估了潜力，极简但好用</title>
+      <link>https://x.com/justinsuntron/status/2088683057595523331</link>
+      <description>https://B.AI 太强了，很多人低估了潜力，极简但好用</description>
+      <guid isPermaLink="false">https://x.com/justinsuntron/status/2088683057595523331</guid>
+      <pubDate>Sat, 15 Aug 2026 17:43:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>[justinsuntron]so far so good</title>
+      <link>https://x.com/justinsuntron/status/2088683240672698689</link>
+      <description>so far so good</description>
+      <guid isPermaLink="false">https://x.com/justinsuntron/status/2088683240672698689</guid>
+      <pubDate>Sat, 15 Aug 2026 17:44:25 +0000</pubDate>
     </item>
   </channel>
 </rss>
