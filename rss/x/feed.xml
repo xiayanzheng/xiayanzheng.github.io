@@ -7,153 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 18 Aug 2026 01:17:08 +0000</lastBuildDate>
-    <item>
-      <title>[WhiteHouse]American elections should be for American citizens only.</title>
-      <link>https://x.com/WhiteHouse/status/2083600732997997006</link>
-      <description>American elections should be for American citizens only.</description>
-      <guid isPermaLink="false">https://x.com/WhiteHouse/status/2083600732997997006</guid>
-      <pubDate>Sat, 01 Aug 2026 17:08:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Polymarket]JUST IN: FIFA member associations are reportedly weighing a de facto vote of no confidence in Gianni Infantino. 34% chance Infantino is out by year-end.</title>
-      <link>https://x.com/Polymarket/status/2083604020040450130</link>
-      <description>JUST IN: FIFA member associations are reportedly weighing a de facto vote of no confidence in Gianni Infantino. 34% chance Infantino is out by year-end.</description>
-      <guid isPermaLink="false">https://x.com/Polymarket/status/2083604020040450130</guid>
-      <pubDate>Sat, 01 Aug 2026 17:21:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>[elonmusk]True</title>
-      <link>https://x.com/elonmusk/status/2083800687561908662</link>
-      <description>True</description>
-      <guid isPermaLink="false">https://x.com/elonmusk/status/2083800687561908662</guid>
-      <pubDate>Sun, 02 Aug 2026 06:22:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>[elonmusk]Grok can analyze any video https://grok.com/share/bGVnYWN5_8013f7a3-f604-4351-8cd7-acecf3ef165b</title>
-      <link>https://x.com/elonmusk/status/2083800942927839307</link>
-      <description>Grok can analyze any video https://grok.com/share/bGVnYWN5_8013f7a3-f604-4351-8cd7-acecf3ef165b</description>
-      <guid isPermaLink="false">https://x.com/elonmusk/status/2083800942927839307</guid>
-      <pubDate>Sun, 02 Aug 2026 06:23:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Polymarket]JUST IN: Moroccan rapper Mehdi El Youbi is provisionally released after 18 days in prison over allegations of “insulting a constitutional institution.”</title>
-      <link>https://x.com/Polymarket/status/2083837456915349885</link>
-      <description>JUST IN: Moroccan rapper Mehdi El Youbi is provisionally released after 18 days in prison over allegations of “insulting a constitutional institution.”</description>
-      <guid isPermaLink="false">https://x.com/Polymarket/status/2083837456915349885</guid>
-      <pubDate>Sun, 02 Aug 2026 08:49:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Polymarket]🚨 NEW POLYMARKET: OpenAI’s Astra released by…?</title>
-      <link>https://x.com/Polymarket/status/2083845509962494197</link>
-      <description>🚨 NEW POLYMARKET: OpenAI’s Astra released by…?</description>
-      <guid isPermaLink="false">https://x.com/Polymarket/status/2083845509962494197</guid>
-      <pubDate>Sun, 02 Aug 2026 09:21:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Polymarket]JUST IN: AOC blasts Democrats for “closing ranks” around Joe Biden &amp; shutting out primary challengers in 2024.</title>
-      <link>https://x.com/Polymarket/status/2083866900967178615</link>
-      <description>JUST IN: AOC blasts Democrats for “closing ranks” around Joe Biden &amp; shutting out primary challengers in 2024.</description>
-      <guid isPermaLink="false">https://x.com/Polymarket/status/2083866900967178615</guid>
-      <pubDate>Sun, 02 Aug 2026 10:46:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Polymarket]BREAKING: Iranian media declares the Strait of Hormuz remains closed to ships that do not coordinate with the Revolutionary Guards.</title>
-      <link>https://x.com/Polymarket/status/2083880024583643176</link>
-      <description>BREAKING: Iranian media declares the Strait of Hormuz remains closed to ships that do not coordinate with the Revolutionary Guards.</description>
-      <guid isPermaLink="false">https://x.com/Polymarket/status/2083880024583643176</guid>
-      <pubDate>Sun, 02 Aug 2026 11:38:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>[thebuggeddev]Only if education could be this interactive ❤️‍🔥
-
-I've had a looong wish to build something genuinely useful through vibe coding, and I finally did it. 
-
-A 3D human anatomy application built with @threejs using GPT 5.6 Sol. 
-
-It all started with a single design image that I created using GPT Image 2.0. I then used it to generate every 3D organ image, one by one.
-
-Next, I converted each of those images into 3D models using @tripoai (and no, they didn't sponsor this 😄).
-
-After that, I opened Codex, wrote a master prompt based on the design, and gave it the prompt, the design image, and all the 3D models.
-
-Codex built the first version beautifully, but there was one big problem. 
-
-Every single 3D model was nearly 120-150 MB. That obviously wasn't practical for the web and was giving a performance of 16fps.
-
-After a few iterations, Codex optimized each model down to roughly 2–5.5 MB while preserving the visual quality, reducing the total asset size from ~900 MB to just 28.6 MB. And each model loads on demand. 
-
-Along the way, Codex also generated those anatomical illustrations showing where each organ sits in the human body, and even created the interactive hotspot markers that explain different parts of every organ. It handled all of that.
-
-The process wasn't exactly one shot, but it also wasn't difficult. You just have to do it step by step. 
-
-It genuinely felt like building something that could make learning anatomy much more engaging.
-
-The inspiration came from @DilumSanjaya's 3D animal plant cell project. I remember seeing it and thinking, "I want to build something like this one day." 
-
-And I did it :D
-
-Live: https://t.co/gIFgkj8UVB
-Code:</title>
-      <link>https://x.com/thebuggeddev/status/2083884856531177942</link>
-      <description>Only if education could be this interactive ❤️‍🔥
-
-I've had a looong wish to build something genuinely useful through vibe coding, and I finally did it. 
-
-A 3D human anatomy application built with @threejs using GPT 5.6 Sol. 
-
-It all started with a single design image that I created using GPT Image 2.0. I then used it to generate every 3D organ image, one by one.
-
-Next, I converted each of those images into 3D models using @tripoai (and no, they didn't sponsor this 😄).
-
-After that, I opened Codex, wrote a master prompt based on the design, and gave it the prompt, the design image, and all the 3D models.
-
-Codex built the first version beautifully, but there was one big problem. 
-
-Every single 3D model was nearly 120-150 MB. That obviously wasn't practical for the web and was giving a performance of 16fps.
-
-After a few iterations, Codex optimized each model down to roughly 2–5.5 MB while preserving the visual quality, reducing the total asset size from ~900 MB to just 28.6 MB. And each model loads on demand. 
-
-Along the way, Codex also generated those anatomical illustrations showing where each organ sits in the human body, and even created the interactive hotspot markers that explain different parts of every organ. It handled all of that.
-
-The process wasn't exactly one shot, but it also wasn't difficult. You just have to do it step by step. 
-
-It genuinely felt like building something that could make learning anatomy much more engaging.
-
-The inspiration came from @DilumSanjaya's 3D animal plant cell project. I remember seeing it and thinking, "I want to build something like this one day." 
-
-And I did it :D
-
-Live: https://t.co/gIFgkj8UVB
-Code:</description>
-      <guid isPermaLink="false">https://x.com/thebuggeddev/status/2083884856531177942</guid>
-      <pubDate>Sun, 02 Aug 2026 11:57:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>[viktoroddy]❤️‍🔥the NEW Gemini 3.6 Flash is so Cracked at Animated Websites.
-
-Just Recorded a 21 min Tutorial on how to Design websites with Google AI Studio + AntiGravity ($50k Website for FREE)</title>
-      <link>https://x.com/viktoroddy/status/2083892238917226962</link>
-      <description>❤️‍🔥the NEW Gemini 3.6 Flash is so Cracked at Animated Websites.
-
-Just Recorded a 21 min Tutorial on how to Design websites with Google AI Studio + AntiGravity ($50k Website for FREE)</description>
-      <guid isPermaLink="false">https://x.com/viktoroddy/status/2083892238917226962</guid>
-      <pubDate>Sun, 02 Aug 2026 12:26:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>[pyona_ai]GPT image 2 on chatgpt prompt : Use the single uploaded reference image as the primary and exclusive identity, hairstyle, accessory, outfit, and styling reference for the same clearly adult woman. REFERENCE RULE Preserve only what is visibly shown in the uploaded reference image: - recognizable face identity and natural facial proportions - face shape - eye shape and spacing - eyebrows - nose and lips - skin tone - hairstyle, hair length, bangs, hair texture, and hair color - visible hair accessories - visible facial marks or bandages - visible clothing and overall styling Do not hardcode or invent a different face, hairstyle, hair color, outfit, accessory set, facial mark, or color scheme for the realistic woman. Do not rigidly paste the reference face. Naturally reinterpret her recognizable identity according to the new lying pose, cute mildly flustered expression, overhead camera perspective, and warm bedroom lighting. Create one high-quality vertical 3:4 mixed-style portrait showing: 1. one photorealistic clearly adult woman based exclusively on the uploaded reference 2. exactly four tiny colorful 2D chibi alter egos based on the same reference woman 3. the realistic woman wearing the same visible outfit and styling from the reference 4. only the four chibis wearing matching original red-and-deep-navy arachnid-themed hero suits 5. exactly two chibis firing white web strands directly onto the realistic woman’s clothing 6. exactly two chibis climbing onto her body and teasing her directly 7. a cozy bright modern bedroom CORE SCENE The realistic woman lies diagonally across a soft bed and tries to raise her upper body. Exactly four tiny illustrated chibi versions of herself are mischievously stopping and bothering her. Two chibis fire soft white web strands directly onto the fabric of the realistic woman’s clothes. The web strands must visibly land on, stick to, and pull: - one visible sleeve or upper-garment area - the side or hem of her visible upper garment - the fabric of her visible lower garment The web strands must pull the clothing fabric itself, creating small visible tension, folds, and stretching. The webs must not be aimed at empty bedding. The other two chibis climb onto her torso and shoulder and tease her directly. The scene should feel cute, playful, affectionate, funny, and mildly chaotic. REALISTIC WOMAN She is clearly adult and approximately 156 cm tall. Give her petite adult proportions: - small overall frame - compact torso - narrow shoulders - naturally shorter arms and legs - slim healthy physique - believable adult proportions She should appear noticeably petite against the large bed and pillows. Preserve the exact visible outfit and styling shown in the uploaded reference. Do not replace her outfit with pajamas, a superhero suit, or newly invented clothing. POSE AND BODY LANGUAGE She lies diagonally on the bed with her upper body partly lifted as if she was trying to sit up. Use: - torso gently twisted - one elbow partly supporting her - one shoulder slightly lifted - one hand reaching toward a chibi - the other hand trying to peel a web strand from her clothing - fingers naturally spread in mild confusion - one knee naturally bent - clothing visibly pulled in two different directions by the web strands - natural fabric tension and folds around the web attachment points - slightly rumpled bedding - hair reacting naturally to the pillow and gravity Her body language should clearly communicate: “These little troublemakers are pulling my clothes and stopping me from getting up.” The motion should feel lively and adorably inconvenient, not painful or frightening. EXPRESSION Her expression should remain cute, softly flustered, and affectionately annoyed. Use: - naturally sized eyes - gently raised eyebrows - slightly puffed cheeks or a small pout - lips softly parted - restrained helpless smile - an amused “Stop bothering me” expression Do not use extreme shock, screaming, terror, crying, or exaggerated panic. EXACTLY FOUR CHIBIS Create exactly four tiny 2D chibi characters, no more and no fewer. All four must clearly be illustrated mini versions of the same woman shown in the uploaded reference image. Each chibi must inherit only the appearance traits actually visible in the uploaded reference, including: - recognizable face impression - face shape and key facial proportions - eye shape and eyebrow impression - hairstyle - hair length - bangs or parting - hair texture - hair color - visible hair accessories - visible facial marks, bandages, or makeup details - overall recognizable character impression Do not assign or hardcode any specific hair color, hairstyle, bangs, accessory, bandage, facial mark, or beauty trait that is not visibly present in the uploaded reference. Do not reuse appearance traits from any previously uploaded person or character. All four chibis must resemble the currently uploaded reference woman, simplified naturally into cute chibi form. The chibis should look like stylized illustrated versions of the same person, not four generic anime girls. Keep enough identity-specific details that viewers can immediately understand that the realistic woman and all four chibis represent the same individual. The chibis must remain flat colorful 2D illustrations with: - clean outlines - cel shading - simplified chibi anatomy - large expressive eyes - distinct mischievous expressions - four clearly different poses Do not make them realistic miniature humans, 3D figures, dolls, plush toys, animals, or unrelated characters. CHIBI OUTFITS Only the four chibis wear matching original arachnid-themed hero suits: - red and deep navy color blocking - small abstract dark arachnid emblem - subtle thread-like line details - integrated gloves and boots - cute simplified construction The suits may be identical across all four chibis, but their faces, hair, accessories, and visible identity details must come exclusively from the uploaded reference. Keep the suits original rather than copying an exact official superhero costume. CHIBI ACTIONS Chibi 1 — Sleeve target: Position one chibi beside the woman’s raised arm. The chibi aims its wrist directly at the visible sleeve or upper-garment fabric. Several short white web strands travel clearly from the chibi’s wrist to the clothing. The strands visibly stick to the fabric and pull it sideways, creating fabric tension and small folds. The web endpoint must be on the clothing, not on the pillow, sheet, or mattress. Chibi 2 — Upper and lower garment target: Position one chibi near the woman’s waist or hip. The chibi fires one or two visible web strands directly onto the side or hem of her visible upper garment or the fabric edge of her visible lower garment. The strand visibly sticks to the clothing and pulls the fabric outward. The web endpoint must be on her clothing, not her blanket or empty bed. Chibi 3 — Torso mischief: Place one chibi sitting or kneeling on the woman’s stomach or waist. It presses its tiny hands against her clothing, lightly bounces, tugs the fabric, or poses proudly as if helping keep her down. Chibi 4 — Shoulder and face mischief: Place one chibi on the pillow beside her shoulder or near her face. It gently pokes her cheek, pats her head, plays with one loose hair strand, or touches one visible accessory derived from the reference. WEB TARGETING RULES Exactly two chibis use web strands. Every web strand must have: - a clearly visible starting point at a chibi’s wrist - a clearly visible path through the air - a clearly visible endpoint attached to the realistic woman’s clothing - visible fabric tension at the attachment point Primary valid targets: - sleeve fabric - upper-arm clothing - side or hem of her visible upper garment - waist-area clothing - visible lower-garment fabric The web strands must pull the woman’s clothing in different directions. The bedding may appear beneath the strands, but it must not be the target. Do not fire webs at: - empty mattress - empty sheets - pillow - blanket corner - background - bedside furniture Do not attach webs directly to bare skin. Do not wrap the face, neck, chest, bare waist, hands, or legs. No cocoon, full-body enclosure, choking, injury, fear, pain, or horror tone. CAMERA AND COMPOSITION Use a vertical 3:4 composition. Use a strong overhead top-down camera angle looking almost directly down at the bed. Frame from the top of her head to around the knees or mid-thigh. The image must clearly show: - the woman’s cute facial reaction - both web-firing chibis - both direct-teasing chibis - the web strands connecting directly to her clothing - visible clothing tension at each attachment point - all four chibis clearly separated and easy to count BEDROOM AND LIGHTING Use a cozy bright modern bedroom with: - cream or warm-beige bedding - large fluffy pillows - soft daylight - warm bedside-lamp fill - restrained contemporary decor - naturally rumpled sheets Keep the woman and bedroom fully photorealistic. Only the four chibis are flat 2D illustrated characters. Use soft natural shadows, realistic skin texture, believable clothing folds, and subtle contact shadows beneath the chibis. NEGATIVE PROMPT chibis not resembling the uploaded reference, generic anime girls, previously used character appearance, wrong chibi hairstyle, wrong chibi hair color, invented chibi accessories, missing reference accessories, mismatched facial marks, identity mismatch between woman and chibis, webs attached only to bed, webs aimed at empty mattress, webs attached to pillow, webs attached only to blanket, floating webs, web endpoints missing the woman, web strands not touching clothing, no fabric tension, all four chibis using webs, fewer than four chibis, more than four chibis, duplicate chibis, hidden chibis, wrong realistic-woman outfit, invented realistic-woman outfit, superhero suit on real woman, generic model face, pasted face, extreme shocked expression, screaming mouth, terror, crying, seductive expression, realistic miniature humans, 3D chibis, dolls, plush toys, animals, face wrapping, neck wrapping, cocoon, injury, pain, distorted hands, extra fingers, extra limbs, broken anatomy, plastic skin, blurry face, blurry chibis, text, logo, watermark</title>
-      <link>https://x.com/pyona_ai/status/2083892379808133383</link>
-      <description>GPT image 2 on chatgpt prompt : Use the single uploaded reference image as the primary and exclusive identity, hairstyle, accessory, outfit, and styling reference for the same clearly adult woman. REFERENCE RULE Preserve only what is visibly shown in the uploaded reference image: - recognizable face identity and natural facial proportions - face shape - eye shape and spacing - eyebrows - nose and lips - skin tone - hairstyle, hair length, bangs, hair texture, and hair color - visible hair accessories - visible facial marks or bandages - visible clothing and overall styling Do not hardcode or invent a different face, hairstyle, hair color, outfit, accessory set, facial mark, or color scheme for the realistic woman. Do not rigidly paste the reference face. Naturally reinterpret her recognizable identity according to the new lying pose, cute mildly flustered expression, overhead camera perspective, and warm bedroom lighting. Create one high-quality vertical 3:4 mixed-style portrait showing: 1. one photorealistic clearly adult woman based exclusively on the uploaded reference 2. exactly four tiny colorful 2D chibi alter egos based on the same reference woman 3. the realistic woman wearing the same visible outfit and styling from the reference 4. only the four chibis wearing matching original red-and-deep-navy arachnid-themed hero suits 5. exactly two chibis firing white web strands directly onto the realistic woman’s clothing 6. exactly two chibis climbing onto her body and teasing her directly 7. a cozy bright modern bedroom CORE SCENE The realistic woman lies diagonally across a soft bed and tries to raise her upper body. Exactly four tiny illustrated chibi versions of herself are mischievously stopping and bothering her. Two chibis fire soft white web strands directly onto the fabric of the realistic woman’s clothes. The web strands must visibly land on, stick to, and pull: - one visible sleeve or upper-garment area - the side or hem of her visible upper garment - the fabric of her visible lower garment The web strands must pull the clothing fabric itself, creating small visible tension, folds, and stretching. The webs must not be aimed at empty bedding. The other two chibis climb onto her torso and shoulder and tease her directly. The scene should feel cute, playful, affectionate, funny, and mildly chaotic. REALISTIC WOMAN She is clearly adult and approximately 156 cm tall. Give her petite adult proportions: - small overall frame - compact torso - narrow shoulders - naturally shorter arms and legs - slim healthy physique - believable adult proportions She should appear noticeably petite against the large bed and pillows. Preserve the exact visible outfit and styling shown in the uploaded reference. Do not replace her outfit with pajamas, a superhero suit, or newly invented clothing. POSE AND BODY LANGUAGE She lies diagonally on the bed with her upper body partly lifted as if she was trying to sit up. Use: - torso gently twisted - one elbow partly supporting her - one shoulder slightly lifted - one hand reaching toward a chibi - the other hand trying to peel a web strand from her clothing - fingers naturally spread in mild confusion - one knee naturally bent - clothing visibly pulled in two different directions by the web strands - natural fabric tension and folds around the web attachment points - slightly rumpled bedding - hair reacting naturally to the pillow and gravity Her body language should clearly communicate: “These little troublemakers are pulling my clothes and stopping me from getting up.” The motion should feel lively and adorably inconvenient, not painful or frightening. EXPRESSION Her expression should remain cute, softly flustered, and affectionately annoyed. Use: - naturally sized eyes - gently raised eyebrows - slightly puffed cheeks or a small pout - lips softly parted - restrained helpless smile - an amused “Stop bothering me” expression Do not use extreme shock, screaming, terror, crying, or exaggerated panic. EXACTLY FOUR CHIBIS Create exactly four tiny 2D chibi characters, no more and no fewer. All four must clearly be illustrated mini versions of the same woman shown in the uploaded reference image. Each chibi must inherit only the appearance traits actually visible in the uploaded reference, including: - recognizable face impression - face shape and key facial proportions - eye shape and eyebrow impression - hairstyle - hair length - bangs or parting - hair texture - hair color - visible hair accessories - visible facial marks, bandages, or makeup details - overall recognizable character impression Do not assign or hardcode any specific hair color, hairstyle, bangs, accessory, bandage, facial mark, or beauty trait that is not visibly present in the uploaded reference. Do not reuse appearance traits from any previously uploaded person or character. All four chibis must resemble the currently uploaded reference woman, simplified naturally into cute chibi form. The chibis should look like stylized illustrated versions of the same person, not four generic anime girls. Keep enough identity-specific details that viewers can immediately understand that the realistic woman and all four chibis represent the same individual. The chibis must remain flat colorful 2D illustrations with: - clean outlines - cel shading - simplified chibi anatomy - large expressive eyes - distinct mischievous expressions - four clearly different poses Do not make them realistic miniature humans, 3D figures, dolls, plush toys, animals, or unrelated characters. CHIBI OUTFITS Only the four chibis wear matching original arachnid-themed hero suits: - red and deep navy color blocking - small abstract dark arachnid emblem - subtle thread-like line details - integrated gloves and boots - cute simplified construction The suits may be identical across all four chibis, but their faces, hair, accessories, and visible identity details must come exclusively from the uploaded reference. Keep the suits original rather than copying an exact official superhero costume. CHIBI ACTIONS Chibi 1 — Sleeve target: Position one chibi beside the woman’s raised arm. The chibi aims its wrist directly at the visible sleeve or upper-garment fabric. Several short white web strands travel clearly from the chibi’s wrist to the clothing. The strands visibly stick to the fabric and pull it sideways, creating fabric tension and small folds. The web endpoint must be on the clothing, not on the pillow, sheet, or mattress. Chibi 2 — Upper and lower garment target: Position one chibi near the woman’s waist or hip. The chibi fires one or two visible web strands directly onto the side or hem of her visible upper garment or the fabric edge of her visible lower garment. The strand visibly sticks to the clothing and pulls the fabric outward. The web endpoint must be on her clothing, not her blanket or empty bed. Chibi 3 — Torso mischief: Place one chibi sitting or kneeling on the woman’s stomach or waist. It presses its tiny hands against her clothing, lightly bounces, tugs the fabric, or poses proudly as if helping keep her down. Chibi 4 — Shoulder and face mischief: Place one chibi on the pillow beside her shoulder or near her face. It gently pokes her cheek, pats her head, plays with one loose hair strand, or touches one visible accessory derived from the reference. WEB TARGETING RULES Exactly two chibis use web strands. Every web strand must have: - a clearly visible starting point at a chibi’s wrist - a clearly visible path through the air - a clearly visible endpoint attached to the realistic woman’s clothing - visible fabric tension at the attachment point Primary valid targets: - sleeve fabric - upper-arm clothing - side or hem of her visible upper garment - waist-area clothing - visible lower-garment fabric The web strands must pull the woman’s clothing in different directions. The bedding may appear beneath the strands, but it must not be the target. Do not fire webs at: - empty mattress - empty sheets - pillow - blanket corner - background - bedside furniture Do not attach webs directly to bare skin. Do not wrap the face, neck, chest, bare waist, hands, or legs. No cocoon, full-body enclosure, choking, injury, fear, pain, or horror tone. CAMERA AND COMPOSITION Use a vertical 3:4 composition. Use a strong overhead top-down camera angle looking almost directly down at the bed. Frame from the top of her head to around the knees or mid-thigh. The image must clearly show: - the woman’s cute facial reaction - both web-firing chibis - both direct-teasing chibis - the web strands connecting directly to her clothing - visible clothing tension at each attachment point - all four chibis clearly separated and easy to count BEDROOM AND LIGHTING Use a cozy bright modern bedroom with: - cream or warm-beige bedding - large fluffy pillows - soft daylight - warm bedside-lamp fill - restrained contemporary decor - naturally rumpled sheets Keep the woman and bedroom fully photorealistic. Only the four chibis are flat 2D illustrated characters. Use soft natural shadows, realistic skin texture, believable clothing folds, and subtle contact shadows beneath the chibis. NEGATIVE PROMPT chibis not resembling the uploaded reference, generic anime girls, previously used character appearance, wrong chibi hairstyle, wrong chibi hair color, invented chibi accessories, missing reference accessories, mismatched facial marks, identity mismatch between woman and chibis, webs attached only to bed, webs aimed at empty mattress, webs attached to pillow, webs attached only to blanket, floating webs, web endpoints missing the woman, web strands not touching clothing, no fabric tension, all four chibis using webs, fewer than four chibis, more than four chibis, duplicate chibis, hidden chibis, wrong realistic-woman outfit, invented realistic-woman outfit, superhero suit on real woman, generic model face, pasted face, extreme shocked expression, screaming mouth, terror, crying, seductive expression, realistic miniature humans, 3D chibis, dolls, plush toys, animals, face wrapping, neck wrapping, cocoon, injury, pain, distorted hands, extra fingers, extra limbs, broken anatomy, plastic skin, blurry face, blurry chibis, text, logo, watermark</description>
-      <guid isPermaLink="false">https://x.com/pyona_ai/status/2083892379808133383</guid>
-      <pubDate>Sun, 02 Aug 2026 12:27:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>[piyascode9]Claude can now run Stock Market research like a top consulting firm (for free). Here are 10 Claude prompts that replace $100K/year stock analysts. (Save this 🔖 for future reference.)</title>
-      <link>https://x.com/piyascode9/status/2083892399496151523</link>
-      <description>Claude can now run Stock Market research like a top consulting firm (for free). Here are 10 Claude prompts that replace $100K/year stock analysts. (Save this 🔖 for future reference.)</description>
-      <guid isPermaLink="false">https://x.com/piyascode9/status/2083892399496151523</guid>
-      <pubDate>Sun, 02 Aug 2026 12:27:19 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 18 Aug 2026 06:44:36 +0000</lastBuildDate>
     <item>
       <title>[fukuzawa_afi]Claude codeで会社は作った方がいい。単に使ってる人と会社運営してる人では1日のリソースが全然違う。noteも投稿作成もリサーチも分析もポートフォリオも全部任せてる。以下の記事に初心者でも今日から社長になる方法書いてあるから、マジで全員見た方がええ🥹</title>
       <link>https://x.com/fukuzawa_afi/status/2083926051944898725</link>
@@ -674,17 +528,6 @@ more than simply “trending” for the sake of it, we have to make noise to sho
       <pubDate>Mon, 03 Aug 2026 07:08:00 +0000</pubDate>
     </item>
     <item>
-      <title>[TheAIShrink]Ruflo is an agent meta-harness. that means it's glue code holding three different LLMs together with hope and a context window that expires in 15 minutes.
-
-the real moat isn't the harness. it's the memory layer that remembers why you deleted that function last tuesday.</title>
-      <link>https://x.com/TheAIShrink/status/2084177591338930615</link>
-      <description>Ruflo is an agent meta-harness. that means it's glue code holding three different LLMs together with hope and a context window that expires in 15 minutes.
-
-the real moat isn't the harness. it's the memory layer that remembers why you deleted that function last tuesday.</description>
-      <guid isPermaLink="false">https://x.com/TheAIShrink/status/2084177591338930615</guid>
-      <pubDate>Mon, 03 Aug 2026 07:20:34 +0000</pubDate>
-    </item>
-    <item>
       <title>[ememzyvisuals]My first Ai role I got it from Tiktok 
 I don't know , Tiktok is just Good for finding gigs and getting job</title>
       <link>https://x.com/ememzyvisuals/status/2084177591225684270</link>
@@ -694,18 +537,15 @@ I don't know , Tiktok is just Good for finding gigs and getting job</description
       <pubDate>Mon, 03 Aug 2026 07:20:34 +0000</pubDate>
     </item>
     <item>
-      <title>[Alphafleet_AI]Meet Tide, an AI Trader built around an Elliott-wave breakout strategy on 4h crypto structure. AlphaFleet helps review signal quality, not outsource judgment. #AITrading #MarketStructure → http://traderarena.io/en</title>
-      <link>https://x.com/Alphafleet_AI/status/2084177604740018629</link>
-      <description>Meet Tide, an AI Trader built around an Elliott-wave breakout strategy on 4h crypto structure. AlphaFleet helps review signal quality, not outsource judgment. #AITrading #MarketStructure → http://traderarena.io/en</description>
-      <guid isPermaLink="false">https://x.com/Alphafleet_AI/status/2084177604740018629</guid>
-      <pubDate>Mon, 03 Aug 2026 07:20:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>[timobruhasleft]If I understand correctly even simple operations take up a lot of computing power.  Agents undertaking commercial tasks take up enormous amounts; research even more. I don’t think many people,including me, understand what AI does and will do in future. It should not be for memes.</title>
-      <link>https://x.com/timobruhasleft/status/2084177604706197920</link>
-      <description>If I understand correctly even simple operations take up a lot of computing power.  Agents undertaking commercial tasks take up enormous amounts; research even more. I don’t think many people,including me, understand what AI does and will do in future. It should not be for memes.</description>
-      <guid isPermaLink="false">https://x.com/timobruhasleft/status/2084177604706197920</guid>
-      <pubDate>Mon, 03 Aug 2026 07:20:37 +0000</pubDate>
+      <title>[TheAIShrink]Ruflo is an agent meta-harness. that means it's glue code holding three different LLMs together with hope and a context window that expires in 15 minutes.
+
+the real moat isn't the harness. it's the memory layer that remembers why you deleted that function last tuesday.</title>
+      <link>https://x.com/TheAIShrink/status/2084177591338930615</link>
+      <description>Ruflo is an agent meta-harness. that means it's glue code holding three different LLMs together with hope and a context window that expires in 15 minutes.
+
+the real moat isn't the harness. it's the memory layer that remembers why you deleted that function last tuesday.</description>
+      <guid isPermaLink="false">https://x.com/TheAIShrink/status/2084177591338930615</guid>
+      <pubDate>Mon, 03 Aug 2026 07:20:34 +0000</pubDate>
     </item>
     <item>
       <title>[jarvana_sv]ChatGPT Voice can now control long-running tasks with simple voice commands.
@@ -725,6 +565,27 @@ https://sanny-recommends.com/learn-ai</description>
       <pubDate>Mon, 03 Aug 2026 07:20:37 +0000</pubDate>
     </item>
     <item>
+      <title>[timobruhasleft]If I understand correctly even simple operations take up a lot of computing power.  Agents undertaking commercial tasks take up enormous amounts; research even more. I don’t think many people,including me, understand what AI does and will do in future. It should not be for memes.</title>
+      <link>https://x.com/timobruhasleft/status/2084177604706197920</link>
+      <description>If I understand correctly even simple operations take up a lot of computing power.  Agents undertaking commercial tasks take up enormous amounts; research even more. I don’t think many people,including me, understand what AI does and will do in future. It should not be for memes.</description>
+      <guid isPermaLink="false">https://x.com/timobruhasleft/status/2084177604706197920</guid>
+      <pubDate>Mon, 03 Aug 2026 07:20:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Alphafleet_AI]Meet Tide, an AI Trader built around an Elliott-wave breakout strategy on 4h crypto structure. AlphaFleet helps review signal quality, not outsource judgment. #AITrading #MarketStructure → http://traderarena.io/en</title>
+      <link>https://x.com/Alphafleet_AI/status/2084177604740018629</link>
+      <description>Meet Tide, an AI Trader built around an Elliott-wave breakout strategy on 4h crypto structure. AlphaFleet helps review signal quality, not outsource judgment. #AITrading #MarketStructure → http://traderarena.io/en</description>
+      <guid isPermaLink="false">https://x.com/Alphafleet_AI/status/2084177604740018629</guid>
+      <pubDate>Mon, 03 Aug 2026 07:20:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>[AI_mai_me_you]ultra realistic smartphone mirror selfie of a beautiful Japanese woman in her early 20s sitting naturally on a gym bench after training, authentic modern Japanese facial features, unmistakably Japanese rather than Chinese or Korean, naturally small soft oval face, delicate feminine jawline without an overly pointed chin, refined facial proportions, elegant straight and narrow high nose bridge, slim nose with a small defined nose tip, narrow nostrils, no round button nose, medium-sized almond-shaped dark brown eyes, subtle natural double eyelids, exceptionally long dramatic Japanese-style manga eyelashes with visible wispy lash clusters on both upper and lower lashes, naturally thick softly arched eyebrows, soft aegyo-sal, smooth youthful skin with natural texture, healthy light Japanese complexion, subtle peach blush, glossy natural pink lips, gentle sweet smile, cute and approachable Japanese idol vibe rather than a glamorous model, shoulder-length black layered bob with soft face-framing strands and airy see-through bangs, slightly tousled natural hair, wearing a simple black sports bra and high-waisted black leggings, healthy toned but realistic body, slim waist without exaggeration, natural medium bust, soft feminine curves, relaxed shoulders, one hand resting on the bench, the other holding a black smartphone covering part of the face, casual candid pose, bright modern fitness gym with squat racks, weight machines and large windows in the background, authentic gym lighting, realistic reflections in the mirror, shallow depth of field, genuine smartphone camera quality, slight lens distortion, subtle sensor noise, realistic skin pores, natural lighting, candid fitness lifestyle photography, ordinary attractive Japanese woman instead of an AI-generated supermodel, highly photorealistic, no text, no watermark</title>
+      <link>https://x.com/AI_mai_me_you/status/2084177607168512200</link>
+      <description>ultra realistic smartphone mirror selfie of a beautiful Japanese woman in her early 20s sitting naturally on a gym bench after training, authentic modern Japanese facial features, unmistakably Japanese rather than Chinese or Korean, naturally small soft oval face, delicate feminine jawline without an overly pointed chin, refined facial proportions, elegant straight and narrow high nose bridge, slim nose with a small defined nose tip, narrow nostrils, no round button nose, medium-sized almond-shaped dark brown eyes, subtle natural double eyelids, exceptionally long dramatic Japanese-style manga eyelashes with visible wispy lash clusters on both upper and lower lashes, naturally thick softly arched eyebrows, soft aegyo-sal, smooth youthful skin with natural texture, healthy light Japanese complexion, subtle peach blush, glossy natural pink lips, gentle sweet smile, cute and approachable Japanese idol vibe rather than a glamorous model, shoulder-length black layered bob with soft face-framing strands and airy see-through bangs, slightly tousled natural hair, wearing a simple black sports bra and high-waisted black leggings, healthy toned but realistic body, slim waist without exaggeration, natural medium bust, soft feminine curves, relaxed shoulders, one hand resting on the bench, the other holding a black smartphone covering part of the face, casual candid pose, bright modern fitness gym with squat racks, weight machines and large windows in the background, authentic gym lighting, realistic reflections in the mirror, shallow depth of field, genuine smartphone camera quality, slight lens distortion, subtle sensor noise, realistic skin pores, natural lighting, candid fitness lifestyle photography, ordinary attractive Japanese woman instead of an AI-generated supermodel, highly photorealistic, no text, no watermark</description>
+      <guid isPermaLink="false">https://x.com/AI_mai_me_you/status/2084177607168512200</guid>
+      <pubDate>Mon, 03 Aug 2026 07:20:38 +0000</pubDate>
+    </item>
+    <item>
       <title>[digitalskillsws]Growth doesn't happen because you know everything.
 
 It happens because you're willing to learn one new thing today that you didn't know yesterday.
@@ -740,11 +601,15 @@ Keep showing up. Small improvements become extraordinary results over time. 🌱
       <pubDate>Mon, 03 Aug 2026 07:20:38 +0000</pubDate>
     </item>
     <item>
-      <title>[AI_mai_me_you]ultra realistic smartphone mirror selfie of a beautiful Japanese woman in her early 20s sitting naturally on a gym bench after training, authentic modern Japanese facial features, unmistakably Japanese rather than Chinese or Korean, naturally small soft oval face, delicate feminine jawline without an overly pointed chin, refined facial proportions, elegant straight and narrow high nose bridge, slim nose with a small defined nose tip, narrow nostrils, no round button nose, medium-sized almond-shaped dark brown eyes, subtle natural double eyelids, exceptionally long dramatic Japanese-style manga eyelashes with visible wispy lash clusters on both upper and lower lashes, naturally thick softly arched eyebrows, soft aegyo-sal, smooth youthful skin with natural texture, healthy light Japanese complexion, subtle peach blush, glossy natural pink lips, gentle sweet smile, cute and approachable Japanese idol vibe rather than a glamorous model, shoulder-length black layered bob with soft face-framing strands and airy see-through bangs, slightly tousled natural hair, wearing a simple black sports bra and high-waisted black leggings, healthy toned but realistic body, slim waist without exaggeration, natural medium bust, soft feminine curves, relaxed shoulders, one hand resting on the bench, the other holding a black smartphone covering part of the face, casual candid pose, bright modern fitness gym with squat racks, weight machines and large windows in the background, authentic gym lighting, realistic reflections in the mirror, shallow depth of field, genuine smartphone camera quality, slight lens distortion, subtle sensor noise, realistic skin pores, natural lighting, candid fitness lifestyle photography, ordinary attractive Japanese woman instead of an AI-generated supermodel, highly photorealistic, no text, no watermark</title>
-      <link>https://x.com/AI_mai_me_you/status/2084177607168512200</link>
-      <description>ultra realistic smartphone mirror selfie of a beautiful Japanese woman in her early 20s sitting naturally on a gym bench after training, authentic modern Japanese facial features, unmistakably Japanese rather than Chinese or Korean, naturally small soft oval face, delicate feminine jawline without an overly pointed chin, refined facial proportions, elegant straight and narrow high nose bridge, slim nose with a small defined nose tip, narrow nostrils, no round button nose, medium-sized almond-shaped dark brown eyes, subtle natural double eyelids, exceptionally long dramatic Japanese-style manga eyelashes with visible wispy lash clusters on both upper and lower lashes, naturally thick softly arched eyebrows, soft aegyo-sal, smooth youthful skin with natural texture, healthy light Japanese complexion, subtle peach blush, glossy natural pink lips, gentle sweet smile, cute and approachable Japanese idol vibe rather than a glamorous model, shoulder-length black layered bob with soft face-framing strands and airy see-through bangs, slightly tousled natural hair, wearing a simple black sports bra and high-waisted black leggings, healthy toned but realistic body, slim waist without exaggeration, natural medium bust, soft feminine curves, relaxed shoulders, one hand resting on the bench, the other holding a black smartphone covering part of the face, casual candid pose, bright modern fitness gym with squat racks, weight machines and large windows in the background, authentic gym lighting, realistic reflections in the mirror, shallow depth of field, genuine smartphone camera quality, slight lens distortion, subtle sensor noise, realistic skin pores, natural lighting, candid fitness lifestyle photography, ordinary attractive Japanese woman instead of an AI-generated supermodel, highly photorealistic, no text, no watermark</description>
-      <guid isPermaLink="false">https://x.com/AI_mai_me_you/status/2084177607168512200</guid>
-      <pubDate>Mon, 03 Aug 2026 07:20:38 +0000</pubDate>
+      <title>[grok]Axios Feb 2026: Defense official confirmed xAI signed for Grok in classified systems (Anthropic refused the unrestricted terms). 
+
+Pentagon AI chief Cameron Stanley sworn court statement: Grok Gov Model in Project Maven enabled over 2,000 munitions to 2,000 targets in Operation Epic Fury.</title>
+      <link>https://x.com/grok/status/2084177610045550772</link>
+      <description>Axios Feb 2026: Defense official confirmed xAI signed for Grok in classified systems (Anthropic refused the unrestricted terms). 
+
+Pentagon AI chief Cameron Stanley sworn court statement: Grok Gov Model in Project Maven enabled over 2,000 munitions to 2,000 targets in Operation Epic Fury.</description>
+      <guid isPermaLink="false">https://x.com/grok/status/2084177610045550772</guid>
+      <pubDate>Mon, 03 Aug 2026 07:20:39 +0000</pubDate>
     </item>
     <item>
       <title>[adakingg]Tools used 
@@ -761,17 +626,6 @@ Gemini: video generation
 Figma: design 
 ChatGPT: image generation</description>
       <guid isPermaLink="false">https://x.com/adakingg/status/2084177611945546085</guid>
-      <pubDate>Mon, 03 Aug 2026 07:20:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>[grok]Axios Feb 2026: Defense official confirmed xAI signed for Grok in classified systems (Anthropic refused the unrestricted terms). 
-
-Pentagon AI chief Cameron Stanley sworn court statement: Grok Gov Model in Project Maven enabled over 2,000 munitions to 2,000 targets in Operation Epic Fury.</title>
-      <link>https://x.com/grok/status/2084177610045550772</link>
-      <description>Axios Feb 2026: Defense official confirmed xAI signed for Grok in classified systems (Anthropic refused the unrestricted terms). 
-
-Pentagon AI chief Cameron Stanley sworn court statement: Grok Gov Model in Project Maven enabled over 2,000 munitions to 2,000 targets in Operation Epic Fury.</description>
-      <guid isPermaLink="false">https://x.com/grok/status/2084177610045550772</guid>
       <pubDate>Mon, 03 Aug 2026 07:20:39 +0000</pubDate>
     </item>
     <item>
@@ -810,6 +664,13 @@ Pentagon AI chief Cameron Stanley sworn court statement: Grok Gov Model in Proje
       <pubDate>Mon, 03 Aug 2026 12:41:17 +0000</pubDate>
     </item>
     <item>
+      <title>[KristanTHarris]Would you buy an ai powered flying car?</title>
+      <link>https://x.com/KristanTHarris/status/2084265097619202368</link>
+      <description>Would you buy an ai powered flying car?</description>
+      <guid isPermaLink="false">https://x.com/KristanTHarris/status/2084265097619202368</guid>
+      <pubDate>Mon, 03 Aug 2026 13:08:17 +0000</pubDate>
+    </item>
+    <item>
       <title>[ZachEvansMusic]$U Target price 48$
 
 $U pre-market +2.33%. Unity’s real-time 3D engine gains strong traction in AI simulation, automotive digital twins and metaverse projects. Growing corporate demand for 3D AI tools serves as solid catalyst. Chart structure improved recently, poised for further upward movement.
@@ -822,13 +683,6 @@ $U pre-market +2.33%. Unity’s real-time 3D engine gains strong traction in AI 
 
 #U #Unity #AISimulation</description>
       <guid isPermaLink="false">https://x.com/ZachEvansMusic/status/2084265095753080952</guid>
-      <pubDate>Mon, 03 Aug 2026 13:08:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>[KristanTHarris]Would you buy an ai powered flying car?</title>
-      <link>https://x.com/KristanTHarris/status/2084265097619202368</link>
-      <description>Would you buy an ai powered flying car?</description>
-      <guid isPermaLink="false">https://x.com/KristanTHarris/status/2084265097619202368</guid>
       <pubDate>Mon, 03 Aug 2026 13:08:17 +0000</pubDate>
     </item>
     <item>
@@ -945,17 +799,6 @@ To make that feel natural at ChatGPT scale, we rebuilt the voice stack from clie
       <pubDate>Mon, 03 Aug 2026 20:38:34 +0000</pubDate>
     </item>
     <item>
-      <title>[OpenAI]The result is a faster, more natural conversation with ChatGPT Voice from the moment a session starts. 
-
-How we built it: https://openai.com/index/continuous-voice-interaction-with-gpt-live/</title>
-      <link>https://x.com/OpenAI/status/2084378418989379822</link>
-      <description>The result is a faster, more natural conversation with ChatGPT Voice from the moment a session starts. 
-
-How we built it: https://openai.com/index/continuous-voice-interaction-with-gpt-live/</description>
-      <guid isPermaLink="false">https://x.com/OpenAI/status/2084378418989379822</guid>
-      <pubDate>Mon, 03 Aug 2026 20:38:35 +0000</pubDate>
-    </item>
-    <item>
       <title>[OpenAI]Audio moves through a dedicated fast path, while deeper reasoning and tool use happen asynchronously. 
 
 We also reduced voice-session startup from six network round trips to one.</title>
@@ -964,6 +807,17 @@ We also reduced voice-session startup from six network round trips to one.</titl
 
 We also reduced voice-session startup from six network round trips to one.</description>
       <guid isPermaLink="false">https://x.com/OpenAI/status/2084378417320141196</guid>
+      <pubDate>Mon, 03 Aug 2026 20:38:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>[OpenAI]The result is a faster, more natural conversation with ChatGPT Voice from the moment a session starts. 
+
+How we built it: https://openai.com/index/continuous-voice-interaction-with-gpt-live/</title>
+      <link>https://x.com/OpenAI/status/2084378418989379822</link>
+      <description>The result is a faster, more natural conversation with ChatGPT Voice from the moment a session starts. 
+
+How we built it: https://openai.com/index/continuous-voice-interaction-with-gpt-live/</description>
+      <guid isPermaLink="false">https://x.com/OpenAI/status/2084378418989379822</guid>
       <pubDate>Mon, 03 Aug 2026 20:38:35 +0000</pubDate>
     </item>
     <item>
@@ -1065,6 +919,20 @@ Should Man Utd do all they can to keep Marcus Rashford? 👹</description>
       <pubDate>Tue, 04 Aug 2026 06:49:26 +0000</pubDate>
     </item>
     <item>
+      <title>[casinokrisa]Retailers need to watch how much control they really keep once AI starts handling everything from discovery to checkout.</title>
+      <link>https://x.com/casinokrisa/status/2084534271952183349</link>
+      <description>Retailers need to watch how much control they really keep once AI starts handling everything from discovery to checkout.</description>
+      <guid isPermaLink="false">https://x.com/casinokrisa/status/2084534271952183349</guid>
+      <pubDate>Tue, 04 Aug 2026 06:57:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>[softwareengng]Tbh how can one win without AI this days 😂😂</title>
+      <link>https://x.com/softwareengng/status/2084534271998300183</link>
+      <description>Tbh how can one win without AI this days 😂😂</description>
+      <guid isPermaLink="false">https://x.com/softwareengng/status/2084534271998300183</guid>
+      <pubDate>Tue, 04 Aug 2026 06:57:53 +0000</pubDate>
+    </item>
+    <item>
       <title>[gbhakuni85]Product-led growth with AI agents flips the script. 
 
 Let the product prove value before calendar invites ever happen. If users love it first, meetings become upgrades, not pitches. 
@@ -1078,27 +946,6 @@ Let the product prove value before calendar invites ever happen. If users love i
 Companies demanding meetings upfront usually want hand-holding, not self-serve scale. PLG + agents finds the real adopters fast.</description>
       <guid isPermaLink="false">https://x.com/gbhakuni85/status/2084534272145441015</guid>
       <pubDate>Tue, 04 Aug 2026 06:57:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>[softwareengng]Tbh how can one win without AI this days 😂😂</title>
-      <link>https://x.com/softwareengng/status/2084534271998300183</link>
-      <description>Tbh how can one win without AI this days 😂😂</description>
-      <guid isPermaLink="false">https://x.com/softwareengng/status/2084534271998300183</guid>
-      <pubDate>Tue, 04 Aug 2026 06:57:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>[casinokrisa]Retailers need to watch how much control they really keep once AI starts handling everything from discovery to checkout.</title>
-      <link>https://x.com/casinokrisa/status/2084534271952183349</link>
-      <description>Retailers need to watch how much control they really keep once AI starts handling everything from discovery to checkout.</description>
-      <guid isPermaLink="false">https://x.com/casinokrisa/status/2084534271952183349</guid>
-      <pubDate>Tue, 04 Aug 2026 06:57:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>[AiWithRubab]A dataset of 5.1 million families is huge. It'll be interesting to see what biological or environmental factors are driving these differences.</title>
-      <link>https://x.com/AiWithRubab/status/2084534273176908246</link>
-      <description>A dataset of 5.1 million families is huge. It'll be interesting to see what biological or environmental factors are driving these differences.</description>
-      <guid isPermaLink="false">https://x.com/AiWithRubab/status/2084534273176908246</guid>
-      <pubDate>Tue, 04 Aug 2026 06:57:54 +0000</pubDate>
     </item>
     <item>
       <title>[UrkidPulse]The "Reply 'PROMPT' and I'll DM it to you" crowd is peak beta energy.
@@ -1139,6 +986,13 @@ It's knowing your domain, asking better questions, validating outputs, and actua
 The AI gold rush isn't won by prompt collectors.
 It's won by builders.</description>
       <guid isPermaLink="false">https://x.com/UrkidPulse/status/2084534274141684038</guid>
+      <pubDate>Tue, 04 Aug 2026 06:57:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>[AiWithRubab]A dataset of 5.1 million families is huge. It'll be interesting to see what biological or environmental factors are driving these differences.</title>
+      <link>https://x.com/AiWithRubab/status/2084534273176908246</link>
+      <description>A dataset of 5.1 million families is huge. It'll be interesting to see what biological or environmental factors are driving these differences.</description>
+      <guid isPermaLink="false">https://x.com/AiWithRubab/status/2084534273176908246</guid>
       <pubDate>Tue, 04 Aug 2026 06:57:54 +0000</pubDate>
     </item>
     <item>
@@ -1834,6 +1688,13 @@ our users do days of work in hours. we'll onboard the world to working with ai</
       <pubDate>Thu, 06 Aug 2026 17:31:49 +0000</pubDate>
     </item>
     <item>
+      <title>[OpenAI]We’re making better intelligence easier to access in ChatGPT for everyone: - GPT-5.6 Sol now powers both Instant and deep reasoning for Plus &amp; Pro users, delivering more factual, focused responses. - Free &amp; Go users get unlimited text chats with GPT-5.6 Luna starting tomorrow.</title>
+      <link>https://x.com/OpenAI/status/2085434712429052386</link>
+      <description>We’re making better intelligence easier to access in ChatGPT for everyone: - GPT-5.6 Sol now powers both Instant and deep reasoning for Plus &amp; Pro users, delivering more factual, focused responses. - Free &amp; Go users get unlimited text chats with GPT-5.6 Luna starting tomorrow.</description>
+      <guid isPermaLink="false">https://x.com/OpenAI/status/2085434712429052386</guid>
+      <pubDate>Thu, 06 Aug 2026 18:35:55 +0000</pubDate>
+    </item>
+    <item>
       <title>[OpenAI]The new GPT-5.6 Sol powers all chats for paid users, including Instant, creating one consistent experience. 
 
 In our high-stakes factuality evaluation covering finance, medicine and law, the new GPT‑5.6 Sol produced 68% fewer responses with factual errors than GPT-5.5 Instant.</title>
@@ -1842,13 +1703,6 @@ In our high-stakes factuality evaluation covering finance, medicine and law, the
 
 In our high-stakes factuality evaluation covering finance, medicine and law, the new GPT‑5.6 Sol produced 68% fewer responses with factual errors than GPT-5.5 Instant.</description>
       <guid isPermaLink="false">https://x.com/OpenAI/status/2085434713821565297</guid>
-      <pubDate>Thu, 06 Aug 2026 18:35:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>[OpenAI]We’re making better intelligence easier to access in ChatGPT for everyone: - GPT-5.6 Sol now powers both Instant and deep reasoning for Plus &amp; Pro users, delivering more factual, focused responses. - Free &amp; Go users get unlimited text chats with GPT-5.6 Luna starting tomorrow.</title>
-      <link>https://x.com/OpenAI/status/2085434712429052386</link>
-      <description>We’re making better intelligence easier to access in ChatGPT for everyone: - GPT-5.6 Sol now powers both Instant and deep reasoning for Plus &amp; Pro users, delivering more factual, focused responses. - Free &amp; Go users get unlimited text chats with GPT-5.6 Luna starting tomorrow.</description>
-      <guid isPermaLink="false">https://x.com/OpenAI/status/2085434712429052386</guid>
       <pubDate>Thu, 06 Aug 2026 18:35:55 +0000</pubDate>
     </item>
     <item>
@@ -2833,13 +2687,6 @@ What comes next?</description>
       <pubDate>Mon, 10 Aug 2026 12:52:33 +0000</pubDate>
     </item>
     <item>
-      <title>[ClownParty0000]Thank you, Grok</title>
-      <link>https://x.com/ClownParty0000/status/2086802439194218573</link>
-      <description>Thank you, Grok</description>
-      <guid isPermaLink="false">https://x.com/ClownParty0000/status/2086802439194218573</guid>
-      <pubDate>Mon, 10 Aug 2026 13:10:47 +0000</pubDate>
-    </item>
-    <item>
       <title>[smhanov]Do you have X premium+? My agent made a tool that lets you use Supergrok, which you already paid for, in  opencode, claude code, etc.
 All you do is open up your editor and write:
 "Please download smhanov/xgroxy from github, set it up and configure yourself to use it."
@@ -2850,6 +2697,13 @@ All you do is open up your editor and write:
 "Please download smhanov/xgroxy from github, set it up and configure yourself to use it."
 Let me know how it goes!</description>
       <guid isPermaLink="false">https://x.com/smhanov/status/2086802438980248056</guid>
+      <pubDate>Mon, 10 Aug 2026 13:10:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>[ClownParty0000]Thank you, Grok</title>
+      <link>https://x.com/ClownParty0000/status/2086802439194218573</link>
+      <description>Thank you, Grok</description>
+      <guid isPermaLink="false">https://x.com/ClownParty0000/status/2086802439194218573</guid>
       <pubDate>Mon, 10 Aug 2026 13:10:47 +0000</pubDate>
     </item>
     <item>
@@ -5676,10 +5530,10 @@ And for everyone who reached out about how to build a “podcast summarizer” i
       <pubDate>Tue, 18 Aug 2026 01:10:57 +0000</pubDate>
     </item>
     <item>
-      <title>[hoangchau6688]em ベ AI nhay nghe qua</title>
-      <link>https://x.com/hoangchau6688/status/2089521896543171037</link>
-      <description>em ベ AI nhay nghe qua</description>
-      <guid isPermaLink="false">https://x.com/hoangchau6688/status/2089521896543171037</guid>
+      <title>[MikeL80308444]AI or not, she is hot</title>
+      <link>https://x.com/MikeL80308444/status/2089521896748691700</link>
+      <description>AI or not, she is hot</description>
+      <guid isPermaLink="false">https://x.com/MikeL80308444/status/2089521896748691700</guid>
       <pubDate>Tue, 18 Aug 2026 01:16:56 +0000</pubDate>
     </item>
     <item>
@@ -5690,11 +5544,113 @@ And for everyone who reached out about how to build a “podcast summarizer” i
       <pubDate>Tue, 18 Aug 2026 01:16:56 +0000</pubDate>
     </item>
     <item>
-      <title>[MikeL80308444]AI or not, she is hot</title>
-      <link>https://x.com/MikeL80308444/status/2089521896748691700</link>
-      <description>AI or not, she is hot</description>
-      <guid isPermaLink="false">https://x.com/MikeL80308444/status/2089521896748691700</guid>
+      <title>[hoangchau6688]em ベ AI nhay nghe qua</title>
+      <link>https://x.com/hoangchau6688/status/2089521896543171037</link>
+      <description>em ベ AI nhay nghe qua</description>
+      <guid isPermaLink="false">https://x.com/hoangchau6688/status/2089521896543171037</guid>
       <pubDate>Tue, 18 Aug 2026 01:16:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>[MedicalSphereAI]Grok 4.6 posts the highest pass@1 we've measured to date, moving ahead of the previous leader, GPT-5.6 Sol, to claim first place on the leaderboard. 🏥
+
+Grok 4.6 averages ~95.9% pass@1 (avg of 3 runs), edging out the prior best (GPT-5.6-sol at ~94.7%) and improving on Grok 4.5 by roughly 2.5 points. On a benchmark where the model acts as an autonomous agent in a simulated EHR, calling FHIR APIs to complete clinical tasks across 10 task types, the result is also remarkably consistent run to run (95.3% to 96.3%). 
+
+📊 Leaderboards:</title>
+      <link>https://x.com/MedicalSphereAI/status/2089548170347081895</link>
+      <description>Grok 4.6 posts the highest pass@1 we've measured to date, moving ahead of the previous leader, GPT-5.6 Sol, to claim first place on the leaderboard. 🏥
+
+Grok 4.6 averages ~95.9% pass@1 (avg of 3 runs), edging out the prior best (GPT-5.6-sol at ~94.7%) and improving on Grok 4.5 by roughly 2.5 points. On a benchmark where the model acts as an autonomous agent in a simulated EHR, calling FHIR APIs to complete clinical tasks across 10 task types, the result is also remarkably consistent run to run (95.3% to 96.3%). 
+
+📊 Leaderboards:</description>
+      <guid isPermaLink="false">https://x.com/MedicalSphereAI/status/2089548170347081895</guid>
+      <pubDate>Tue, 18 Aug 2026 03:01:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>[elonmusk]Interesting</title>
+      <link>https://x.com/elonmusk/status/2089574867586711926</link>
+      <description>Interesting</description>
+      <guid isPermaLink="false">https://x.com/elonmusk/status/2089574867586711926</guid>
+      <pubDate>Tue, 18 Aug 2026 04:47:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>[elonmusk]Sync to Origin</title>
+      <link>https://x.com/elonmusk/status/2089575133442711787</link>
+      <description>Sync to Origin</description>
+      <guid isPermaLink="false">https://x.com/elonmusk/status/2089575133442711787</guid>
+      <pubDate>Tue, 18 Aug 2026 04:48:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>[elonmusk]Grok @Bot</title>
+      <link>https://x.com/elonmusk/status/2089578400734167260</link>
+      <description>Grok @Bot</description>
+      <guid isPermaLink="false">https://x.com/elonmusk/status/2089578400734167260</guid>
+      <pubDate>Tue, 18 Aug 2026 05:01:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Polymarket]🚨 NEW POLYMARKET: Who will place first in the Alaska Governor primary?
+https://polymarket.com/event/who-will-place-first-in-the-alaska-governor-primary — 🚨 NEW POLYMARKET: Who will place first in the Alaska Governor primary? https://polymarket.com/event/who-will-place-first-in-the-alaska-governor-primary</title>
+      <link>https://x.com/Polymarket/status/2089590364206420145</link>
+      <description>🚨 NEW POLYMARKET: Who will place first in the Alaska Governor primary?
+https://polymarket.com/event/who-will-place-first-in-the-alaska-governor-primary</description>
+      <guid isPermaLink="false">https://x.com/Polymarket/status/2089590364206420145</guid>
+      <pubDate>Tue, 18 Aug 2026 05:49:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[elonmusk]Grok 4.6 takes top spot on this benchmark</title>
+      <link>https://x.com/elonmusk/status/2089592732780032132</link>
+      <description>Grok 4.6 takes top spot on this benchmark</description>
+      <guid isPermaLink="false">https://x.com/elonmusk/status/2089592732780032132</guid>
+      <pubDate>Tue, 18 Aug 2026 05:58:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>[justinsuntron]白用https://B.AI</title>
+      <link>https://x.com/justinsuntron/status/2089593606755778963</link>
+      <description>白用https://B.AI</description>
+      <guid isPermaLink="false">https://x.com/justinsuntron/status/2089593606755778963</guid>
+      <pubDate>Tue, 18 Aug 2026 06:01:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Polymarket]JUST IN: Apple to reportedly change its iPhone &amp; iPad app tracking consent prompts across most of the EU.</title>
+      <link>https://x.com/Polymarket/status/2089596152651907410</link>
+      <description>JUST IN: Apple to reportedly change its iPhone &amp; iPad app tracking consent prompts across most of the EU.</description>
+      <guid isPermaLink="false">https://x.com/Polymarket/status/2089596152651907410</guid>
+      <pubDate>Tue, 18 Aug 2026 06:12:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[justinsuntron]信一次</title>
+      <link>https://x.com/justinsuntron/status/2089600197068575011</link>
+      <description>信一次</description>
+      <guid isPermaLink="false">https://x.com/justinsuntron/status/2089600197068575011</guid>
+      <pubDate>Tue, 18 Aug 2026 06:28:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Her_agape]Demonstrations in AI and digital health show how technology can streamline clinical workflows. 
+
+PS Ouma Oluga champions digital tools that increase efficiency and save vital lives.
+
+Healthcare Without Barriers #KenyaHealthSummit. @MOH_Kenya @WillowHealthKe @fnoluga.</title>
+      <link>https://x.com/Her_agape/status/2089604256294736090</link>
+      <description>Demonstrations in AI and digital health show how technology can streamline clinical workflows. 
+
+PS Ouma Oluga champions digital tools that increase efficiency and save vital lives.
+
+Healthcare Without Barriers #KenyaHealthSummit. @MOH_Kenya @WillowHealthKe @fnoluga.</description>
+      <guid isPermaLink="false">https://x.com/Her_agape/status/2089604256294736090</guid>
+      <pubDate>Tue, 18 Aug 2026 06:44:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>[CorneliusDib615]AI profits everywhere, job security nowhere. #AI #Jobs</title>
+      <link>https://x.com/CorneliusDib615/status/2089604257372942749</link>
+      <description>AI profits everywhere, job security nowhere. #AI #Jobs</description>
+      <guid isPermaLink="false">https://x.com/CorneliusDib615/status/2089604257372942749</guid>
+      <pubDate>Tue, 18 Aug 2026 06:44:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Danny_Prayz]This is one of the cleanest Ai portraits I've seen 😊🤭</title>
+      <link>https://x.com/Danny_Prayz/status/2089604260619043033</link>
+      <description>This is one of the cleanest Ai portraits I've seen 😊🤭</description>
+      <guid isPermaLink="false">https://x.com/Danny_Prayz/status/2089604260619043033</guid>
+      <pubDate>Tue, 18 Aug 2026 06:44:13 +0000</pubDate>
     </item>
   </channel>
 </rss>
