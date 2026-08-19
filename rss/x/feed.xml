@@ -7,109 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 19 Aug 2026 12:49:58 +0000</lastBuildDate>
-    <item>
-      <title>[OpenAI]GPT-Live can listen while it speaks.
-
-To make that feel natural at ChatGPT scale, we rebuilt the voice stack from client to model. This new architecture keeps audio flowing continuously, so deeper reasoning and tool use don't interrupt the conversation.</title>
-      <link>https://x.com/OpenAI/status/2084378415818579975</link>
-      <description>GPT-Live can listen while it speaks.
-
-To make that feel natural at ChatGPT scale, we rebuilt the voice stack from client to model. This new architecture keeps audio flowing continuously, so deeper reasoning and tool use don't interrupt the conversation.</description>
-      <guid isPermaLink="false">https://x.com/OpenAI/status/2084378415818579975</guid>
-      <pubDate>Mon, 03 Aug 2026 20:38:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>[OpenAI]The result is a faster, more natural conversation with ChatGPT Voice from the moment a session starts. 
-
-How we built it: https://openai.com/index/continuous-voice-interaction-with-gpt-live/</title>
-      <link>https://x.com/OpenAI/status/2084378418989379822</link>
-      <description>The result is a faster, more natural conversation with ChatGPT Voice from the moment a session starts. 
-
-How we built it: https://openai.com/index/continuous-voice-interaction-with-gpt-live/</description>
-      <guid isPermaLink="false">https://x.com/OpenAI/status/2084378418989379822</guid>
-      <pubDate>Mon, 03 Aug 2026 20:38:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>[OpenAI]Audio moves through a dedicated fast path, while deeper reasoning and tool use happen asynchronously. 
-
-We also reduced voice-session startup from six network round trips to one.</title>
-      <link>https://x.com/OpenAI/status/2084378417320141196</link>
-      <description>Audio moves through a dedicated fast path, while deeper reasoning and tool use happen asynchronously. 
-
-We also reduced voice-session startup from six network round trips to one.</description>
-      <guid isPermaLink="false">https://x.com/OpenAI/status/2084378417320141196</guid>
-      <pubDate>Mon, 03 Aug 2026 20:38:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>[elonmusk]Grok Build update 
-https://x.ai/cli</title>
-      <link>https://x.com/elonmusk/status/2084423416493338866</link>
-      <description>Grok Build update 
-https://x.ai/cli</description>
-      <guid isPermaLink="false">https://x.com/elonmusk/status/2084423416493338866</guid>
-      <pubDate>Mon, 03 Aug 2026 23:37:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>[karpathy]wow, that was really good!</title>
-      <link>https://x.com/karpathy/status/2084424122373972389</link>
-      <description>wow, that was really good!</description>
-      <guid isPermaLink="false">https://x.com/karpathy/status/2084424122373972389</guid>
-      <pubDate>Mon, 03 Aug 2026 23:40:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>[IngrahamAngle]🚨 It’s Not Prosecuting Trump — It’s PUNISHING AMERICA
-
-@VDHanson: “[Mamdani] can hurt all of us by destroying the financial capital of the world in New York. And if they take control of these cities and they have policies, they destroy all the United States… They can do a lot of harm without even getting national power, and they’re already doing harm to the country.”</title>
-      <link>https://x.com/IngrahamAngle/status/2084446232819212409</link>
-      <description>🚨 It’s Not Prosecuting Trump — It’s PUNISHING AMERICA
-
-@VDHanson: “[Mamdani] can hurt all of us by destroying the financial capital of the world in New York. And if they take control of these cities and they have policies, they destroy all the United States… They can do a lot of harm without even getting national power, and they’re already doing harm to the country.”</description>
-      <guid isPermaLink="false">https://x.com/IngrahamAngle/status/2084446232819212409</guid>
-      <pubDate>Tue, 04 Aug 2026 01:08:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>[justinsuntron]The future of crypto payments is being built on TRON.</title>
-      <link>https://x.com/justinsuntron/status/2084474552596508984</link>
-      <description>The future of crypto payments is being built on TRON.</description>
-      <guid isPermaLink="false">https://x.com/justinsuntron/status/2084474552596508984</guid>
-      <pubDate>Tue, 04 Aug 2026 03:00:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Polymarket]JUST IN: Marvel Studios confirms plans for a Spider-Man 5.</title>
-      <link>https://x.com/Polymarket/status/2084476411872510263</link>
-      <description>JUST IN: Marvel Studios confirms plans for a Spider-Man 5.</description>
-      <guid isPermaLink="false">https://x.com/Polymarket/status/2084476411872510263</guid>
-      <pubDate>Tue, 04 Aug 2026 03:07:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>[elonmusk]Sure is</title>
-      <link>https://x.com/elonmusk/status/2084478399347556731</link>
-      <description>Sure is</description>
-      <guid isPermaLink="false">https://x.com/elonmusk/status/2084478399347556731</guid>
-      <pubDate>Tue, 04 Aug 2026 03:15:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>[elonmusk]Yup</title>
-      <link>https://x.com/elonmusk/status/2084478964467126605</link>
-      <description>Yup</description>
-      <guid isPermaLink="false">https://x.com/elonmusk/status/2084478964467126605</guid>
-      <pubDate>Tue, 04 Aug 2026 03:18:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Anuraag_Shukla]Amol Agrawal uses Robert Solow’s 1956 growth model to ask a contemporary question: Will artificial intelligence generate sustained economic growth, or will its effects remain largely invisible in productivity statistics?</title>
-      <link>https://x.com/Anuraag_Shukla/status/2084512689234346041</link>
-      <description>Amol Agrawal uses Robert Solow’s 1956 growth model to ask a contemporary question: Will artificial intelligence generate sustained economic growth, or will its effects remain largely invisible in productivity statistics?</description>
-      <guid isPermaLink="false">https://x.com/Anuraag_Shukla/status/2084512689234346041</guid>
-      <pubDate>Tue, 04 Aug 2026 05:32:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Whotfismick]my brain when someone starts explaining something to me</title>
-      <link>https://x.com/Whotfismick/status/2084530713735418216</link>
-      <description>my brain when someone starts explaining something to me</description>
-      <guid isPermaLink="false">https://x.com/Whotfismick/status/2084530713735418216</guid>
-      <pubDate>Tue, 04 Aug 2026 06:43:45 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 19 Aug 2026 18:38:05 +0000</lastBuildDate>
     <item>
       <title>[SkySportsNews]The Sky Sports Football Club is back today at 10am! 🚨
 
@@ -140,6 +38,20 @@ Should Man Utd do all they can to keep Marcus Rashford? 👹</description>
       <pubDate>Tue, 04 Aug 2026 06:49:26 +0000</pubDate>
     </item>
     <item>
+      <title>[casinokrisa]Retailers need to watch how much control they really keep once AI starts handling everything from discovery to checkout.</title>
+      <link>https://x.com/casinokrisa/status/2084534271952183349</link>
+      <description>Retailers need to watch how much control they really keep once AI starts handling everything from discovery to checkout.</description>
+      <guid isPermaLink="false">https://x.com/casinokrisa/status/2084534271952183349</guid>
+      <pubDate>Tue, 04 Aug 2026 06:57:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>[softwareengng]Tbh how can one win without AI this days 😂😂</title>
+      <link>https://x.com/softwareengng/status/2084534271998300183</link>
+      <description>Tbh how can one win without AI this days 😂😂</description>
+      <guid isPermaLink="false">https://x.com/softwareengng/status/2084534271998300183</guid>
+      <pubDate>Tue, 04 Aug 2026 06:57:53 +0000</pubDate>
+    </item>
+    <item>
       <title>[gbhakuni85]Product-led growth with AI agents flips the script. 
 
 Let the product prove value before calendar invites ever happen. If users love it first, meetings become upgrades, not pitches. 
@@ -153,27 +65,6 @@ Let the product prove value before calendar invites ever happen. If users love i
 Companies demanding meetings upfront usually want hand-holding, not self-serve scale. PLG + agents finds the real adopters fast.</description>
       <guid isPermaLink="false">https://x.com/gbhakuni85/status/2084534272145441015</guid>
       <pubDate>Tue, 04 Aug 2026 06:57:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>[softwareengng]Tbh how can one win without AI this days 😂😂</title>
-      <link>https://x.com/softwareengng/status/2084534271998300183</link>
-      <description>Tbh how can one win without AI this days 😂😂</description>
-      <guid isPermaLink="false">https://x.com/softwareengng/status/2084534271998300183</guid>
-      <pubDate>Tue, 04 Aug 2026 06:57:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>[casinokrisa]Retailers need to watch how much control they really keep once AI starts handling everything from discovery to checkout.</title>
-      <link>https://x.com/casinokrisa/status/2084534271952183349</link>
-      <description>Retailers need to watch how much control they really keep once AI starts handling everything from discovery to checkout.</description>
-      <guid isPermaLink="false">https://x.com/casinokrisa/status/2084534271952183349</guid>
-      <pubDate>Tue, 04 Aug 2026 06:57:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>[AiWithRubab]A dataset of 5.1 million families is huge. It'll be interesting to see what biological or environmental factors are driving these differences.</title>
-      <link>https://x.com/AiWithRubab/status/2084534273176908246</link>
-      <description>A dataset of 5.1 million families is huge. It'll be interesting to see what biological or environmental factors are driving these differences.</description>
-      <guid isPermaLink="false">https://x.com/AiWithRubab/status/2084534273176908246</guid>
-      <pubDate>Tue, 04 Aug 2026 06:57:54 +0000</pubDate>
     </item>
     <item>
       <title>[UrkidPulse]The "Reply 'PROMPT' and I'll DM it to you" crowd is peak beta energy.
@@ -214,6 +105,13 @@ It's knowing your domain, asking better questions, validating outputs, and actua
 The AI gold rush isn't won by prompt collectors.
 It's won by builders.</description>
       <guid isPermaLink="false">https://x.com/UrkidPulse/status/2084534274141684038</guid>
+      <pubDate>Tue, 04 Aug 2026 06:57:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>[AiWithRubab]A dataset of 5.1 million families is huge. It'll be interesting to see what biological or environmental factors are driving these differences.</title>
+      <link>https://x.com/AiWithRubab/status/2084534273176908246</link>
+      <description>A dataset of 5.1 million families is huge. It'll be interesting to see what biological or environmental factors are driving these differences.</description>
+      <guid isPermaLink="false">https://x.com/AiWithRubab/status/2084534273176908246</guid>
       <pubDate>Tue, 04 Aug 2026 06:57:54 +0000</pubDate>
     </item>
     <item>
@@ -909,6 +807,13 @@ our users do days of work in hours. we'll onboard the world to working with ai</
       <pubDate>Thu, 06 Aug 2026 17:31:49 +0000</pubDate>
     </item>
     <item>
+      <title>[OpenAI]We’re making better intelligence easier to access in ChatGPT for everyone: - GPT-5.6 Sol now powers both Instant and deep reasoning for Plus &amp; Pro users, delivering more factual, focused responses. - Free &amp; Go users get unlimited text chats with GPT-5.6 Luna starting tomorrow.</title>
+      <link>https://x.com/OpenAI/status/2085434712429052386</link>
+      <description>We’re making better intelligence easier to access in ChatGPT for everyone: - GPT-5.6 Sol now powers both Instant and deep reasoning for Plus &amp; Pro users, delivering more factual, focused responses. - Free &amp; Go users get unlimited text chats with GPT-5.6 Luna starting tomorrow.</description>
+      <guid isPermaLink="false">https://x.com/OpenAI/status/2085434712429052386</guid>
+      <pubDate>Thu, 06 Aug 2026 18:35:55 +0000</pubDate>
+    </item>
+    <item>
       <title>[OpenAI]The new GPT-5.6 Sol powers all chats for paid users, including Instant, creating one consistent experience. 
 
 In our high-stakes factuality evaluation covering finance, medicine and law, the new GPT‑5.6 Sol produced 68% fewer responses with factual errors than GPT-5.5 Instant.</title>
@@ -917,13 +822,6 @@ In our high-stakes factuality evaluation covering finance, medicine and law, the
 
 In our high-stakes factuality evaluation covering finance, medicine and law, the new GPT‑5.6 Sol produced 68% fewer responses with factual errors than GPT-5.5 Instant.</description>
       <guid isPermaLink="false">https://x.com/OpenAI/status/2085434713821565297</guid>
-      <pubDate>Thu, 06 Aug 2026 18:35:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>[OpenAI]We’re making better intelligence easier to access in ChatGPT for everyone: - GPT-5.6 Sol now powers both Instant and deep reasoning for Plus &amp; Pro users, delivering more factual, focused responses. - Free &amp; Go users get unlimited text chats with GPT-5.6 Luna starting tomorrow.</title>
-      <link>https://x.com/OpenAI/status/2085434712429052386</link>
-      <description>We’re making better intelligence easier to access in ChatGPT for everyone: - GPT-5.6 Sol now powers both Instant and deep reasoning for Plus &amp; Pro users, delivering more factual, focused responses. - Free &amp; Go users get unlimited text chats with GPT-5.6 Luna starting tomorrow.</description>
-      <guid isPermaLink="false">https://x.com/OpenAI/status/2085434712429052386</guid>
       <pubDate>Thu, 06 Aug 2026 18:35:55 +0000</pubDate>
     </item>
     <item>
@@ -1908,13 +1806,6 @@ What comes next?</description>
       <pubDate>Mon, 10 Aug 2026 12:52:33 +0000</pubDate>
     </item>
     <item>
-      <title>[ClownParty0000]Thank you, Grok</title>
-      <link>https://x.com/ClownParty0000/status/2086802439194218573</link>
-      <description>Thank you, Grok</description>
-      <guid isPermaLink="false">https://x.com/ClownParty0000/status/2086802439194218573</guid>
-      <pubDate>Mon, 10 Aug 2026 13:10:47 +0000</pubDate>
-    </item>
-    <item>
       <title>[smhanov]Do you have X premium+? My agent made a tool that lets you use Supergrok, which you already paid for, in  opencode, claude code, etc.
 All you do is open up your editor and write:
 "Please download smhanov/xgroxy from github, set it up and configure yourself to use it."
@@ -1925,6 +1816,13 @@ All you do is open up your editor and write:
 "Please download smhanov/xgroxy from github, set it up and configure yourself to use it."
 Let me know how it goes!</description>
       <guid isPermaLink="false">https://x.com/smhanov/status/2086802438980248056</guid>
+      <pubDate>Mon, 10 Aug 2026 13:10:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>[ClownParty0000]Thank you, Grok</title>
+      <link>https://x.com/ClownParty0000/status/2086802439194218573</link>
+      <description>Thank you, Grok</description>
+      <guid isPermaLink="false">https://x.com/ClownParty0000/status/2086802439194218573</guid>
       <pubDate>Mon, 10 Aug 2026 13:10:47 +0000</pubDate>
     </item>
     <item>
@@ -4751,10 +4649,10 @@ And for everyone who reached out about how to build a “podcast summarizer” i
       <pubDate>Tue, 18 Aug 2026 01:10:57 +0000</pubDate>
     </item>
     <item>
-      <title>[hoangchau6688]em ベ AI nhay nghe qua</title>
-      <link>https://x.com/hoangchau6688/status/2089521896543171037</link>
-      <description>em ベ AI nhay nghe qua</description>
-      <guid isPermaLink="false">https://x.com/hoangchau6688/status/2089521896543171037</guid>
+      <title>[MikeL80308444]AI or not, she is hot</title>
+      <link>https://x.com/MikeL80308444/status/2089521896748691700</link>
+      <description>AI or not, she is hot</description>
+      <guid isPermaLink="false">https://x.com/MikeL80308444/status/2089521896748691700</guid>
       <pubDate>Tue, 18 Aug 2026 01:16:56 +0000</pubDate>
     </item>
     <item>
@@ -4765,10 +4663,10 @@ And for everyone who reached out about how to build a “podcast summarizer” i
       <pubDate>Tue, 18 Aug 2026 01:16:56 +0000</pubDate>
     </item>
     <item>
-      <title>[MikeL80308444]AI or not, she is hot</title>
-      <link>https://x.com/MikeL80308444/status/2089521896748691700</link>
-      <description>AI or not, she is hot</description>
-      <guid isPermaLink="false">https://x.com/MikeL80308444/status/2089521896748691700</guid>
+      <title>[hoangchau6688]em ベ AI nhay nghe qua</title>
+      <link>https://x.com/hoangchau6688/status/2089521896543171037</link>
+      <description>em ベ AI nhay nghe qua</description>
+      <guid isPermaLink="false">https://x.com/hoangchau6688/status/2089521896543171037</guid>
       <pubDate>Tue, 18 Aug 2026 01:16:56 +0000</pubDate>
     </item>
     <item>
@@ -4845,13 +4743,6 @@ https://polymarket.com/event/who-will-place-first-in-the-alaska-governor-primary
       <pubDate>Tue, 18 Aug 2026 06:28:04 +0000</pubDate>
     </item>
     <item>
-      <title>[CorneliusDib615]AI profits everywhere, job security nowhere. #AI #Jobs</title>
-      <link>https://x.com/CorneliusDib615/status/2089604257372942749</link>
-      <description>AI profits everywhere, job security nowhere. #AI #Jobs</description>
-      <guid isPermaLink="false">https://x.com/CorneliusDib615/status/2089604257372942749</guid>
-      <pubDate>Tue, 18 Aug 2026 06:44:12 +0000</pubDate>
-    </item>
-    <item>
       <title>[Her_agape]Demonstrations in AI and digital health show how technology can streamline clinical workflows. 
 
 PS Ouma Oluga champions digital tools that increase efficiency and save vital lives.
@@ -4864,6 +4755,13 @@ PS Ouma Oluga champions digital tools that increase efficiency and save vital li
 
 Healthcare Without Barriers #KenyaHealthSummit. @MOH_Kenya @WillowHealthKe @fnoluga.</description>
       <guid isPermaLink="false">https://x.com/Her_agape/status/2089604256294736090</guid>
+      <pubDate>Tue, 18 Aug 2026 06:44:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>[CorneliusDib615]AI profits everywhere, job security nowhere. #AI #Jobs</title>
+      <link>https://x.com/CorneliusDib615/status/2089604257372942749</link>
+      <description>AI profits everywhere, job security nowhere. #AI #Jobs</description>
+      <guid isPermaLink="false">https://x.com/CorneliusDib615/status/2089604257372942749</guid>
       <pubDate>Tue, 18 Aug 2026 06:44:12 +0000</pubDate>
     </item>
     <item>
@@ -4951,21 +4849,6 @@ Healthcare Without Barriers #KenyaHealthSummit. @MOH_Kenya @WillowHealthKe @fnol
       <pubDate>Tue, 18 Aug 2026 18:00:34 +0000</pubDate>
     </item>
     <item>
-      <title>[OpenAI]We’re sharing the concrete changes we’re making to strengthen monitoring, security, and alignment as capabilities advance.
-
-We’ve introduced stronger workload and network isolation, continuous security testing, and expanded multistage monitoring for higher-risk training, evaluations, and tool-using inference.
-
-These safeguards are designed to detect concerning behavior quickly and limit what systems can access or affect.</title>
-      <link>https://x.com/OpenAI/status/2089777846583763370</link>
-      <description>We’re sharing the concrete changes we’re making to strengthen monitoring, security, and alignment as capabilities advance.
-
-We’ve introduced stronger workload and network isolation, continuous security testing, and expanded multistage monitoring for higher-risk training, evaluations, and tool-using inference.
-
-These safeguards are designed to detect concerning behavior quickly and limit what systems can access or affect.</description>
-      <guid isPermaLink="false">https://x.com/OpenAI/status/2089777846583763370</guid>
-      <pubDate>Tue, 18 Aug 2026 18:13:59 +0000</pubDate>
-    </item>
-    <item>
       <title>[OpenAI]As models become more capable, the risks associated with developing and testing them internally also grow.
 
 We temporarily paused reinforcement learning (RL) training on our latest models intended for deployment for two weeks while we hardened and red-teamed our research environments and expanded monitoring coverage.
@@ -4978,6 +4861,21 @@ We temporarily paused reinforcement learning (RL) training on our latest models 
 
 Our largest planned frontier RL run remains on hold while smaller-scale training and evaluations validate these safeguards and establish more evidence of alignment.</description>
       <guid isPermaLink="false">https://x.com/OpenAI/status/2089777845187031262</guid>
+      <pubDate>Tue, 18 Aug 2026 18:13:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>[OpenAI]We’re sharing the concrete changes we’re making to strengthen monitoring, security, and alignment as capabilities advance.
+
+We’ve introduced stronger workload and network isolation, continuous security testing, and expanded multistage monitoring for higher-risk training, evaluations, and tool-using inference.
+
+These safeguards are designed to detect concerning behavior quickly and limit what systems can access or affect.</title>
+      <link>https://x.com/OpenAI/status/2089777846583763370</link>
+      <description>We’re sharing the concrete changes we’re making to strengthen monitoring, security, and alignment as capabilities advance.
+
+We’ve introduced stronger workload and network isolation, continuous security testing, and expanded multistage monitoring for higher-risk training, evaluations, and tool-using inference.
+
+These safeguards are designed to detect concerning behavior quickly and limit what systems can access or affect.</description>
+      <guid isPermaLink="false">https://x.com/OpenAI/status/2089777846583763370</guid>
       <pubDate>Tue, 18 Aug 2026 18:13:59 +0000</pubDate>
     </item>
     <item>
@@ -5066,14 +4964,10 @@ Between 22% and 35% of Claude's designs bound successfully, depending on the set
       <pubDate>Tue, 18 Aug 2026 22:30:27 +0000</pubDate>
     </item>
     <item>
-      <title>[AnthropicAI]Importantly, protein binders are not drugs. Designing a high-affinity binder is just the first step in the process of developing a drug-like molecule. Even designing a drug itself is just one phase out of the many required to establish that a drug is safe and effective before making it available to people.
-
-However, this establishes a strong foundation to work from, and we are building on it by teaching Claude to run the entire development process end-to-end for every major type of drug molecule—from antibodies to small molecules.</title>
-      <link>https://x.com/AnthropicAI/status/2089842391918563599</link>
-      <description>Importantly, protein binders are not drugs. Designing a high-affinity binder is just the first step in the process of developing a drug-like molecule. Even designing a drug itself is just one phase out of the many required to establish that a drug is safe and effective before making it available to people.
-
-However, this establishes a strong foundation to work from, and we are building on it by teaching Claude to run the entire development process end-to-end for every major type of drug molecule—from antibodies to small molecules.</description>
-      <guid isPermaLink="false">https://x.com/AnthropicAI/status/2089842391918563599</guid>
+      <title>[AnthropicAI]For more on how Claude ran this experiment and the full results, see our blog: https://www.anthropic.com/research/Claude-accelerates-protein-design</title>
+      <link>https://x.com/AnthropicAI/status/2089842394527301881</link>
+      <description>For more on how Claude ran this experiment and the full results, see our blog: https://www.anthropic.com/research/Claude-accelerates-protein-design</description>
+      <guid isPermaLink="false">https://x.com/AnthropicAI/status/2089842394527301881</guid>
       <pubDate>Tue, 18 Aug 2026 22:30:28 +0000</pubDate>
     </item>
     <item>
@@ -5084,10 +4978,14 @@ However, this establishes a strong foundation to work from, and we are building 
       <pubDate>Tue, 18 Aug 2026 22:30:28 +0000</pubDate>
     </item>
     <item>
-      <title>[AnthropicAI]For more on how Claude ran this experiment and the full results, see our blog: https://www.anthropic.com/research/Claude-accelerates-protein-design</title>
-      <link>https://x.com/AnthropicAI/status/2089842394527301881</link>
-      <description>For more on how Claude ran this experiment and the full results, see our blog: https://www.anthropic.com/research/Claude-accelerates-protein-design</description>
-      <guid isPermaLink="false">https://x.com/AnthropicAI/status/2089842394527301881</guid>
+      <title>[AnthropicAI]Importantly, protein binders are not drugs. Designing a high-affinity binder is just the first step in the process of developing a drug-like molecule. Even designing a drug itself is just one phase out of the many required to establish that a drug is safe and effective before making it available to people.
+
+However, this establishes a strong foundation to work from, and we are building on it by teaching Claude to run the entire development process end-to-end for every major type of drug molecule—from antibodies to small molecules.</title>
+      <link>https://x.com/AnthropicAI/status/2089842391918563599</link>
+      <description>Importantly, protein binders are not drugs. Designing a high-affinity binder is just the first step in the process of developing a drug-like molecule. Even designing a drug itself is just one phase out of the many required to establish that a drug is safe and effective before making it available to people.
+
+However, this establishes a strong foundation to work from, and we are building on it by teaching Claude to run the entire development process end-to-end for every major type of drug molecule—from antibodies to small molecules.</description>
+      <guid isPermaLink="false">https://x.com/AnthropicAI/status/2089842391918563599</guid>
       <pubDate>Tue, 18 Aug 2026 22:30:28 +0000</pubDate>
     </item>
     <item>
@@ -5506,17 +5404,17 @@ The hiring manager only called me because he thought the system had made a mista
       <pubDate>Wed, 19 Aug 2026 10:37:00 +0000</pubDate>
     </item>
     <item>
-      <title>[Polymarket]Will AOC announce a run for Senate or President before 2028?</title>
-      <link>https://polymarket.com/event/will-aoc-announce-a-run-for-senate-or-president-before-2028</link>
-      <description>Will AOC announce a run for Senate or President before 2028?</description>
-      <guid isPermaLink="false">https://polymarket.com/event/will-aoc-announce-a-run-for-senate-or-president-before-2028</guid>
-      <pubDate>Wed, 19 Aug 2026 11:48:00 +0000</pubDate>
-    </item>
-    <item>
       <title>[Polymarket]NEW POLYMARKET: Will AOC announce a run for Senate or President before 2028?</title>
       <link>https://x.com/Polymarket/status/2090043097602240666</link>
       <description>NEW POLYMARKET: Will AOC announce a run for Senate or President before 2028?</description>
       <guid isPermaLink="false">https://x.com/Polymarket/status/2090043097602240666</guid>
+      <pubDate>Wed, 19 Aug 2026 11:48:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Polymarket]Will AOC announce a run for Senate or President before 2028?</title>
+      <link>https://polymarket.com/event/will-aoc-announce-a-run-for-senate-or-president-before-2028</link>
+      <description>Will AOC announce a run for Senate or President before 2028?</description>
+      <guid isPermaLink="false">https://polymarket.com/event/will-aoc-announce-a-run-for-senate-or-president-before-2028</guid>
       <pubDate>Wed, 19 Aug 2026 11:48:00 +0000</pubDate>
     </item>
     <item>
@@ -5553,6 +5451,104 @@ The hiring manager only called me because he thought the system had made a mista
       <description>JUST IN: Trump is reportedly pushing for an in-person meeting with Kim Jong Un as soon as this fall.</description>
       <guid isPermaLink="false">https://x.com/Polymarket/status/2090057190501449898</guid>
       <pubDate>Wed, 19 Aug 2026 12:44:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[justinsuntron]狂飙突进</title>
+      <link>https://x.com/justinsuntron/status/2090066392565633243</link>
+      <description>狂飙突进</description>
+      <guid isPermaLink="false">https://x.com/justinsuntron/status/2090066392565633243</guid>
+      <pubDate>Wed, 19 Aug 2026 13:20:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>[justinsuntron]格局太大了，写的好</title>
+      <link>https://x.com/justinsuntron/status/2090099076008444040</link>
+      <description>格局太大了，写的好</description>
+      <guid isPermaLink="false">https://x.com/justinsuntron/status/2090099076008444040</guid>
+      <pubDate>Wed, 19 Aug 2026 15:30:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>[justinsuntron]万亿目标已经锁定，大胆一点，年内超过Openrouter!</title>
+      <link>https://x.com/justinsuntron/status/2090102427336966246</link>
+      <description>万亿目标已经锁定，大胆一点，年内超过Openrouter!</description>
+      <guid isPermaLink="false">https://x.com/justinsuntron/status/2090102427336966246</guid>
+      <pubDate>Wed, 19 Aug 2026 15:43:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>[WhiteHouse]Builder-in-Chief. ⛏️
+
+“This is a helipad at the highest level. It can land any helicopter in the world, no matter how big, no matter how powerful, no matter how strong.” - President Donald J. Trump 🇺🇸</title>
+      <link>https://x.com/WhiteHouse/status/2090108210308931992</link>
+      <description>Builder-in-Chief. ⛏️
+
+“This is a helipad at the highest level. It can land any helicopter in the world, no matter how big, no matter how powerful, no matter how strong.” - President Donald J. Trump 🇺🇸</description>
+      <guid isPermaLink="false">https://x.com/WhiteHouse/status/2090108210308931992</guid>
+      <pubDate>Wed, 19 Aug 2026 16:06:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>[WhiteHouse]A new era for the White House 🚁
+
+President Trump shows off the beautiful new White House helipad to the press, etching his name into history and giving massive credit to the construction crew who helped make the helipad a reality.</title>
+      <link>https://x.com/WhiteHouse/status/2090139727089320256</link>
+      <description>A new era for the White House 🚁
+
+President Trump shows off the beautiful new White House helipad to the press, etching his name into history and giving massive credit to the construction crew who helped make the helipad a reality.</description>
+      <guid isPermaLink="false">https://x.com/WhiteHouse/status/2090139727089320256</guid>
+      <pubDate>Wed, 19 Aug 2026 18:11:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Polymarket]JUST IN: Kim Jong Un’s sister declares she’s “completely unaware” of any communication between Trump &amp; Kim.</title>
+      <link>https://x.com/Polymarket/status/2090142063761207661</link>
+      <description>JUST IN: Kim Jong Un’s sister declares she’s “completely unaware” of any communication between Trump &amp; Kim.</description>
+      <guid isPermaLink="false">https://x.com/Polymarket/status/2090142063761207661</guid>
+      <pubDate>Wed, 19 Aug 2026 18:21:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Polymarket]39% chance Trump &amp; Kim meet by end of year.
+https://polymarket.com/event/who-will-trump-meet-with-in-2026?via=x-afr2 — 39% chance Trump &amp; Kim meet by end of year. https://polymarket.com/event/who-will-trump-meet-with-in-2026?via=x-afr2</title>
+      <link>https://x.com/Polymarket/status/2090142257538068989</link>
+      <description>39% chance Trump &amp; Kim meet by end of year.
+https://polymarket.com/event/who-will-trump-meet-with-in-2026?via=x-afr2</description>
+      <guid isPermaLink="false">https://x.com/Polymarket/status/2090142257538068989</guid>
+      <pubDate>Wed, 19 Aug 2026 18:22:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>[elonmusk]Despite its obvious misuse during Covid, mRNA has tremendous promise for curing diseases. 
+
+Artificial RNA essentially makes curing diseases a software problem.</title>
+      <link>https://x.com/elonmusk/status/2090143734407246018</link>
+      <description>Despite its obvious misuse during Covid, mRNA has tremendous promise for curing diseases. 
+
+Artificial RNA essentially makes curing diseases a software problem.</description>
+      <guid isPermaLink="false">https://x.com/elonmusk/status/2090143734407246018</guid>
+      <pubDate>Wed, 19 Aug 2026 18:27:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>[elonmusk]Synthetic RNA will cure many diseases</title>
+      <link>https://x.com/elonmusk/status/2090144496420077581</link>
+      <description>Synthetic RNA will cure many diseases</description>
+      <guid isPermaLink="false">https://x.com/elonmusk/status/2090144496420077581</guid>
+      <pubDate>Wed, 19 Aug 2026 18:30:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>[WhizDefi]If ETH keeps building strength, $4K becomes a very watchable target.</title>
+      <link>https://x.com/WhizDefi/status/2090146217049370823</link>
+      <description>If ETH keeps building strength, $4K becomes a very watchable target.</description>
+      <guid isPermaLink="false">https://x.com/WhizDefi/status/2090146217049370823</guid>
+      <pubDate>Wed, 19 Aug 2026 18:37:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>[jeppewl]Yes, but AI slop doesn't exactly doesn't exactly inspire trust</title>
+      <link>https://x.com/jeppewl/status/2090146222933725634</link>
+      <description>Yes, but AI slop doesn't exactly doesn't exactly inspire trust</description>
+      <guid isPermaLink="false">https://x.com/jeppewl/status/2090146222933725634</guid>
+      <pubDate>Wed, 19 Aug 2026 18:37:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>[hectorhh121]Even the sentiment is now approaching greed levels, love to see it</title>
+      <link>https://x.com/hectorhh121/status/2090146226867945885</link>
+      <description>Even the sentiment is now approaching greed levels, love to see it</description>
+      <guid isPermaLink="false">https://x.com/hectorhh121/status/2090146226867945885</guid>
+      <pubDate>Wed, 19 Aug 2026 18:37:48 +0000</pubDate>
     </item>
   </channel>
 </rss>
