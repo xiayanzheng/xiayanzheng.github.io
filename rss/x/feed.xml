@@ -7,290 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 22 Aug 2026 06:41:29 +0000</lastBuildDate>
-    <item>
-      <title>[bridgemindai]Fable 5 is WAY better than Opus 5. It is not even close.
-
-Opus 5 is slow and it is lazy. It stops early, skips steps, and tells you it is done when it is not.
-
-I now launch three subagents on tasks Fable 5 one shots. That is my actual workflow.
-
-I called Opus 5 the best model in the world two weeks ago. I was wrong.
-
-Anthropic dropped it on a Friday out of nowhere. That said everything.
-
-Fable 5.1 is the one I am waiting for.</title>
-      <link>https://x.com/bridgemindai/status/2084974665080926416</link>
-      <description>Fable 5 is WAY better than Opus 5. It is not even close.
-
-Opus 5 is slow and it is lazy. It stops early, skips steps, and tells you it is done when it is not.
-
-I now launch three subagents on tasks Fable 5 one shots. That is my actual workflow.
-
-I called Opus 5 the best model in the world two weeks ago. I was wrong.
-
-Anthropic dropped it on a Friday out of nowhere. That said everything.
-
-Fable 5.1 is the one I am waiting for.</description>
-      <guid isPermaLink="false">https://x.com/bridgemindai/status/2084974665080926416</guid>
-      <pubDate>Wed, 05 Aug 2026 12:07:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Polymarket]JUST IN: Citadel’s equities fund surged +14.2% in July after it bought AI positions from the collapsing Situational Awareness fund.</title>
-      <link>https://x.com/Polymarket/status/2084979330665357392</link>
-      <description>JUST IN: Citadel’s equities fund surged +14.2% in July after it bought AI positions from the collapsing Situational Awareness fund.</description>
-      <guid isPermaLink="false">https://x.com/Polymarket/status/2084979330665357392</guid>
-      <pubDate>Wed, 05 Aug 2026 12:26:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>[leopardracer]Stanford just explained why AI engineers are getting paid $500k+: 
-
-08:34 - one AI agent replaces $200k/month of manual work
-23:49 - the biggest mistake almost everyone makes when training AI
-56:25 - why frontier AI labs don’t rely on prompting anymore
-1:03:12 - the technique behind today’s smartest reasoning models
-
-after watching this, I completely changed how I think about training AI models
-
-save &amp; watch - the article below breaks down the entire lecture step by step</title>
-      <link>https://x.com/leopardracer/status/2084980509524861042</link>
-      <description>Stanford just explained why AI engineers are getting paid $500k+: 
-
-08:34 - one AI agent replaces $200k/month of manual work
-23:49 - the biggest mistake almost everyone makes when training AI
-56:25 - why frontier AI labs don’t rely on prompting anymore
-1:03:12 - the technique behind today’s smartest reasoning models
-
-after watching this, I completely changed how I think about training AI models
-
-save &amp; watch - the article below breaks down the entire lecture step by step</description>
-      <guid isPermaLink="false">https://x.com/leopardracer/status/2084980509524861042</guid>
-      <pubDate>Wed, 05 Aug 2026 12:31:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Polymarket]JUST IN: OpenAI warns hackers could soon deploy coordinated “offensive agent collectives” to conduct autonomous attacks.</title>
-      <link>https://x.com/Polymarket/status/2085186345040023989</link>
-      <description>JUST IN: OpenAI warns hackers could soon deploy coordinated “offensive agent collectives” to conduct autonomous attacks.</description>
-      <guid isPermaLink="false">https://x.com/Polymarket/status/2085186345040023989</guid>
-      <pubDate>Thu, 06 Aug 2026 02:09:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Polymarket]18% chance an AI safety bill is enacted by year-end.
-https://polymarket.com/event/us-enacts-ai-safety-bill-before-2027?via=x-afr2 — 18% chance an AI safety bill is enacted by year-end. https://polymarket.com/event/us-enacts-ai-safety-bill-before-2027?via=x-afr2</title>
-      <link>https://x.com/Polymarket/status/2085187796310901062</link>
-      <description>18% chance an AI safety bill is enacted by year-end.
-https://polymarket.com/event/us-enacts-ai-safety-bill-before-2027?via=x-afr2</description>
-      <guid isPermaLink="false">https://x.com/Polymarket/status/2085187796310901062</guid>
-      <pubDate>Thu, 06 Aug 2026 02:14:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>[elonmusk]Grok Imagine</title>
-      <link>https://x.com/elonmusk/status/2085188435057488153</link>
-      <description>Grok Imagine</description>
-      <guid isPermaLink="false">https://x.com/elonmusk/status/2085188435057488153</guid>
-      <pubDate>Thu, 06 Aug 2026 02:17:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>[elonmusk]99% of compute long-term will be for inference</title>
-      <link>https://x.com/elonmusk/status/2085188661327569365</link>
-      <description>99% of compute long-term will be for inference</description>
-      <guid isPermaLink="false">https://x.com/elonmusk/status/2085188661327569365</guid>
-      <pubDate>Thu, 06 Aug 2026 02:18:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>[elonmusk]Great idea</title>
-      <link>https://x.com/elonmusk/status/2085188875547513008</link>
-      <description>Great idea</description>
-      <guid isPermaLink="false">https://x.com/elonmusk/status/2085188875547513008</guid>
-      <pubDate>Thu, 06 Aug 2026 02:19:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>[elonmusk]Only a matter of time tbh</title>
-      <link>https://x.com/elonmusk/status/2085189041482539244</link>
-      <description>Only a matter of time tbh</description>
-      <guid isPermaLink="false">https://x.com/elonmusk/status/2085189041482539244</guid>
-      <pubDate>Thu, 06 Aug 2026 02:19:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Rizvi_On_X]Good Morning my lovely ct.
-
-Just updated the sleepagotchi app and the new Sleep Coach upgrade is now live.
-
-You can now directly chat with your Sleep Coach- ask questions, explore your sleep data, and get personalised guidance based on your own metrics.
-
-Tried it this morning, and the experience felt different.
-
-Instead of only showing scores, it helped break down my fragmented sleep, REM, HRV, and resting heart rate, then suggested clear steps to improve.
-
-Feels less like a regular tracker and more like having a personal sleep coach that actually understands your data.
-
-If you haven’t updated yet, give it a try.
-
-The difference is noticeable.
-
-New morning. Better conversations with your sleep.
-
-stay tune @sleepagotchi.</title>
-      <link>https://x.com/Rizvi_On_X/status/2085189365068939441</link>
-      <description>Good Morning my lovely ct.
-
-Just updated the sleepagotchi app and the new Sleep Coach upgrade is now live.
-
-You can now directly chat with your Sleep Coach- ask questions, explore your sleep data, and get personalised guidance based on your own metrics.
-
-Tried it this morning, and the experience felt different.
-
-Instead of only showing scores, it helped break down my fragmented sleep, REM, HRV, and resting heart rate, then suggested clear steps to improve.
-
-Feels less like a regular tracker and more like having a personal sleep coach that actually understands your data.
-
-If you haven’t updated yet, give it a try.
-
-The difference is noticeable.
-
-New morning. Better conversations with your sleep.
-
-stay tune @sleepagotchi.</description>
-      <guid isPermaLink="false">https://x.com/Rizvi_On_X/status/2085189365068939441</guid>
-      <pubDate>Thu, 06 Aug 2026 02:21:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[elonmusk]Fixing</title>
-      <link>https://x.com/elonmusk/status/2085190044915314967</link>
-      <description>Fixing</description>
-      <guid isPermaLink="false">https://x.com/elonmusk/status/2085190044915314967</guid>
-      <pubDate>Thu, 06 Aug 2026 02:23:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>[AggiesToday]Intel on a new potential flip target + elite prospect nearing commitment with A&amp;M trending.. 👀⬇️</title>
-      <link>https://x.com/AggiesToday/status/2085190505818714166</link>
-      <description>Intel on a new potential flip target + elite prospect nearing commitment with A&amp;M trending.. 👀⬇️</description>
-      <guid isPermaLink="false">https://x.com/AggiesToday/status/2085190505818714166</guid>
-      <pubDate>Thu, 06 Aug 2026 02:25:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>[elonmusk]Grok in Blender</title>
-      <link>https://x.com/elonmusk/status/2085190872564699581</link>
-      <description>Grok in Blender</description>
-      <guid isPermaLink="false">https://x.com/elonmusk/status/2085190872564699581</guid>
-      <pubDate>Thu, 06 Aug 2026 02:26:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>[elonmusk]Megapack 3 starting production. 
-
-Congrats Tesla Megapack team!</title>
-      <link>https://x.com/elonmusk/status/2085191304905138594</link>
-      <description>Megapack 3 starting production. 
-
-Congrats Tesla Megapack team!</description>
-      <guid isPermaLink="false">https://x.com/elonmusk/status/2085191304905138594</guid>
-      <pubDate>Thu, 06 Aug 2026 02:28:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Polymarket]JUST IN: U.S. mass deportation program is reportedly projected to cost the average taxpayer $2,358.</title>
-      <link>https://x.com/Polymarket/status/2085193391541780954</link>
-      <description>JUST IN: U.S. mass deportation program is reportedly projected to cost the average taxpayer $2,358.</description>
-      <guid isPermaLink="false">https://x.com/Polymarket/status/2085193391541780954</guid>
-      <pubDate>Thu, 06 Aug 2026 02:37:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[gabriel1]3 months ago i resigned from @OpenAI. today we are launching Energy
-
-everyone will soon use AI for all work on their computers, but very few do today even though AI is good enough
-
-our users do days of work in hours. we'll onboard the world to working with ai</title>
-      <link>https://x.com/gabriel1/status/2085418582192841147</link>
-      <description>3 months ago i resigned from @OpenAI. today we are launching Energy
-
-everyone will soon use AI for all work on their computers, but very few do today even though AI is good enough
-
-our users do days of work in hours. we'll onboard the world to working with ai</description>
-      <guid isPermaLink="false">https://x.com/gabriel1/status/2085418582192841147</guid>
-      <pubDate>Thu, 06 Aug 2026 17:31:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>[OpenAI]We’re making better intelligence easier to access in ChatGPT for everyone: - GPT-5.6 Sol now powers both Instant and deep reasoning for Plus &amp; Pro users, delivering more factual, focused responses. - Free &amp; Go users get unlimited text chats with GPT-5.6 Luna starting tomorrow.</title>
-      <link>https://x.com/OpenAI/status/2085434712429052386</link>
-      <description>We’re making better intelligence easier to access in ChatGPT for everyone: - GPT-5.6 Sol now powers both Instant and deep reasoning for Plus &amp; Pro users, delivering more factual, focused responses. - Free &amp; Go users get unlimited text chats with GPT-5.6 Luna starting tomorrow.</description>
-      <guid isPermaLink="false">https://x.com/OpenAI/status/2085434712429052386</guid>
-      <pubDate>Thu, 06 Aug 2026 18:35:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>[OpenAI]The new GPT-5.6 Sol powers all chats for paid users, including Instant, creating one consistent experience. 
-
-In our high-stakes factuality evaluation covering finance, medicine and law, the new GPT‑5.6 Sol produced 68% fewer responses with factual errors than GPT-5.5 Instant.</title>
-      <link>https://x.com/OpenAI/status/2085434713821565297</link>
-      <description>The new GPT-5.6 Sol powers all chats for paid users, including Instant, creating one consistent experience. 
-
-In our high-stakes factuality evaluation covering finance, medicine and law, the new GPT‑5.6 Sol produced 68% fewer responses with factual errors than GPT-5.5 Instant.</description>
-      <guid isPermaLink="false">https://x.com/OpenAI/status/2085434713821565297</guid>
-      <pubDate>Thu, 06 Aug 2026 18:35:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>[OpenAI]In addition to the upgrade in intelligence with GPT-5.6 Luna, Free and Go users can now use the “Think” button for more reasoning on harder questions.</title>
-      <link>https://x.com/OpenAI/status/2085434717051240642</link>
-      <description>In addition to the upgrade in intelligence with GPT-5.6 Luna, Free and Go users can now use the “Think” button for more reasoning on harder questions.</description>
-      <guid isPermaLink="false">https://x.com/OpenAI/status/2085434717051240642</guid>
-      <pubDate>Thu, 06 Aug 2026 18:35:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>[OpenAI]Plus and Pro users can access the updated version of GPT‑5.6 Sol in ChatGPT along with the new slider starting today.
-
-This version of GPT-5.6 Sol is for everyday chats, so it will only be available in the Chat experience in ChatGPT.
-
-The version of GPT-5.6 Sol that powers Work and Codex is not changing as part of this release.</title>
-      <link>https://x.com/OpenAI/status/2085434718393418101</link>
-      <description>Plus and Pro users can access the updated version of GPT‑5.6 Sol in ChatGPT along with the new slider starting today.
-
-This version of GPT-5.6 Sol is for everyday chats, so it will only be available in the Chat experience in ChatGPT.
-
-The version of GPT-5.6 Sol that powers Work and Codex is not changing as part of this release.</description>
-      <guid isPermaLink="false">https://x.com/OpenAI/status/2085434718393418101</guid>
-      <pubDate>Thu, 06 Aug 2026 18:35:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>[WhiteHouse]President Donald J. Trump is taking historic action to protect the value of American citizenship by ENDING the practice of birth tourism. The privilege of United States citizenship is a priceless and profound gift.</title>
-      <link>https://x.com/WhiteHouse/status/2085478440614904052</link>
-      <description>President Donald J. Trump is taking historic action to protect the value of American citizenship by ENDING the practice of birth tourism. The privilege of United States citizenship is a priceless and profound gift.</description>
-      <guid isPermaLink="false">https://x.com/WhiteHouse/status/2085478440614904052</guid>
-      <pubDate>Thu, 06 Aug 2026 21:29:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>[potentially_agi]25,000 signed up for Collective AI.
-
-http://Potentially.com access codes rolling out.
-
-The future of intelligence is asking the right questions.</title>
-      <link>https://x.com/potentially_agi/status/2085487562823548972</link>
-      <description>25,000 signed up for Collective AI.
-
-http://Potentially.com access codes rolling out.
-
-The future of intelligence is asking the right questions.</description>
-      <guid isPermaLink="false">https://x.com/potentially_agi/status/2085487562823548972</guid>
-      <pubDate>Thu, 06 Aug 2026 22:05:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Polymarket]BREAKING: Former Mexican Gov. Ángel Aguirre arrested for allegedly destroying evidence in the case of 43 students who disappeared in 2014.</title>
-      <link>https://x.com/Polymarket/status/2085506454250016917</link>
-      <description>BREAKING: Former Mexican Gov. Ángel Aguirre arrested for allegedly destroying evidence in the case of 43 students who disappeared in 2014.</description>
-      <guid isPermaLink="false">https://x.com/Polymarket/status/2085506454250016917</guid>
-      <pubDate>Thu, 06 Aug 2026 23:21:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Polymarket]JUST IN: The share of Americans who believe climate change is happening has fallen to 66%, down from 73% last year — AP-NORC poll</title>
-      <link>https://x.com/Polymarket/status/2085510229119340796</link>
-      <description>JUST IN: The share of Americans who believe climate change is happening has fallen to 66%, down from 73% last year — AP-NORC poll</description>
-      <guid isPermaLink="false">https://x.com/Polymarket/status/2085510229119340796</guid>
-      <pubDate>Thu, 06 Aug 2026 23:36:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Polymarket]JUST IN: Elon Musk announces the Terafab mega-factory will be 50x larger than the Pentagon.</title>
-      <link>https://x.com/Polymarket/status/2085580860690940096</link>
-      <description>JUST IN: Elon Musk announces the Terafab mega-factory will be 50x larger than the Pentagon.</description>
-      <guid isPermaLink="false">https://x.com/Polymarket/status/2085580860690940096</guid>
-      <pubDate>Fri, 07 Aug 2026 04:16:40 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 22 Aug 2026 18:32:10 +0000</lastBuildDate>
     <item>
       <title>[fearlessfella7]Hey @grok, swap their body physique perfectly !!</title>
       <link>https://x.com/fearlessfella7/status/2085592431517745558</link>
@@ -1208,6 +925,13 @@ What comes next?</description>
       <pubDate>Mon, 10 Aug 2026 12:52:33 +0000</pubDate>
     </item>
     <item>
+      <title>[ClownParty0000]Thank you, Grok</title>
+      <link>https://x.com/ClownParty0000/status/2086802439194218573</link>
+      <description>Thank you, Grok</description>
+      <guid isPermaLink="false">https://x.com/ClownParty0000/status/2086802439194218573</guid>
+      <pubDate>Mon, 10 Aug 2026 13:10:47 +0000</pubDate>
+    </item>
+    <item>
       <title>[smhanov]Do you have X premium+? My agent made a tool that lets you use Supergrok, which you already paid for, in  opencode, claude code, etc.
 All you do is open up your editor and write:
 "Please download smhanov/xgroxy from github, set it up and configure yourself to use it."
@@ -1218,13 +942,6 @@ All you do is open up your editor and write:
 "Please download smhanov/xgroxy from github, set it up and configure yourself to use it."
 Let me know how it goes!</description>
       <guid isPermaLink="false">https://x.com/smhanov/status/2086802438980248056</guid>
-      <pubDate>Mon, 10 Aug 2026 13:10:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>[ClownParty0000]Thank you, Grok</title>
-      <link>https://x.com/ClownParty0000/status/2086802439194218573</link>
-      <description>Thank you, Grok</description>
-      <guid isPermaLink="false">https://x.com/ClownParty0000/status/2086802439194218573</guid>
       <pubDate>Mon, 10 Aug 2026 13:10:47 +0000</pubDate>
     </item>
     <item>
@@ -4051,10 +3768,10 @@ And for everyone who reached out about how to build a “podcast summarizer” i
       <pubDate>Tue, 18 Aug 2026 01:10:57 +0000</pubDate>
     </item>
     <item>
-      <title>[MikeL80308444]AI or not, she is hot</title>
-      <link>https://x.com/MikeL80308444/status/2089521896748691700</link>
-      <description>AI or not, she is hot</description>
-      <guid isPermaLink="false">https://x.com/MikeL80308444/status/2089521896748691700</guid>
+      <title>[hoangchau6688]em ベ AI nhay nghe qua</title>
+      <link>https://x.com/hoangchau6688/status/2089521896543171037</link>
+      <description>em ベ AI nhay nghe qua</description>
+      <guid isPermaLink="false">https://x.com/hoangchau6688/status/2089521896543171037</guid>
       <pubDate>Tue, 18 Aug 2026 01:16:56 +0000</pubDate>
     </item>
     <item>
@@ -4065,10 +3782,10 @@ And for everyone who reached out about how to build a “podcast summarizer” i
       <pubDate>Tue, 18 Aug 2026 01:16:56 +0000</pubDate>
     </item>
     <item>
-      <title>[hoangchau6688]em ベ AI nhay nghe qua</title>
-      <link>https://x.com/hoangchau6688/status/2089521896543171037</link>
-      <description>em ベ AI nhay nghe qua</description>
-      <guid isPermaLink="false">https://x.com/hoangchau6688/status/2089521896543171037</guid>
+      <title>[MikeL80308444]AI or not, she is hot</title>
+      <link>https://x.com/MikeL80308444/status/2089521896748691700</link>
+      <description>AI or not, she is hot</description>
+      <guid isPermaLink="false">https://x.com/MikeL80308444/status/2089521896748691700</guid>
       <pubDate>Tue, 18 Aug 2026 01:16:56 +0000</pubDate>
     </item>
     <item>
@@ -4145,6 +3862,13 @@ https://polymarket.com/event/who-will-place-first-in-the-alaska-governor-primary
       <pubDate>Tue, 18 Aug 2026 06:28:04 +0000</pubDate>
     </item>
     <item>
+      <title>[CorneliusDib615]AI profits everywhere, job security nowhere. #AI #Jobs</title>
+      <link>https://x.com/CorneliusDib615/status/2089604257372942749</link>
+      <description>AI profits everywhere, job security nowhere. #AI #Jobs</description>
+      <guid isPermaLink="false">https://x.com/CorneliusDib615/status/2089604257372942749</guid>
+      <pubDate>Tue, 18 Aug 2026 06:44:12 +0000</pubDate>
+    </item>
+    <item>
       <title>[Her_agape]Demonstrations in AI and digital health show how technology can streamline clinical workflows. 
 
 PS Ouma Oluga champions digital tools that increase efficiency and save vital lives.
@@ -4157,13 +3881,6 @@ PS Ouma Oluga champions digital tools that increase efficiency and save vital li
 
 Healthcare Without Barriers #KenyaHealthSummit. @MOH_Kenya @WillowHealthKe @fnoluga.</description>
       <guid isPermaLink="false">https://x.com/Her_agape/status/2089604256294736090</guid>
-      <pubDate>Tue, 18 Aug 2026 06:44:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>[CorneliusDib615]AI profits everywhere, job security nowhere. #AI #Jobs</title>
-      <link>https://x.com/CorneliusDib615/status/2089604257372942749</link>
-      <description>AI profits everywhere, job security nowhere. #AI #Jobs</description>
-      <guid isPermaLink="false">https://x.com/CorneliusDib615/status/2089604257372942749</guid>
       <pubDate>Tue, 18 Aug 2026 06:44:12 +0000</pubDate>
     </item>
     <item>
@@ -4251,21 +3968,6 @@ Healthcare Without Barriers #KenyaHealthSummit. @MOH_Kenya @WillowHealthKe @fnol
       <pubDate>Tue, 18 Aug 2026 18:00:34 +0000</pubDate>
     </item>
     <item>
-      <title>[OpenAI]As models become more capable, the risks associated with developing and testing them internally also grow.
-
-We temporarily paused reinforcement learning (RL) training on our latest models intended for deployment for two weeks while we hardened and red-teamed our research environments and expanded monitoring coverage.
-
-Our largest planned frontier RL run remains on hold while smaller-scale training and evaluations validate these safeguards and establish more evidence of alignment.</title>
-      <link>https://x.com/OpenAI/status/2089777845187031262</link>
-      <description>As models become more capable, the risks associated with developing and testing them internally also grow.
-
-We temporarily paused reinforcement learning (RL) training on our latest models intended for deployment for two weeks while we hardened and red-teamed our research environments and expanded monitoring coverage.
-
-Our largest planned frontier RL run remains on hold while smaller-scale training and evaluations validate these safeguards and establish more evidence of alignment.</description>
-      <guid isPermaLink="false">https://x.com/OpenAI/status/2089777845187031262</guid>
-      <pubDate>Tue, 18 Aug 2026 18:13:59 +0000</pubDate>
-    </item>
-    <item>
       <title>[OpenAI]We’re sharing the concrete changes we’re making to strengthen monitoring, security, and alignment as capabilities advance.
 
 We’ve introduced stronger workload and network isolation, continuous security testing, and expanded multistage monitoring for higher-risk training, evaluations, and tool-using inference.
@@ -4278,6 +3980,21 @@ We’ve introduced stronger workload and network isolation, continuous security 
 
 These safeguards are designed to detect concerning behavior quickly and limit what systems can access or affect.</description>
       <guid isPermaLink="false">https://x.com/OpenAI/status/2089777846583763370</guid>
+      <pubDate>Tue, 18 Aug 2026 18:13:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>[OpenAI]As models become more capable, the risks associated with developing and testing them internally also grow.
+
+We temporarily paused reinforcement learning (RL) training on our latest models intended for deployment for two weeks while we hardened and red-teamed our research environments and expanded monitoring coverage.
+
+Our largest planned frontier RL run remains on hold while smaller-scale training and evaluations validate these safeguards and establish more evidence of alignment.</title>
+      <link>https://x.com/OpenAI/status/2089777845187031262</link>
+      <description>As models become more capable, the risks associated with developing and testing them internally also grow.
+
+We temporarily paused reinforcement learning (RL) training on our latest models intended for deployment for two weeks while we hardened and red-teamed our research environments and expanded monitoring coverage.
+
+Our largest planned frontier RL run remains on hold while smaller-scale training and evaluations validate these safeguards and establish more evidence of alignment.</description>
+      <guid isPermaLink="false">https://x.com/OpenAI/status/2089777845187031262</guid>
       <pubDate>Tue, 18 Aug 2026 18:13:59 +0000</pubDate>
     </item>
     <item>
@@ -4366,10 +4083,14 @@ Between 22% and 35% of Claude's designs bound successfully, depending on the set
       <pubDate>Tue, 18 Aug 2026 22:30:27 +0000</pubDate>
     </item>
     <item>
-      <title>[AnthropicAI]For more on how Claude ran this experiment and the full results, see our blog: https://www.anthropic.com/research/Claude-accelerates-protein-design</title>
-      <link>https://x.com/AnthropicAI/status/2089842394527301881</link>
-      <description>For more on how Claude ran this experiment and the full results, see our blog: https://www.anthropic.com/research/Claude-accelerates-protein-design</description>
-      <guid isPermaLink="false">https://x.com/AnthropicAI/status/2089842394527301881</guid>
+      <title>[AnthropicAI]Importantly, protein binders are not drugs. Designing a high-affinity binder is just the first step in the process of developing a drug-like molecule. Even designing a drug itself is just one phase out of the many required to establish that a drug is safe and effective before making it available to people.
+
+However, this establishes a strong foundation to work from, and we are building on it by teaching Claude to run the entire development process end-to-end for every major type of drug molecule—from antibodies to small molecules.</title>
+      <link>https://x.com/AnthropicAI/status/2089842391918563599</link>
+      <description>Importantly, protein binders are not drugs. Designing a high-affinity binder is just the first step in the process of developing a drug-like molecule. Even designing a drug itself is just one phase out of the many required to establish that a drug is safe and effective before making it available to people.
+
+However, this establishes a strong foundation to work from, and we are building on it by teaching Claude to run the entire development process end-to-end for every major type of drug molecule—from antibodies to small molecules.</description>
+      <guid isPermaLink="false">https://x.com/AnthropicAI/status/2089842391918563599</guid>
       <pubDate>Tue, 18 Aug 2026 22:30:28 +0000</pubDate>
     </item>
     <item>
@@ -4380,14 +4101,10 @@ Between 22% and 35% of Claude's designs bound successfully, depending on the set
       <pubDate>Tue, 18 Aug 2026 22:30:28 +0000</pubDate>
     </item>
     <item>
-      <title>[AnthropicAI]Importantly, protein binders are not drugs. Designing a high-affinity binder is just the first step in the process of developing a drug-like molecule. Even designing a drug itself is just one phase out of the many required to establish that a drug is safe and effective before making it available to people.
-
-However, this establishes a strong foundation to work from, and we are building on it by teaching Claude to run the entire development process end-to-end for every major type of drug molecule—from antibodies to small molecules.</title>
-      <link>https://x.com/AnthropicAI/status/2089842391918563599</link>
-      <description>Importantly, protein binders are not drugs. Designing a high-affinity binder is just the first step in the process of developing a drug-like molecule. Even designing a drug itself is just one phase out of the many required to establish that a drug is safe and effective before making it available to people.
-
-However, this establishes a strong foundation to work from, and we are building on it by teaching Claude to run the entire development process end-to-end for every major type of drug molecule—from antibodies to small molecules.</description>
-      <guid isPermaLink="false">https://x.com/AnthropicAI/status/2089842391918563599</guid>
+      <title>[AnthropicAI]For more on how Claude ran this experiment and the full results, see our blog: https://www.anthropic.com/research/Claude-accelerates-protein-design</title>
+      <link>https://x.com/AnthropicAI/status/2089842394527301881</link>
+      <description>For more on how Claude ran this experiment and the full results, see our blog: https://www.anthropic.com/research/Claude-accelerates-protein-design</description>
+      <guid isPermaLink="false">https://x.com/AnthropicAI/status/2089842394527301881</guid>
       <pubDate>Tue, 18 Aug 2026 22:30:28 +0000</pubDate>
     </item>
     <item>
@@ -4806,17 +4523,17 @@ The hiring manager only called me because he thought the system had made a mista
       <pubDate>Wed, 19 Aug 2026 10:37:00 +0000</pubDate>
     </item>
     <item>
-      <title>[Polymarket]NEW POLYMARKET: Will AOC announce a run for Senate or President before 2028?</title>
-      <link>https://x.com/Polymarket/status/2090043097602240666</link>
-      <description>NEW POLYMARKET: Will AOC announce a run for Senate or President before 2028?</description>
-      <guid isPermaLink="false">https://x.com/Polymarket/status/2090043097602240666</guid>
-      <pubDate>Wed, 19 Aug 2026 11:48:00 +0000</pubDate>
-    </item>
-    <item>
       <title>[Polymarket]Will AOC announce a run for Senate or President before 2028?</title>
       <link>https://polymarket.com/event/will-aoc-announce-a-run-for-senate-or-president-before-2028</link>
       <description>Will AOC announce a run for Senate or President before 2028?</description>
       <guid isPermaLink="false">https://polymarket.com/event/will-aoc-announce-a-run-for-senate-or-president-before-2028</guid>
+      <pubDate>Wed, 19 Aug 2026 11:48:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Polymarket]NEW POLYMARKET: Will AOC announce a run for Senate or President before 2028?</title>
+      <link>https://x.com/Polymarket/status/2090043097602240666</link>
+      <description>NEW POLYMARKET: Will AOC announce a run for Senate or President before 2028?</description>
+      <guid isPermaLink="false">https://x.com/Polymarket/status/2090043097602240666</guid>
       <pubDate>Wed, 19 Aug 2026 11:48:00 +0000</pubDate>
     </item>
     <item>
@@ -5525,6 +5242,361 @@ BIT brings technology &amp; education together to empower the future of school m
       <description>Indra Group has demonstrated an AI system designed to support military decision-making by processing complex operational information and helping commanders respond more efficiently. #AI #DefenseTech #MilitaryTechnology #Indra #ArtificialIntelligence</description>
       <guid isPermaLink="false">https://x.com/MMechanics24/status/2091052971325112712</guid>
       <pubDate>Sat, 22 Aug 2026 06:40:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>[milesdeutscher]The ULTIMATE guide to Grok Bot.
+
+In 15 minutes, I'll teach you how to master the most powerful agentic software ever created:</title>
+      <link>https://x.com/milesdeutscher/status/2091103091168792650</link>
+      <description>The ULTIMATE guide to Grok Bot.
+
+In 15 minutes, I'll teach you how to master the most powerful agentic software ever created:</description>
+      <guid isPermaLink="false">https://x.com/milesdeutscher/status/2091103091168792650</guid>
+      <pubDate>Sat, 22 Aug 2026 10:00:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>[justinsuntron]USDD，全世界最为可信，公正，去中心化的数学货币，运行在全球最可靠的稳定币结算网络，波场与以太坊之上。USDD的发展成功，将是确定的，因为这是一场价值观的成功。</title>
+      <link>https://x.com/justinsuntron/status/2091142146162389258</link>
+      <description>USDD，全世界最为可信，公正，去中心化的数学货币，运行在全球最可靠的稳定币结算网络，波场与以太坊之上。USDD的发展成功，将是确定的，因为这是一场价值观的成功。</description>
+      <guid isPermaLink="false">https://x.com/justinsuntron/status/2091142146162389258</guid>
+      <pubDate>Sat, 22 Aug 2026 12:35:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>[justinsuntron]关于我与World Liberty @worldlibertyfi 的官司,很多人以为它是一场商业纠纷。表面上确实是——4500万美元、40亿枚代币、一纸合同。
+
+但打了这几个月,我越来越清楚它真正的性质:这是一场关于区块链初心的价值观之争。
+
+我们这一代人创立区块链,只为一个朴素的信念:每个人都应当真正拥有自己的财产——不因你的身份、立场、国籍,不需要任何人的恩准。
+
+私钥即所有权,这是整个行业的第一性原理。
+
+而这场官司揭示的,恰恰是对这一初心的背叛:
+
+一家以"自由(Liberty)"为名的公司,在WLFI与USD1合约里秘密植入了任意冻结任何用户资产的权力,不经披露、不经治理、不经任何程序——然后在我的代币解锁数日之内,对我使用了它。
+
+以自由之名,行控制之实——这不只是对我一个人的侵害,它动摇的是这个行业存在的理由。
+
+如果发行方可以随时没收任何持有者的资产,那么区块链和它试图取代的旧世界还有什么区别?
+
+我们绕了一大圈,只是给任意没收换了一层技术的包装。
+
+所以这场官司我会打到底。
+
+不只为拿回属于我的东西,更为在法庭上确立一个先例:
+
+在区块链的世界里,"你的资产"必须真正是你的——写在代码里,也写进判例里。
+
+自由不是一个可以注册的商标。
+
+它是一种可以在链上逐行验证的设计选择。
+
+我的选择,任何人都可以去验证;他们的,法庭正在验证。</title>
+      <link>https://x.com/justinsuntron/status/2091144373065113911</link>
+      <description>关于我与World Liberty @worldlibertyfi 的官司,很多人以为它是一场商业纠纷。表面上确实是——4500万美元、40亿枚代币、一纸合同。
+
+但打了这几个月,我越来越清楚它真正的性质:这是一场关于区块链初心的价值观之争。
+
+我们这一代人创立区块链,只为一个朴素的信念:每个人都应当真正拥有自己的财产——不因你的身份、立场、国籍,不需要任何人的恩准。
+
+私钥即所有权,这是整个行业的第一性原理。
+
+而这场官司揭示的,恰恰是对这一初心的背叛:
+
+一家以"自由(Liberty)"为名的公司,在WLFI与USD1合约里秘密植入了任意冻结任何用户资产的权力,不经披露、不经治理、不经任何程序——然后在我的代币解锁数日之内,对我使用了它。
+
+以自由之名,行控制之实——这不只是对我一个人的侵害,它动摇的是这个行业存在的理由。
+
+如果发行方可以随时没收任何持有者的资产,那么区块链和它试图取代的旧世界还有什么区别?
+
+我们绕了一大圈,只是给任意没收换了一层技术的包装。
+
+所以这场官司我会打到底。
+
+不只为拿回属于我的东西,更为在法庭上确立一个先例:
+
+在区块链的世界里,"你的资产"必须真正是你的——写在代码里,也写进判例里。
+
+自由不是一个可以注册的商标。
+
+它是一种可以在链上逐行验证的设计选择。
+
+我的选择,任何人都可以去验证;他们的,法庭正在验证。</description>
+      <guid isPermaLink="false">https://x.com/justinsuntron/status/2091144373065113911</guid>
+      <pubDate>Sat, 22 Aug 2026 12:44:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>[justinsuntron]Many people see my case against World Liberty @worldlibertyfi as a business dispute. 
+
+On the surface, it is — $45 million, 4 billion tokens, a contract. 
+
+But months into this fight, its true nature has become clear to me: this is a fight over the founding principle of blockchain itself.
+
+Our generation built this industry on one simple conviction: 
+
+that every person should truly own what is theirs, regardless of who they are, what they believe, or where they were born, and without needing anyone's permission. 
+
+Your keys, your coins. 
+
+That is the first principle of everything we do.
+
+What this case has exposed is a betrayal of that principle: 
+a company with "Liberty" in its name secretly embedded, in its own contract, the power to freeze any user's assets at will — without disclosure, without governance, without any process at all — and within days of my tokens unlocking, they used it.
+
+Freedom in the name, control in the code. That is not just an injury to me. It strikes at the reason this industry exists. 
+
+If an issuer can confiscate any holder's assets at any moment, then what separates blockchain from the old world it was built to replace? 
+
+We will have traveled all this way only to give arbitrary confiscation a technological disguise.
+
+That is why I will see this case through. 
+
+Not only to recover what is mine, but to establish something in a court of law: 
+in this industry, "your assets" must actually mean yours — written in code, and now written in precedent.
+
+Liberty is not a trademark you can register. 
+
+It is a design choice, verifiable line by line, on-chain. 
+
+Mine is open for anyone to inspect. 
+
+Theirs is being inspected by a federal court.</title>
+      <link>https://x.com/justinsuntron/status/2091145025556287644</link>
+      <description>Many people see my case against World Liberty @worldlibertyfi as a business dispute. 
+
+On the surface, it is — $45 million, 4 billion tokens, a contract. 
+
+But months into this fight, its true nature has become clear to me: this is a fight over the founding principle of blockchain itself.
+
+Our generation built this industry on one simple conviction: 
+
+that every person should truly own what is theirs, regardless of who they are, what they believe, or where they were born, and without needing anyone's permission. 
+
+Your keys, your coins. 
+
+That is the first principle of everything we do.
+
+What this case has exposed is a betrayal of that principle: 
+a company with "Liberty" in its name secretly embedded, in its own contract, the power to freeze any user's assets at will — without disclosure, without governance, without any process at all — and within days of my tokens unlocking, they used it.
+
+Freedom in the name, control in the code. That is not just an injury to me. It strikes at the reason this industry exists. 
+
+If an issuer can confiscate any holder's assets at any moment, then what separates blockchain from the old world it was built to replace? 
+
+We will have traveled all this way only to give arbitrary confiscation a technological disguise.
+
+That is why I will see this case through. 
+
+Not only to recover what is mine, but to establish something in a court of law: 
+in this industry, "your assets" must actually mean yours — written in code, and now written in precedent.
+
+Liberty is not a trademark you can register. 
+
+It is a design choice, verifiable line by line, on-chain. 
+
+Mine is open for anyone to inspect. 
+
+Theirs is being inspected by a federal court.</description>
+      <guid isPermaLink="false">https://x.com/justinsuntron/status/2091145025556287644</guid>
+      <pubDate>Sat, 22 Aug 2026 12:46:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>[justinsuntron]DeepSeek, 腾讯，小米，三弹齐发，先让 https://b.ai/ 进入单日万亿俱乐部！</title>
+      <link>https://x.com/justinsuntron/status/2091146454530396508</link>
+      <description>DeepSeek, 腾讯，小米，三弹齐发，先让 https://b.ai/ 进入单日万亿俱乐部！</description>
+      <guid isPermaLink="false">https://x.com/justinsuntron/status/2091146454530396508</guid>
+      <pubDate>Sat, 22 Aug 2026 12:52:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>[justinsuntron]火币在行动</title>
+      <link>https://x.com/justinsuntron/status/2091150793382719977</link>
+      <description>火币在行动</description>
+      <guid isPermaLink="false">https://x.com/justinsuntron/status/2091150793382719977</guid>
+      <pubDate>Sat, 22 Aug 2026 13:09:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>[SenFettermanPA]AI supremacy and energy dominance underpins our national security.  
+
+China continues to fuel and benefit from our overreaction. 
+
+I reject the political pandering and hyperbole over data centers or AI doomsdaying.</title>
+      <link>https://x.com/SenFettermanPA/status/2091157772649873870</link>
+      <description>AI supremacy and energy dominance underpins our national security.  
+
+China continues to fuel and benefit from our overreaction. 
+
+I reject the political pandering and hyperbole over data centers or AI doomsdaying.</description>
+      <guid isPermaLink="false">https://x.com/SenFettermanPA/status/2091157772649873870</guid>
+      <pubDate>Sat, 22 Aug 2026 13:37:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>[WhiteHouse]BRB. America's 250th is going full throttle 🏁</title>
+      <link>https://x.com/WhiteHouse/status/2091178926030651524</link>
+      <description>BRB. America's 250th is going full throttle 🏁</description>
+      <guid isPermaLink="false">https://x.com/WhiteHouse/status/2091178926030651524</guid>
+      <pubDate>Sat, 22 Aug 2026 15:01:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>[JamesonCamp]GrokBot came out a week ago at $200
+
+They dropped it to $100
+
+Skip both. Sign up for Cursor Pro+ at $60/month. You get Grok access included.
+
+Save yourself $480 a year. You're welcome.</title>
+      <link>https://x.com/JamesonCamp/status/2091191844575027471</link>
+      <description>GrokBot came out a week ago at $200
+
+They dropped it to $100
+
+Skip both. Sign up for Cursor Pro+ at $60/month. You get Grok access included.
+
+Save yourself $480 a year. You're welcome.</description>
+      <guid isPermaLink="false">https://x.com/JamesonCamp/status/2091191844575027471</guid>
+      <pubDate>Sat, 22 Aug 2026 15:52:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>[elonmusk]Try Tesla self-driving
+
+Feels like magic</title>
+      <link>https://x.com/elonmusk/status/2091192791405916296</link>
+      <description>Try Tesla self-driving
+
+Feels like magic</description>
+      <guid isPermaLink="false">https://x.com/elonmusk/status/2091192791405916296</guid>
+      <pubDate>Sat, 22 Aug 2026 15:56:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>[elonmusk]Wow</title>
+      <link>https://x.com/elonmusk/status/2091194130206736761</link>
+      <description>Wow</description>
+      <guid isPermaLink="false">https://x.com/elonmusk/status/2091194130206736761</guid>
+      <pubDate>Sat, 22 Aug 2026 16:01:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>[elonmusk]It never has been</title>
+      <link>https://x.com/elonmusk/status/2091205457931374792</link>
+      <description>It never has been</description>
+      <guid isPermaLink="false">https://x.com/elonmusk/status/2091205457931374792</guid>
+      <pubDate>Sat, 22 Aug 2026 16:46:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>[emollick]In terms of everyday usefulness and saving time, Codex &amp; Claude Code are very capable of doing the thing where you ask them to "fill out the forms that I got an email about" and they do it well &amp; without further intervention from you. Really nice for low-risk time-consuming stuff</title>
+      <link>https://x.com/emollick/status/2091207070951395337</link>
+      <description>In terms of everyday usefulness and saving time, Codex &amp; Claude Code are very capable of doing the thing where you ask them to "fill out the forms that I got an email about" and they do it well &amp; without further intervention from you. Really nice for low-risk time-consuming stuff</description>
+      <guid isPermaLink="false">https://x.com/emollick/status/2091207070951395337</guid>
+      <pubDate>Sat, 22 Aug 2026 16:53:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>[elonmusk]True</title>
+      <link>https://x.com/elonmusk/status/2091210522763088089</link>
+      <description>True</description>
+      <guid isPermaLink="false">https://x.com/elonmusk/status/2091210522763088089</guid>
+      <pubDate>Sat, 22 Aug 2026 17:06:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>[WhiteHouse]LET’S GOOOOO</title>
+      <link>https://x.com/WhiteHouse/status/2091214401483186625</link>
+      <description>LET’S GOOOOO</description>
+      <guid isPermaLink="false">https://x.com/WhiteHouse/status/2091214401483186625</guid>
+      <pubDate>Sat, 22 Aug 2026 17:22:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>[yunta_tsai]Maybe one day Grok @bot can run the factory end-to-end. 😆</title>
+      <link>https://x.com/yunta_tsai/status/2091214749791097242</link>
+      <description>Maybe one day Grok @bot can run the factory end-to-end. 😆</description>
+      <guid isPermaLink="false">https://x.com/yunta_tsai/status/2091214749791097242</guid>
+      <pubDate>Sat, 22 Aug 2026 17:23:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>[coinbureau]🤖WILD: You cannot tell the difference anymore.
+
+This is a $17,000 robot made by China's UBTECH. 
+
+It has silicone skin and an AI that can read over 20 human emotions.
+
+Over 13,000 people have already pre-ordered one.</title>
+      <link>https://x.com/coinbureau/status/2091216328375849212</link>
+      <description>🤖WILD: You cannot tell the difference anymore.
+
+This is a $17,000 robot made by China's UBTECH. 
+
+It has silicone skin and an AI that can read over 20 human emotions.
+
+Over 13,000 people have already pre-ordered one.</description>
+      <guid isPermaLink="false">https://x.com/coinbureau/status/2091216328375849212</guid>
+      <pubDate>Sat, 22 Aug 2026 17:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Polymarket]JUST IN: Lionel Messi fined by MLS after slapping opponent in the back of the head.</title>
+      <link>https://x.com/Polymarket/status/2091217335059398841</link>
+      <description>JUST IN: Lionel Messi fined by MLS after slapping opponent in the back of the head.</description>
+      <guid isPermaLink="false">https://x.com/Polymarket/status/2091217335059398841</guid>
+      <pubDate>Sat, 22 Aug 2026 17:34:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Polymarket]JUST IN: New Jersey Gov. Mikie Sherrill signs law making it a crime to threaten, intimidate, or block people seeking abortion care, with penalties of up to 10 years in prison.</title>
+      <link>https://x.com/Polymarket/status/2091219725355302954</link>
+      <description>JUST IN: New Jersey Gov. Mikie Sherrill signs law making it a crime to threaten, intimidate, or block people seeking abortion care, with penalties of up to 10 years in prison.</description>
+      <guid isPermaLink="false">https://x.com/Polymarket/status/2091219725355302954</guid>
+      <pubDate>Sat, 22 Aug 2026 17:43:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Polymarket]BREAKING: Romania declares emergency measures to raise the Danube after dangerously low water levels forced its Cernavoda nuclear plant to shut down.</title>
+      <link>https://x.com/Polymarket/status/2091220606305902789</link>
+      <description>BREAKING: Romania declares emergency measures to raise the Danube after dangerously low water levels forced its Cernavoda nuclear plant to shut down.</description>
+      <guid isPermaLink="false">https://x.com/Polymarket/status/2091220606305902789</guid>
+      <pubDate>Sat, 22 Aug 2026 17:47:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[AnatoliKopadze]A Google Cloud engineer just showed how to build a full app with Claude from scratch.
+
+He spent 26 minutes live on stage doing what most teams take weeks to do.
+
+Worth more than any $500 vibe-coding course, no team, no setup, just Claude and a goal.
+
+The ones who learn what Claude actually does are shipping what everyone else outsources to a team.
+
+Watch it, then read the guide below on the Claude features 99% of users never find.</title>
+      <link>https://x.com/AnatoliKopadze/status/2091224908244164840</link>
+      <description>A Google Cloud engineer just showed how to build a full app with Claude from scratch.
+
+He spent 26 minutes live on stage doing what most teams take weeks to do.
+
+Worth more than any $500 vibe-coding course, no team, no setup, just Claude and a goal.
+
+The ones who learn what Claude actually does are shipping what everyone else outsources to a team.
+
+Watch it, then read the guide below on the Claude features 99% of users never find.</description>
+      <guid isPermaLink="false">https://x.com/AnatoliKopadze/status/2091224908244164840</guid>
+      <pubDate>Sat, 22 Aug 2026 18:04:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Polymarket]JUST IN: Nearly 9 in 10 adults under 40 say buying a home is harder today than it was for their parents. — NYT</title>
+      <link>https://x.com/Polymarket/status/2091226142762316049</link>
+      <description>JUST IN: Nearly 9 in 10 adults under 40 say buying a home is harder today than it was for their parents. — NYT</description>
+      <guid isPermaLink="false">https://x.com/Polymarket/status/2091226142762316049</guid>
+      <pubDate>Sat, 22 Aug 2026 18:09:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Polymarket]35% chance the U.S. enters a recession by end of next year.</title>
+      <link>https://x.com/Polymarket/status/2091227370887774298</link>
+      <description>35% chance the U.S. enters a recession by end of next year.</description>
+      <guid isPermaLink="false">https://x.com/Polymarket/status/2091227370887774298</guid>
+      <pubDate>Sat, 22 Aug 2026 18:13:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>[WhiteHouse]EPIC. 🦅</title>
+      <link>https://x.com/WhiteHouse/status/2091227776007209316</link>
+      <description>EPIC. 🦅</description>
+      <guid isPermaLink="false">https://x.com/WhiteHouse/status/2091227776007209316</guid>
+      <pubDate>Sat, 22 Aug 2026 18:15:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>[elonmusk]💯</title>
+      <link>https://x.com/elonmusk/status/2091230104559181891</link>
+      <description>💯</description>
+      <guid isPermaLink="false">https://x.com/elonmusk/status/2091230104559181891</guid>
+      <pubDate>Sat, 22 Aug 2026 18:24:44 +0000</pubDate>
     </item>
   </channel>
 </rss>
