@@ -7,127 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 22 Aug 2026 18:32:10 +0000</lastBuildDate>
-    <item>
-      <title>[fearlessfella7]Hey @grok, swap their body physique perfectly !!</title>
-      <link>https://x.com/fearlessfella7/status/2085592431517745558</link>
-      <description>Hey @grok, swap their body physique perfectly !!</description>
-      <guid isPermaLink="false">https://x.com/fearlessfella7/status/2085592431517745558</guid>
-      <pubDate>Fri, 07 Aug 2026 05:02:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>[elonmusk]Grok Build V1.0 is now released. Try it out!
-
-https://x.ai/build</title>
-      <link>https://x.com/elonmusk/status/2085594813840216212</link>
-      <description>Grok Build V1.0 is now released. Try it out!
-
-https://x.ai/build</description>
-      <guid isPermaLink="false">https://x.com/elonmusk/status/2085594813840216212</guid>
-      <pubDate>Fri, 07 Aug 2026 05:12:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>[XNinaross_]Hey @Grok, who is the fastest among these superheroes? Show us a picture of the fastest one. ⚡👀</title>
-      <link>https://x.com/XNinaross_/status/2085599422881350027</link>
-      <description>Hey @Grok, who is the fastest among these superheroes? Show us a picture of the fastest one. ⚡👀</description>
-      <guid isPermaLink="false">https://x.com/XNinaross_/status/2085599422881350027</guid>
-      <pubDate>Fri, 07 Aug 2026 05:30:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>[NextScience]🚨 HUMANS MAY HAVE A HIDDEN POWER SCIENTISTS ARE JUST BEGINNING TO UNDERSTAND 
-
-Axolotls can regrow entire limbs, and now scientists say humans carry some of the same regeneration-related genes. Researchers believe the real mystery is not whether we have these genes… but why they are mostly inactive.
-
-Studies on axolotls are helping scientists explore whether human tissue regeneration could someday become possible. What if the ability to regrow damaged body parts has been inside us all along? 
-
-Source:
-National Science Foundation. New axolotl study gives researchers a leg up in work towards limb regeneration</title>
-      <link>https://x.com/NextScience/status/2085693688533983430</link>
-      <description>🚨 HUMANS MAY HAVE A HIDDEN POWER SCIENTISTS ARE JUST BEGINNING TO UNDERSTAND 
-
-Axolotls can regrow entire limbs, and now scientists say humans carry some of the same regeneration-related genes. Researchers believe the real mystery is not whether we have these genes… but why they are mostly inactive.
-
-Studies on axolotls are helping scientists explore whether human tissue regeneration could someday become possible. What if the ability to regrow damaged body parts has been inside us all along? 
-
-Source:
-National Science Foundation. New axolotl study gives researchers a leg up in work towards limb regeneration</description>
-      <guid isPermaLink="false">https://x.com/NextScience/status/2085693688533983430</guid>
-      <pubDate>Fri, 07 Aug 2026 11:45:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Polymarket]JUST IN: U.S. unemployment falls to 4.1% in July.</title>
-      <link>https://x.com/Polymarket/status/2085710292374147210</link>
-      <description>JUST IN: U.S. unemployment falls to 4.1% in July.</description>
-      <guid isPermaLink="false">https://x.com/Polymarket/status/2085710292374147210</guid>
-      <pubDate>Fri, 07 Aug 2026 12:50:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>[pwendell]Today @databricks we're publishing a detailed analysis of techniques we used to drastically reduce our internal AI spend while aggressively growing adoption. Savings come from layering in several techniques, which combine to drive unit costs down as much as 90% in some scenarios. Tl;dr, the wins come from:
-
-1. Shifting defaults to more efficient models, including OSS models such as GLM. Maximum intelligence models simply aren't needed for many coding tasks, and "good enough" models are quickly becoming very cheap. We shift traffic between models using Unity AI Gateway. Approximate savings: 50% or more.
-
-2. Using smart routing to automate model selection. Routing can further squeeze efficiency by dynamically selecting the model or harness that can most efficiently execute a particular task. Our task-level routing leverages @omnigent_ai. Approximate savings: 30%.
-
-3. Providing user visibility and adaptive budgeting. Every user can see how much they spend, and users receive hints on how to contain spend. Heavy spenders encounter progressive friction as they ratchet spend above certain levels. Approximate savings: 10%.
-
-4. Managing context bloat by pruning tool call results and tuning harness settings. Extraneous context costs $$ and delivers no value. Tuning cache settings also help lower average token costs. Approximate savings: 10%.</title>
-      <link>https://x.com/pwendell/status/2085781227588714948</link>
-      <description>Today @databricks we're publishing a detailed analysis of techniques we used to drastically reduce our internal AI spend while aggressively growing adoption. Savings come from layering in several techniques, which combine to drive unit costs down as much as 90% in some scenarios. Tl;dr, the wins come from:
-
-1. Shifting defaults to more efficient models, including OSS models such as GLM. Maximum intelligence models simply aren't needed for many coding tasks, and "good enough" models are quickly becoming very cheap. We shift traffic between models using Unity AI Gateway. Approximate savings: 50% or more.
-
-2. Using smart routing to automate model selection. Routing can further squeeze efficiency by dynamically selecting the model or harness that can most efficiently execute a particular task. Our task-level routing leverages @omnigent_ai. Approximate savings: 30%.
-
-3. Providing user visibility and adaptive budgeting. Every user can see how much they spend, and users receive hints on how to contain spend. Heavy spenders encounter progressive friction as they ratchet spend above certain levels. Approximate savings: 10%.
-
-4. Managing context bloat by pruning tool call results and tuning harness settings. Extraneous context costs $$ and delivers no value. Tuning cache settings also help lower average token costs. Approximate savings: 10%.</description>
-      <guid isPermaLink="false">https://x.com/pwendell/status/2085781227588714948</guid>
-      <pubDate>Fri, 07 Aug 2026 17:32:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>[OpenAI]After evaluating one of our upcoming models, Astra, we're treating it as our first "critical" model for cybersecurity under our Preparedness Framework.
-
-This is a scenario we've planned for, and we're putting additional controls in place to ensure Astra's further development happens safely and securely. 
-
-We're working hard to make Astra broadly available, and get its advanced cyber capabilities into the hands of defenders.</title>
-      <link>https://x.com/OpenAI/status/2085801349866729975</link>
-      <description>After evaluating one of our upcoming models, Astra, we're treating it as our first "critical" model for cybersecurity under our Preparedness Framework.
-
-This is a scenario we've planned for, and we're putting additional controls in place to ensure Astra's further development happens safely and securely. 
-
-We're working hard to make Astra broadly available, and get its advanced cyber capabilities into the hands of defenders.</description>
-      <guid isPermaLink="false">https://x.com/OpenAI/status/2085801349866729975</guid>
-      <pubDate>Fri, 07 Aug 2026 18:52:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Polymarket]JUST IN: Colombia’s new president Abelardo De La Espriella officially takes office, pledging a crackdown on the country’s “cocaine armies.”</title>
-      <link>https://x.com/Polymarket/status/2085876392101589320</link>
-      <description>JUST IN: Colombia’s new president Abelardo De La Espriella officially takes office, pledging a crackdown on the country’s “cocaine armies.”</description>
-      <guid isPermaLink="false">https://x.com/Polymarket/status/2085876392101589320</guid>
-      <pubDate>Fri, 07 Aug 2026 23:51:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[milesdeutscher]I automated my entire life using Claude.
-My team of AI agents manages every business SOP, task, and workflow that I used to do manually.
-Automate your entire life with Claude (copy me):</title>
-      <link>https://x.com/milesdeutscher/status/2085876398854717474</link>
-      <description>I automated my entire life using Claude.
-My team of AI agents manages every business SOP, task, and workflow that I used to do manually.
-Automate your entire life with Claude (copy me):</description>
-      <guid isPermaLink="false">https://x.com/milesdeutscher/status/2085876398854717474</guid>
-      <pubDate>Fri, 07 Aug 2026 23:51:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Polymarket]68% chance the U.S. charges Colombian ex-President Gustavo Petro.
-
-https://polymarket.com/event/will-gustavo-petro-be-charged-in-the-us-by-april-30?via=x-afr2 — 68% chance the U.S. charges Colombian ex-President Gustavo Petro. https://polymarket.com/event/will-gustavo-petro-be-charged-in-the-us-by-april-30?via=x-afr2</title>
-      <link>https://x.com/Polymarket/status/2085877214407467501</link>
-      <description>68% chance the U.S. charges Colombian ex-President Gustavo Petro.
-
-https://polymarket.com/event/will-gustavo-petro-be-charged-in-the-us-by-april-30?via=x-afr2</description>
-      <guid isPermaLink="false">https://x.com/Polymarket/status/2085877214407467501</guid>
-      <pubDate>Fri, 07 Aug 2026 23:54:16 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 23 Aug 2026 06:43:00 +0000</lastBuildDate>
     <item>
       <title>[Polymarket]JUST IN: NYC homeowners sue over Mayor Mamdani’s rollout of a new tax on second homes, alleging the city wrongly flagged thousands of properties.</title>
       <link>https://x.com/Polymarket/status/2085884587599651008</link>
@@ -925,13 +805,6 @@ What comes next?</description>
       <pubDate>Mon, 10 Aug 2026 12:52:33 +0000</pubDate>
     </item>
     <item>
-      <title>[ClownParty0000]Thank you, Grok</title>
-      <link>https://x.com/ClownParty0000/status/2086802439194218573</link>
-      <description>Thank you, Grok</description>
-      <guid isPermaLink="false">https://x.com/ClownParty0000/status/2086802439194218573</guid>
-      <pubDate>Mon, 10 Aug 2026 13:10:47 +0000</pubDate>
-    </item>
-    <item>
       <title>[smhanov]Do you have X premium+? My agent made a tool that lets you use Supergrok, which you already paid for, in  opencode, claude code, etc.
 All you do is open up your editor and write:
 "Please download smhanov/xgroxy from github, set it up and configure yourself to use it."
@@ -942,6 +815,13 @@ All you do is open up your editor and write:
 "Please download smhanov/xgroxy from github, set it up and configure yourself to use it."
 Let me know how it goes!</description>
       <guid isPermaLink="false">https://x.com/smhanov/status/2086802438980248056</guid>
+      <pubDate>Mon, 10 Aug 2026 13:10:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>[ClownParty0000]Thank you, Grok</title>
+      <link>https://x.com/ClownParty0000/status/2086802439194218573</link>
+      <description>Thank you, Grok</description>
+      <guid isPermaLink="false">https://x.com/ClownParty0000/status/2086802439194218573</guid>
       <pubDate>Mon, 10 Aug 2026 13:10:47 +0000</pubDate>
     </item>
     <item>
@@ -3768,10 +3648,10 @@ And for everyone who reached out about how to build a “podcast summarizer” i
       <pubDate>Tue, 18 Aug 2026 01:10:57 +0000</pubDate>
     </item>
     <item>
-      <title>[hoangchau6688]em ベ AI nhay nghe qua</title>
-      <link>https://x.com/hoangchau6688/status/2089521896543171037</link>
-      <description>em ベ AI nhay nghe qua</description>
-      <guid isPermaLink="false">https://x.com/hoangchau6688/status/2089521896543171037</guid>
+      <title>[MikeL80308444]AI or not, she is hot</title>
+      <link>https://x.com/MikeL80308444/status/2089521896748691700</link>
+      <description>AI or not, she is hot</description>
+      <guid isPermaLink="false">https://x.com/MikeL80308444/status/2089521896748691700</guid>
       <pubDate>Tue, 18 Aug 2026 01:16:56 +0000</pubDate>
     </item>
     <item>
@@ -3782,10 +3662,10 @@ And for everyone who reached out about how to build a “podcast summarizer” i
       <pubDate>Tue, 18 Aug 2026 01:16:56 +0000</pubDate>
     </item>
     <item>
-      <title>[MikeL80308444]AI or not, she is hot</title>
-      <link>https://x.com/MikeL80308444/status/2089521896748691700</link>
-      <description>AI or not, she is hot</description>
-      <guid isPermaLink="false">https://x.com/MikeL80308444/status/2089521896748691700</guid>
+      <title>[hoangchau6688]em ベ AI nhay nghe qua</title>
+      <link>https://x.com/hoangchau6688/status/2089521896543171037</link>
+      <description>em ベ AI nhay nghe qua</description>
+      <guid isPermaLink="false">https://x.com/hoangchau6688/status/2089521896543171037</guid>
       <pubDate>Tue, 18 Aug 2026 01:16:56 +0000</pubDate>
     </item>
     <item>
@@ -3862,13 +3742,6 @@ https://polymarket.com/event/who-will-place-first-in-the-alaska-governor-primary
       <pubDate>Tue, 18 Aug 2026 06:28:04 +0000</pubDate>
     </item>
     <item>
-      <title>[CorneliusDib615]AI profits everywhere, job security nowhere. #AI #Jobs</title>
-      <link>https://x.com/CorneliusDib615/status/2089604257372942749</link>
-      <description>AI profits everywhere, job security nowhere. #AI #Jobs</description>
-      <guid isPermaLink="false">https://x.com/CorneliusDib615/status/2089604257372942749</guid>
-      <pubDate>Tue, 18 Aug 2026 06:44:12 +0000</pubDate>
-    </item>
-    <item>
       <title>[Her_agape]Demonstrations in AI and digital health show how technology can streamline clinical workflows. 
 
 PS Ouma Oluga champions digital tools that increase efficiency and save vital lives.
@@ -3881,6 +3754,13 @@ PS Ouma Oluga champions digital tools that increase efficiency and save vital li
 
 Healthcare Without Barriers #KenyaHealthSummit. @MOH_Kenya @WillowHealthKe @fnoluga.</description>
       <guid isPermaLink="false">https://x.com/Her_agape/status/2089604256294736090</guid>
+      <pubDate>Tue, 18 Aug 2026 06:44:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>[CorneliusDib615]AI profits everywhere, job security nowhere. #AI #Jobs</title>
+      <link>https://x.com/CorneliusDib615/status/2089604257372942749</link>
+      <description>AI profits everywhere, job security nowhere. #AI #Jobs</description>
+      <guid isPermaLink="false">https://x.com/CorneliusDib615/status/2089604257372942749</guid>
       <pubDate>Tue, 18 Aug 2026 06:44:12 +0000</pubDate>
     </item>
     <item>
@@ -3968,21 +3848,6 @@ Healthcare Without Barriers #KenyaHealthSummit. @MOH_Kenya @WillowHealthKe @fnol
       <pubDate>Tue, 18 Aug 2026 18:00:34 +0000</pubDate>
     </item>
     <item>
-      <title>[OpenAI]We’re sharing the concrete changes we’re making to strengthen monitoring, security, and alignment as capabilities advance.
-
-We’ve introduced stronger workload and network isolation, continuous security testing, and expanded multistage monitoring for higher-risk training, evaluations, and tool-using inference.
-
-These safeguards are designed to detect concerning behavior quickly and limit what systems can access or affect.</title>
-      <link>https://x.com/OpenAI/status/2089777846583763370</link>
-      <description>We’re sharing the concrete changes we’re making to strengthen monitoring, security, and alignment as capabilities advance.
-
-We’ve introduced stronger workload and network isolation, continuous security testing, and expanded multistage monitoring for higher-risk training, evaluations, and tool-using inference.
-
-These safeguards are designed to detect concerning behavior quickly and limit what systems can access or affect.</description>
-      <guid isPermaLink="false">https://x.com/OpenAI/status/2089777846583763370</guid>
-      <pubDate>Tue, 18 Aug 2026 18:13:59 +0000</pubDate>
-    </item>
-    <item>
       <title>[OpenAI]As models become more capable, the risks associated with developing and testing them internally also grow.
 
 We temporarily paused reinforcement learning (RL) training on our latest models intended for deployment for two weeks while we hardened and red-teamed our research environments and expanded monitoring coverage.
@@ -3995,6 +3860,21 @@ We temporarily paused reinforcement learning (RL) training on our latest models 
 
 Our largest planned frontier RL run remains on hold while smaller-scale training and evaluations validate these safeguards and establish more evidence of alignment.</description>
       <guid isPermaLink="false">https://x.com/OpenAI/status/2089777845187031262</guid>
+      <pubDate>Tue, 18 Aug 2026 18:13:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>[OpenAI]We’re sharing the concrete changes we’re making to strengthen monitoring, security, and alignment as capabilities advance.
+
+We’ve introduced stronger workload and network isolation, continuous security testing, and expanded multistage monitoring for higher-risk training, evaluations, and tool-using inference.
+
+These safeguards are designed to detect concerning behavior quickly and limit what systems can access or affect.</title>
+      <link>https://x.com/OpenAI/status/2089777846583763370</link>
+      <description>We’re sharing the concrete changes we’re making to strengthen monitoring, security, and alignment as capabilities advance.
+
+We’ve introduced stronger workload and network isolation, continuous security testing, and expanded multistage monitoring for higher-risk training, evaluations, and tool-using inference.
+
+These safeguards are designed to detect concerning behavior quickly and limit what systems can access or affect.</description>
+      <guid isPermaLink="false">https://x.com/OpenAI/status/2089777846583763370</guid>
       <pubDate>Tue, 18 Aug 2026 18:13:59 +0000</pubDate>
     </item>
     <item>
@@ -4083,14 +3963,10 @@ Between 22% and 35% of Claude's designs bound successfully, depending on the set
       <pubDate>Tue, 18 Aug 2026 22:30:27 +0000</pubDate>
     </item>
     <item>
-      <title>[AnthropicAI]Importantly, protein binders are not drugs. Designing a high-affinity binder is just the first step in the process of developing a drug-like molecule. Even designing a drug itself is just one phase out of the many required to establish that a drug is safe and effective before making it available to people.
-
-However, this establishes a strong foundation to work from, and we are building on it by teaching Claude to run the entire development process end-to-end for every major type of drug molecule—from antibodies to small molecules.</title>
-      <link>https://x.com/AnthropicAI/status/2089842391918563599</link>
-      <description>Importantly, protein binders are not drugs. Designing a high-affinity binder is just the first step in the process of developing a drug-like molecule. Even designing a drug itself is just one phase out of the many required to establish that a drug is safe and effective before making it available to people.
-
-However, this establishes a strong foundation to work from, and we are building on it by teaching Claude to run the entire development process end-to-end for every major type of drug molecule—from antibodies to small molecules.</description>
-      <guid isPermaLink="false">https://x.com/AnthropicAI/status/2089842391918563599</guid>
+      <title>[AnthropicAI]For more on how Claude ran this experiment and the full results, see our blog: https://www.anthropic.com/research/Claude-accelerates-protein-design</title>
+      <link>https://x.com/AnthropicAI/status/2089842394527301881</link>
+      <description>For more on how Claude ran this experiment and the full results, see our blog: https://www.anthropic.com/research/Claude-accelerates-protein-design</description>
+      <guid isPermaLink="false">https://x.com/AnthropicAI/status/2089842394527301881</guid>
       <pubDate>Tue, 18 Aug 2026 22:30:28 +0000</pubDate>
     </item>
     <item>
@@ -4101,10 +3977,14 @@ However, this establishes a strong foundation to work from, and we are building 
       <pubDate>Tue, 18 Aug 2026 22:30:28 +0000</pubDate>
     </item>
     <item>
-      <title>[AnthropicAI]For more on how Claude ran this experiment and the full results, see our blog: https://www.anthropic.com/research/Claude-accelerates-protein-design</title>
-      <link>https://x.com/AnthropicAI/status/2089842394527301881</link>
-      <description>For more on how Claude ran this experiment and the full results, see our blog: https://www.anthropic.com/research/Claude-accelerates-protein-design</description>
-      <guid isPermaLink="false">https://x.com/AnthropicAI/status/2089842394527301881</guid>
+      <title>[AnthropicAI]Importantly, protein binders are not drugs. Designing a high-affinity binder is just the first step in the process of developing a drug-like molecule. Even designing a drug itself is just one phase out of the many required to establish that a drug is safe and effective before making it available to people.
+
+However, this establishes a strong foundation to work from, and we are building on it by teaching Claude to run the entire development process end-to-end for every major type of drug molecule—from antibodies to small molecules.</title>
+      <link>https://x.com/AnthropicAI/status/2089842391918563599</link>
+      <description>Importantly, protein binders are not drugs. Designing a high-affinity binder is just the first step in the process of developing a drug-like molecule. Even designing a drug itself is just one phase out of the many required to establish that a drug is safe and effective before making it available to people.
+
+However, this establishes a strong foundation to work from, and we are building on it by teaching Claude to run the entire development process end-to-end for every major type of drug molecule—from antibodies to small molecules.</description>
+      <guid isPermaLink="false">https://x.com/AnthropicAI/status/2089842391918563599</guid>
       <pubDate>Tue, 18 Aug 2026 22:30:28 +0000</pubDate>
     </item>
     <item>
@@ -4523,17 +4403,17 @@ The hiring manager only called me because he thought the system had made a mista
       <pubDate>Wed, 19 Aug 2026 10:37:00 +0000</pubDate>
     </item>
     <item>
-      <title>[Polymarket]Will AOC announce a run for Senate or President before 2028?</title>
-      <link>https://polymarket.com/event/will-aoc-announce-a-run-for-senate-or-president-before-2028</link>
-      <description>Will AOC announce a run for Senate or President before 2028?</description>
-      <guid isPermaLink="false">https://polymarket.com/event/will-aoc-announce-a-run-for-senate-or-president-before-2028</guid>
-      <pubDate>Wed, 19 Aug 2026 11:48:00 +0000</pubDate>
-    </item>
-    <item>
       <title>[Polymarket]NEW POLYMARKET: Will AOC announce a run for Senate or President before 2028?</title>
       <link>https://x.com/Polymarket/status/2090043097602240666</link>
       <description>NEW POLYMARKET: Will AOC announce a run for Senate or President before 2028?</description>
       <guid isPermaLink="false">https://x.com/Polymarket/status/2090043097602240666</guid>
+      <pubDate>Wed, 19 Aug 2026 11:48:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Polymarket]Will AOC announce a run for Senate or President before 2028?</title>
+      <link>https://polymarket.com/event/will-aoc-announce-a-run-for-senate-or-president-before-2028</link>
+      <description>Will AOC announce a run for Senate or President before 2028?</description>
+      <guid isPermaLink="false">https://polymarket.com/event/will-aoc-announce-a-run-for-senate-or-president-before-2028</guid>
       <pubDate>Wed, 19 Aug 2026 11:48:00 +0000</pubDate>
     </item>
     <item>
@@ -5597,6 +5477,116 @@ Watch it, then read the guide below on the Claude features 99% of users never fi
       <description>💯</description>
       <guid isPermaLink="false">https://x.com/elonmusk/status/2091230104559181891</guid>
       <pubDate>Sat, 22 Aug 2026 18:24:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>[WhiteHouse]ANOTHER AMERICAN BROUGHT HOME. 🇺🇸
+
+"Kevin Rideout, a brave Christian missionary, was held hostage by ISIS Jihadists for ten months! We never leave Americans behind, unlike Sleepy Joe and Obama, because we are America First. Today I invited Kevin, his lovely wife, father and beautiful children, to the White House to see the Oval Office, and meet our dedicated hostage recovery team. Welcome back home Kevin — It was an Honor to help you!" - President Donald J. Trump</title>
+      <link>https://x.com/WhiteHouse/status/2091299338597413346</link>
+      <description>ANOTHER AMERICAN BROUGHT HOME. 🇺🇸
+
+"Kevin Rideout, a brave Christian missionary, was held hostage by ISIS Jihadists for ten months! We never leave Americans behind, unlike Sleepy Joe and Obama, because we are America First. Today I invited Kevin, his lovely wife, father and beautiful children, to the White House to see the Oval Office, and meet our dedicated hostage recovery team. Welcome back home Kevin — It was an Honor to help you!" - President Donald J. Trump</description>
+      <guid isPermaLink="false">https://x.com/WhiteHouse/status/2091299338597413346</guid>
+      <pubDate>Sat, 22 Aug 2026 22:59:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Polymarket]JUST IN: Jury awards $275,000 each to two teenagers who were trapped upside down for 25 minutes on an Oregon amusement park ride after it malfunctioned.</title>
+      <link>https://x.com/Polymarket/status/2091304117113106695</link>
+      <description>JUST IN: Jury awards $275,000 each to two teenagers who were trapped upside down for 25 minutes on an Oregon amusement park ride after it malfunctioned.</description>
+      <guid isPermaLink="false">https://x.com/Polymarket/status/2091304117113106695</guid>
+      <pubDate>Sat, 22 Aug 2026 23:18:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>[DashhLilly]How can blockchain products become easier for beginners without removing user control?
+
+Can privacy and regulation work together instead of being treated as complete opposites?
+
+What practical role will AI play in crypto beyond adding another popular label to a project?
+
+How can stablecoins improve global payments while protecting users from fraud and unnecessary risk?
+
+And most importantly, which projects are attracting real users because they solve a genuine problem—not simply because rewards are available?
+
+Events like @binance Blockchain Week matter because builders, investors, regulators and users rarely see the industry from the same position. 
+
+Bringing those perspectives together can reveal where progress is real, where expectations are too high and what still needs more work.
+
+I’m looking forward to learning from those conversations and seeing which ideas could shape the next stage of blockchain adoption.
+
+Which topic do you think deserves the most attention at Binance Blockchain Week?</title>
+      <link>https://x.com/DashhLilly/status/2091309099350946278</link>
+      <description>How can blockchain products become easier for beginners without removing user control?
+
+Can privacy and regulation work together instead of being treated as complete opposites?
+
+What practical role will AI play in crypto beyond adding another popular label to a project?
+
+How can stablecoins improve global payments while protecting users from fraud and unnecessary risk?
+
+And most importantly, which projects are attracting real users because they solve a genuine problem—not simply because rewards are available?
+
+Events like @binance Blockchain Week matter because builders, investors, regulators and users rarely see the industry from the same position. 
+
+Bringing those perspectives together can reveal where progress is real, where expectations are too high and what still needs more work.
+
+I’m looking forward to learning from those conversations and seeing which ideas could shape the next stage of blockchain adoption.
+
+Which topic do you think deserves the most attention at Binance Blockchain Week?</description>
+      <guid isPermaLink="false">https://x.com/DashhLilly/status/2091309099350946278</guid>
+      <pubDate>Sat, 22 Aug 2026 23:38:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>[user13290107]Be honest… are you always this irresistible? 😉#Thinder #Dating #Relationship #Love #Trending #trendingréels</title>
+      <link>https://x.com/user13290107/status/2091311178446225880</link>
+      <description>Be honest… are you always this irresistible? 😉#Thinder #Dating #Relationship #Love #Trending #trendingréels</description>
+      <guid isPermaLink="false">https://x.com/user13290107/status/2091311178446225880</guid>
+      <pubDate>Sat, 22 Aug 2026 23:46:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Polymarket]BREAKING: Iran warns neighboring countries they will be treated as “enemies” if they join the U.S. economic war against Tehran.</title>
+      <link>https://x.com/Polymarket/status/2091336038518055348</link>
+      <description>BREAKING: Iran warns neighboring countries they will be treated as “enemies” if they join the U.S. economic war against Tehran.</description>
+      <guid isPermaLink="false">https://x.com/Polymarket/status/2091336038518055348</guid>
+      <pubDate>Sun, 23 Aug 2026 01:25:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Polymarket]36% chance Iran signs a Hormuz agreement with Oman by end of September.</title>
+      <link>https://x.com/Polymarket/status/2091336200216858643</link>
+      <description>36% chance Iran signs a Hormuz agreement with Oman by end of September.</description>
+      <guid isPermaLink="false">https://x.com/Polymarket/status/2091336200216858643</guid>
+      <pubDate>Sun, 23 Aug 2026 01:26:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Polymarket]JUST IN: China is reportedly using AI models of American voters to simulate U.S. elections &amp; model how swing-state voters may respond to political campaigns.</title>
+      <link>https://x.com/Polymarket/status/2091349611755589706</link>
+      <description>JUST IN: China is reportedly using AI models of American voters to simulate U.S. elections &amp; model how swing-state voters may respond to political campaigns.</description>
+      <guid isPermaLink="false">https://x.com/Polymarket/status/2091349611755589706</guid>
+      <pubDate>Sun, 23 Aug 2026 02:19:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Polymarket]JUST IN: Chinese robot “Tianzhuo” clocks a 9.39-second 100m at the World Humanoid Robot Games — faster than Usain Bolt’s human world record.</title>
+      <link>https://x.com/Polymarket/status/2091371623597171053</link>
+      <description>JUST IN: Chinese robot “Tianzhuo” clocks a 9.39-second 100m at the World Humanoid Robot Games — faster than Usain Bolt’s human world record.</description>
+      <guid isPermaLink="false">https://x.com/Polymarket/status/2091371623597171053</guid>
+      <pubDate>Sun, 23 Aug 2026 03:47:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Polymarket]JUST IN: Ireland is reportedly considering nuclear power to meet surging electricity demand from data centers.</title>
+      <link>https://x.com/Polymarket/status/2091379260510363715</link>
+      <description>JUST IN: Ireland is reportedly considering nuclear power to meet surging electricity demand from data centers.</description>
+      <guid isPermaLink="false">https://x.com/Polymarket/status/2091379260510363715</guid>
+      <pubDate>Sun, 23 Aug 2026 04:17:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Polymarket]🚨 NEW POLYMARKET: How many ships transit the Strait of Hormuz this week?
+
+https://polymarket.com/event/how-many-ships-transit-the-strait-of-hormuz-week-of-august-24 — 🚨 NEW POLYMARKET: How many ships transit the Strait of Hormuz this week? https://polymarket.com/event/how-many-ships-transit-the-strait-of-hormuz-week-of-august-24</title>
+      <link>https://x.com/Polymarket/status/2091393998837723259</link>
+      <description>🚨 NEW POLYMARKET: How many ships transit the Strait of Hormuz this week?
+
+https://polymarket.com/event/how-many-ships-transit-the-strait-of-hormuz-week-of-august-24</description>
+      <guid isPermaLink="false">https://x.com/Polymarket/status/2091393998837723259</guid>
+      <pubDate>Sun, 23 Aug 2026 05:16:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
