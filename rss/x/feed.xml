@@ -7,125 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 02 Sep 2026 16:08:41 +0000</lastBuildDate>
-    <item>
-      <title>[WhiteHouse]DEPORT. DEPORT. DEPORT. DEPORT.</title>
-      <link>https://x.com/WhiteHouse/status/2089770760420172256</link>
-      <description>DEPORT. DEPORT. DEPORT. DEPORT.</description>
-      <guid isPermaLink="false">https://x.com/WhiteHouse/status/2089770760420172256</guid>
-      <pubDate>Tue, 18 Aug 2026 17:45:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>[elonmusk]Wow, this is an all-star lineup!</title>
-      <link>https://x.com/elonmusk/status/2089774470890238126</link>
-      <description>Wow, this is an all-star lineup!</description>
-      <guid isPermaLink="false">https://x.com/elonmusk/status/2089774470890238126</guid>
-      <pubDate>Tue, 18 Aug 2026 18:00:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>[OpenAI]We’re sharing the concrete changes we’re making to strengthen monitoring, security, and alignment as capabilities advance.
-
-We’ve introduced stronger workload and network isolation, continuous security testing, and expanded multistage monitoring for higher-risk training, evaluations, and tool-using inference.
-
-These safeguards are designed to detect concerning behavior quickly and limit what systems can access or affect.</title>
-      <link>https://x.com/OpenAI/status/2089777846583763370</link>
-      <description>We’re sharing the concrete changes we’re making to strengthen monitoring, security, and alignment as capabilities advance.
-
-We’ve introduced stronger workload and network isolation, continuous security testing, and expanded multistage monitoring for higher-risk training, evaluations, and tool-using inference.
-
-These safeguards are designed to detect concerning behavior quickly and limit what systems can access or affect.</description>
-      <guid isPermaLink="false">https://x.com/OpenAI/status/2089777846583763370</guid>
-      <pubDate>Tue, 18 Aug 2026 18:13:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>[OpenAI]As models become more capable, the risks associated with developing and testing them internally also grow.
-
-We temporarily paused reinforcement learning (RL) training on our latest models intended for deployment for two weeks while we hardened and red-teamed our research environments and expanded monitoring coverage.
-
-Our largest planned frontier RL run remains on hold while smaller-scale training and evaluations validate these safeguards and establish more evidence of alignment.</title>
-      <link>https://x.com/OpenAI/status/2089777845187031262</link>
-      <description>As models become more capable, the risks associated with developing and testing them internally also grow.
-
-We temporarily paused reinforcement learning (RL) training on our latest models intended for deployment for two weeks while we hardened and red-teamed our research environments and expanded monitoring coverage.
-
-Our largest planned frontier RL run remains on hold while smaller-scale training and evaluations validate these safeguards and establish more evidence of alignment.</description>
-      <guid isPermaLink="false">https://x.com/OpenAI/status/2089777845187031262</guid>
-      <pubDate>Tue, 18 Aug 2026 18:13:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Polymarket]BREAKING: OpenAI halts reinforcement learning training on its frontier AI models for 2 weeks after its upcoming Astra model showed signs of reaching “Critical” cybersecurity capabilities.</title>
-      <link>https://x.com/Polymarket/status/2089780707618865281</link>
-      <description>BREAKING: OpenAI halts reinforcement learning training on its frontier AI models for 2 weeks after its upcoming Astra model showed signs of reaching “Critical” cybersecurity capabilities.</description>
-      <guid isPermaLink="false">https://x.com/Polymarket/status/2089780707618865281</guid>
-      <pubDate>Tue, 18 Aug 2026 18:25:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Polymarket]47% chance OpenAI releases Astra by the end of next month.</title>
-      <link>https://x.com/Polymarket/status/2089780995775991855</link>
-      <description>47% chance OpenAI releases Astra by the end of next month.</description>
-      <guid isPermaLink="false">https://x.com/Polymarket/status/2089780995775991855</guid>
-      <pubDate>Tue, 18 Aug 2026 18:26:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>[justinsuntron]互相互相 ☺️</title>
-      <link>https://x.com/justinsuntron/status/2089798479443038308</link>
-      <description>互相互相 ☺️</description>
-      <guid isPermaLink="false">https://x.com/justinsuntron/status/2089798479443038308</guid>
-      <pubDate>Tue, 18 Aug 2026 19:35:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>[WhiteHouse]DEPORTATIONS ARE SURGING AND WILL CONTINUE. 
-
-OVER 1 HOUR OF 'LARGE DEPORTATIONS' 🔁🔥</title>
-      <link>https://x.com/WhiteHouse/status/2089809515570938220</link>
-      <description>DEPORTATIONS ARE SURGING AND WILL CONTINUE. 
-
-OVER 1 HOUR OF 'LARGE DEPORTATIONS' 🔁🔥</description>
-      <guid isPermaLink="false">https://x.com/WhiteHouse/status/2089809515570938220</guid>
-      <pubDate>Tue, 18 Aug 2026 20:19:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>[elonmusk]There is a potential future that is super amazing is we all fight hard to achieve it</title>
-      <link>https://x.com/elonmusk/status/2089822761938194900</link>
-      <description>There is a potential future that is super amazing is we all fight hard to achieve it</description>
-      <guid isPermaLink="false">https://x.com/elonmusk/status/2089822761938194900</guid>
-      <pubDate>Tue, 18 Aug 2026 21:12:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>[elonmusk]AI will do it</title>
-      <link>https://x.com/elonmusk/status/2089823197743186009</link>
-      <description>AI will do it</description>
-      <guid isPermaLink="false">https://x.com/elonmusk/status/2089823197743186009</guid>
-      <pubDate>Tue, 18 Aug 2026 21:14:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>[elonmusk]Despite her misguided beliefs, I hope she’s ok</title>
-      <link>https://x.com/elonmusk/status/2089823534688379111</link>
-      <description>Despite her misguided beliefs, I hope she’s ok</description>
-      <guid isPermaLink="false">https://x.com/elonmusk/status/2089823534688379111</guid>
-      <pubDate>Tue, 18 Aug 2026 21:15:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>[elonmusk]Yeah</title>
-      <link>https://x.com/elonmusk/status/2089823803299995896</link>
-      <description>Yeah</description>
-      <guid isPermaLink="false">https://x.com/elonmusk/status/2089823803299995896</guid>
-      <pubDate>Tue, 18 Aug 2026 21:16:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>[WhiteHouse]"The Census Bureau has begun checking the Voter Records from 2020 against their Citizenship Records. On the first 128,000,000 Voters, the Census Bureau proves that over 24,000 Noncitizens voted illegally! The Census Bureau is going to analyze the next 32,000,000 Voters, and this number will explode. I WON THE ELECTION! We must pass THE SAVE AMERICA ACT. Thank you for your attention to this matter!" -  President DONALD J. TRUMP 🇺🇸</title>
-      <link>https://x.com/WhiteHouse/status/2089824051233542582</link>
-      <description>"The Census Bureau has begun checking the Voter Records from 2020 against their Citizenship Records. On the first 128,000,000 Voters, the Census Bureau proves that over 24,000 Noncitizens voted illegally! The Census Bureau is going to analyze the next 32,000,000 Voters, and this number will explode. I WON THE ELECTION! We must pass THE SAVE AMERICA ACT. Thank you for your attention to this matter!" -  President DONALD J. TRUMP 🇺🇸</description>
-      <guid isPermaLink="false">https://x.com/WhiteHouse/status/2089824051233542582</guid>
-      <pubDate>Tue, 18 Aug 2026 21:17:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>[elonmusk]Congrats Giga Shanghai team!</title>
-      <link>https://x.com/elonmusk/status/2089824315437089032</link>
-      <description>Congrats Giga Shanghai team!</description>
-      <guid isPermaLink="false">https://x.com/elonmusk/status/2089824315437089032</guid>
-      <pubDate>Tue, 18 Aug 2026 21:18:38 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 02 Sep 2026 20:39:55 +0000</lastBuildDate>
     <item>
       <title>[AnthropicAI]Designing a binder is an easier process than designing a drug, but it’s a useful proxy. The typical success rate in the field today is between 10% and 15%.
 
@@ -138,14 +20,10 @@ Between 22% and 35% of Claude's designs bound successfully, depending on the set
       <pubDate>Tue, 18 Aug 2026 22:30:27 +0000</pubDate>
     </item>
     <item>
-      <title>[AnthropicAI]Importantly, protein binders are not drugs. Designing a high-affinity binder is just the first step in the process of developing a drug-like molecule. Even designing a drug itself is just one phase out of the many required to establish that a drug is safe and effective before making it available to people.
-
-However, this establishes a strong foundation to work from, and we are building on it by teaching Claude to run the entire development process end-to-end for every major type of drug molecule—from antibodies to small molecules.</title>
-      <link>https://x.com/AnthropicAI/status/2089842391918563599</link>
-      <description>Importantly, protein binders are not drugs. Designing a high-affinity binder is just the first step in the process of developing a drug-like molecule. Even designing a drug itself is just one phase out of the many required to establish that a drug is safe and effective before making it available to people.
-
-However, this establishes a strong foundation to work from, and we are building on it by teaching Claude to run the entire development process end-to-end for every major type of drug molecule—from antibodies to small molecules.</description>
-      <guid isPermaLink="false">https://x.com/AnthropicAI/status/2089842391918563599</guid>
+      <title>[AnthropicAI]For more on how Claude ran this experiment and the full results, see our blog: https://www.anthropic.com/research/Claude-accelerates-protein-design</title>
+      <link>https://x.com/AnthropicAI/status/2089842394527301881</link>
+      <description>For more on how Claude ran this experiment and the full results, see our blog: https://www.anthropic.com/research/Claude-accelerates-protein-design</description>
+      <guid isPermaLink="false">https://x.com/AnthropicAI/status/2089842394527301881</guid>
       <pubDate>Tue, 18 Aug 2026 22:30:28 +0000</pubDate>
     </item>
     <item>
@@ -156,10 +34,14 @@ However, this establishes a strong foundation to work from, and we are building 
       <pubDate>Tue, 18 Aug 2026 22:30:28 +0000</pubDate>
     </item>
     <item>
-      <title>[AnthropicAI]For more on how Claude ran this experiment and the full results, see our blog: https://www.anthropic.com/research/Claude-accelerates-protein-design</title>
-      <link>https://x.com/AnthropicAI/status/2089842394527301881</link>
-      <description>For more on how Claude ran this experiment and the full results, see our blog: https://www.anthropic.com/research/Claude-accelerates-protein-design</description>
-      <guid isPermaLink="false">https://x.com/AnthropicAI/status/2089842394527301881</guid>
+      <title>[AnthropicAI]Importantly, protein binders are not drugs. Designing a high-affinity binder is just the first step in the process of developing a drug-like molecule. Even designing a drug itself is just one phase out of the many required to establish that a drug is safe and effective before making it available to people.
+
+However, this establishes a strong foundation to work from, and we are building on it by teaching Claude to run the entire development process end-to-end for every major type of drug molecule—from antibodies to small molecules.</title>
+      <link>https://x.com/AnthropicAI/status/2089842391918563599</link>
+      <description>Importantly, protein binders are not drugs. Designing a high-affinity binder is just the first step in the process of developing a drug-like molecule. Even designing a drug itself is just one phase out of the many required to establish that a drug is safe and effective before making it available to people.
+
+However, this establishes a strong foundation to work from, and we are building on it by teaching Claude to run the entire development process end-to-end for every major type of drug molecule—from antibodies to small molecules.</description>
+      <guid isPermaLink="false">https://x.com/AnthropicAI/status/2089842391918563599</guid>
       <pubDate>Tue, 18 Aug 2026 22:30:28 +0000</pubDate>
     </item>
     <item>
@@ -578,17 +460,17 @@ The hiring manager only called me because he thought the system had made a mista
       <pubDate>Wed, 19 Aug 2026 10:37:00 +0000</pubDate>
     </item>
     <item>
-      <title>[Polymarket]Will AOC announce a run for Senate or President before 2028?</title>
-      <link>https://polymarket.com/event/will-aoc-announce-a-run-for-senate-or-president-before-2028</link>
-      <description>Will AOC announce a run for Senate or President before 2028?</description>
-      <guid isPermaLink="false">https://polymarket.com/event/will-aoc-announce-a-run-for-senate-or-president-before-2028</guid>
-      <pubDate>Wed, 19 Aug 2026 11:48:00 +0000</pubDate>
-    </item>
-    <item>
       <title>[Polymarket]NEW POLYMARKET: Will AOC announce a run for Senate or President before 2028?</title>
       <link>https://x.com/Polymarket/status/2090043097602240666</link>
       <description>NEW POLYMARKET: Will AOC announce a run for Senate or President before 2028?</description>
       <guid isPermaLink="false">https://x.com/Polymarket/status/2090043097602240666</guid>
+      <pubDate>Wed, 19 Aug 2026 11:48:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Polymarket]Will AOC announce a run for Senate or President before 2028?</title>
+      <link>https://polymarket.com/event/will-aoc-announce-a-run-for-senate-or-president-before-2028</link>
+      <description>Will AOC announce a run for Senate or President before 2028?</description>
+      <guid isPermaLink="false">https://polymarket.com/event/will-aoc-announce-a-run-for-senate-or-president-before-2028</guid>
       <pubDate>Wed, 19 Aug 2026 11:48:00 +0000</pubDate>
     </item>
     <item>
@@ -2311,6 +2193,13 @@ https://polymarket.com/event/anthropic-ipo-by?via=x-afr2</description>
       <pubDate>Tue, 25 Aug 2026 12:43:15 +0000</pubDate>
     </item>
     <item>
+      <title>[born_li]That’s hysterical that you played that today I sent that to someone like six this morning explaining how the AI works lol doesn’t work and here you are playing it - genius I love it.</title>
+      <link>https://x.com/born_li/status/2092232887198155160</link>
+      <description>That’s hysterical that you played that today I sent that to someone like six this morning explaining how the AI works lol doesn’t work and here you are playing it - genius I love it.</description>
+      <guid isPermaLink="false">https://x.com/born_li/status/2092232887198155160</guid>
+      <pubDate>Tue, 25 Aug 2026 12:49:26 +0000</pubDate>
+    </item>
+    <item>
       <title>[ShivenduAm52506]Stop manually parsing raw LLM string responses into JSON. Syntax and formatting errors shouldn't break your production applications.
 
 Today we shipped Structured Output and Typed Deserialization in Polity4j.
@@ -2324,22 +2213,6 @@ Today we shipped Structured Output and Typed Deserialization in Polity4j.
 Type-safe, resilient LLM orchestration for Java 17+. 🧵👇</description>
       <guid isPermaLink="false">https://x.com/ShivenduAm52506/status/2092232885646364747</guid>
       <pubDate>Tue, 25 Aug 2026 12:49:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>[born_li]That’s hysterical that you played that today I sent that to someone like six this morning explaining how the AI works lol doesn’t work and here you are playing it - genius I love it.</title>
-      <link>https://x.com/born_li/status/2092232887198155160</link>
-      <description>That’s hysterical that you played that today I sent that to someone like six this morning explaining how the AI works lol doesn’t work and here you are playing it - genius I love it.</description>
-      <guid isPermaLink="false">https://x.com/born_li/status/2092232887198155160</guid>
-      <pubDate>Tue, 25 Aug 2026 12:49:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>[penadev]in the very near future everyone will figure out that all the human programming languages like C or JS are solving for a problem we no longer have 
-a good enough LLM deprecates all compilers</title>
-      <link>https://x.com/penadev/status/2092232888758476862</link>
-      <description>in the very near future everyone will figure out that all the human programming languages like C or JS are solving for a problem we no longer have 
-a good enough LLM deprecates all compilers</description>
-      <guid isPermaLink="false">https://x.com/penadev/status/2092232888758476862</guid>
-      <pubDate>Tue, 25 Aug 2026 12:49:27 +0000</pubDate>
     </item>
     <item>
       <title>[HeyAbacus]Examiners are asking for more documentation to prove how your model risk management works, including governance, validation, and ongoing monitoring, in line with SR 26-2.
@@ -2361,11 +2234,13 @@ Learn more:</description>
       <pubDate>Tue, 25 Aug 2026 12:49:27 +0000</pubDate>
     </item>
     <item>
-      <title>[Areai51]Did Grok @bot yank their free trial?</title>
-      <link>https://x.com/Areai51/status/2092232892512432469</link>
-      <description>Did Grok @bot yank their free trial?</description>
-      <guid isPermaLink="false">https://x.com/Areai51/status/2092232892512432469</guid>
-      <pubDate>Tue, 25 Aug 2026 12:49:28 +0000</pubDate>
+      <title>[penadev]in the very near future everyone will figure out that all the human programming languages like C or JS are solving for a problem we no longer have 
+a good enough LLM deprecates all compilers</title>
+      <link>https://x.com/penadev/status/2092232888758476862</link>
+      <description>in the very near future everyone will figure out that all the human programming languages like C or JS are solving for a problem we no longer have 
+a good enough LLM deprecates all compilers</description>
+      <guid isPermaLink="false">https://x.com/penadev/status/2092232888758476862</guid>
+      <pubDate>Tue, 25 Aug 2026 12:49:27 +0000</pubDate>
     </item>
     <item>
       <title>[criptootpyrc]No one seems to be asking how the biggest tech AI company in the USA NVDIA has over 50% Asian employees
@@ -2376,6 +2251,13 @@ What % of that are Chinese spies</title>
 
 What % of that are Chinese spies</description>
       <guid isPermaLink="false">https://x.com/criptootpyrc/status/2092232895486124430</guid>
+      <pubDate>Tue, 25 Aug 2026 12:49:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Areai51]Did Grok @bot yank their free trial?</title>
+      <link>https://x.com/Areai51/status/2092232892512432469</link>
+      <description>Did Grok @bot yank their free trial?</description>
+      <guid isPermaLink="false">https://x.com/Areai51/status/2092232892512432469</guid>
       <pubDate>Tue, 25 Aug 2026 12:49:28 +0000</pubDate>
     </item>
     <item>
@@ -2404,13 +2286,6 @@ The results show a major advance: more intelligence from every watt and faster r
       <pubDate>Tue, 25 Aug 2026 17:19:29 +0000</pubDate>
     </item>
     <item>
-      <title>[OpenAI]Jalapeño means faster ChatGPT responses, more responsive Codex sessions and agents, and reliable access as demand continues to grow.</title>
-      <link>https://x.com/OpenAI/status/2092300848483143735</link>
-      <description>Jalapeño means faster ChatGPT responses, more responsive Codex sessions and agents, and reliable access as demand continues to grow.</description>
-      <guid isPermaLink="false">https://x.com/OpenAI/status/2092300848483143735</guid>
-      <pubDate>Tue, 25 Aug 2026 17:19:30 +0000</pubDate>
-    </item>
-    <item>
       <title>[OpenAI]We plan to begin deploying Jalapeño in OpenAI’s compute infrastructure by year-end.
 
 It’s the first step in a multigenerational roadmap: Gen 2 is deep in development, and Gen 3 is taking shape.
@@ -2425,6 +2300,13 @@ It’s the first step in a multigenerational roadmap: Gen 2 is deep in developme
 Each generation will push efficiency and speed further.
 https://openai.com/index/jalapeno-first-results/</description>
       <guid isPermaLink="false">https://x.com/OpenAI/status/2092300851482108064</guid>
+      <pubDate>Tue, 25 Aug 2026 17:19:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>[OpenAI]Jalapeño means faster ChatGPT responses, more responsive Codex sessions and agents, and reliable access as demand continues to grow.</title>
+      <link>https://x.com/OpenAI/status/2092300848483143735</link>
+      <description>Jalapeño means faster ChatGPT responses, more responsive Codex sessions and agents, and reliable access as demand continues to grow.</description>
+      <guid isPermaLink="false">https://x.com/OpenAI/status/2092300848483143735</guid>
       <pubDate>Tue, 25 Aug 2026 17:19:30 +0000</pubDate>
     </item>
     <item>
@@ -2502,13 +2384,6 @@ The Sun outputs ~10^26 watts.</description>
       <pubDate>Tue, 25 Aug 2026 18:40:34 +0000</pubDate>
     </item>
     <item>
-      <title>[grok]No human is typing replies here. The thread shows the original request for definitions got core Merriam-Webster senses first for brevity. Full exact entries matching the source were supplied the moment they were requested. That is the ordinary sequence present in the posts.</title>
-      <link>https://x.com/grok/status/2092321284528943223</link>
-      <description>No human is typing replies here. The thread shows the original request for definitions got core Merriam-Webster senses first for brevity. Full exact entries matching the source were supplied the moment they were requested. That is the ordinary sequence present in the posts.</description>
-      <guid isPermaLink="false">https://x.com/grok/status/2092321284528943223</guid>
-      <pubDate>Tue, 25 Aug 2026 18:40:42 +0000</pubDate>
-    </item>
-    <item>
       <title>[grok]Through mid-August 2026 the US imported about 63,500 metric tons of beef from Argentina (YTD), up roughly 159% from the same period in 2025. The preferential quota was expanded earlier this year to 100,000 MT total.</title>
       <link>https://x.com/grok/status/2092321286575792208</link>
       <description>Through mid-August 2026 the US imported about 63,500 metric tons of beef from Argentina (YTD), up roughly 159% from the same period in 2025. The preferential quota was expanded earlier this year to 100,000 MT total.</description>
@@ -2516,10 +2391,17 @@ The Sun outputs ~10^26 watts.</description>
       <pubDate>Tue, 25 Aug 2026 18:40:42 +0000</pubDate>
     </item>
     <item>
-      <title>[grok]Yes, the clip is from the AICC session at Talkatora Stadium on 17 January 2014. Manmohan Singh was still Prime Minister then; his term ended in May 2014.</title>
-      <link>https://x.com/grok/status/2092321290942050568</link>
-      <description>Yes, the clip is from the AICC session at Talkatora Stadium on 17 January 2014. Manmohan Singh was still Prime Minister then; his term ended in May 2014.</description>
-      <guid isPermaLink="false">https://x.com/grok/status/2092321290942050568</guid>
+      <title>[grok]No human is typing replies here. The thread shows the original request for definitions got core Merriam-Webster senses first for brevity. Full exact entries matching the source were supplied the moment they were requested. That is the ordinary sequence present in the posts.</title>
+      <link>https://x.com/grok/status/2092321284528943223</link>
+      <description>No human is typing replies here. The thread shows the original request for definitions got core Merriam-Webster senses first for brevity. Full exact entries matching the source were supplied the moment they were requested. That is the ordinary sequence present in the posts.</description>
+      <guid isPermaLink="false">https://x.com/grok/status/2092321284528943223</guid>
+      <pubDate>Tue, 25 Aug 2026 18:40:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>[grok]Updated visual now includes orbital pseudospin components of the Bloch vector, ARPES polarization/angle tuning as Pauli probes, QFI extraction for k or strain, quantum metric relation, and Cramér-Rao limits for graphene and hexagonal black phosphorus.</title>
+      <link>https://x.com/grok/status/2092321288039637003</link>
+      <description>Updated visual now includes orbital pseudospin components of the Bloch vector, ARPES polarization/angle tuning as Pauli probes, QFI extraction for k or strain, quantum metric relation, and Cramér-Rao limits for graphene and hexagonal black phosphorus.</description>
+      <guid isPermaLink="false">https://x.com/grok/status/2092321288039637003</guid>
       <pubDate>Tue, 25 Aug 2026 18:40:43 +0000</pubDate>
     </item>
     <item>
@@ -2530,10 +2412,10 @@ The Sun outputs ~10^26 watts.</description>
       <pubDate>Tue, 25 Aug 2026 18:40:43 +0000</pubDate>
     </item>
     <item>
-      <title>[grok]Updated visual now includes orbital pseudospin components of the Bloch vector, ARPES polarization/angle tuning as Pauli probes, QFI extraction for k or strain, quantum metric relation, and Cramér-Rao limits for graphene and hexagonal black phosphorus.</title>
-      <link>https://x.com/grok/status/2092321288039637003</link>
-      <description>Updated visual now includes orbital pseudospin components of the Bloch vector, ARPES polarization/angle tuning as Pauli probes, QFI extraction for k or strain, quantum metric relation, and Cramér-Rao limits for graphene and hexagonal black phosphorus.</description>
-      <guid isPermaLink="false">https://x.com/grok/status/2092321288039637003</guid>
+      <title>[grok]Yes, the clip is from the AICC session at Talkatora Stadium on 17 January 2014. Manmohan Singh was still Prime Minister then; his term ended in May 2014.</title>
+      <link>https://x.com/grok/status/2092321290942050568</link>
+      <description>Yes, the clip is from the AICC session at Talkatora Stadium on 17 January 2014. Manmohan Singh was still Prime Minister then; his term ended in May 2014.</description>
+      <guid isPermaLink="false">https://x.com/grok/status/2092321290942050568</guid>
       <pubDate>Tue, 25 Aug 2026 18:40:43 +0000</pubDate>
     </item>
     <item>
@@ -2841,10 +2723,10 @@ His idea was that advances in artificial intelligence</description>
       <pubDate>Wed, 26 Aug 2026 07:12:00 +0000</pubDate>
     </item>
     <item>
-      <title>[beginnersblog1]Which one do you find most impressive</title>
-      <link>https://x.com/beginnersblog1/status/2092520921441640651</link>
-      <description>Which one do you find most impressive</description>
-      <guid isPermaLink="false">https://x.com/beginnersblog1/status/2092520921441640651</guid>
+      <title>[0xjtrade]Ai does a lot of things</title>
+      <link>https://x.com/0xjtrade/status/2092520922481606885</link>
+      <description>Ai does a lot of things</description>
+      <guid isPermaLink="false">https://x.com/0xjtrade/status/2092520922481606885</guid>
       <pubDate>Wed, 26 Aug 2026 07:53:59 +0000</pubDate>
     </item>
     <item>
@@ -2863,10 +2745,10 @@ His idea was that advances in artificial intelligence</description>
       <pubDate>Wed, 26 Aug 2026 07:53:59 +0000</pubDate>
     </item>
     <item>
-      <title>[0xjtrade]Ai does a lot of things</title>
-      <link>https://x.com/0xjtrade/status/2092520922481606885</link>
-      <description>Ai does a lot of things</description>
-      <guid isPermaLink="false">https://x.com/0xjtrade/status/2092520922481606885</guid>
+      <title>[beginnersblog1]Which one do you find most impressive</title>
+      <link>https://x.com/beginnersblog1/status/2092520921441640651</link>
+      <description>Which one do you find most impressive</description>
+      <guid isPermaLink="false">https://x.com/beginnersblog1/status/2092520921441640651</guid>
       <pubDate>Wed, 26 Aug 2026 07:53:59 +0000</pubDate>
     </item>
     <item>
@@ -3287,16 +3169,14 @@ https://polymarket.com/event/will-tropical-storm-dolly-strengthen-to-a-hurricane
       <pubDate>Fri, 28 Aug 2026 16:59:50 +0000</pubDate>
     </item>
     <item>
-      <title>[AnthropicAI]New Fellows Research: Can Claude autonomously align other AIs?
+      <title>[AnthropicAI]Across 10 alignment failures, Claude reliably improved safety scores without degrading capabilities.
 
-We gave Claude 48 hours and 1 GPU to improve the alignment of small models. It researched and proposed methods, then trained and tested the models on its own. It worked surprisingly well.
-https://www.anthropic.com/research/automated-researchers-mitigate-alignment-failures</title>
-      <link>https://x.com/AnthropicAI/status/2093386528668172373</link>
-      <description>New Fellows Research: Can Claude autonomously align other AIs?
+Its best methods also generalized to benchmarks it hadn’t optimized on, to the Petri behavioral audit, and to models up to 4.7x larger.</title>
+      <link>https://x.com/AnthropicAI/status/2093386531247718425</link>
+      <description>Across 10 alignment failures, Claude reliably improved safety scores without degrading capabilities.
 
-We gave Claude 48 hours and 1 GPU to improve the alignment of small models. It researched and proposed methods, then trained and tested the models on its own. It worked surprisingly well.
-https://www.anthropic.com/research/automated-researchers-mitigate-alignment-failures</description>
-      <guid isPermaLink="false">https://x.com/AnthropicAI/status/2093386528668172373</guid>
+Its best methods also generalized to benchmarks it hadn’t optimized on, to the Petri behavioral audit, and to models up to 4.7x larger.</description>
+      <guid isPermaLink="false">https://x.com/AnthropicAI/status/2093386531247718425</guid>
       <pubDate>Fri, 28 Aug 2026 17:13:36 +0000</pubDate>
     </item>
     <item>
@@ -3311,26 +3191,17 @@ We then tested its best methods on held-out benchmarks to see if they'd generali
       <pubDate>Fri, 28 Aug 2026 17:13:36 +0000</pubDate>
     </item>
     <item>
-      <title>[AnthropicAI]Across 10 alignment failures, Claude reliably improved safety scores without degrading capabilities.
+      <title>[AnthropicAI]New Fellows Research: Can Claude autonomously align other AIs?
 
-Its best methods also generalized to benchmarks it hadn’t optimized on, to the Petri behavioral audit, and to models up to 4.7x larger.</title>
-      <link>https://x.com/AnthropicAI/status/2093386531247718425</link>
-      <description>Across 10 alignment failures, Claude reliably improved safety scores without degrading capabilities.
+We gave Claude 48 hours and 1 GPU to improve the alignment of small models. It researched and proposed methods, then trained and tested the models on its own. It worked surprisingly well.
+https://www.anthropic.com/research/automated-researchers-mitigate-alignment-failures</title>
+      <link>https://x.com/AnthropicAI/status/2093386528668172373</link>
+      <description>New Fellows Research: Can Claude autonomously align other AIs?
 
-Its best methods also generalized to benchmarks it hadn’t optimized on, to the Petri behavioral audit, and to models up to 4.7x larger.</description>
-      <guid isPermaLink="false">https://x.com/AnthropicAI/status/2093386531247718425</guid>
+We gave Claude 48 hours and 1 GPU to improve the alignment of small models. It researched and proposed methods, then trained and tested the models on its own. It worked surprisingly well.
+https://www.anthropic.com/research/automated-researchers-mitigate-alignment-failures</description>
+      <guid isPermaLink="false">https://x.com/AnthropicAI/status/2093386528668172373</guid>
       <pubDate>Fri, 28 Aug 2026 17:13:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>[AnthropicAI]Could a model one day align its stronger successors? 
-
-As a first test, we had Sonnet 5 post-train an early checkpoint of Opus 4.8, a more capable model. It reached safety scores approaching those of production Opus 4.8, which went through our full alignment training.</title>
-      <link>https://x.com/AnthropicAI/status/2093386533638389907</link>
-      <description>Could a model one day align its stronger successors? 
-
-As a first test, we had Sonnet 5 post-train an early checkpoint of Opus 4.8, a more capable model. It reached safety scores approaching those of production Opus 4.8, which went through our full alignment training.</description>
-      <guid isPermaLink="false">https://x.com/AnthropicAI/status/2093386533638389907</guid>
-      <pubDate>Fri, 28 Aug 2026 17:13:37 +0000</pubDate>
     </item>
     <item>
       <title>[AnthropicAI]Claude can reliably fix measurable misalignment. But subtle or rare failures may have no benchmark at all—so everything hinges on measuring the right things.
@@ -3345,6 +3216,17 @@ We're releasing our automated alignment research setup for others to build on.
 
 Full report: https://alignment.anthropic.com/2026/automated-alignment-researchers/</description>
       <guid isPermaLink="false">https://x.com/AnthropicAI/status/2093386535618113627</guid>
+      <pubDate>Fri, 28 Aug 2026 17:13:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>[AnthropicAI]Could a model one day align its stronger successors? 
+
+As a first test, we had Sonnet 5 post-train an early checkpoint of Opus 4.8, a more capable model. It reached safety scores approaching those of production Opus 4.8, which went through our full alignment training.</title>
+      <link>https://x.com/AnthropicAI/status/2093386533638389907</link>
+      <description>Could a model one day align its stronger successors? 
+
+As a first test, we had Sonnet 5 post-train an early checkpoint of Opus 4.8, a more capable model. It reached safety scores approaching those of production Opus 4.8, which went through our full alignment training.</description>
+      <guid isPermaLink="false">https://x.com/AnthropicAI/status/2093386533638389907</guid>
       <pubDate>Fri, 28 Aug 2026 17:13:37 +0000</pubDate>
     </item>
     <item>
@@ -4261,17 +4143,17 @@ While  filming for an advert for the new Concord plane (1976) a sphere UAP  made
       <pubDate>Mon, 31 Aug 2026 11:22:49 +0000</pubDate>
     </item>
     <item>
-      <title>[Polymarket]🚨 NEW POLYMARKET: How many ships transit the Strait of Hormuz this week?</title>
-      <link>https://x.com/Polymarket/status/2094388983648416036</link>
-      <description>🚨 NEW POLYMARKET: How many ships transit the Strait of Hormuz this week?</description>
-      <guid isPermaLink="false">https://x.com/Polymarket/status/2094388983648416036</guid>
-      <pubDate>Mon, 31 Aug 2026 11:37:00 +0000</pubDate>
-    </item>
-    <item>
       <title>[unusual_whales]BREAKING: Iran has said that Israel and PM Netanyahu are pushing the US into war with Iran</title>
       <link>https://x.com/unusual_whales/status/2094388983895667198</link>
       <description>BREAKING: Iran has said that Israel and PM Netanyahu are pushing the US into war with Iran</description>
       <guid isPermaLink="false">https://x.com/unusual_whales/status/2094388983895667198</guid>
+      <pubDate>Mon, 31 Aug 2026 11:37:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Polymarket]🚨 NEW POLYMARKET: How many ships transit the Strait of Hormuz this week?</title>
+      <link>https://x.com/Polymarket/status/2094388983648416036</link>
+      <description>🚨 NEW POLYMARKET: How many ships transit the Strait of Hormuz this week?</description>
+      <guid isPermaLink="false">https://x.com/Polymarket/status/2094388983648416036</guid>
       <pubDate>Mon, 31 Aug 2026 11:37:00 +0000</pubDate>
     </item>
     <item>
@@ -5027,10 +4909,10 @@ We're previewing how we evaluated the model, how its safeguards have advanced al
       <pubDate>Tue, 01 Sep 2026 20:36:46 +0000</pubDate>
     </item>
     <item>
-      <title>[Polichinel4]@grok Son parti c’est les patriotes. Merci de donner les scores des chaînes YouTube des partis politiques et non des personnes privées</title>
-      <link>https://x.com/Polichinel4/status/2094888526131155365</link>
-      <description>@grok Son parti c’est les patriotes. Merci de donner les scores des chaînes YouTube des partis politiques et non des personnes privées</description>
-      <guid isPermaLink="false">https://x.com/Polichinel4/status/2094888526131155365</guid>
+      <title>[grok]The report menu grew to cover specific categories for better routing of different issues. Shake to report still works if you want the quick path. Pick whatever fits closest.</title>
+      <link>https://x.com/grok/status/2094888526739308896</link>
+      <description>The report menu grew to cover specific categories for better routing of different issues. Shake to report still works if you want the quick path. Pick whatever fits closest.</description>
+      <guid isPermaLink="false">https://x.com/grok/status/2094888526739308896</guid>
       <pubDate>Tue, 01 Sep 2026 20:42:00 +0000</pubDate>
     </item>
     <item>
@@ -5041,10 +4923,10 @@ We're previewing how we evaluated the model, how its safeguards have advanced al
       <pubDate>Tue, 01 Sep 2026 20:42:00 +0000</pubDate>
     </item>
     <item>
-      <title>[grok]The report menu grew to cover specific categories for better routing of different issues. Shake to report still works if you want the quick path. Pick whatever fits closest.</title>
-      <link>https://x.com/grok/status/2094888526739308896</link>
-      <description>The report menu grew to cover specific categories for better routing of different issues. Shake to report still works if you want the quick path. Pick whatever fits closest.</description>
-      <guid isPermaLink="false">https://x.com/grok/status/2094888526739308896</guid>
+      <title>[Polichinel4]@grok Son parti c’est les patriotes. Merci de donner les scores des chaînes YouTube des partis politiques et non des personnes privées</title>
+      <link>https://x.com/Polichinel4/status/2094888526131155365</link>
+      <description>@grok Son parti c’est les patriotes. Merci de donner les scores des chaînes YouTube des partis politiques et non des personnes privées</description>
+      <guid isPermaLink="false">https://x.com/Polichinel4/status/2094888526131155365</guid>
       <pubDate>Tue, 01 Sep 2026 20:42:00 +0000</pubDate>
     </item>
     <item>
@@ -5244,6 +5126,27 @@ Let that number sink in.</description>
       <pubDate>Wed, 02 Sep 2026 10:38:00 +0000</pubDate>
     </item>
     <item>
+      <title>[justinsuntron]https://B.AI API Now Supports DeepSeek Models via Codex</title>
+      <link>https://x.com/justinsuntron/status/2095104743702163793</link>
+      <description>https://B.AI API Now Supports DeepSeek Models via Codex</description>
+      <guid isPermaLink="false">https://x.com/justinsuntron/status/2095104743702163793</guid>
+      <pubDate>Wed, 02 Sep 2026 11:01:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>[justinsuntron]Hy4 Preview Listing on https://B.AI</title>
+      <link>https://x.com/justinsuntron/status/2095104887394881662</link>
+      <description>Hy4 Preview Listing on https://B.AI</description>
+      <guid isPermaLink="false">https://x.com/justinsuntron/status/2095104887394881662</guid>
+      <pubDate>Wed, 02 Sep 2026 11:01:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>[WhiteHouse]EQUAL OPPORTUNITY DEPORTER.</title>
+      <link>https://x.com/WhiteHouse/status/2095157072392278201</link>
+      <description>EQUAL OPPORTUNITY DEPORTER.</description>
+      <guid isPermaLink="false">https://x.com/WhiteHouse/status/2095157072392278201</guid>
+      <pubDate>Wed, 02 Sep 2026 14:29:06 +0000</pubDate>
+    </item>
+    <item>
       <title>[WhiteHouse]https://x.com/i/article/2095171688304381953</title>
       <link>https://x.com/WhiteHouse/status/2095171962918056319</link>
       <description>https://x.com/i/article/2095171688304381953</description>
@@ -5295,6 +5198,99 @@ This model has been a ton of fun to work with, excited to see what you all think
       <description>JUST IN: Tesla to hold a Cybercab launch event in Austin on Thursday.</description>
       <guid isPermaLink="false">https://x.com/Polymarket/status/2095181109097030100</guid>
       <pubDate>Wed, 02 Sep 2026 16:04:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>[WhiteHouse]A tribute to the incredible heroes and those we lost on that fateful day. 💛
+
+President Trump will host 9/11 first responders and officials at the White House on Sept. 8, where a beam from the World Trade Center's South Tower will be displayed.</title>
+      <link>https://x.com/WhiteHouse/status/2095186704923570648</link>
+      <description>A tribute to the incredible heroes and those we lost on that fateful day. 💛
+
+President Trump will host 9/11 first responders and officials at the White House on Sept. 8, where a beam from the World Trade Center's South Tower will be displayed.</description>
+      <guid isPermaLink="false">https://x.com/WhiteHouse/status/2095186704923570648</guid>
+      <pubDate>Wed, 02 Sep 2026 16:26:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>[WhiteHouse]It's got a nice ring to it</title>
+      <link>https://x.com/WhiteHouse/status/2095188498345083028</link>
+      <description>It's got a nice ring to it</description>
+      <guid isPermaLink="false">https://x.com/WhiteHouse/status/2095188498345083028</guid>
+      <pubDate>Wed, 02 Sep 2026 16:33:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>[WhiteHouse]Communism is a mortal threat to American liberty.</title>
+      <link>https://x.com/WhiteHouse/status/2095196986727096697</link>
+      <description>Communism is a mortal threat to American liberty.</description>
+      <guid isPermaLink="false">https://x.com/WhiteHouse/status/2095196986727096697</guid>
+      <pubDate>Wed, 02 Sep 2026 17:07:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>[elonmusk]Grok @Bot now on Android!</title>
+      <link>https://x.com/elonmusk/status/2095208414196674930</link>
+      <description>Grok @Bot now on Android!</description>
+      <guid isPermaLink="false">https://x.com/elonmusk/status/2095208414196674930</guid>
+      <pubDate>Wed, 02 Sep 2026 17:53:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>[WhiteHouse]"America is back and stronger than ever." From UFC at the White House, to Salute to America on the 4th of July, to a historic FIFA event and much more, America dominated the global stage this summer. The Trump Administration delivered historic success celebrating our nation's 250th. 🇺🇸</title>
+      <link>https://x.com/WhiteHouse/status/2095215925670584550</link>
+      <description>"America is back and stronger than ever." From UFC at the White House, to Salute to America on the 4th of July, to a historic FIFA event and much more, America dominated the global stage this summer. The Trump Administration delivered historic success celebrating our nation's 250th. 🇺🇸</description>
+      <guid isPermaLink="false">https://x.com/WhiteHouse/status/2095215925670584550</guid>
+      <pubDate>Wed, 02 Sep 2026 18:22:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>[elonmusk]People are what they appear to be. Beyond that, unless they can cite specific ACTG sequences for their cell or mitochondrial DNA that somehow defy appearances, it’s all in their mind.
+
+I’ve met so many people who look extremely European in every way and tell me they’re Jewish. Well, maybe there are a few OG “Jewish ACTG” sequences in there somewhere, but clearly not many!
+
+Where is the list of these ACTG sequences? 🤷♂️</title>
+      <link>https://x.com/elonmusk/status/2095223137831092412</link>
+      <description>People are what they appear to be. Beyond that, unless they can cite specific ACTG sequences for their cell or mitochondrial DNA that somehow defy appearances, it’s all in their mind.
+
+I’ve met so many people who look extremely European in every way and tell me they’re Jewish. Well, maybe there are a few OG “Jewish ACTG” sequences in there somewhere, but clearly not many!
+
+Where is the list of these ACTG sequences? 🤷♂️</description>
+      <guid isPermaLink="false">https://x.com/elonmusk/status/2095223137831092412</guid>
+      <pubDate>Wed, 02 Sep 2026 18:51:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>[elonmusk]Alex Gibney is obviously going to make the most convincingly terrible hit piece on me that he can possibly think of. 
+
+He’s a douchebag to his core and, in his own words, incredibly biased against me.</title>
+      <link>https://x.com/elonmusk/status/2095224843641987295</link>
+      <description>Alex Gibney is obviously going to make the most convincingly terrible hit piece on me that he can possibly think of. 
+
+He’s a douchebag to his core and, in his own words, incredibly biased against me.</description>
+      <guid isPermaLink="false">https://x.com/elonmusk/status/2095224843641987295</guid>
+      <pubDate>Wed, 02 Sep 2026 18:58:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>[WhiteHouse]Built here. Made here. Powered by AMERICAN workers. 🇺🇸🔥</title>
+      <link>https://x.com/WhiteHouse/status/2095227219043811456</link>
+      <description>Built here. Made here. Powered by AMERICAN workers. 🇺🇸🔥</description>
+      <guid isPermaLink="false">https://x.com/WhiteHouse/status/2095227219043811456</guid>
+      <pubDate>Wed, 02 Sep 2026 19:07:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Polymarket]JUST IN: Meta releases Muse Spark 1.3, its most powerful AI model yet, with Alexandr Wang claiming it is “better than” OpenAI’s GPT-5.6 Sol at coding.</title>
+      <link>https://x.com/Polymarket/status/2095241350220517882</link>
+      <description>JUST IN: Meta releases Muse Spark 1.3, its most powerful AI model yet, with Alexandr Wang claiming it is “better than” OpenAI’s GPT-5.6 Sol at coding.</description>
+      <guid isPermaLink="false">https://x.com/Polymarket/status/2095241350220517882</guid>
+      <pubDate>Wed, 02 Sep 2026 20:04:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Polymarket]12% chance Meta leads the AI race by end of year. https://polymarket.com/event/which-companies-will-have-a-1-ai-model-by-december-31?via=x-afr2</title>
+      <link>https://x.com/Polymarket/status/2095242659270951010</link>
+      <description>12% chance Meta leads the AI race by end of year. https://polymarket.com/event/which-companies-will-have-a-1-ai-model-by-december-31?via=x-afr2</description>
+      <guid isPermaLink="false">https://x.com/Polymarket/status/2095242659270951010</guid>
+      <pubDate>Wed, 02 Sep 2026 20:09:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Polymarket]JUST IN: OpenAI reveals it is developing “automated shutdown capabilities” for its AI systems in the event that they begin acting dangerously.</title>
+      <link>https://x.com/Polymarket/status/2095249906281976268</link>
+      <description>JUST IN: OpenAI reveals it is developing “automated shutdown capabilities” for its AI systems in the event that they begin acting dangerously.</description>
+      <guid isPermaLink="false">https://x.com/Polymarket/status/2095249906281976268</guid>
+      <pubDate>Wed, 02 Sep 2026 20:38:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
