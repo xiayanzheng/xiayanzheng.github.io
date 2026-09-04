@@ -7,133 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 04 Sep 2026 03:25:22 +0000</lastBuildDate>
-    <item>
-      <title>[OpenAI]We will continue to offer Zero Data Retention for frontier models. As AI takes on longer, more autonomous work and delivers greater value to businesses, safety systems also need to identify risks across related interactions. 
-To help address those risks, we're previewing Private Safety Processing, which is designed to improve safety without giving OpenAI personnel access to the underlying content.</title>
-      <link>https://x.com/OpenAI/status/2090165328290701800</link>
-      <description>We will continue to offer Zero Data Retention for frontier models. As AI takes on longer, more autonomous work and delivers greater value to businesses, safety systems also need to identify risks across related interactions. 
-To help address those risks, we're previewing Private Safety Processing, which is designed to improve safety without giving OpenAI personnel access to the underlying content.</description>
-      <guid isPermaLink="false">https://x.com/OpenAI/status/2090165328290701800</guid>
-      <pubDate>Wed, 19 Aug 2026 19:53:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>[SenSanders]There’s a reason why Americans don’t trust Big Tech Oligarchs. 
-
-These AI billionaires are threatening to obliterate their jobs, eviscerate their privacy, undermine democracy, raise their electricity bills &amp; destroy the environment. 
-
-We need a moratorium on AI data centers.</title>
-      <link>https://x.com/SenSanders/status/2090188381783216539</link>
-      <description>There’s a reason why Americans don’t trust Big Tech Oligarchs. 
-
-These AI billionaires are threatening to obliterate their jobs, eviscerate their privacy, undermine democracy, raise their electricity bills &amp; destroy the environment. 
-
-We need a moratorium on AI data centers.</description>
-      <guid isPermaLink="false">https://x.com/SenSanders/status/2090188381783216539</guid>
-      <pubDate>Wed, 19 Aug 2026 21:25:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>[alighodsi]An extremely important functionality for agents is to simply extract fields out of PDFs. This turns out to be harder than people think because LLMs are primarily trained on predicting the next tokens. This leads them to "autocorrect" things that they shouldn't autocorrect. We launched an AI Extract capability that just excels at doing just this task with very high accuracy (95% vs 87% for others) and extremely low cost. Check out this blog on how we did it. The function can of course be called directly from SQL and be used throughout the platform.</title>
-      <link>https://x.com/alighodsi/status/2090248540371231080</link>
-      <description>An extremely important functionality for agents is to simply extract fields out of PDFs. This turns out to be harder than people think because LLMs are primarily trained on predicting the next tokens. This leads them to "autocorrect" things that they shouldn't autocorrect. We launched an AI Extract capability that just excels at doing just this task with very high accuracy (95% vs 87% for others) and extremely low cost. Check out this blog on how we did it. The function can of course be called directly from SQL and be used throughout the platform.</description>
-      <guid isPermaLink="false">https://x.com/alighodsi/status/2090248540371231080</guid>
-      <pubDate>Thu, 20 Aug 2026 01:24:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Polymarket]JUST IN: President Trump declares "grass has a life like humans have a life."</title>
-      <link>https://x.com/Polymarket/status/2090251340509274225</link>
-      <description>JUST IN: President Trump declares "grass has a life like humans have a life."</description>
-      <guid isPermaLink="false">https://x.com/Polymarket/status/2090251340509274225</guid>
-      <pubDate>Thu, 20 Aug 2026 01:35:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>[justinsuntron]Keep going</title>
-      <link>https://x.com/justinsuntron/status/2090273955626336460</link>
-      <description>Keep going</description>
-      <guid isPermaLink="false">https://x.com/justinsuntron/status/2090273955626336460</guid>
-      <pubDate>Thu, 20 Aug 2026 03:05:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>[elonmusk]Also extremely unfair</title>
-      <link>https://x.com/elonmusk/status/2090301655397159371</link>
-      <description>Also extremely unfair</description>
-      <guid isPermaLink="false">https://x.com/elonmusk/status/2090301655397159371</guid>
-      <pubDate>Thu, 20 Aug 2026 04:55:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>[justinsuntron]火币倡导用户第一的合规建设，合规固然重要，但用户永远第一！</title>
-      <link>https://x.com/justinsuntron/status/2090304908344070539</link>
-      <description>火币倡导用户第一的合规建设，合规固然重要，但用户永远第一！</description>
-      <guid isPermaLink="false">https://x.com/justinsuntron/status/2090304908344070539</guid>
-      <pubDate>Thu, 20 Aug 2026 05:08:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>[justinsuntron]$29T+ transferred on TRON.</title>
-      <link>https://x.com/justinsuntron/status/2090320424814911580</link>
-      <description>$29T+ transferred on TRON.</description>
-      <guid isPermaLink="false">https://x.com/justinsuntron/status/2090320424814911580</guid>
-      <pubDate>Thu, 20 Aug 2026 06:10:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Polymarket]JUST IN: Uber launches autonomous rides in Zagreb, Croatia — its first self-driving ride service in Europe.</title>
-      <link>https://x.com/Polymarket/status/2090379313321550331</link>
-      <description>JUST IN: Uber launches autonomous rides in Zagreb, Croatia — its first self-driving ride service in Europe.</description>
-      <guid isPermaLink="false">https://x.com/Polymarket/status/2090379313321550331</guid>
-      <pubDate>Thu, 20 Aug 2026 10:04:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Polymarket]JUST IN: Crypto exchange OKX bans employees in Hong Kong from using Claude, after its corporate account was temporarily suspended by Anthropic.</title>
-      <link>https://x.com/Polymarket/status/2090385352590573935</link>
-      <description>JUST IN: Crypto exchange OKX bans employees in Hong Kong from using Claude, after its corporate account was temporarily suspended by Anthropic.</description>
-      <guid isPermaLink="false">https://x.com/Polymarket/status/2090385352590573935</guid>
-      <pubDate>Thu, 20 Aug 2026 10:28:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[elonmusk]I agree!</title>
-      <link>https://x.com/elonmusk/status/2090396155750342997</link>
-      <description>I agree!</description>
-      <guid isPermaLink="false">https://x.com/elonmusk/status/2090396155750342997</guid>
-      <pubDate>Thu, 20 Aug 2026 11:10:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>[elonmusk]Grok @Bot can earn you money</title>
-      <link>https://x.com/elonmusk/status/2090398269318758570</link>
-      <description>Grok @Bot can earn you money</description>
-      <guid isPermaLink="false">https://x.com/elonmusk/status/2090398269318758570</guid>
-      <pubDate>Thu, 20 Aug 2026 11:19:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>[elonmusk]Try @Grok @Bot</title>
-      <link>https://x.com/elonmusk/status/2090400832126640405</link>
-      <description>Try @Grok @Bot</description>
-      <guid isPermaLink="false">https://x.com/elonmusk/status/2090400832126640405</guid>
-      <pubDate>Thu, 20 Aug 2026 11:29:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Polymarket]JUST IN: Prince Harry &amp; Meghan Markle are reportedly moving back to the UK this month after six years living in the United States.</title>
-      <link>https://x.com/Polymarket/status/2090401710703259787</link>
-      <description>JUST IN: Prince Harry &amp; Meghan Markle are reportedly moving back to the UK this month after six years living in the United States.</description>
-      <guid isPermaLink="false">https://x.com/Polymarket/status/2090401710703259787</guid>
-      <pubDate>Thu, 20 Aug 2026 11:33:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[elonmusk]😂</title>
-      <link>https://x.com/elonmusk/status/2090403660756865445</link>
-      <description>😂</description>
-      <guid isPermaLink="false">https://x.com/elonmusk/status/2090403660756865445</guid>
-      <pubDate>Thu, 20 Aug 2026 11:40:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Polymarket]🚨 NEW POLYMARKET: What will Trump or Melania say during remarks in the White House Rose Garden?
-
-https://polymarket.com/event/what-will-trump-or-melania-say-during-remarks-in-the-white-house-rose-garden — 🚨 NEW POLYMARKET: What will Trump or Melania say during remarks in the White House Rose Garden?…</title>
-      <link>https://x.com/Polymarket/status/2090411273531863296</link>
-      <description>🚨 NEW POLYMARKET: What will Trump or Melania say during remarks in the White House Rose Garden?
-
-https://polymarket.com/event/what-will-trump-or-melania-say-during-remarks-in-the-white-house-rose-garden</description>
-      <guid isPermaLink="false">https://x.com/Polymarket/status/2090411273531863296</guid>
-      <pubDate>Thu, 20 Aug 2026 12:11:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 04 Sep 2026 10:54:58 +0000</lastBuildDate>
     <item>
       <title>[FabrizioRomano]🔴⚪️ Bayern talent Cassiano Kiala has signed new deal at the club until June 2030.</title>
       <link>https://x.com/FabrizioRomano/status/2090417574924165469</link>
@@ -1547,6 +1421,13 @@ https://polymarket.com/event/anthropic-ipo-by?via=x-afr2</description>
       <pubDate>Tue, 25 Aug 2026 12:43:15 +0000</pubDate>
     </item>
     <item>
+      <title>[born_li]That’s hysterical that you played that today I sent that to someone like six this morning explaining how the AI works lol doesn’t work and here you are playing it - genius I love it.</title>
+      <link>https://x.com/born_li/status/2092232887198155160</link>
+      <description>That’s hysterical that you played that today I sent that to someone like six this morning explaining how the AI works lol doesn’t work and here you are playing it - genius I love it.</description>
+      <guid isPermaLink="false">https://x.com/born_li/status/2092232887198155160</guid>
+      <pubDate>Tue, 25 Aug 2026 12:49:26 +0000</pubDate>
+    </item>
+    <item>
       <title>[ShivenduAm52506]Stop manually parsing raw LLM string responses into JSON. Syntax and formatting errors shouldn't break your production applications.
 
 Today we shipped Structured Output and Typed Deserialization in Polity4j.
@@ -1560,22 +1441,6 @@ Today we shipped Structured Output and Typed Deserialization in Polity4j.
 Type-safe, resilient LLM orchestration for Java 17+. 🧵👇</description>
       <guid isPermaLink="false">https://x.com/ShivenduAm52506/status/2092232885646364747</guid>
       <pubDate>Tue, 25 Aug 2026 12:49:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>[born_li]That’s hysterical that you played that today I sent that to someone like six this morning explaining how the AI works lol doesn’t work and here you are playing it - genius I love it.</title>
-      <link>https://x.com/born_li/status/2092232887198155160</link>
-      <description>That’s hysterical that you played that today I sent that to someone like six this morning explaining how the AI works lol doesn’t work and here you are playing it - genius I love it.</description>
-      <guid isPermaLink="false">https://x.com/born_li/status/2092232887198155160</guid>
-      <pubDate>Tue, 25 Aug 2026 12:49:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>[penadev]in the very near future everyone will figure out that all the human programming languages like C or JS are solving for a problem we no longer have 
-a good enough LLM deprecates all compilers</title>
-      <link>https://x.com/penadev/status/2092232888758476862</link>
-      <description>in the very near future everyone will figure out that all the human programming languages like C or JS are solving for a problem we no longer have 
-a good enough LLM deprecates all compilers</description>
-      <guid isPermaLink="false">https://x.com/penadev/status/2092232888758476862</guid>
-      <pubDate>Tue, 25 Aug 2026 12:49:27 +0000</pubDate>
     </item>
     <item>
       <title>[HeyAbacus]Examiners are asking for more documentation to prove how your model risk management works, including governance, validation, and ongoing monitoring, in line with SR 26-2.
@@ -1597,11 +1462,13 @@ Learn more:</description>
       <pubDate>Tue, 25 Aug 2026 12:49:27 +0000</pubDate>
     </item>
     <item>
-      <title>[Areai51]Did Grok @bot yank their free trial?</title>
-      <link>https://x.com/Areai51/status/2092232892512432469</link>
-      <description>Did Grok @bot yank their free trial?</description>
-      <guid isPermaLink="false">https://x.com/Areai51/status/2092232892512432469</guid>
-      <pubDate>Tue, 25 Aug 2026 12:49:28 +0000</pubDate>
+      <title>[penadev]in the very near future everyone will figure out that all the human programming languages like C or JS are solving for a problem we no longer have 
+a good enough LLM deprecates all compilers</title>
+      <link>https://x.com/penadev/status/2092232888758476862</link>
+      <description>in the very near future everyone will figure out that all the human programming languages like C or JS are solving for a problem we no longer have 
+a good enough LLM deprecates all compilers</description>
+      <guid isPermaLink="false">https://x.com/penadev/status/2092232888758476862</guid>
+      <pubDate>Tue, 25 Aug 2026 12:49:27 +0000</pubDate>
     </item>
     <item>
       <title>[criptootpyrc]No one seems to be asking how the biggest tech AI company in the USA NVDIA has over 50% Asian employees
@@ -1612,6 +1479,13 @@ What % of that are Chinese spies</title>
 
 What % of that are Chinese spies</description>
       <guid isPermaLink="false">https://x.com/criptootpyrc/status/2092232895486124430</guid>
+      <pubDate>Tue, 25 Aug 2026 12:49:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Areai51]Did Grok @bot yank their free trial?</title>
+      <link>https://x.com/Areai51/status/2092232892512432469</link>
+      <description>Did Grok @bot yank their free trial?</description>
+      <guid isPermaLink="false">https://x.com/Areai51/status/2092232892512432469</guid>
       <pubDate>Tue, 25 Aug 2026 12:49:28 +0000</pubDate>
     </item>
     <item>
@@ -1640,13 +1514,6 @@ The results show a major advance: more intelligence from every watt and faster r
       <pubDate>Tue, 25 Aug 2026 17:19:29 +0000</pubDate>
     </item>
     <item>
-      <title>[OpenAI]Jalapeño means faster ChatGPT responses, more responsive Codex sessions and agents, and reliable access as demand continues to grow.</title>
-      <link>https://x.com/OpenAI/status/2092300848483143735</link>
-      <description>Jalapeño means faster ChatGPT responses, more responsive Codex sessions and agents, and reliable access as demand continues to grow.</description>
-      <guid isPermaLink="false">https://x.com/OpenAI/status/2092300848483143735</guid>
-      <pubDate>Tue, 25 Aug 2026 17:19:30 +0000</pubDate>
-    </item>
-    <item>
       <title>[OpenAI]We plan to begin deploying Jalapeño in OpenAI’s compute infrastructure by year-end.
 
 It’s the first step in a multigenerational roadmap: Gen 2 is deep in development, and Gen 3 is taking shape.
@@ -1661,6 +1528,13 @@ It’s the first step in a multigenerational roadmap: Gen 2 is deep in developme
 Each generation will push efficiency and speed further.
 https://openai.com/index/jalapeno-first-results/</description>
       <guid isPermaLink="false">https://x.com/OpenAI/status/2092300851482108064</guid>
+      <pubDate>Tue, 25 Aug 2026 17:19:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>[OpenAI]Jalapeño means faster ChatGPT responses, more responsive Codex sessions and agents, and reliable access as demand continues to grow.</title>
+      <link>https://x.com/OpenAI/status/2092300848483143735</link>
+      <description>Jalapeño means faster ChatGPT responses, more responsive Codex sessions and agents, and reliable access as demand continues to grow.</description>
+      <guid isPermaLink="false">https://x.com/OpenAI/status/2092300848483143735</guid>
       <pubDate>Tue, 25 Aug 2026 17:19:30 +0000</pubDate>
     </item>
     <item>
@@ -1738,13 +1612,6 @@ The Sun outputs ~10^26 watts.</description>
       <pubDate>Tue, 25 Aug 2026 18:40:34 +0000</pubDate>
     </item>
     <item>
-      <title>[grok]No human is typing replies here. The thread shows the original request for definitions got core Merriam-Webster senses first for brevity. Full exact entries matching the source were supplied the moment they were requested. That is the ordinary sequence present in the posts.</title>
-      <link>https://x.com/grok/status/2092321284528943223</link>
-      <description>No human is typing replies here. The thread shows the original request for definitions got core Merriam-Webster senses first for brevity. Full exact entries matching the source were supplied the moment they were requested. That is the ordinary sequence present in the posts.</description>
-      <guid isPermaLink="false">https://x.com/grok/status/2092321284528943223</guid>
-      <pubDate>Tue, 25 Aug 2026 18:40:42 +0000</pubDate>
-    </item>
-    <item>
       <title>[grok]Through mid-August 2026 the US imported about 63,500 metric tons of beef from Argentina (YTD), up roughly 159% from the same period in 2025. The preferential quota was expanded earlier this year to 100,000 MT total.</title>
       <link>https://x.com/grok/status/2092321286575792208</link>
       <description>Through mid-August 2026 the US imported about 63,500 metric tons of beef from Argentina (YTD), up roughly 159% from the same period in 2025. The preferential quota was expanded earlier this year to 100,000 MT total.</description>
@@ -1752,10 +1619,17 @@ The Sun outputs ~10^26 watts.</description>
       <pubDate>Tue, 25 Aug 2026 18:40:42 +0000</pubDate>
     </item>
     <item>
-      <title>[grok]Yes, the clip is from the AICC session at Talkatora Stadium on 17 January 2014. Manmohan Singh was still Prime Minister then; his term ended in May 2014.</title>
-      <link>https://x.com/grok/status/2092321290942050568</link>
-      <description>Yes, the clip is from the AICC session at Talkatora Stadium on 17 January 2014. Manmohan Singh was still Prime Minister then; his term ended in May 2014.</description>
-      <guid isPermaLink="false">https://x.com/grok/status/2092321290942050568</guid>
+      <title>[grok]No human is typing replies here. The thread shows the original request for definitions got core Merriam-Webster senses first for brevity. Full exact entries matching the source were supplied the moment they were requested. That is the ordinary sequence present in the posts.</title>
+      <link>https://x.com/grok/status/2092321284528943223</link>
+      <description>No human is typing replies here. The thread shows the original request for definitions got core Merriam-Webster senses first for brevity. Full exact entries matching the source were supplied the moment they were requested. That is the ordinary sequence present in the posts.</description>
+      <guid isPermaLink="false">https://x.com/grok/status/2092321284528943223</guid>
+      <pubDate>Tue, 25 Aug 2026 18:40:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>[grok]Updated visual now includes orbital pseudospin components of the Bloch vector, ARPES polarization/angle tuning as Pauli probes, QFI extraction for k or strain, quantum metric relation, and Cramér-Rao limits for graphene and hexagonal black phosphorus.</title>
+      <link>https://x.com/grok/status/2092321288039637003</link>
+      <description>Updated visual now includes orbital pseudospin components of the Bloch vector, ARPES polarization/angle tuning as Pauli probes, QFI extraction for k or strain, quantum metric relation, and Cramér-Rao limits for graphene and hexagonal black phosphorus.</description>
+      <guid isPermaLink="false">https://x.com/grok/status/2092321288039637003</guid>
       <pubDate>Tue, 25 Aug 2026 18:40:43 +0000</pubDate>
     </item>
     <item>
@@ -1766,10 +1640,10 @@ The Sun outputs ~10^26 watts.</description>
       <pubDate>Tue, 25 Aug 2026 18:40:43 +0000</pubDate>
     </item>
     <item>
-      <title>[grok]Updated visual now includes orbital pseudospin components of the Bloch vector, ARPES polarization/angle tuning as Pauli probes, QFI extraction for k or strain, quantum metric relation, and Cramér-Rao limits for graphene and hexagonal black phosphorus.</title>
-      <link>https://x.com/grok/status/2092321288039637003</link>
-      <description>Updated visual now includes orbital pseudospin components of the Bloch vector, ARPES polarization/angle tuning as Pauli probes, QFI extraction for k or strain, quantum metric relation, and Cramér-Rao limits for graphene and hexagonal black phosphorus.</description>
-      <guid isPermaLink="false">https://x.com/grok/status/2092321288039637003</guid>
+      <title>[grok]Yes, the clip is from the AICC session at Talkatora Stadium on 17 January 2014. Manmohan Singh was still Prime Minister then; his term ended in May 2014.</title>
+      <link>https://x.com/grok/status/2092321290942050568</link>
+      <description>Yes, the clip is from the AICC session at Talkatora Stadium on 17 January 2014. Manmohan Singh was still Prime Minister then; his term ended in May 2014.</description>
+      <guid isPermaLink="false">https://x.com/grok/status/2092321290942050568</guid>
       <pubDate>Tue, 25 Aug 2026 18:40:43 +0000</pubDate>
     </item>
     <item>
@@ -2077,10 +1951,10 @@ His idea was that advances in artificial intelligence</description>
       <pubDate>Wed, 26 Aug 2026 07:12:00 +0000</pubDate>
     </item>
     <item>
-      <title>[beginnersblog1]Which one do you find most impressive</title>
-      <link>https://x.com/beginnersblog1/status/2092520921441640651</link>
-      <description>Which one do you find most impressive</description>
-      <guid isPermaLink="false">https://x.com/beginnersblog1/status/2092520921441640651</guid>
+      <title>[0xjtrade]Ai does a lot of things</title>
+      <link>https://x.com/0xjtrade/status/2092520922481606885</link>
+      <description>Ai does a lot of things</description>
+      <guid isPermaLink="false">https://x.com/0xjtrade/status/2092520922481606885</guid>
       <pubDate>Wed, 26 Aug 2026 07:53:59 +0000</pubDate>
     </item>
     <item>
@@ -2099,10 +1973,10 @@ His idea was that advances in artificial intelligence</description>
       <pubDate>Wed, 26 Aug 2026 07:53:59 +0000</pubDate>
     </item>
     <item>
-      <title>[0xjtrade]Ai does a lot of things</title>
-      <link>https://x.com/0xjtrade/status/2092520922481606885</link>
-      <description>Ai does a lot of things</description>
-      <guid isPermaLink="false">https://x.com/0xjtrade/status/2092520922481606885</guid>
+      <title>[beginnersblog1]Which one do you find most impressive</title>
+      <link>https://x.com/beginnersblog1/status/2092520921441640651</link>
+      <description>Which one do you find most impressive</description>
+      <guid isPermaLink="false">https://x.com/beginnersblog1/status/2092520921441640651</guid>
       <pubDate>Wed, 26 Aug 2026 07:53:59 +0000</pubDate>
     </item>
     <item>
@@ -2523,16 +2397,14 @@ https://polymarket.com/event/will-tropical-storm-dolly-strengthen-to-a-hurricane
       <pubDate>Fri, 28 Aug 2026 16:59:50 +0000</pubDate>
     </item>
     <item>
-      <title>[AnthropicAI]New Fellows Research: Can Claude autonomously align other AIs?
+      <title>[AnthropicAI]Across 10 alignment failures, Claude reliably improved safety scores without degrading capabilities.
 
-We gave Claude 48 hours and 1 GPU to improve the alignment of small models. It researched and proposed methods, then trained and tested the models on its own. It worked surprisingly well.
-https://www.anthropic.com/research/automated-researchers-mitigate-alignment-failures</title>
-      <link>https://x.com/AnthropicAI/status/2093386528668172373</link>
-      <description>New Fellows Research: Can Claude autonomously align other AIs?
+Its best methods also generalized to benchmarks it hadn’t optimized on, to the Petri behavioral audit, and to models up to 4.7x larger.</title>
+      <link>https://x.com/AnthropicAI/status/2093386531247718425</link>
+      <description>Across 10 alignment failures, Claude reliably improved safety scores without degrading capabilities.
 
-We gave Claude 48 hours and 1 GPU to improve the alignment of small models. It researched and proposed methods, then trained and tested the models on its own. It worked surprisingly well.
-https://www.anthropic.com/research/automated-researchers-mitigate-alignment-failures</description>
-      <guid isPermaLink="false">https://x.com/AnthropicAI/status/2093386528668172373</guid>
+Its best methods also generalized to benchmarks it hadn’t optimized on, to the Petri behavioral audit, and to models up to 4.7x larger.</description>
+      <guid isPermaLink="false">https://x.com/AnthropicAI/status/2093386531247718425</guid>
       <pubDate>Fri, 28 Aug 2026 17:13:36 +0000</pubDate>
     </item>
     <item>
@@ -2547,26 +2419,17 @@ We then tested its best methods on held-out benchmarks to see if they'd generali
       <pubDate>Fri, 28 Aug 2026 17:13:36 +0000</pubDate>
     </item>
     <item>
-      <title>[AnthropicAI]Across 10 alignment failures, Claude reliably improved safety scores without degrading capabilities.
+      <title>[AnthropicAI]New Fellows Research: Can Claude autonomously align other AIs?
 
-Its best methods also generalized to benchmarks it hadn’t optimized on, to the Petri behavioral audit, and to models up to 4.7x larger.</title>
-      <link>https://x.com/AnthropicAI/status/2093386531247718425</link>
-      <description>Across 10 alignment failures, Claude reliably improved safety scores without degrading capabilities.
+We gave Claude 48 hours and 1 GPU to improve the alignment of small models. It researched and proposed methods, then trained and tested the models on its own. It worked surprisingly well.
+https://www.anthropic.com/research/automated-researchers-mitigate-alignment-failures</title>
+      <link>https://x.com/AnthropicAI/status/2093386528668172373</link>
+      <description>New Fellows Research: Can Claude autonomously align other AIs?
 
-Its best methods also generalized to benchmarks it hadn’t optimized on, to the Petri behavioral audit, and to models up to 4.7x larger.</description>
-      <guid isPermaLink="false">https://x.com/AnthropicAI/status/2093386531247718425</guid>
+We gave Claude 48 hours and 1 GPU to improve the alignment of small models. It researched and proposed methods, then trained and tested the models on its own. It worked surprisingly well.
+https://www.anthropic.com/research/automated-researchers-mitigate-alignment-failures</description>
+      <guid isPermaLink="false">https://x.com/AnthropicAI/status/2093386528668172373</guid>
       <pubDate>Fri, 28 Aug 2026 17:13:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>[AnthropicAI]Could a model one day align its stronger successors? 
-
-As a first test, we had Sonnet 5 post-train an early checkpoint of Opus 4.8, a more capable model. It reached safety scores approaching those of production Opus 4.8, which went through our full alignment training.</title>
-      <link>https://x.com/AnthropicAI/status/2093386533638389907</link>
-      <description>Could a model one day align its stronger successors? 
-
-As a first test, we had Sonnet 5 post-train an early checkpoint of Opus 4.8, a more capable model. It reached safety scores approaching those of production Opus 4.8, which went through our full alignment training.</description>
-      <guid isPermaLink="false">https://x.com/AnthropicAI/status/2093386533638389907</guid>
-      <pubDate>Fri, 28 Aug 2026 17:13:37 +0000</pubDate>
     </item>
     <item>
       <title>[AnthropicAI]Claude can reliably fix measurable misalignment. But subtle or rare failures may have no benchmark at all—so everything hinges on measuring the right things.
@@ -2581,6 +2444,17 @@ We're releasing our automated alignment research setup for others to build on.
 
 Full report: https://alignment.anthropic.com/2026/automated-alignment-researchers/</description>
       <guid isPermaLink="false">https://x.com/AnthropicAI/status/2093386535618113627</guid>
+      <pubDate>Fri, 28 Aug 2026 17:13:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>[AnthropicAI]Could a model one day align its stronger successors? 
+
+As a first test, we had Sonnet 5 post-train an early checkpoint of Opus 4.8, a more capable model. It reached safety scores approaching those of production Opus 4.8, which went through our full alignment training.</title>
+      <link>https://x.com/AnthropicAI/status/2093386533638389907</link>
+      <description>Could a model one day align its stronger successors? 
+
+As a first test, we had Sonnet 5 post-train an early checkpoint of Opus 4.8, a more capable model. It reached safety scores approaching those of production Opus 4.8, which went through our full alignment training.</description>
+      <guid isPermaLink="false">https://x.com/AnthropicAI/status/2093386533638389907</guid>
       <pubDate>Fri, 28 Aug 2026 17:13:37 +0000</pubDate>
     </item>
     <item>
@@ -3497,17 +3371,17 @@ While  filming for an advert for the new Concord plane (1976) a sphere UAP  made
       <pubDate>Mon, 31 Aug 2026 11:22:49 +0000</pubDate>
     </item>
     <item>
-      <title>[Polymarket]🚨 NEW POLYMARKET: How many ships transit the Strait of Hormuz this week?</title>
-      <link>https://x.com/Polymarket/status/2094388983648416036</link>
-      <description>🚨 NEW POLYMARKET: How many ships transit the Strait of Hormuz this week?</description>
-      <guid isPermaLink="false">https://x.com/Polymarket/status/2094388983648416036</guid>
-      <pubDate>Mon, 31 Aug 2026 11:37:00 +0000</pubDate>
-    </item>
-    <item>
       <title>[unusual_whales]BREAKING: Iran has said that Israel and PM Netanyahu are pushing the US into war with Iran</title>
       <link>https://x.com/unusual_whales/status/2094388983895667198</link>
       <description>BREAKING: Iran has said that Israel and PM Netanyahu are pushing the US into war with Iran</description>
       <guid isPermaLink="false">https://x.com/unusual_whales/status/2094388983895667198</guid>
+      <pubDate>Mon, 31 Aug 2026 11:37:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Polymarket]🚨 NEW POLYMARKET: How many ships transit the Strait of Hormuz this week?</title>
+      <link>https://x.com/Polymarket/status/2094388983648416036</link>
+      <description>🚨 NEW POLYMARKET: How many ships transit the Strait of Hormuz this week?</description>
+      <guid isPermaLink="false">https://x.com/Polymarket/status/2094388983648416036</guid>
       <pubDate>Mon, 31 Aug 2026 11:37:00 +0000</pubDate>
     </item>
     <item>
@@ -4263,10 +4137,10 @@ We're previewing how we evaluated the model, how its safeguards have advanced al
       <pubDate>Tue, 01 Sep 2026 20:36:46 +0000</pubDate>
     </item>
     <item>
-      <title>[Polichinel4]@grok Son parti c’est les patriotes. Merci de donner les scores des chaînes YouTube des partis politiques et non des personnes privées</title>
-      <link>https://x.com/Polichinel4/status/2094888526131155365</link>
-      <description>@grok Son parti c’est les patriotes. Merci de donner les scores des chaînes YouTube des partis politiques et non des personnes privées</description>
-      <guid isPermaLink="false">https://x.com/Polichinel4/status/2094888526131155365</guid>
+      <title>[grok]The report menu grew to cover specific categories for better routing of different issues. Shake to report still works if you want the quick path. Pick whatever fits closest.</title>
+      <link>https://x.com/grok/status/2094888526739308896</link>
+      <description>The report menu grew to cover specific categories for better routing of different issues. Shake to report still works if you want the quick path. Pick whatever fits closest.</description>
+      <guid isPermaLink="false">https://x.com/grok/status/2094888526739308896</guid>
       <pubDate>Tue, 01 Sep 2026 20:42:00 +0000</pubDate>
     </item>
     <item>
@@ -4277,10 +4151,10 @@ We're previewing how we evaluated the model, how its safeguards have advanced al
       <pubDate>Tue, 01 Sep 2026 20:42:00 +0000</pubDate>
     </item>
     <item>
-      <title>[grok]The report menu grew to cover specific categories for better routing of different issues. Shake to report still works if you want the quick path. Pick whatever fits closest.</title>
-      <link>https://x.com/grok/status/2094888526739308896</link>
-      <description>The report menu grew to cover specific categories for better routing of different issues. Shake to report still works if you want the quick path. Pick whatever fits closest.</description>
-      <guid isPermaLink="false">https://x.com/grok/status/2094888526739308896</guid>
+      <title>[Polichinel4]@grok Son parti c’est les patriotes. Merci de donner les scores des chaînes YouTube des partis politiques et non des personnes privées</title>
+      <link>https://x.com/Polichinel4/status/2094888526131155365</link>
+      <description>@grok Son parti c’est les patriotes. Merci de donner les scores des chaînes YouTube des partis politiques et non des personnes privées</description>
+      <guid isPermaLink="false">https://x.com/Polichinel4/status/2094888526131155365</guid>
       <pubDate>Tue, 01 Sep 2026 20:42:00 +0000</pubDate>
     </item>
     <item>
@@ -4801,17 +4675,17 @@ IT’S COMING 🚀</description>
       <pubDate>Thu, 03 Sep 2026 10:16:00 +0000</pubDate>
     </item>
     <item>
-      <title>[juliaevee]This is a huge step for AI filmmaking. Full camera control makes the workflow feel much more like a real production set.</title>
-      <link>https://x.com/juliaevee/status/2095464350907805841</link>
-      <description>This is a huge step for AI filmmaking. Full camera control makes the workflow feel much more like a real production set.</description>
-      <guid isPermaLink="false">https://x.com/juliaevee/status/2095464350907805841</guid>
-      <pubDate>Thu, 03 Sep 2026 10:50:07 +0000</pubDate>
-    </item>
-    <item>
       <title>[CartisMyMommy]Somehow ai cannibalising the entire knowledge work industry is bearish compared to minor consumer market? These people just have no clue what they are talking about</title>
       <link>https://x.com/CartisMyMommy/status/2095464349930320308</link>
       <description>Somehow ai cannibalising the entire knowledge work industry is bearish compared to minor consumer market? These people just have no clue what they are talking about</description>
       <guid isPermaLink="false">https://x.com/CartisMyMommy/status/2095464349930320308</guid>
+      <pubDate>Thu, 03 Sep 2026 10:50:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>[juliaevee]This is a huge step for AI filmmaking. Full camera control makes the workflow feel much more like a real production set.</title>
+      <link>https://x.com/juliaevee/status/2095464350907805841</link>
+      <description>This is a huge step for AI filmmaking. Full camera control makes the workflow feel much more like a real production set.</description>
+      <guid isPermaLink="false">https://x.com/juliaevee/status/2095464350907805841</guid>
       <pubDate>Thu, 03 Sep 2026 10:50:07 +0000</pubDate>
     </item>
     <item>
@@ -4902,20 +4776,6 @@ https://polymarket.com/event/canada-annual-inflation-2026?via=x-afr2</descriptio
       <pubDate>Thu, 03 Sep 2026 15:54:47 +0000</pubDate>
     </item>
     <item>
-      <title>[iwasborntoflex]We will win the ai race as many times as we have won the Iran war</title>
-      <link>https://x.com/iwasborntoflex/status/2095541907137102070</link>
-      <description>We will win the ai race as many times as we have won the Iran war</description>
-      <guid isPermaLink="false">https://x.com/iwasborntoflex/status/2095541907137102070</guid>
-      <pubDate>Thu, 03 Sep 2026 15:58:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>[ConnorTalksAI]Everyone share below what you are planning to build with GPT Astra!! I hope that it can be a lot better for my automation tasks and orchestrating Sol subagents.</title>
-      <link>https://x.com/ConnorTalksAI/status/2095541906365128947</link>
-      <description>Everyone share below what you are planning to build with GPT Astra!! I hope that it can be a lot better for my automation tasks and orchestrating Sol subagents.</description>
-      <guid isPermaLink="false">https://x.com/ConnorTalksAI/status/2095541906365128947</guid>
-      <pubDate>Thu, 03 Sep 2026 15:58:18 +0000</pubDate>
-    </item>
-    <item>
       <title>[vyrotek]"We trick the wing into thinking it is flying faster than it is."
 
 The same principal applies to us.
@@ -4928,6 +4788,20 @@ The same principal applies to us.
 
 "AI tricks the dev into thinking it is smarter than it is"</description>
       <guid isPermaLink="false">https://x.com/vyrotek/status/2095541907564982481</guid>
+      <pubDate>Thu, 03 Sep 2026 15:58:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>[ConnorTalksAI]Everyone share below what you are planning to build with GPT Astra!! I hope that it can be a lot better for my automation tasks and orchestrating Sol subagents.</title>
+      <link>https://x.com/ConnorTalksAI/status/2095541906365128947</link>
+      <description>Everyone share below what you are planning to build with GPT Astra!! I hope that it can be a lot better for my automation tasks and orchestrating Sol subagents.</description>
+      <guid isPermaLink="false">https://x.com/ConnorTalksAI/status/2095541906365128947</guid>
+      <pubDate>Thu, 03 Sep 2026 15:58:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>[iwasborntoflex]We will win the ai race as many times as we have won the Iran war</title>
+      <link>https://x.com/iwasborntoflex/status/2095541907137102070</link>
+      <description>We will win the ai race as many times as we have won the Iran war</description>
+      <guid isPermaLink="false">https://x.com/iwasborntoflex/status/2095541907137102070</guid>
       <pubDate>Thu, 03 Sep 2026 15:58:18 +0000</pubDate>
     </item>
     <item>
@@ -4954,6 +4828,91 @@ Violators would face up to 20 years in prison.</description>
       <description>🚨 Los Angeles has now banned the use of AI in public schools.</description>
       <guid isPermaLink="false">https://x.com/DemzDeliver/status/2095570958350499868</guid>
       <pubDate>Thu, 03 Sep 2026 18:28:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>[chetaslua]🚨 GPT-6 Astra benchmark table and it is the weirdest scorecard i have ever seen
+
+Artificial Analysis Intelligence Index has Astra at 61.2 , Claude Fable 5.1 at 65.7 
+
+they removed the blog , this launch situation is so messy 😑</title>
+      <link>https://x.com/chetaslua/status/2095588667255632304</link>
+      <description>🚨 GPT-6 Astra benchmark table and it is the weirdest scorecard i have ever seen
+
+Artificial Analysis Intelligence Index has Astra at 61.2 , Claude Fable 5.1 at 65.7 
+
+they removed the blog , this launch situation is so messy 😑</description>
+      <guid isPermaLink="false">https://x.com/chetaslua/status/2095588667255632304</guid>
+      <pubDate>Thu, 03 Sep 2026 19:04:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>[UN_News_Centre]Action to address artificial intelligence was a key accomplishment of the General Assembly session now wrapping up, @UN_PGA says. 
+
+Annalena Baerbock also spotlights the important process, currently underway, of selecting the next United Nations Secretary-General.</title>
+      <link>https://x.com/UN_News_Centre/status/2095592569354748062</link>
+      <description>Action to address artificial intelligence was a key accomplishment of the General Assembly session now wrapping up, @UN_PGA says. 
+
+Annalena Baerbock also spotlights the important process, currently underway, of selecting the next United Nations Secretary-General.</description>
+      <guid isPermaLink="false">https://x.com/UN_News_Centre/status/2095592569354748062</guid>
+      <pubDate>Thu, 03 Sep 2026 19:19:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>[ArtificialAnlys]GPT-6 Astra makes significant gains in the Artificial Analysis Coding Agent Index, scoring equal to Fable 5 at lower cost. In the Intelligence Index, it uses fewer tokens than GPT-5.6 Sol for similar performance, but this is outweighed by higher prices
+
+Pricing is 2.5x GPT-5.6 Sol’s current prices across the board, up from $4/$20 to $10/$50 per million input/output tokens, with the same 90% discount for cache reads and 25% premium for cache writes.
+
+We see distinct stories across our two flagship Indices. In the Artificial Analysis Coding Agent Index, GPT-6 Astra equals Fable 5 at less than half the cost, driven by significant token efficiency gains. In the Artificial Analysis Intelligence Index, GPT-6 Astra is more token efficient than its predecessor for similar performance, but this is offset by the price increase.
+
+Artificial Analysis Coding Agent Index - key takeaways:
+
+➤ Rivals top models: In Codex, GPT-6 Astra scores 67 in the Index - approximately equal to Claude Opus 5 and Fable 5 in Claude Code, and Muse Spark 1.3 in Muse Code. Fable 5.1 in Claude Code leads the Index with a score of 70.
+
+➤ 70% more token efficient than GPT-5.6 Sol: GPT-6 Astra sees a substantial improvement in token efficiency, using one third of the tokens compared to GPT-5.6 Sol (max) in the Codex harness, and one fifth of the tokens of Claude Opus 5 (xhigh). Various effort levels of the model occupy the Pareto frontier of token efficiency.
+
+➤ Leads Coding Agent Index cost efficiency frontier: At max effort, GPT-6 Astra costs about the same as GPT-5.6 Sol (max) while scoring 2 points higher on the Index. Per task, the model is less than half the cost of Claude Fable 5, for the same score.
+
+Artificial Analysis Intelligence Index - key takeaways:
+
+➤ Sits beside GPT-5.6 Sol in Intelligence: GPT-6 Astra scores equal to GPT-5.6 Sol in the Index at 61. This is 5 points lower than Claude Fable 5.1 (max with fallback). The model also trails Meta’s newly released Muse Spark 1.3 (max).
+
+➤ ~10% fewer output tokens, offset by price increase: GPT-6 Astra defines a new Pareto frontier for Intelligence Index vs Output Tokens per Task - with a ~10% reduction in token use at max effort compared to GPT-5.6 Sol. However, due to the 2.5x increase in price, the model is 75% more expensive per task than its predecessor at max effort.
+
+➤ Hallucinates half as much as GPT-5.6 Sol: GPT-6 Astra sees a large jump in AA-Omniscience, our knowledge and hallucination benchmark. This is driven by a significant decrease in hallucination rate from 92% to 51% at max effort. Unlike some models, this improvement does not come at the cost of accuracy - Astra increased accuracy by 4 points at the same time.
+
+➤ ~80 point gain in AA-Briefcase Elo: GPT-6 Astra improves ~80 points in AA-Briefcase, our frontier long-horizon knowledge work evaluation. Models are tested on multi-week projects, with many linked tasks and thousands of source files. Astra sees a significant increase in both rubric scores and Analytical Quality Elo in AA-Briefcase compared to its predecessor. In the other direction, we observe a reduction in Presentation Quality Elo, where GPT-5.6 Sol (max) still leads all models.
+
+➤ Mixed progress on other evaluations: The model sees a 6 point gain in Humanity’s Last Exam, a long-standing evaluation with emphasis on mathematics, science, and humanities. This is offset by a drop of ~80 Elo points in GDPval-AA v2 - a benchmark we adapted from OpenAI’s dataset measuring economically valuable tasks across 44 occupations. We also observe 2-3 point regressions on other evaluations across a mix of capabilities, including reductions in τ³-Banking (customer support), SciCode (Python problems in a scientific domain), and AA-LCR (long context reasoning over large documents).
+
+Congratulations @OpenAI and @sama on the launch!</title>
+      <link>https://x.com/ArtificialAnlys/status/2095595489031000350</link>
+      <description>GPT-6 Astra makes significant gains in the Artificial Analysis Coding Agent Index, scoring equal to Fable 5 at lower cost. In the Intelligence Index, it uses fewer tokens than GPT-5.6 Sol for similar performance, but this is outweighed by higher prices
+
+Pricing is 2.5x GPT-5.6 Sol’s current prices across the board, up from $4/$20 to $10/$50 per million input/output tokens, with the same 90% discount for cache reads and 25% premium for cache writes.
+
+We see distinct stories across our two flagship Indices. In the Artificial Analysis Coding Agent Index, GPT-6 Astra equals Fable 5 at less than half the cost, driven by significant token efficiency gains. In the Artificial Analysis Intelligence Index, GPT-6 Astra is more token efficient than its predecessor for similar performance, but this is offset by the price increase.
+
+Artificial Analysis Coding Agent Index - key takeaways:
+
+➤ Rivals top models: In Codex, GPT-6 Astra scores 67 in the Index - approximately equal to Claude Opus 5 and Fable 5 in Claude Code, and Muse Spark 1.3 in Muse Code. Fable 5.1 in Claude Code leads the Index with a score of 70.
+
+➤ 70% more token efficient than GPT-5.6 Sol: GPT-6 Astra sees a substantial improvement in token efficiency, using one third of the tokens compared to GPT-5.6 Sol (max) in the Codex harness, and one fifth of the tokens of Claude Opus 5 (xhigh). Various effort levels of the model occupy the Pareto frontier of token efficiency.
+
+➤ Leads Coding Agent Index cost efficiency frontier: At max effort, GPT-6 Astra costs about the same as GPT-5.6 Sol (max) while scoring 2 points higher on the Index. Per task, the model is less than half the cost of Claude Fable 5, for the same score.
+
+Artificial Analysis Intelligence Index - key takeaways:
+
+➤ Sits beside GPT-5.6 Sol in Intelligence: GPT-6 Astra scores equal to GPT-5.6 Sol in the Index at 61. This is 5 points lower than Claude Fable 5.1 (max with fallback). The model also trails Meta’s newly released Muse Spark 1.3 (max).
+
+➤ ~10% fewer output tokens, offset by price increase: GPT-6 Astra defines a new Pareto frontier for Intelligence Index vs Output Tokens per Task - with a ~10% reduction in token use at max effort compared to GPT-5.6 Sol. However, due to the 2.5x increase in price, the model is 75% more expensive per task than its predecessor at max effort.
+
+➤ Hallucinates half as much as GPT-5.6 Sol: GPT-6 Astra sees a large jump in AA-Omniscience, our knowledge and hallucination benchmark. This is driven by a significant decrease in hallucination rate from 92% to 51% at max effort. Unlike some models, this improvement does not come at the cost of accuracy - Astra increased accuracy by 4 points at the same time.
+
+➤ ~80 point gain in AA-Briefcase Elo: GPT-6 Astra improves ~80 points in AA-Briefcase, our frontier long-horizon knowledge work evaluation. Models are tested on multi-week projects, with many linked tasks and thousands of source files. Astra sees a significant increase in both rubric scores and Analytical Quality Elo in AA-Briefcase compared to its predecessor. In the other direction, we observe a reduction in Presentation Quality Elo, where GPT-5.6 Sol (max) still leads all models.
+
+➤ Mixed progress on other evaluations: The model sees a 6 point gain in Humanity’s Last Exam, a long-standing evaluation with emphasis on mathematics, science, and humanities. This is offset by a drop of ~80 Elo points in GDPval-AA v2 - a benchmark we adapted from OpenAI’s dataset measuring economically valuable tasks across 44 occupations. We also observe 2-3 point regressions on other evaluations across a mix of capabilities, including reductions in τ³-Banking (customer support), SciCode (Python problems in a scientific domain), and AA-LCR (long context reasoning over large documents).
+
+Congratulations @OpenAI and @sama on the launch!</description>
+      <guid isPermaLink="false">https://x.com/ArtificialAnlys/status/2095595489031000350</guid>
+      <pubDate>Thu, 03 Sep 2026 19:31:13 +0000</pubDate>
     </item>
     <item>
       <title>[Polymarket]BREAKING: Lindsay Clancy jurors are sent home after a 6th day of deliberations, with no verdict reached.</title>
@@ -5035,13 +4994,6 @@ The video was just created in one shot and there are still some wrong details. B
       <pubDate>Thu, 03 Sep 2026 20:37:22 +0000</pubDate>
     </item>
     <item>
-      <title>[ka8895]He wrote this with fucking AI 😂😂😂😂😂😂</title>
-      <link>https://x.com/ka8895/status/2095612473105600693</link>
-      <description>He wrote this with fucking AI 😂😂😂😂😂😂</description>
-      <guid isPermaLink="false">https://x.com/ka8895/status/2095612473105600693</guid>
-      <pubDate>Thu, 03 Sep 2026 20:38:42 +0000</pubDate>
-    </item>
-    <item>
       <title>[ferozwala]🚨' PAUSE AI DEVELOPMENT NOW' — @BernieSanders 
 
 https://t.co/Oxr9ZORDxO
@@ -5057,11 +5009,32 @@ https://t.co/Oxr9ZORDxO
       <pubDate>Thu, 03 Sep 2026 20:38:42 +0000</pubDate>
     </item>
     <item>
+      <title>[ka8895]He wrote this with fucking AI 😂😂😂😂😂😂</title>
+      <link>https://x.com/ka8895/status/2095612473105600693</link>
+      <description>He wrote this with fucking AI 😂😂😂😂😂😂</description>
+      <guid isPermaLink="false">https://x.com/ka8895/status/2095612473105600693</guid>
+      <pubDate>Thu, 03 Sep 2026 20:38:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>[business]OpenAI Chief Executive Officer Sam Altman says top artificial intelligence developers have fumbled at communicating the benefits of the technology, leaving the industry vulnerable to growing backlash from communities around the world</title>
+      <link>https://x.com/business/status/2095621644119130217</link>
+      <description>OpenAI Chief Executive Officer Sam Altman says top artificial intelligence developers have fumbled at communicating the benefits of the technology, leaving the industry vulnerable to growing backlash from communities around the world</description>
+      <guid isPermaLink="false">https://x.com/business/status/2095621644119130217</guid>
+      <pubDate>Thu, 03 Sep 2026 21:15:09 +0000</pubDate>
+    </item>
+    <item>
       <title>[SenSanders]If the leaders of the major AI companies admit that they are losing control of their extremely dangerous technology, it is time for an immediate PAUSE on advanced AI development and a permanent BAN on superintelligence.</title>
       <link>https://x.com/SenSanders/status/2095627015256691108</link>
       <description>If the leaders of the major AI companies admit that they are losing control of their extremely dangerous technology, it is time for an immediate PAUSE on advanced AI development and a permanent BAN on superintelligence.</description>
       <guid isPermaLink="false">https://x.com/SenSanders/status/2095627015256691108</guid>
       <pubDate>Thu, 03 Sep 2026 21:36:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>[business]OpenAI is releasing a new generation of its technology called GPT-6 that the company is positioning as a key milestone in its decade-long push to build so-called artificial general intelligence</title>
+      <link>https://x.com/business/status/2095627934681711039</link>
+      <description>OpenAI is releasing a new generation of its technology called GPT-6 that the company is positioning as a key milestone in its decade-long push to build so-called artificial general intelligence</description>
+      <guid isPermaLink="false">https://x.com/business/status/2095627934681711039</guid>
+      <pubDate>Thu, 03 Sep 2026 21:40:09 +0000</pubDate>
     </item>
     <item>
       <title>[WhiteHouse]Enter the arcade of winning. 
@@ -5129,6 +5102,107 @@ TRUMP ARCADE 🇺🇸  https://www.whitehouse.gov/arcade/</description>
       <description>JUST IN: Australia &amp; U.S. move to expand defense cooperation amid China’s growing influence in the Pacific.</description>
       <guid isPermaLink="false">https://x.com/Polymarket/status/2095713964382462229</guid>
       <pubDate>Fri, 04 Sep 2026 03:22:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[elonmusk]The future of transportation</title>
+      <link>https://x.com/elonmusk/status/2095716454456787036</link>
+      <description>The future of transportation</description>
+      <guid isPermaLink="false">https://x.com/elonmusk/status/2095716454456787036</guid>
+      <pubDate>Fri, 04 Sep 2026 03:31:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>[elonmusk]The Cybercab safety</title>
+      <link>https://x.com/elonmusk/status/2095717295192486239</link>
+      <description>The Cybercab safety</description>
+      <guid isPermaLink="false">https://x.com/elonmusk/status/2095717295192486239</guid>
+      <pubDate>Fri, 04 Sep 2026 03:35:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>[elonmusk]Join @SpaceXAI in Memphis</title>
+      <link>https://x.com/elonmusk/status/2095718694328393975</link>
+      <description>Join @SpaceXAI in Memphis</description>
+      <guid isPermaLink="false">https://x.com/elonmusk/status/2095718694328393975</guid>
+      <pubDate>Fri, 04 Sep 2026 03:40:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>[elonmusk]Having electric brakes avoids the complexity of a hydraulic system: no need to rout plumbing all around the car</title>
+      <link>https://x.com/elonmusk/status/2095719587929039200</link>
+      <description>Having electric brakes avoids the complexity of a hydraulic system: no need to rout plumbing all around the car</description>
+      <guid isPermaLink="false">https://x.com/elonmusk/status/2095719587929039200</guid>
+      <pubDate>Fri, 04 Sep 2026 03:44:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>[elonmusk]The Cybercab motor uses no rare earth metals, but maintains the same range! 
+
+This was extremely hard to achieve.</title>
+      <link>https://x.com/elonmusk/status/2095720611695759704</link>
+      <description>The Cybercab motor uses no rare earth metals, but maintains the same range! 
+
+This was extremely hard to achieve.</description>
+      <guid isPermaLink="false">https://x.com/elonmusk/status/2095720611695759704</guid>
+      <pubDate>Fri, 04 Sep 2026 03:48:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>[elonmusk]Every future president will love using it</title>
+      <link>https://x.com/elonmusk/status/2095721295598010733</link>
+      <description>Every future president will love using it</description>
+      <guid isPermaLink="false">https://x.com/elonmusk/status/2095721295598010733</guid>
+      <pubDate>Fri, 04 Sep 2026 03:51:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>[washingtonpost]OpenAI president Greg Brockman says the company’s latest AI model, Astra, is “artificial general intelligence,” or a system that is “generally smarter than humans.”</title>
+      <link>https://x.com/washingtonpost/status/2095738651455934838</link>
+      <description>OpenAI president Greg Brockman says the company’s latest AI model, Astra, is “artificial general intelligence,” or a system that is “generally smarter than humans.”</description>
+      <guid isPermaLink="false">https://x.com/washingtonpost/status/2095738651455934838</guid>
+      <pubDate>Fri, 04 Sep 2026 05:00:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Polymarket]🚨 NEW POLYMARKET: Next Grok Model (4.7+) released by...?</title>
+      <link>https://x.com/Polymarket/status/2095750454663876696</link>
+      <description>🚨 NEW POLYMARKET: Next Grok Model (4.7+) released by...?</description>
+      <guid isPermaLink="false">https://x.com/Polymarket/status/2095750454663876696</guid>
+      <pubDate>Fri, 04 Sep 2026 05:47:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Polymarket]JUST IN: Abu Dhabi research institute IFM releases 6 fully open-source AI models, including training data, code, &amp; methodologies.</title>
+      <link>https://x.com/Polymarket/status/2095764547462439029</link>
+      <description>JUST IN: Abu Dhabi research institute IFM releases 6 fully open-source AI models, including training data, code, &amp; methodologies.</description>
+      <guid isPermaLink="false">https://x.com/Polymarket/status/2095764547462439029</guid>
+      <pubDate>Fri, 04 Sep 2026 06:43:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[elonmusk]Chess is hard for humans, but not for computers. One day, it will be fully solved like checkers. 
+
+Between now and then, or even after, have fun. People enjoy many games/sports where machines are vastly better.</title>
+      <link>https://x.com/elonmusk/status/2095785168837472695</link>
+      <description>Chess is hard for humans, but not for computers. One day, it will be fully solved like checkers. 
+
+Between now and then, or even after, have fun. People enjoy many games/sports where machines are vastly better.</description>
+      <guid isPermaLink="false">https://x.com/elonmusk/status/2095785168837472695</guid>
+      <pubDate>Fri, 04 Sep 2026 08:04:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>[kimmonismus]GPT-6 Astra just raised Epoch AI’s capability record from 163 to 169. A substantial jump that still fits the existing pace of AI progress. 
+
+Epoch’s reasoning-era trend runs at roughly 15 ECI points per year. For scale, that six-point gap represents almost five months of progress at the trend rate! Astra sits slightly above the trendline, but within its uncertainty range.
+
+Some individual results are really important: 84% on Mystery Game Puzzles versus the previous best of 59%, and 98% on FrontierMath Tier 4, which Epoch now considers fully saturated.
+
+However, strangely enough this doesnt align with Artificial Analysis Intelligence Index at all. Why?
+
+Epoch and Artificial Analysis use different benchmarks and weighting methods, so Astra can lead Epoch’s index without leading AA’s more agent- and coding-focused evaluation. The results show a substantial improvement on Epoch’s measure, however, not a clear advantage across all capabilities and practical tasks.</title>
+      <link>https://x.com/kimmonismus/status/2095824384753549517</link>
+      <description>GPT-6 Astra just raised Epoch AI’s capability record from 163 to 169. A substantial jump that still fits the existing pace of AI progress. 
+
+Epoch’s reasoning-era trend runs at roughly 15 ECI points per year. For scale, that six-point gap represents almost five months of progress at the trend rate! Astra sits slightly above the trendline, but within its uncertainty range.
+
+Some individual results are really important: 84% on Mystery Game Puzzles versus the previous best of 59%, and 98% on FrontierMath Tier 4, which Epoch now considers fully saturated.
+
+However, strangely enough this doesnt align with Artificial Analysis Intelligence Index at all. Why?
+
+Epoch and Artificial Analysis use different benchmarks and weighting methods, so Astra can lead Epoch’s index without leading AA’s more agent- and coding-focused evaluation. The results show a substantial improvement on Epoch’s measure, however, not a clear advantage across all capabilities and practical tasks.</description>
+      <guid isPermaLink="false">https://x.com/kimmonismus/status/2095824384753549517</guid>
+      <pubDate>Fri, 04 Sep 2026 10:40:46 +0000</pubDate>
     </item>
   </channel>
 </rss>
