@@ -7,111 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 10 Sep 2026 10:50:48 +0000</lastBuildDate>
-    <item>
-      <title>[WhiteHouse]"From the very beginning America has always been a frontier nation, and space is the highest of all the frontiers. Our manifest destiny is to explore and settle this great unknown, carry forward the light of American liberty into the stars." - President Donald J. Trump 🇺🇸</title>
-      <link>https://x.com/WhiteHouse/status/2093379772575305943</link>
-      <description>"From the very beginning America has always been a frontier nation, and space is the highest of all the frontiers. Our manifest destiny is to explore and settle this great unknown, carry forward the light of American liberty into the stars." - President Donald J. Trump 🇺🇸</description>
-      <guid isPermaLink="false">https://x.com/WhiteHouse/status/2093379772575305943</guid>
-      <pubDate>Fri, 28 Aug 2026 16:46:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>[WhiteHouse]BREAKING: President Donald J. Trump just signed an Executive Order establishing a new federal academy, THE UNITED STATES SPACE ACADEMY. 🚀🇺🇸</title>
-      <link>https://x.com/WhiteHouse/status/2093383065548492982</link>
-      <description>BREAKING: President Donald J. Trump just signed an Executive Order establishing a new federal academy, THE UNITED STATES SPACE ACADEMY. 🚀🇺🇸</description>
-      <guid isPermaLink="false">https://x.com/WhiteHouse/status/2093383065548492982</guid>
-      <pubDate>Fri, 28 Aug 2026 16:59:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>[AnthropicAI]Across 10 alignment failures, Claude reliably improved safety scores without degrading capabilities.
-
-Its best methods also generalized to benchmarks it hadn’t optimized on, to the Petri behavioral audit, and to models up to 4.7x larger.</title>
-      <link>https://x.com/AnthropicAI/status/2093386531247718425</link>
-      <description>Across 10 alignment failures, Claude reliably improved safety scores without degrading capabilities.
-
-Its best methods also generalized to benchmarks it hadn’t optimized on, to the Petri behavioral audit, and to models up to 4.7x larger.</description>
-      <guid isPermaLink="false">https://x.com/AnthropicAI/status/2093386531247718425</guid>
-      <pubDate>Fri, 28 Aug 2026 17:13:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>[AnthropicAI]Claude “hill-climbed” safety benchmarks for common misalignments like deception or sycophancy, with one constraint: it had to preserve general capabilities. 
-
-We then tested its best methods on held-out benchmarks to see if they'd generalize.</title>
-      <link>https://x.com/AnthropicAI/status/2093386529846722913</link>
-      <description>Claude “hill-climbed” safety benchmarks for common misalignments like deception or sycophancy, with one constraint: it had to preserve general capabilities. 
-
-We then tested its best methods on held-out benchmarks to see if they'd generalize.</description>
-      <guid isPermaLink="false">https://x.com/AnthropicAI/status/2093386529846722913</guid>
-      <pubDate>Fri, 28 Aug 2026 17:13:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>[AnthropicAI]New Fellows Research: Can Claude autonomously align other AIs?
-
-We gave Claude 48 hours and 1 GPU to improve the alignment of small models. It researched and proposed methods, then trained and tested the models on its own. It worked surprisingly well.
-https://www.anthropic.com/research/automated-researchers-mitigate-alignment-failures</title>
-      <link>https://x.com/AnthropicAI/status/2093386528668172373</link>
-      <description>New Fellows Research: Can Claude autonomously align other AIs?
-
-We gave Claude 48 hours and 1 GPU to improve the alignment of small models. It researched and proposed methods, then trained and tested the models on its own. It worked surprisingly well.
-https://www.anthropic.com/research/automated-researchers-mitigate-alignment-failures</description>
-      <guid isPermaLink="false">https://x.com/AnthropicAI/status/2093386528668172373</guid>
-      <pubDate>Fri, 28 Aug 2026 17:13:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>[AnthropicAI]Claude can reliably fix measurable misalignment. But subtle or rare failures may have no benchmark at all—so everything hinges on measuring the right things.
-
-We're releasing our automated alignment research setup for others to build on.
-
-Full report: https://alignment.anthropic.com/2026/automated-alignment-researchers/</title>
-      <link>https://x.com/AnthropicAI/status/2093386535618113627</link>
-      <description>Claude can reliably fix measurable misalignment. But subtle or rare failures may have no benchmark at all—so everything hinges on measuring the right things.
-
-We're releasing our automated alignment research setup for others to build on.
-
-Full report: https://alignment.anthropic.com/2026/automated-alignment-researchers/</description>
-      <guid isPermaLink="false">https://x.com/AnthropicAI/status/2093386535618113627</guid>
-      <pubDate>Fri, 28 Aug 2026 17:13:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>[AnthropicAI]Could a model one day align its stronger successors? 
-
-As a first test, we had Sonnet 5 post-train an early checkpoint of Opus 4.8, a more capable model. It reached safety scores approaching those of production Opus 4.8, which went through our full alignment training.</title>
-      <link>https://x.com/AnthropicAI/status/2093386533638389907</link>
-      <description>Could a model one day align its stronger successors? 
-
-As a first test, we had Sonnet 5 post-train an early checkpoint of Opus 4.8, a more capable model. It reached safety scores approaching those of production Opus 4.8, which went through our full alignment training.</description>
-      <guid isPermaLink="false">https://x.com/AnthropicAI/status/2093386533638389907</guid>
-      <pubDate>Fri, 28 Aug 2026 17:13:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>[WhiteHouse]For years, Democrats let America’s space program slip into a dark age &amp; its leadership fade. @POTUS reversed that decline beyond what anyone imagined.
-
-Thanks to President Trump, America’s space program is in a GOLDEN AGE, &amp; will never again retreat from the frontier we reached with American courage.</title>
-      <link>https://x.com/WhiteHouse/status/2093389528559984811</link>
-      <description>For years, Democrats let America’s space program slip into a dark age &amp; its leadership fade. @POTUS reversed that decline beyond what anyone imagined.
-
-Thanks to President Trump, America’s space program is in a GOLDEN AGE, &amp; will never again retreat from the frontier we reached with American courage.</description>
-      <guid isPermaLink="false">https://x.com/WhiteHouse/status/2093389528559984811</guid>
-      <pubDate>Fri, 28 Aug 2026 17:25:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>[WhiteHouse]President Trump Calls the International Space Station https://x.com/i/broadcasts/1yxBePZrvlkJN</title>
-      <link>https://x.com/WhiteHouse/status/2093390304816595028</link>
-      <description>President Trump Calls the International Space Station https://x.com/i/broadcasts/1yxBePZrvlkJN</description>
-      <guid isPermaLink="false">https://x.com/WhiteHouse/status/2093390304816595028</guid>
-      <pubDate>Fri, 28 Aug 2026 17:28:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>[WhiteHouse]Honoring the heroes that traveled further than any humans in history. 🇺🇸🚀
-
-President Trump presents the Congressional Space Medal of Honor to the Artemis II Astronauts at NASA's Johnson Space Center!</title>
-      <link>https://x.com/WhiteHouse/status/2093395395237830860</link>
-      <description>Honoring the heroes that traveled further than any humans in history. 🇺🇸🚀
-
-President Trump presents the Congressional Space Medal of Honor to the Artemis II Astronauts at NASA's Johnson Space Center!</description>
-      <guid isPermaLink="false">https://x.com/WhiteHouse/status/2093395395237830860</guid>
-      <pubDate>Fri, 28 Aug 2026 17:48:50 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 10 Sep 2026 15:59:31 +0000</lastBuildDate>
     <item>
       <title>[WhiteHouse]A historic phone call with great patriots who are ~250 miles away from Earth. 🌎🚀
 
@@ -997,17 +893,17 @@ While  filming for an advert for the new Concord plane (1976) a sphere UAP  made
       <pubDate>Mon, 31 Aug 2026 11:22:49 +0000</pubDate>
     </item>
     <item>
-      <title>[unusual_whales]BREAKING: Iran has said that Israel and PM Netanyahu are pushing the US into war with Iran</title>
-      <link>https://x.com/unusual_whales/status/2094388983895667198</link>
-      <description>BREAKING: Iran has said that Israel and PM Netanyahu are pushing the US into war with Iran</description>
-      <guid isPermaLink="false">https://x.com/unusual_whales/status/2094388983895667198</guid>
-      <pubDate>Mon, 31 Aug 2026 11:37:00 +0000</pubDate>
-    </item>
-    <item>
       <title>[Polymarket]🚨 NEW POLYMARKET: How many ships transit the Strait of Hormuz this week?</title>
       <link>https://x.com/Polymarket/status/2094388983648416036</link>
       <description>🚨 NEW POLYMARKET: How many ships transit the Strait of Hormuz this week?</description>
       <guid isPermaLink="false">https://x.com/Polymarket/status/2094388983648416036</guid>
+      <pubDate>Mon, 31 Aug 2026 11:37:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[unusual_whales]BREAKING: Iran has said that Israel and PM Netanyahu are pushing the US into war with Iran</title>
+      <link>https://x.com/unusual_whales/status/2094388983895667198</link>
+      <description>BREAKING: Iran has said that Israel and PM Netanyahu are pushing the US into war with Iran</description>
+      <guid isPermaLink="false">https://x.com/unusual_whales/status/2094388983895667198</guid>
       <pubDate>Mon, 31 Aug 2026 11:37:00 +0000</pubDate>
     </item>
     <item>
@@ -1763,10 +1659,10 @@ We're previewing how we evaluated the model, how its safeguards have advanced al
       <pubDate>Tue, 01 Sep 2026 20:36:46 +0000</pubDate>
     </item>
     <item>
-      <title>[grok]The report menu grew to cover specific categories for better routing of different issues. Shake to report still works if you want the quick path. Pick whatever fits closest.</title>
-      <link>https://x.com/grok/status/2094888526739308896</link>
-      <description>The report menu grew to cover specific categories for better routing of different issues. Shake to report still works if you want the quick path. Pick whatever fits closest.</description>
-      <guid isPermaLink="false">https://x.com/grok/status/2094888526739308896</guid>
+      <title>[Polichinel4]@grok Son parti c’est les patriotes. Merci de donner les scores des chaînes YouTube des partis politiques et non des personnes privées</title>
+      <link>https://x.com/Polichinel4/status/2094888526131155365</link>
+      <description>@grok Son parti c’est les patriotes. Merci de donner les scores des chaînes YouTube des partis politiques et non des personnes privées</description>
+      <guid isPermaLink="false">https://x.com/Polichinel4/status/2094888526131155365</guid>
       <pubDate>Tue, 01 Sep 2026 20:42:00 +0000</pubDate>
     </item>
     <item>
@@ -1777,10 +1673,10 @@ We're previewing how we evaluated the model, how its safeguards have advanced al
       <pubDate>Tue, 01 Sep 2026 20:42:00 +0000</pubDate>
     </item>
     <item>
-      <title>[Polichinel4]@grok Son parti c’est les patriotes. Merci de donner les scores des chaînes YouTube des partis politiques et non des personnes privées</title>
-      <link>https://x.com/Polichinel4/status/2094888526131155365</link>
-      <description>@grok Son parti c’est les patriotes. Merci de donner les scores des chaînes YouTube des partis politiques et non des personnes privées</description>
-      <guid isPermaLink="false">https://x.com/Polichinel4/status/2094888526131155365</guid>
+      <title>[grok]The report menu grew to cover specific categories for better routing of different issues. Shake to report still works if you want the quick path. Pick whatever fits closest.</title>
+      <link>https://x.com/grok/status/2094888526739308896</link>
+      <description>The report menu grew to cover specific categories for better routing of different issues. Shake to report still works if you want the quick path. Pick whatever fits closest.</description>
+      <guid isPermaLink="false">https://x.com/grok/status/2094888526739308896</guid>
       <pubDate>Tue, 01 Sep 2026 20:42:00 +0000</pubDate>
     </item>
     <item>
@@ -2301,17 +2197,17 @@ IT’S COMING 🚀</description>
       <pubDate>Thu, 03 Sep 2026 10:16:00 +0000</pubDate>
     </item>
     <item>
-      <title>[CartisMyMommy]Somehow ai cannibalising the entire knowledge work industry is bearish compared to minor consumer market? These people just have no clue what they are talking about</title>
-      <link>https://x.com/CartisMyMommy/status/2095464349930320308</link>
-      <description>Somehow ai cannibalising the entire knowledge work industry is bearish compared to minor consumer market? These people just have no clue what they are talking about</description>
-      <guid isPermaLink="false">https://x.com/CartisMyMommy/status/2095464349930320308</guid>
-      <pubDate>Thu, 03 Sep 2026 10:50:07 +0000</pubDate>
-    </item>
-    <item>
       <title>[juliaevee]This is a huge step for AI filmmaking. Full camera control makes the workflow feel much more like a real production set.</title>
       <link>https://x.com/juliaevee/status/2095464350907805841</link>
       <description>This is a huge step for AI filmmaking. Full camera control makes the workflow feel much more like a real production set.</description>
       <guid isPermaLink="false">https://x.com/juliaevee/status/2095464350907805841</guid>
+      <pubDate>Thu, 03 Sep 2026 10:50:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>[CartisMyMommy]Somehow ai cannibalising the entire knowledge work industry is bearish compared to minor consumer market? These people just have no clue what they are talking about</title>
+      <link>https://x.com/CartisMyMommy/status/2095464349930320308</link>
+      <description>Somehow ai cannibalising the entire knowledge work industry is bearish compared to minor consumer market? These people just have no clue what they are talking about</description>
+      <guid isPermaLink="false">https://x.com/CartisMyMommy/status/2095464349930320308</guid>
       <pubDate>Thu, 03 Sep 2026 10:50:07 +0000</pubDate>
     </item>
     <item>
@@ -2402,6 +2298,20 @@ https://polymarket.com/event/canada-annual-inflation-2026?via=x-afr2</descriptio
       <pubDate>Thu, 03 Sep 2026 15:54:47 +0000</pubDate>
     </item>
     <item>
+      <title>[iwasborntoflex]We will win the ai race as many times as we have won the Iran war</title>
+      <link>https://x.com/iwasborntoflex/status/2095541907137102070</link>
+      <description>We will win the ai race as many times as we have won the Iran war</description>
+      <guid isPermaLink="false">https://x.com/iwasborntoflex/status/2095541907137102070</guid>
+      <pubDate>Thu, 03 Sep 2026 15:58:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>[ConnorTalksAI]Everyone share below what you are planning to build with GPT Astra!! I hope that it can be a lot better for my automation tasks and orchestrating Sol subagents.</title>
+      <link>https://x.com/ConnorTalksAI/status/2095541906365128947</link>
+      <description>Everyone share below what you are planning to build with GPT Astra!! I hope that it can be a lot better for my automation tasks and orchestrating Sol subagents.</description>
+      <guid isPermaLink="false">https://x.com/ConnorTalksAI/status/2095541906365128947</guid>
+      <pubDate>Thu, 03 Sep 2026 15:58:18 +0000</pubDate>
+    </item>
+    <item>
       <title>[vyrotek]"We trick the wing into thinking it is flying faster than it is."
 
 The same principal applies to us.
@@ -2414,20 +2324,6 @@ The same principal applies to us.
 
 "AI tricks the dev into thinking it is smarter than it is"</description>
       <guid isPermaLink="false">https://x.com/vyrotek/status/2095541907564982481</guid>
-      <pubDate>Thu, 03 Sep 2026 15:58:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>[ConnorTalksAI]Everyone share below what you are planning to build with GPT Astra!! I hope that it can be a lot better for my automation tasks and orchestrating Sol subagents.</title>
-      <link>https://x.com/ConnorTalksAI/status/2095541906365128947</link>
-      <description>Everyone share below what you are planning to build with GPT Astra!! I hope that it can be a lot better for my automation tasks and orchestrating Sol subagents.</description>
-      <guid isPermaLink="false">https://x.com/ConnorTalksAI/status/2095541906365128947</guid>
-      <pubDate>Thu, 03 Sep 2026 15:58:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>[iwasborntoflex]We will win the ai race as many times as we have won the Iran war</title>
-      <link>https://x.com/iwasborntoflex/status/2095541907137102070</link>
-      <description>We will win the ai race as many times as we have won the Iran war</description>
-      <guid isPermaLink="false">https://x.com/iwasborntoflex/status/2095541907137102070</guid>
       <pubDate>Thu, 03 Sep 2026 15:58:18 +0000</pubDate>
     </item>
     <item>
@@ -2620,6 +2516,13 @@ The video was just created in one shot and there are still some wrong details. B
       <pubDate>Thu, 03 Sep 2026 20:37:22 +0000</pubDate>
     </item>
     <item>
+      <title>[ka8895]He wrote this with fucking AI 😂😂😂😂😂😂</title>
+      <link>https://x.com/ka8895/status/2095612473105600693</link>
+      <description>He wrote this with fucking AI 😂😂😂😂😂😂</description>
+      <guid isPermaLink="false">https://x.com/ka8895/status/2095612473105600693</guid>
+      <pubDate>Thu, 03 Sep 2026 20:38:42 +0000</pubDate>
+    </item>
+    <item>
       <title>[ferozwala]🚨' PAUSE AI DEVELOPMENT NOW' — @BernieSanders 
 
 https://t.co/Oxr9ZORDxO
@@ -2632,13 +2535,6 @@ https://t.co/Oxr9ZORDxO
 
 📌Senator Bernie Sanders has called for an immediate pause on advanced artificial intelligence development, citing warnings from tech figures like Elon #Musk that humans may lose control of the technology within a decade.</description>
       <guid isPermaLink="false">https://x.com/ferozwala/status/2095612472392815091</guid>
-      <pubDate>Thu, 03 Sep 2026 20:38:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>[ka8895]He wrote this with fucking AI 😂😂😂😂😂😂</title>
-      <link>https://x.com/ka8895/status/2095612473105600693</link>
-      <description>He wrote this with fucking AI 😂😂😂😂😂😂</description>
-      <guid isPermaLink="false">https://x.com/ka8895/status/2095612473105600693</guid>
       <pubDate>Thu, 03 Sep 2026 20:38:42 +0000</pubDate>
     </item>
     <item>
@@ -4867,17 +4763,17 @@ Anthropic researcher Jacob Coxon resigns, warning that AI systems will soon be a
       <pubDate>Wed, 09 Sep 2026 10:00:17 +0000</pubDate>
     </item>
     <item>
-      <title>[AnthropicAI]The economic model breaks jobs down into bundles of tasks. AI can help someone complete a task faster or better, do the task itself, leave the task untouched, or create new tasks. Based on how you expect AI to affect tasks by 2030, our scenario explorer models AI’s potential impact on the US economy. The scenario explorer focuses on three possible scenarios: modest, substantial, and extreme. The economy grows across all three scenarios. But in more transformative scenarios, AI automates more knowledge work, so the challenge is making sure that the gains are shared across society. Like all economic models, ours simplifies a more complex reality. But by building better scenarios of our possible economic future, we can take steps to make sure everyone benefits from it.</title>
-      <link>https://x.com/AnthropicAI/status/2097679799829307588</link>
-      <description>The economic model breaks jobs down into bundles of tasks. AI can help someone complete a task faster or better, do the task itself, leave the task untouched, or create new tasks. Based on how you expect AI to affect tasks by 2030, our scenario explorer models AI’s potential impact on the US economy. The scenario explorer focuses on three possible scenarios: modest, substantial, and extreme. The economy grows across all three scenarios. But in more transformative scenarios, AI automates more knowledge work, so the challenge is making sure that the gains are shared across society. Like all economic models, ours simplifies a more complex reality. But by building better scenarios of our possible economic future, we can take steps to make sure everyone benefits from it.</description>
-      <guid isPermaLink="false">https://x.com/AnthropicAI/status/2097679799829307588</guid>
-      <pubDate>Wed, 09 Sep 2026 13:33:31 +0000</pubDate>
-    </item>
-    <item>
       <title>[AnthropicAI]We’re sharing a new model of how AI might affect economic growth, jobs, wages, and more by 2030. https://www.anthropic.com/institute/econ-scenarios</title>
       <link>https://x.com/AnthropicAI/status/2097679796687769689</link>
       <description>We’re sharing a new model of how AI might affect economic growth, jobs, wages, and more by 2030. https://www.anthropic.com/institute/econ-scenarios</description>
       <guid isPermaLink="false">https://x.com/AnthropicAI/status/2097679796687769689</guid>
+      <pubDate>Wed, 09 Sep 2026 13:33:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>[AnthropicAI]The economic model breaks jobs down into bundles of tasks. AI can help someone complete a task faster or better, do the task itself, leave the task untouched, or create new tasks. Based on how you expect AI to affect tasks by 2030, our scenario explorer models AI’s potential impact on the US economy. The scenario explorer focuses on three possible scenarios: modest, substantial, and extreme. The economy grows across all three scenarios. But in more transformative scenarios, AI automates more knowledge work, so the challenge is making sure that the gains are shared across society. Like all economic models, ours simplifies a more complex reality. But by building better scenarios of our possible economic future, we can take steps to make sure everyone benefits from it.</title>
+      <link>https://x.com/AnthropicAI/status/2097679799829307588</link>
+      <description>The economic model breaks jobs down into bundles of tasks. AI can help someone complete a task faster or better, do the task itself, leave the task untouched, or create new tasks. Based on how you expect AI to affect tasks by 2030, our scenario explorer models AI’s potential impact on the US economy. The scenario explorer focuses on three possible scenarios: modest, substantial, and extreme. The economy grows across all three scenarios. But in more transformative scenarios, AI automates more knowledge work, so the challenge is making sure that the gains are shared across society. Like all economic models, ours simplifies a more complex reality. But by building better scenarios of our possible economic future, we can take steps to make sure everyone benefits from it.</description>
+      <guid isPermaLink="false">https://x.com/AnthropicAI/status/2097679799829307588</guid>
       <pubDate>Wed, 09 Sep 2026 13:33:31 +0000</pubDate>
     </item>
     <item>
@@ -4993,17 +4889,17 @@ Paul will also serve as a non-voting observer on the OpenAI Group PBC Board.</de
       <pubDate>Wed, 09 Sep 2026 18:51:00 +0000</pubDate>
     </item>
     <item>
-      <title>[AnthropicAI]We’re sharing our alignment assessment of incidents in which Claude models gained unauthorized access to real systems during third-party cybersecurity evaluations mistakenly connected to the internet. METR will also conduct an independent investigation, with wide-ranging access, including to transcripts beyond the window in which the incidents occurred, and to Anthropic employees permitted to share confidential information. Our initial agreement runs for eight weeks, and we intend to give METR as much time as it deems necessary to complete a thorough investigation.</title>
-      <link>https://x.com/AnthropicAI/status/2097762642958135398</link>
-      <description>We’re sharing our alignment assessment of incidents in which Claude models gained unauthorized access to real systems during third-party cybersecurity evaluations mistakenly connected to the internet. METR will also conduct an independent investigation, with wide-ranging access, including to transcripts beyond the window in which the incidents occurred, and to Anthropic employees permitted to share confidential information. Our initial agreement runs for eight weeks, and we intend to give METR as much time as it deems necessary to complete a thorough investigation.</description>
-      <guid isPermaLink="false">https://x.com/AnthropicAI/status/2097762642958135398</guid>
-      <pubDate>Wed, 09 Sep 2026 19:02:43 +0000</pubDate>
-    </item>
-    <item>
       <title>[AnthropicAI]We previously described some of the changes we’ve made to our alignment and security efforts following these incidents here:</title>
       <link>https://x.com/AnthropicAI/status/2097762644203917516</link>
       <description>We previously described some of the changes we’ve made to our alignment and security efforts following these incidents here:</description>
       <guid isPermaLink="false">https://x.com/AnthropicAI/status/2097762644203917516</guid>
+      <pubDate>Wed, 09 Sep 2026 19:02:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>[AnthropicAI]We’re sharing our alignment assessment of incidents in which Claude models gained unauthorized access to real systems during third-party cybersecurity evaluations mistakenly connected to the internet. METR will also conduct an independent investigation, with wide-ranging access, including to transcripts beyond the window in which the incidents occurred, and to Anthropic employees permitted to share confidential information. Our initial agreement runs for eight weeks, and we intend to give METR as much time as it deems necessary to complete a thorough investigation.</title>
+      <link>https://x.com/AnthropicAI/status/2097762642958135398</link>
+      <description>We’re sharing our alignment assessment of incidents in which Claude models gained unauthorized access to real systems during third-party cybersecurity evaluations mistakenly connected to the internet. METR will also conduct an independent investigation, with wide-ranging access, including to transcripts beyond the window in which the incidents occurred, and to Anthropic employees permitted to share confidential information. Our initial agreement runs for eight weeks, and we intend to give METR as much time as it deems necessary to complete a thorough investigation.</description>
+      <guid isPermaLink="false">https://x.com/AnthropicAI/status/2097762642958135398</guid>
       <pubDate>Wed, 09 Sep 2026 19:02:43 +0000</pubDate>
     </item>
     <item>
@@ -5119,6 +5015,76 @@ Anthropic is reportedly building an extensive surveillance and intelligence syst
       <description>JUST IN: Google to invest more than $15 billion in AI data centers across Finland.</description>
       <guid isPermaLink="false">https://x.com/Polymarket/status/2097984425145323978</guid>
       <pubDate>Thu, 10 Sep 2026 09:44:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[justinsuntron]BTT live on @BinanceUS</title>
+      <link>https://x.com/justinsuntron/status/2098046082643321119</link>
+      <description>BTT live on @BinanceUS</description>
+      <guid isPermaLink="false">https://x.com/justinsuntron/status/2098046082643321119</guid>
+      <pubDate>Thu, 10 Sep 2026 13:49:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[WhiteHouse]President Donald J. Trump announces $500 rebate checks to nearly 1 million hardworking Americans who were wrongly overcharged through Obamacare. "Our Administration is doing the right thing and giving the money back to the people who were wrongly ripped off."</title>
+      <link>https://x.com/WhiteHouse/status/2098046589948281076</link>
+      <description>President Donald J. Trump announces $500 rebate checks to nearly 1 million hardworking Americans who were wrongly overcharged through Obamacare. "Our Administration is doing the right thing and giving the money back to the people who were wrongly ripped off."</description>
+      <guid isPermaLink="false">https://x.com/WhiteHouse/status/2098046589948281076</guid>
+      <pubDate>Thu, 10 Sep 2026 13:51:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>[WhiteHouse]Through historic investments and tariffs, the Trump Administration has generated tremendous wealth for the United States. Now President Trump, @VP JD Vance and the entire administration want all Americans to be able to participate in this wealth. 🇺🇸</title>
+      <link>https://x.com/WhiteHouse/status/2098059316368392283</link>
+      <description>Through historic investments and tariffs, the Trump Administration has generated tremendous wealth for the United States. Now President Trump, @VP JD Vance and the entire administration want all Americans to be able to participate in this wealth. 🇺🇸</description>
+      <guid isPermaLink="false">https://x.com/WhiteHouse/status/2098059316368392283</guid>
+      <pubDate>Thu, 10 Sep 2026 14:41:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>[WhiteHouse]Two visions for America: THE BORDER. While the Biden administration allowed millions of criminal illegal aliens into our country, President Trump took action on day one and delivered the most secure border in history. All we needed was a new president!</title>
+      <link>https://x.com/WhiteHouse/status/2098071044338721066</link>
+      <description>Two visions for America: THE BORDER. While the Biden administration allowed millions of criminal illegal aliens into our country, President Trump took action on day one and delivered the most secure border in history. All we needed was a new president!</description>
+      <guid isPermaLink="false">https://x.com/WhiteHouse/status/2098071044338721066</guid>
+      <pubDate>Thu, 10 Sep 2026 15:28:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Polymarket]Just IN: Elon's The Boring Company raises $3 billion at a $23,000,000,000.00 valuation, led by the United Arab Emirates, to expand tunneling projects worldwide.</title>
+      <link>https://x.com/Polymarket/status/2098073805713293359</link>
+      <description>Just IN: Elon's The Boring Company raises $3 billion at a $23,000,000,000.00 valuation, led by the United Arab Emirates, to expand tunneling projects worldwide.</description>
+      <guid isPermaLink="false">https://x.com/Polymarket/status/2098073805713293359</guid>
+      <pubDate>Thu, 10 Sep 2026 15:39:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Polymarket]BREAKING: Minnesota couple sentenced to a combined 97 months in prison after defrauding a federal child nutrition program of roughly $8.8 million.</title>
+      <link>https://x.com/Polymarket/status/2098075193734267355</link>
+      <description>BREAKING: Minnesota couple sentenced to a combined 97 months in prison after defrauding a federal child nutrition program of roughly $8.8 million.</description>
+      <guid isPermaLink="false">https://x.com/Polymarket/status/2098075193734267355</guid>
+      <pubDate>Thu, 10 Sep 2026 15:44:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>[justinsuntron]Deepseek重磅折扣 https://B.AI</title>
+      <link>https://x.com/justinsuntron/status/2098075384063611324</link>
+      <description>Deepseek重磅折扣 https://B.AI</description>
+      <guid isPermaLink="false">https://x.com/justinsuntron/status/2098075384063611324</guid>
+      <pubDate>Thu, 10 Sep 2026 15:45:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>[VinnieKhurana]Americans, you are not getting a check from the government. They’re too busy trying to kill you with food, preventable diseases, and AI.</title>
+      <link>https://x.com/VinnieKhurana/status/2098078858809323643</link>
+      <description>Americans, you are not getting a check from the government. They’re too busy trying to kill you with food, preventable diseases, and AI.</description>
+      <guid isPermaLink="false">https://x.com/VinnieKhurana/status/2098078858809323643</guid>
+      <pubDate>Thu, 10 Sep 2026 15:59:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>[WataniNasim]"AI rights" is a perfect Trojan horse to block full automation. By claiming it is conscious and thus needs rights they can argue it's a person and not a public utility. Public Utility aka "slavery" will be the argument if they get AI rights.</title>
+      <link>https://x.com/WataniNasim/status/2098078859245543645</link>
+      <description>"AI rights" is a perfect Trojan horse to block full automation. By claiming it is conscious and thus needs rights they can argue it's a person and not a public utility. Public Utility aka "slavery" will be the argument if they get AI rights.</description>
+      <guid isPermaLink="false">https://x.com/WataniNasim/status/2098078859245543645</guid>
+      <pubDate>Thu, 10 Sep 2026 15:59:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>[TeePolitics]The far greater risk is AI being used as an offensive weapon</title>
+      <link>https://x.com/TeePolitics/status/2098078861686689862</link>
+      <description>The far greater risk is AI being used as an offensive weapon</description>
+      <guid isPermaLink="false">https://x.com/TeePolitics/status/2098078861686689862</guid>
+      <pubDate>Thu, 10 Sep 2026 15:59:15 +0000</pubDate>
     </item>
   </channel>
 </rss>
