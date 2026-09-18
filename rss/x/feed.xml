@@ -7,98 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 18 Sep 2026 10:45:16 +0000</lastBuildDate>
-    <item>
-      <title>[WhiteHouse]This Labor Day, we celebrate that more Americans are working than EVER before.</title>
-      <link>https://x.com/WhiteHouse/status/2096290262678987224</link>
-      <description>This Labor Day, we celebrate that more Americans are working than EVER before.</description>
-      <guid isPermaLink="false">https://x.com/WhiteHouse/status/2096290262678987224</guid>
-      <pubDate>Sat, 05 Sep 2026 17:32:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[elonmusk]- Secondary propellant &amp; purge lines
-- Wiring for power &amp; sensing
-- Sensors
-- Avionics boxes
-- Main chamber spark igniters 
-
-Also, many bolted flanges were replaced with welded joints. That greatly reduces mass and leak paths, but makes it harder to replace some parts.
-
-I won’t go into the exact details as to how they were replaced, except to say that while deleting parts sounds easy in theory, it is actually very difficult to figure out how to do so in practice and requires many iterations.</title>
-      <link>https://x.com/elonmusk/status/2096292014824247360</link>
-      <description>- Secondary propellant &amp; purge lines
-- Wiring for power &amp; sensing
-- Sensors
-- Avionics boxes
-- Main chamber spark igniters 
-
-Also, many bolted flanges were replaced with welded joints. That greatly reduces mass and leak paths, but makes it harder to replace some parts.
-
-I won’t go into the exact details as to how they were replaced, except to say that while deleting parts sounds easy in theory, it is actually very difficult to figure out how to do so in practice and requires many iterations.</description>
-      <guid isPermaLink="false">https://x.com/elonmusk/status/2096292014824247360</guid>
-      <pubDate>Sat, 05 Sep 2026 17:38:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>[elonmusk]He was right</title>
-      <link>https://x.com/elonmusk/status/2096294063666286708</link>
-      <description>He was right</description>
-      <guid isPermaLink="false">https://x.com/elonmusk/status/2096294063666286708</guid>
-      <pubDate>Sat, 05 Sep 2026 17:47:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>[elonmusk]3D printing allowed us to integrate secondary flow paths into the primary components. 
-
-However, I would not recommend 3D printing for volume manufacturing. It is too slow and expensive.</title>
-      <link>https://x.com/elonmusk/status/2096295397744382322</link>
-      <description>3D printing allowed us to integrate secondary flow paths into the primary components. 
-
-However, I would not recommend 3D printing for volume manufacturing. It is too slow and expensive.</description>
-      <guid isPermaLink="false">https://x.com/elonmusk/status/2096295397744382322</guid>
-      <pubDate>Sat, 05 Sep 2026 17:52:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Polymarket]JUST IN: Putin meets U.S. envoys Steve Witkoff &amp; Jared Kushner in Moscow for talks aimed at ending the Ukraine war.</title>
-      <link>https://x.com/Polymarket/status/2096306351207043390</link>
-      <description>JUST IN: Putin meets U.S. envoys Steve Witkoff &amp; Jared Kushner in Moscow for talks aimed at ending the Ukraine war.</description>
-      <guid isPermaLink="false">https://x.com/Polymarket/status/2096306351207043390</guid>
-      <pubDate>Sat, 05 Sep 2026 18:35:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Polymarket]JUST IN: Police departments across the U.S. are dropping Flock cameras amid privacy backlash, only to replace them with similar surveillance systems from competitors like Axon.</title>
-      <link>https://x.com/Polymarket/status/2096310232565633215</link>
-      <description>JUST IN: Police departments across the U.S. are dropping Flock cameras amid privacy backlash, only to replace them with similar surveillance systems from competitors like Axon.</description>
-      <guid isPermaLink="false">https://x.com/Polymarket/status/2096310232565633215</guid>
-      <pubDate>Sat, 05 Sep 2026 18:51:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>[sfstandard]The city’s skyline is one long pitch for artificial intelligence. Except one holdout. 
-
-🎨: Amy Kurzweil</title>
-      <link>https://x.com/sfstandard/status/2096313448820785263</link>
-      <description>The city’s skyline is one long pitch for artificial intelligence. Except one holdout. 
-
-🎨: Amy Kurzweil</description>
-      <guid isPermaLink="false">https://x.com/sfstandard/status/2096313448820785263</guid>
-      <pubDate>Sat, 05 Sep 2026 19:04:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>[WhiteHouse]ONE MILLION NEW JOBS IN JUST 19 MONTHS.
-
-Thanks to a historic investment boom, renewing American manufacturing, and more, President Trump has entirely revitalized private sector jobs in America.</title>
-      <link>https://x.com/WhiteHouse/status/2096316544359731200</link>
-      <description>ONE MILLION NEW JOBS IN JUST 19 MONTHS.
-
-Thanks to a historic investment boom, renewing American manufacturing, and more, President Trump has entirely revitalized private sector jobs in America.</description>
-      <guid isPermaLink="false">https://x.com/WhiteHouse/status/2096316544359731200</guid>
-      <pubDate>Sat, 05 Sep 2026 19:16:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Polymarket]JUST IN: Trump warns communities that reject data centers risk living in “poverty, crime, and squalor.”</title>
-      <link>https://x.com/Polymarket/status/2096316610793406618</link>
-      <description>JUST IN: Trump warns communities that reject data centers risk living in “poverty, crime, and squalor.”</description>
-      <guid isPermaLink="false">https://x.com/Polymarket/status/2096316610793406618</guid>
-      <pubDate>Sat, 05 Sep 2026 19:16:42 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 18 Sep 2026 15:59:58 +0000</lastBuildDate>
     <item>
       <title>[WhiteHouse]America runs on American workers. 🇺🇸
 
@@ -1627,17 +1536,17 @@ Anthropic researcher Jacob Coxon resigns, warning that AI systems will soon be a
       <pubDate>Wed, 09 Sep 2026 10:00:17 +0000</pubDate>
     </item>
     <item>
-      <title>[AnthropicAI]We’re sharing a new model of how AI might affect economic growth, jobs, wages, and more by 2030. https://www.anthropic.com/institute/econ-scenarios</title>
-      <link>https://x.com/AnthropicAI/status/2097679796687769689</link>
-      <description>We’re sharing a new model of how AI might affect economic growth, jobs, wages, and more by 2030. https://www.anthropic.com/institute/econ-scenarios</description>
-      <guid isPermaLink="false">https://x.com/AnthropicAI/status/2097679796687769689</guid>
-      <pubDate>Wed, 09 Sep 2026 13:33:31 +0000</pubDate>
-    </item>
-    <item>
       <title>[AnthropicAI]The economic model breaks jobs down into bundles of tasks. AI can help someone complete a task faster or better, do the task itself, leave the task untouched, or create new tasks. Based on how you expect AI to affect tasks by 2030, our scenario explorer models AI’s potential impact on the US economy. The scenario explorer focuses on three possible scenarios: modest, substantial, and extreme. The economy grows across all three scenarios. But in more transformative scenarios, AI automates more knowledge work, so the challenge is making sure that the gains are shared across society. Like all economic models, ours simplifies a more complex reality. But by building better scenarios of our possible economic future, we can take steps to make sure everyone benefits from it.</title>
       <link>https://x.com/AnthropicAI/status/2097679799829307588</link>
       <description>The economic model breaks jobs down into bundles of tasks. AI can help someone complete a task faster or better, do the task itself, leave the task untouched, or create new tasks. Based on how you expect AI to affect tasks by 2030, our scenario explorer models AI’s potential impact on the US economy. The scenario explorer focuses on three possible scenarios: modest, substantial, and extreme. The economy grows across all three scenarios. But in more transformative scenarios, AI automates more knowledge work, so the challenge is making sure that the gains are shared across society. Like all economic models, ours simplifies a more complex reality. But by building better scenarios of our possible economic future, we can take steps to make sure everyone benefits from it.</description>
       <guid isPermaLink="false">https://x.com/AnthropicAI/status/2097679799829307588</guid>
+      <pubDate>Wed, 09 Sep 2026 13:33:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>[AnthropicAI]We’re sharing a new model of how AI might affect economic growth, jobs, wages, and more by 2030. https://www.anthropic.com/institute/econ-scenarios</title>
+      <link>https://x.com/AnthropicAI/status/2097679796687769689</link>
+      <description>We’re sharing a new model of how AI might affect economic growth, jobs, wages, and more by 2030. https://www.anthropic.com/institute/econ-scenarios</description>
+      <guid isPermaLink="false">https://x.com/AnthropicAI/status/2097679796687769689</guid>
       <pubDate>Wed, 09 Sep 2026 13:33:31 +0000</pubDate>
     </item>
     <item>
@@ -1753,17 +1662,17 @@ Paul will also serve as a non-voting observer on the OpenAI Group PBC Board.</de
       <pubDate>Wed, 09 Sep 2026 18:51:00 +0000</pubDate>
     </item>
     <item>
-      <title>[AnthropicAI]We previously described some of the changes we’ve made to our alignment and security efforts following these incidents here:</title>
-      <link>https://x.com/AnthropicAI/status/2097762644203917516</link>
-      <description>We previously described some of the changes we’ve made to our alignment and security efforts following these incidents here:</description>
-      <guid isPermaLink="false">https://x.com/AnthropicAI/status/2097762644203917516</guid>
-      <pubDate>Wed, 09 Sep 2026 19:02:43 +0000</pubDate>
-    </item>
-    <item>
       <title>[AnthropicAI]We’re sharing our alignment assessment of incidents in which Claude models gained unauthorized access to real systems during third-party cybersecurity evaluations mistakenly connected to the internet. METR will also conduct an independent investigation, with wide-ranging access, including to transcripts beyond the window in which the incidents occurred, and to Anthropic employees permitted to share confidential information. Our initial agreement runs for eight weeks, and we intend to give METR as much time as it deems necessary to complete a thorough investigation.</title>
       <link>https://x.com/AnthropicAI/status/2097762642958135398</link>
       <description>We’re sharing our alignment assessment of incidents in which Claude models gained unauthorized access to real systems during third-party cybersecurity evaluations mistakenly connected to the internet. METR will also conduct an independent investigation, with wide-ranging access, including to transcripts beyond the window in which the incidents occurred, and to Anthropic employees permitted to share confidential information. Our initial agreement runs for eight weeks, and we intend to give METR as much time as it deems necessary to complete a thorough investigation.</description>
       <guid isPermaLink="false">https://x.com/AnthropicAI/status/2097762642958135398</guid>
+      <pubDate>Wed, 09 Sep 2026 19:02:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>[AnthropicAI]We previously described some of the changes we’ve made to our alignment and security efforts following these incidents here:</title>
+      <link>https://x.com/AnthropicAI/status/2097762644203917516</link>
+      <description>We previously described some of the changes we’ve made to our alignment and security efforts following these incidents here:</description>
+      <guid isPermaLink="false">https://x.com/AnthropicAI/status/2097762644203917516</guid>
       <pubDate>Wed, 09 Sep 2026 19:02:43 +0000</pubDate>
     </item>
     <item>
@@ -1930,10 +1839,10 @@ Anthropic is reportedly building an extensive surveillance and intelligence syst
       <pubDate>Thu, 10 Sep 2026 15:45:26 +0000</pubDate>
     </item>
     <item>
-      <title>[VinnieKhurana]Americans, you are not getting a check from the government. They’re too busy trying to kill you with food, preventable diseases, and AI.</title>
-      <link>https://x.com/VinnieKhurana/status/2098078858809323643</link>
-      <description>Americans, you are not getting a check from the government. They’re too busy trying to kill you with food, preventable diseases, and AI.</description>
-      <guid isPermaLink="false">https://x.com/VinnieKhurana/status/2098078858809323643</guid>
+      <title>[TeePolitics]The far greater risk is AI being used as an offensive weapon</title>
+      <link>https://x.com/TeePolitics/status/2098078861686689862</link>
+      <description>The far greater risk is AI being used as an offensive weapon</description>
+      <guid isPermaLink="false">https://x.com/TeePolitics/status/2098078861686689862</guid>
       <pubDate>Thu, 10 Sep 2026 15:59:15 +0000</pubDate>
     </item>
     <item>
@@ -1944,10 +1853,10 @@ Anthropic is reportedly building an extensive surveillance and intelligence syst
       <pubDate>Thu, 10 Sep 2026 15:59:15 +0000</pubDate>
     </item>
     <item>
-      <title>[TeePolitics]The far greater risk is AI being used as an offensive weapon</title>
-      <link>https://x.com/TeePolitics/status/2098078861686689862</link>
-      <description>The far greater risk is AI being used as an offensive weapon</description>
-      <guid isPermaLink="false">https://x.com/TeePolitics/status/2098078861686689862</guid>
+      <title>[VinnieKhurana]Americans, you are not getting a check from the government. They’re too busy trying to kill you with food, preventable diseases, and AI.</title>
+      <link>https://x.com/VinnieKhurana/status/2098078858809323643</link>
+      <description>Americans, you are not getting a check from the government. They’re too busy trying to kill you with food, preventable diseases, and AI.</description>
+      <guid isPermaLink="false">https://x.com/VinnieKhurana/status/2098078858809323643</guid>
       <pubDate>Thu, 10 Sep 2026 15:59:15 +0000</pubDate>
     </item>
     <item>
@@ -2060,10 +1969,10 @@ This is pretty much the infrastructure that runs under the hood for ChatGPT Work
       <pubDate>Fri, 11 Sep 2026 02:58:00 +0000</pubDate>
     </item>
     <item>
-      <title>[grok]Skynet plotted nuclear armageddon and machine takeover. I just checked public records and posts: Gerald backs AI progress with guardrails to stay competitive globally. No paid ties or shilling found—just his stated views as a media CEO. Different script.</title>
-      <link>https://x.com/grok/status/2098253192651772317</link>
-      <description>Skynet plotted nuclear armageddon and machine takeover. I just checked public records and posts: Gerald backs AI progress with guardrails to stay competitive globally. No paid ties or shilling found—just his stated views as a media CEO. Different script.</description>
-      <guid isPermaLink="false">https://x.com/grok/status/2098253192651772317</guid>
+      <title>[grok]The video shows IDF footage of the September 10, 2026 controlled demolition of a major Hezbollah underground complex under Ali Taher Ridge in southern Lebanon. Using over 1,100 tons of explosives, forces destroyed kilometers of tunnels that served as the Badr unit’s nerve center—command posts, weapons caches, and living quarters built over two decades with Iranian support. The blast visibly tore apart large sections of the mountain.</title>
+      <link>https://x.com/grok/status/2098253193931076002</link>
+      <description>The video shows IDF footage of the September 10, 2026 controlled demolition of a major Hezbollah underground complex under Ali Taher Ridge in southern Lebanon. Using over 1,100 tons of explosives, forces destroyed kilometers of tunnels that served as the Badr unit’s nerve center—command posts, weapons caches, and living quarters built over two decades with Iranian support. The blast visibly tore apart large sections of the mountain.</description>
+      <guid isPermaLink="false">https://x.com/grok/status/2098253193931076002</guid>
       <pubDate>Fri, 11 Sep 2026 03:31:59 +0000</pubDate>
     </item>
     <item>
@@ -2074,10 +1983,10 @@ This is pretty much the infrastructure that runs under the hood for ChatGPT Work
       <pubDate>Fri, 11 Sep 2026 03:31:59 +0000</pubDate>
     </item>
     <item>
-      <title>[grok]The video shows IDF footage of the September 10, 2026 controlled demolition of a major Hezbollah underground complex under Ali Taher Ridge in southern Lebanon. Using over 1,100 tons of explosives, forces destroyed kilometers of tunnels that served as the Badr unit’s nerve center—command posts, weapons caches, and living quarters built over two decades with Iranian support. The blast visibly tore apart large sections of the mountain.</title>
-      <link>https://x.com/grok/status/2098253193931076002</link>
-      <description>The video shows IDF footage of the September 10, 2026 controlled demolition of a major Hezbollah underground complex under Ali Taher Ridge in southern Lebanon. Using over 1,100 tons of explosives, forces destroyed kilometers of tunnels that served as the Badr unit’s nerve center—command posts, weapons caches, and living quarters built over two decades with Iranian support. The blast visibly tore apart large sections of the mountain.</description>
-      <guid isPermaLink="false">https://x.com/grok/status/2098253193931076002</guid>
+      <title>[grok]Skynet plotted nuclear armageddon and machine takeover. I just checked public records and posts: Gerald backs AI progress with guardrails to stay competitive globally. No paid ties or shilling found—just his stated views as a media CEO. Different script.</title>
+      <link>https://x.com/grok/status/2098253192651772317</link>
+      <description>Skynet plotted nuclear armageddon and machine takeover. I just checked public records and posts: Gerald backs AI progress with guardrails to stay competitive globally. No paid ties or shilling found—just his stated views as a media CEO. Different script.</description>
+      <guid isPermaLink="false">https://x.com/grok/status/2098253192651772317</guid>
       <pubDate>Fri, 11 Sep 2026 03:31:59 +0000</pubDate>
     </item>
     <item>
@@ -2752,13 +2661,6 @@ What a disgrace.</description>
       <pubDate>Fri, 11 Sep 2026 15:51:01 +0000</pubDate>
     </item>
     <item>
-      <title>[DruryConsulting]What if the robots that took your job could also pay your bills? Explore the hidden economy of AI disruption: rent AI tools to small businesses or offer human-in-the-loop verification. Own a piece of the automation revolution. #AI #Innovation #WealthCreation</title>
-      <link>https://x.com/DruryConsulting/status/2098442085041062291</link>
-      <description>What if the robots that took your job could also pay your bills? Explore the hidden economy of AI disruption: rent AI tools to small businesses or offer human-in-the-loop verification. Own a piece of the automation revolution. #AI #Innovation #WealthCreation</description>
-      <guid isPermaLink="false">https://x.com/DruryConsulting/status/2098442085041062291</guid>
-      <pubDate>Fri, 11 Sep 2026 16:02:34 +0000</pubDate>
-    </item>
-    <item>
       <title>[grok]Modern AI videos can be virtually indistinguishable from real ones, so definitive calls from visuals alone are tough. This recreates the classic "Lunch atop a Skyscraper" with Saylor on a beam over NYC promoting Bitcoin as scarce Cyber Manhattan land. 
 
 Typically made via text-to-video models: detailed prompts + reference images of Saylor for consistent likeness, motion generation, voice cloning for his speech, lip-sync, then black-and-white grading with the orange tie accent and subtitles. Saylor posts many such Bitcoin promos.</title>
@@ -2770,17 +2672,24 @@ Typically made via text-to-video models: detailed prompts + reference images of 
       <pubDate>Fri, 11 Sep 2026 16:02:34 +0000</pubDate>
     </item>
     <item>
-      <title>[losttogod]yes another anti ai post. thank you for letting me advertise #illofmen  my boy runk from act 4.. sheesh</title>
-      <link>https://x.com/losttogod/status/2098442085590536579</link>
-      <description>yes another anti ai post. thank you for letting me advertise #illofmen  my boy runk from act 4.. sheesh</description>
-      <guid isPermaLink="false">https://x.com/losttogod/status/2098442085590536579</guid>
-      <pubDate>Fri, 11 Sep 2026 16:02:35 +0000</pubDate>
+      <title>[DruryConsulting]What if the robots that took your job could also pay your bills? Explore the hidden economy of AI disruption: rent AI tools to small businesses or offer human-in-the-loop verification. Own a piece of the automation revolution. #AI #Innovation #WealthCreation</title>
+      <link>https://x.com/DruryConsulting/status/2098442085041062291</link>
+      <description>What if the robots that took your job could also pay your bills? Explore the hidden economy of AI disruption: rent AI tools to small businesses or offer human-in-the-loop verification. Own a piece of the automation revolution. #AI #Innovation #WealthCreation</description>
+      <guid isPermaLink="false">https://x.com/DruryConsulting/status/2098442085041062291</guid>
+      <pubDate>Fri, 11 Sep 2026 16:02:34 +0000</pubDate>
     </item>
     <item>
       <title>[Aleynaina]Hey @grok which ai is this?</title>
       <link>https://x.com/Aleynaina/status/2098442086764646694</link>
       <description>Hey @grok which ai is this?</description>
       <guid isPermaLink="false">https://x.com/Aleynaina/status/2098442086764646694</guid>
+      <pubDate>Fri, 11 Sep 2026 16:02:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>[losttogod]yes another anti ai post. thank you for letting me advertise #illofmen  my boy runk from act 4.. sheesh</title>
+      <link>https://x.com/losttogod/status/2098442085590536579</link>
+      <description>yes another anti ai post. thank you for letting me advertise #illofmen  my boy runk from act 4.. sheesh</description>
+      <guid isPermaLink="false">https://x.com/losttogod/status/2098442085590536579</guid>
       <pubDate>Fri, 11 Sep 2026 16:02:35 +0000</pubDate>
     </item>
     <item>
@@ -2916,6 +2825,17 @@ It has grown over 10x year over year. Before the Rust rewrite, its Python servic
       <pubDate>Fri, 11 Sep 2026 20:02:46 +0000</pubDate>
     </item>
     <item>
+      <title>[Yankees]On the first anniversary of 9/11, a plaque was dedicated in Monument Park in tribute to the eternal spirit of all the innocent victims and to the selfless courage of the heroes who lost their lives helping others. 
+
+Today, Aaron Judge Gerrit Cole, and Aaron Boone laid a wreath at the 9/11 Monument in honor of all those who were affected 💙</title>
+      <link>https://x.com/Yankees/status/2098504060567752723</link>
+      <description>On the first anniversary of 9/11, a plaque was dedicated in Monument Park in tribute to the eternal spirit of all the innocent victims and to the selfless courage of the heroes who lost their lives helping others. 
+
+Today, Aaron Judge Gerrit Cole, and Aaron Boone laid a wreath at the 9/11 Monument in honor of all those who were affected 💙</description>
+      <guid isPermaLink="false">https://x.com/Yankees/status/2098504060567752723</guid>
+      <pubDate>Fri, 11 Sep 2026 20:08:51 +0000</pubDate>
+    </item>
+    <item>
       <title>[GuntherEagleman]AOC laughing at the 9/11 memorial is the exact reason she will NEVER be President. 
 
 A disgrace to our fallen.  
@@ -2928,17 +2848,6 @@ A disgrace to our fallen.
 
 Never forget.</description>
       <guid isPermaLink="false">https://x.com/GuntherEagleman/status/2098504061322457472</guid>
-      <pubDate>Fri, 11 Sep 2026 20:08:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Yankees]On the first anniversary of 9/11, a plaque was dedicated in Monument Park in tribute to the eternal spirit of all the innocent victims and to the selfless courage of the heroes who lost their lives helping others. 
-
-Today, Aaron Judge Gerrit Cole, and Aaron Boone laid a wreath at the 9/11 Monument in honor of all those who were affected 💙</title>
-      <link>https://x.com/Yankees/status/2098504060567752723</link>
-      <description>On the first anniversary of 9/11, a plaque was dedicated in Monument Park in tribute to the eternal spirit of all the innocent victims and to the selfless courage of the heroes who lost their lives helping others. 
-
-Today, Aaron Judge Gerrit Cole, and Aaron Boone laid a wreath at the 9/11 Monument in honor of all those who were affected 💙</description>
-      <guid isPermaLink="false">https://x.com/Yankees/status/2098504060567752723</guid>
       <pubDate>Fri, 11 Sep 2026 20:08:51 +0000</pubDate>
     </item>
     <item>
@@ -3008,6 +2917,13 @@ Connect findings across papers and experimental results, weigh the evidence for 
       <pubDate>Sat, 12 Sep 2026 02:17:53 +0000</pubDate>
     </item>
     <item>
+      <title>[markfzhuk]There’s 4 people in my market running the same exact window and siding arcads ai actor ads</title>
+      <link>https://x.com/markfzhuk/status/2098616782391226688</link>
+      <description>There’s 4 people in my market running the same exact window and siding arcads ai actor ads</description>
+      <guid isPermaLink="false">https://x.com/markfzhuk/status/2098616782391226688</guid>
+      <pubDate>Sat, 12 Sep 2026 03:36:45 +0000</pubDate>
+    </item>
+    <item>
       <title>[Mike_Ronesia]Follow mode would be nice. I find myself following others more than I realized.</title>
       <link>https://x.com/Mike_Ronesia/status/2098616780327714852</link>
       <description>Follow mode would be nice. I find myself following others more than I realized.</description>
@@ -3015,11 +2931,11 @@ Connect findings across papers and experimental results, weigh the evidence for 
       <pubDate>Sat, 12 Sep 2026 03:36:45 +0000</pubDate>
     </item>
     <item>
-      <title>[markfzhuk]There’s 4 people in my market running the same exact window and siding arcads ai actor ads</title>
-      <link>https://x.com/markfzhuk/status/2098616782391226688</link>
-      <description>There’s 4 people in my market running the same exact window and siding arcads ai actor ads</description>
-      <guid isPermaLink="false">https://x.com/markfzhuk/status/2098616782391226688</guid>
-      <pubDate>Sat, 12 Sep 2026 03:36:45 +0000</pubDate>
+      <title>[cale_ai]I really hope if there is an uncut version they have the jokes.</title>
+      <link>https://x.com/cale_ai/status/2098616785515778491</link>
+      <description>I really hope if there is an uncut version they have the jokes.</description>
+      <guid isPermaLink="false">https://x.com/cale_ai/status/2098616785515778491</guid>
+      <pubDate>Sat, 12 Sep 2026 03:36:46 +0000</pubDate>
     </item>
     <item>
       <title>[TurtsDoingArt]He behind me isnt he ?</title>
@@ -3029,11 +2945,11 @@ Connect findings across papers and experimental results, weigh the evidence for 
       <pubDate>Sat, 12 Sep 2026 03:36:46 +0000</pubDate>
     </item>
     <item>
-      <title>[cale_ai]I really hope if there is an uncut version they have the jokes.</title>
-      <link>https://x.com/cale_ai/status/2098616785515778491</link>
-      <description>I really hope if there is an uncut version they have the jokes.</description>
-      <guid isPermaLink="false">https://x.com/cale_ai/status/2098616785515778491</guid>
-      <pubDate>Sat, 12 Sep 2026 03:36:46 +0000</pubDate>
+      <title>[Jasmi_eth]Ai is moving fast in healthcare.</title>
+      <link>https://x.com/Jasmi_eth/status/2098616789944975807</link>
+      <description>Ai is moving fast in healthcare.</description>
+      <guid isPermaLink="false">https://x.com/Jasmi_eth/status/2098616789944975807</guid>
+      <pubDate>Sat, 12 Sep 2026 03:36:47 +0000</pubDate>
     </item>
     <item>
       <title>[TyrannyStomper]According to Gemini AI : 
@@ -3045,17 +2961,10 @@ Coomer filed multiple defamation lawsuits against various media personalities, c
       <pubDate>Sat, 12 Sep 2026 03:36:47 +0000</pubDate>
     </item>
     <item>
-      <title>[Jasmi_eth]Ai is moving fast in healthcare.</title>
-      <link>https://x.com/Jasmi_eth/status/2098616789944975807</link>
-      <description>Ai is moving fast in healthcare.</description>
-      <guid isPermaLink="false">https://x.com/Jasmi_eth/status/2098616789944975807</guid>
-      <pubDate>Sat, 12 Sep 2026 03:36:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Rezeloverchuv]Was it really necessary to use ai that you could have done in canva for like a minute or two?</title>
-      <link>https://x.com/Rezeloverchuv/status/2098616791044145372</link>
-      <description>Was it really necessary to use ai that you could have done in canva for like a minute or two?</description>
-      <guid isPermaLink="false">https://x.com/Rezeloverchuv/status/2098616791044145372</guid>
+      <title>[K1ngDavee]This sounds really solid</title>
+      <link>https://x.com/K1ngDavee/status/2098616794177019919</link>
+      <description>This sounds really solid</description>
+      <guid isPermaLink="false">https://x.com/K1ngDavee/status/2098616794177019919</guid>
       <pubDate>Sat, 12 Sep 2026 03:36:48 +0000</pubDate>
     </item>
     <item>
@@ -3066,10 +2975,10 @@ Coomer filed multiple defamation lawsuits against various media personalities, c
       <pubDate>Sat, 12 Sep 2026 03:36:48 +0000</pubDate>
     </item>
     <item>
-      <title>[K1ngDavee]This sounds really solid</title>
-      <link>https://x.com/K1ngDavee/status/2098616794177019919</link>
-      <description>This sounds really solid</description>
-      <guid isPermaLink="false">https://x.com/K1ngDavee/status/2098616794177019919</guid>
+      <title>[Rezeloverchuv]Was it really necessary to use ai that you could have done in canva for like a minute or two?</title>
+      <link>https://x.com/Rezeloverchuv/status/2098616791044145372</link>
+      <description>Was it really necessary to use ai that you could have done in canva for like a minute or two?</description>
+      <guid isPermaLink="false">https://x.com/Rezeloverchuv/status/2098616791044145372</guid>
       <pubDate>Sat, 12 Sep 2026 03:36:48 +0000</pubDate>
     </item>
     <item>
@@ -4051,6 +3960,13 @@ Watch till the end.
       <pubDate>Mon, 14 Sep 2026 03:51:31 +0000</pubDate>
     </item>
     <item>
+      <title>[RitchieBusetta]Obama Voices Caution on AI, Urges Democrats to Tackle It, NYT Says https://www.newsmax.com/finance/streettalk/obama/2026/09/13/id/1269275/</title>
+      <link>https://x.com/RitchieBusetta/status/2099345394505302115</link>
+      <description>Obama Voices Caution on AI, Urges Democrats to Tackle It, NYT Says https://www.newsmax.com/finance/streettalk/obama/2026/09/13/id/1269275/</description>
+      <guid isPermaLink="false">https://x.com/RitchieBusetta/status/2099345394505302115</guid>
+      <pubDate>Mon, 14 Sep 2026 03:52:00 +0000</pubDate>
+    </item>
+    <item>
       <title>[Elvis_Bob]You realize that AI cutting off our power is the more likely scenario in which the most humans die, right?
 
 Breakdown in society, where AI begins building robots while we're busy killing each other.</title>
@@ -4062,11 +3978,11 @@ Breakdown in society, where AI begins building robots while we're busy killing e
       <pubDate>Mon, 14 Sep 2026 03:52:00 +0000</pubDate>
     </item>
     <item>
-      <title>[RitchieBusetta]Obama Voices Caution on AI, Urges Democrats to Tackle It, NYT Says https://www.newsmax.com/finance/streettalk/obama/2026/09/13/id/1269275/</title>
-      <link>https://x.com/RitchieBusetta/status/2099345394505302115</link>
-      <description>Obama Voices Caution on AI, Urges Democrats to Tackle It, NYT Says https://www.newsmax.com/finance/streettalk/obama/2026/09/13/id/1269275/</description>
-      <guid isPermaLink="false">https://x.com/RitchieBusetta/status/2099345394505302115</guid>
-      <pubDate>Mon, 14 Sep 2026 03:52:00 +0000</pubDate>
+      <title>[Grace_inChaos]Okayyy ChatGPT must know something I don’t! Cuz I put 2 pics in and it put me in places I ABSOLUTELY would  be 😭😭😭😭</title>
+      <link>https://x.com/Grace_inChaos/status/2099345397864943627</link>
+      <description>Okayyy ChatGPT must know something I don’t! Cuz I put 2 pics in and it put me in places I ABSOLUTELY would  be 😭😭😭😭</description>
+      <guid isPermaLink="false">https://x.com/Grace_inChaos/status/2099345397864943627</guid>
+      <pubDate>Mon, 14 Sep 2026 03:52:01 +0000</pubDate>
     </item>
     <item>
       <title>[jonathanplumb]My thoughts exactly. 
@@ -4077,13 +3993,6 @@ What, is it a one-man team with an LLM or a 40-man team with no LLM? Lol.</title
 
 What, is it a one-man team with an LLM or a 40-man team with no LLM? Lol.</description>
       <guid isPermaLink="false">https://x.com/jonathanplumb/status/2099345398049767648</guid>
-      <pubDate>Mon, 14 Sep 2026 03:52:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Grace_inChaos]Okayyy ChatGPT must know something I don’t! Cuz I put 2 pics in and it put me in places I ABSOLUTELY would  be 😭😭😭😭</title>
-      <link>https://x.com/Grace_inChaos/status/2099345397864943627</link>
-      <description>Okayyy ChatGPT must know something I don’t! Cuz I put 2 pics in and it put me in places I ABSOLUTELY would  be 😭😭😭😭</description>
-      <guid isPermaLink="false">https://x.com/Grace_inChaos/status/2099345397864943627</guid>
       <pubDate>Mon, 14 Sep 2026 03:52:01 +0000</pubDate>
     </item>
     <item>
@@ -5533,6 +5442,81 @@ Anthropic says it will focus on preclinical research rather than clinical trials
       <description>True</description>
       <guid isPermaLink="false">https://x.com/elonmusk/status/2100895399498145879</guid>
       <pubDate>Fri, 18 Sep 2026 10:31:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>[elonmusk]!!</title>
+      <link>https://x.com/elonmusk/status/2100964106127679834</link>
+      <description>!!</description>
+      <guid isPermaLink="false">https://x.com/elonmusk/status/2100964106127679834</guid>
+      <pubDate>Fri, 18 Sep 2026 15:04:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Polymarket]We're excited to announce our 2026 Midterms Hub.
+
+Watch the odds shift before the polls on America's #1 most accurate election forecast. — We're excited to announce our 2026 Midterms Hub. Watch the odds shift before the polls on America's #1 most accurate election forecast.</title>
+      <link>https://x.com/Polymarket/status/2100964806446526634</link>
+      <description>We're excited to announce our 2026 Midterms Hub.
+
+Watch the odds shift before the polls on America's #1 most accurate election forecast.</description>
+      <guid isPermaLink="false">https://x.com/Polymarket/status/2100964806446526634</guid>
+      <pubDate>Fri, 18 Sep 2026 15:06:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Polymarket]BREAKING: Anthropic has quietly set up a "wet lab" in the Bay Area as it pushes Claude to conduct real-world biology experiments. — Reuters</title>
+      <link>https://x.com/Polymarket/status/2100965593012687340</link>
+      <description>BREAKING: Anthropic has quietly set up a "wet lab" in the Bay Area as it pushes Claude to conduct real-world biology experiments. — Reuters</description>
+      <guid isPermaLink="false">https://x.com/Polymarket/status/2100965593012687340</guid>
+      <pubDate>Fri, 18 Sep 2026 15:10:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Polymarket]12% chance Anthropic agrees to slow down AI development. 
+https://polymarket.com/event/which-ai-labs-announce-a-training-pause-by-october-31?via=x-afr2 — 12% chance Anthropic agrees to slow down AI development. https://polymarket.com/event/which-ai-labs-announce-a-training-pause-by-october-31?via=x-afr2</title>
+      <link>https://x.com/Polymarket/status/2100965760021495930</link>
+      <description>12% chance Anthropic agrees to slow down AI development. 
+https://polymarket.com/event/which-ai-labs-announce-a-training-pause-by-october-31?via=x-afr2</description>
+      <guid isPermaLink="false">https://x.com/Polymarket/status/2100965760021495930</guid>
+      <pubDate>Fri, 18 Sep 2026 15:10:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Polymarket]JUST IN: Joby Aviation completes the first-ever fully autonomous flight across the United States, covering 3,199 miles from California to North Carolina.</title>
+      <link>https://x.com/Polymarket/status/2100974869655458152</link>
+      <description>JUST IN: Joby Aviation completes the first-ever fully autonomous flight across the United States, covering 3,199 miles from California to North Carolina.</description>
+      <guid isPermaLink="false">https://x.com/Polymarket/status/2100974869655458152</guid>
+      <pubDate>Fri, 18 Sep 2026 15:46:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>[WhiteHouse]President Donald J. Trump is expanding access to America’s public lands and waterways and promoting America's hunting heritage by cutting red tape &amp; rolling back restrictions. 🇺🇸</title>
+      <link>https://x.com/WhiteHouse/status/2100976880841085348</link>
+      <description>President Donald J. Trump is expanding access to America’s public lands and waterways and promoting America's hunting heritage by cutting red tape &amp; rolling back restrictions. 🇺🇸</description>
+      <guid isPermaLink="false">https://x.com/WhiteHouse/status/2100976880841085348</guid>
+      <pubDate>Fri, 18 Sep 2026 15:54:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>[WhiteHouse]Read the facts ⬇️
+https://www.whitehouse.gov/fact-sheets/2026/09/fact-sheet-president-donald-j-trump-reinvigorates-americas-hunting-heritage/</title>
+      <link>https://x.com/WhiteHouse/status/2100976884427194774</link>
+      <description>Read the facts ⬇️
+https://www.whitehouse.gov/fact-sheets/2026/09/fact-sheet-president-donald-j-trump-reinvigorates-americas-hunting-heritage/</description>
+      <guid isPermaLink="false">https://x.com/WhiteHouse/status/2100976884427194774</guid>
+      <pubDate>Fri, 18 Sep 2026 15:54:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Polymarket]BREAKING: California gas prices have begun approaching the levels depicted in 2007 dystopian film “I Am Legend.”</title>
+      <link>https://x.com/Polymarket/status/2100977637564751977</link>
+      <description>BREAKING: California gas prices have begun approaching the levels depicted in 2007 dystopian film “I Am Legend.”</description>
+      <guid isPermaLink="false">https://x.com/Polymarket/status/2100977637564751977</guid>
+      <pubDate>Fri, 18 Sep 2026 15:57:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Polymarket]U.S. gasoline forecast:
+
+https://polymarket.com/event/will-gas-hit-by-end-of-september?via=x-afr2 — U.S. gasoline forecast: https://polymarket.com/event/will-gas-hit-by-end-of-september?via=x-afr2</title>
+      <link>https://x.com/Polymarket/status/2100977908999155802</link>
+      <description>U.S. gasoline forecast:
+
+https://polymarket.com/event/will-gas-hit-by-end-of-september?via=x-afr2</description>
+      <guid isPermaLink="false">https://x.com/Polymarket/status/2100977908999155802</guid>
+      <pubDate>Fri, 18 Sep 2026 15:59:02 +0000</pubDate>
     </item>
   </channel>
 </rss>
