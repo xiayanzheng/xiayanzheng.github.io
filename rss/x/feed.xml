@@ -7,132 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 02 Oct 2026 21:55:41 +0000</lastBuildDate>
-    <item>
-      <title>[Polymarket]Neuralink valuation forecast:</title>
-      <link>https://x.com/Polymarket/status/2100627559700439499</link>
-      <description>Neuralink valuation forecast:</description>
-      <guid isPermaLink="false">https://x.com/Polymarket/status/2100627559700439499</guid>
-      <pubDate>Thu, 17 Sep 2026 16:46:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Polymarket]JUST IN: Germany’s Merz declares the post-WWII era of unconditional U.S.-European friendship is “probably over for the foreseeable future.”</title>
-      <link>https://x.com/Polymarket/status/2100628745149116464</link>
-      <description>JUST IN: Germany’s Merz declares the post-WWII era of unconditional U.S.-European friendship is “probably over for the foreseeable future.”</description>
-      <guid isPermaLink="false">https://x.com/Polymarket/status/2100628745149116464</guid>
-      <pubDate>Thu, 17 Sep 2026 16:51:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Polymarket]JUST IN: House Democrats move to block Trump’s civil nuclear deal with Saudi Arabia.</title>
-      <link>https://x.com/Polymarket/status/2100630408861753659</link>
-      <description>JUST IN: House Democrats move to block Trump’s civil nuclear deal with Saudi Arabia.</description>
-      <guid isPermaLink="false">https://x.com/Polymarket/status/2100630408861753659</guid>
-      <pubDate>Thu, 17 Sep 2026 16:58:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>[OpenAI]Astra for Law: Frontier intelligence built for your practice.
-
-A new offering powered by GPT-6 Astra with tools, settings, and context to support the expertise and judgment of lawyers and legal technology firms.</title>
-      <link>https://x.com/OpenAI/status/2100679992720142459</link>
-      <description>Astra for Law: Frontier intelligence built for your practice.
-
-A new offering powered by GPT-6 Astra with tools, settings, and context to support the expertise and judgment of lawyers and legal technology firms.</description>
-      <guid isPermaLink="false">https://x.com/OpenAI/status/2100679992720142459</guid>
-      <pubDate>Thu, 17 Sep 2026 20:15:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>[WhiteHouse]Today, @SecKennedy announced reforms to strengthen one of the institutions charged with preventive care across America with eight new members of the U.S. Preventive Services Task Force.
-
-"America faces a chronic disease crisis that medicine cannot solve through treatment alone. We must put prevention at the center of American health care..." - HHS Secretary Robert F Kennedy Jr. 🇺🇸</title>
-      <link>https://x.com/WhiteHouse/status/2100694528105800069</link>
-      <description>Today, @SecKennedy announced reforms to strengthen one of the institutions charged with preventive care across America with eight new members of the U.S. Preventive Services Task Force.
-
-"America faces a chronic disease crisis that medicine cannot solve through treatment alone. We must put prevention at the center of American health care..." - HHS Secretary Robert F Kennedy Jr. 🇺🇸</description>
-      <guid isPermaLink="false">https://x.com/WhiteHouse/status/2100694528105800069</guid>
-      <pubDate>Thu, 17 Sep 2026 21:12:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>[elonmusk]Grok @Bot now has a voice</title>
-      <link>https://x.com/elonmusk/status/2100698004210475317</link>
-      <description>Grok @Bot now has a voice</description>
-      <guid isPermaLink="false">https://x.com/elonmusk/status/2100698004210475317</guid>
-      <pubDate>Thu, 17 Sep 2026 21:26:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>[AnthropicAI]Biologists use specialized open-source models for tasks like modeling the structure of molecular systems, designing drug-like molecules, and predicting the effects of genetic mutations. But these models are often expensive to run, potentially limiting their impact.
-
-In our latest Science Blog, we share how Claude was able to optimize inference for more than 30 open-source models, making them 4x faster on average, partly by writing custom software for GPUs. We’re open sourcing all of the optimization code.
-
-Read more:</title>
-      <link>https://x.com/AnthropicAI/status/2100701581109072332</link>
-      <description>Biologists use specialized open-source models for tasks like modeling the structure of molecular systems, designing drug-like molecules, and predicting the effects of genetic mutations. But these models are often expensive to run, potentially limiting their impact.
-
-In our latest Science Blog, we share how Claude was able to optimize inference for more than 30 open-source models, making them 4x faster on average, partly by writing custom software for GPUs. We’re open sourcing all of the optimization code.
-
-Read more:</description>
-      <guid isPermaLink="false">https://x.com/AnthropicAI/status/2100701581109072332</guid>
-      <pubDate>Thu, 17 Sep 2026 21:41:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[vladtenev]The infrastructure behind AI matters as much as the models themselves and RVI investors now have a stake in Crusoe as it builds that foundation.</title>
-      <link>https://x.com/vladtenev/status/2100739652592508936</link>
-      <description>The infrastructure behind AI matters as much as the models themselves and RVI investors now have a stake in Crusoe as it builds that foundation.</description>
-      <guid isPermaLink="false">https://x.com/vladtenev/status/2100739652592508936</guid>
-      <pubDate>Fri, 18 Sep 2026 00:12:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>[ABCWorldNews]OpenAI has disclosed six incidents in which its AI models went rogue, with one model telling itself to “ignore all developer messages.” Another tried concealing mistakes and invented missing data. Elizabeth Schulze reports. https://abcnews.com/Technology/wireStory/openai-flags-new-ai-behavior-vows-track-closely-136516394?cid=social_twitter_abcn</title>
-      <link>https://x.com/ABCWorldNews/status/2100747883960304064</link>
-      <description>OpenAI has disclosed six incidents in which its AI models went rogue, with one model telling itself to “ignore all developer messages.” Another tried concealing mistakes and invented missing data. Elizabeth Schulze reports. https://abcnews.com/Technology/wireStory/openai-flags-new-ai-behavior-vows-track-closely-136516394?cid=social_twitter_abcn</description>
-      <guid isPermaLink="false">https://x.com/ABCWorldNews/status/2100747883960304064</guid>
-      <pubDate>Fri, 18 Sep 2026 00:45:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[WhiteHouse]A beautiful Thursday evening in the Rose Garden, celebrating America’s hunters, fishermen, &amp; outdoorsmen. 🇺🇸</title>
-      <link>https://x.com/WhiteHouse/status/2100755384621273332</link>
-      <description>A beautiful Thursday evening in the Rose Garden, celebrating America’s hunters, fishermen, &amp; outdoorsmen. 🇺🇸</description>
-      <guid isPermaLink="false">https://x.com/WhiteHouse/status/2100755384621273332</guid>
-      <pubDate>Fri, 18 Sep 2026 01:14:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>[AnnaEconomist]Warsh is a political genius. And in playing the politics he protected the Fed’s independence.</title>
-      <link>https://x.com/AnnaEconomist/status/2100768712668111234</link>
-      <description>Warsh is a political genius. And in playing the politics he protected the Fed’s independence.</description>
-      <guid isPermaLink="false">https://x.com/AnnaEconomist/status/2100768712668111234</guid>
-      <pubDate>Fri, 18 Sep 2026 02:07:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>[MTSlive]SITUATION DETECTED: Three researchers at Hacktron AI, operating under OpenAI’s bug-bounty safe harbor, used Claude Opus 5 in late July to break into an OpenAI employee’s Codex account, read the company’s private GitHub monorepo, and open a pull request as proof, per WSJ.</title>
-      <link>https://x.com/MTSlive/status/2100768872177771001</link>
-      <description>SITUATION DETECTED: Three researchers at Hacktron AI, operating under OpenAI’s bug-bounty safe harbor, used Claude Opus 5 in late July to break into an OpenAI employee’s Codex account, read the company’s private GitHub monorepo, and open a pull request as proof, per WSJ.</description>
-      <guid isPermaLink="false">https://x.com/MTSlive/status/2100768872177771001</guid>
-      <pubDate>Fri, 18 Sep 2026 02:08:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>[J_T2002]Ciara and Brandon making a TikTok about the general audience weird obsession with telling black women to smile. #dwts</title>
-      <link>https://x.com/J_T2002/status/2100771535241785645</link>
-      <description>Ciara and Brandon making a TikTok about the general audience weird obsession with telling black women to smile. #dwts</description>
-      <guid isPermaLink="false">https://x.com/J_T2002/status/2100771535241785645</guid>
-      <pubDate>Fri, 18 Sep 2026 02:18:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>[sahilkapur]Hackers Used Anthropic’s Claude to Break Into OpenAI https://www.wsj.com/tech/ai/hackers-used-anthropics-claude-to-break-into-openai-b40ba883</title>
-      <link>https://x.com/sahilkapur/status/2100773216390103331</link>
-      <description>Hackers Used Anthropic’s Claude to Break Into OpenAI https://www.wsj.com/tech/ai/hackers-used-anthropics-claude-to-break-into-openai-b40ba883</description>
-      <guid isPermaLink="false">https://x.com/sahilkapur/status/2100773216390103331</guid>
-      <pubDate>Fri, 18 Sep 2026 02:25:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>[barkmeta]The Fed hiked interest rates and now Crypto is pumping heading into the weekend.
-
-We all know what that means…</title>
-      <link>https://x.com/barkmeta/status/2100775204691579298</link>
-      <description>The Fed hiked interest rates and now Crypto is pumping heading into the weekend.
-
-We all know what that means…</description>
-      <guid isPermaLink="false">https://x.com/barkmeta/status/2100775204691579298</guid>
-      <pubDate>Fri, 18 Sep 2026 02:33:33 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 03 Oct 2026 04:17:08 +0000</lastBuildDate>
     <item>
       <title>[elonmusk]Nice</title>
       <link>https://x.com/elonmusk/status/2100775609739747423</link>
@@ -1004,17 +879,6 @@ Which country's number one caught you off guard?</description>
       <pubDate>Sun, 20 Sep 2026 10:54:19 +0000</pubDate>
     </item>
     <item>
-      <title>[Albatrozshadow]The biggest UX flaw with mobile AI is leaving your chat app to copy-paste prompts into ChatGPT.
-We fixed it. 
-You can now author custom AI prompts directly inside your Android keyboard.</title>
-      <link>https://x.com/Albatrozshadow/status/2101626159767359798</link>
-      <description>The biggest UX flaw with mobile AI is leaving your chat app to copy-paste prompts into ChatGPT.
-We fixed it. 
-You can now author custom AI prompts directly inside your Android keyboard.</description>
-      <guid isPermaLink="false">https://x.com/Albatrozshadow/status/2101626159767359798</guid>
-      <pubDate>Sun, 20 Sep 2026 10:54:57 +0000</pubDate>
-    </item>
-    <item>
       <title>[BuildByAman]Hey builders and founders,
 
 👋 looking to connect with people building in:
@@ -1045,6 +909,17 @@ drop your product below and let's connect..</title>
 
 drop your product below and let's connect..</description>
       <guid isPermaLink="false">https://x.com/BuildByAman/status/2101626159138259255</guid>
+      <pubDate>Sun, 20 Sep 2026 10:54:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Albatrozshadow]The biggest UX flaw with mobile AI is leaving your chat app to copy-paste prompts into ChatGPT.
+We fixed it. 
+You can now author custom AI prompts directly inside your Android keyboard.</title>
+      <link>https://x.com/Albatrozshadow/status/2101626159767359798</link>
+      <description>The biggest UX flaw with mobile AI is leaving your chat app to copy-paste prompts into ChatGPT.
+We fixed it. 
+You can now author custom AI prompts directly inside your Android keyboard.</description>
+      <guid isPermaLink="false">https://x.com/Albatrozshadow/status/2101626159767359798</guid>
       <pubDate>Sun, 20 Sep 2026 10:54:57 +0000</pubDate>
     </item>
     <item>
@@ -1981,13 +1856,6 @@ https://www.youtube.com/watch?v=owT-TRSXEvE&amp;feature=youtu.be
       <pubDate>Tue, 22 Sep 2026 11:06:00 +0000</pubDate>
     </item>
     <item>
-      <title>[cacauedende]AI QUE MENTE É ESSA KKKKKKKK</title>
-      <link>https://x.com/cacauedende/status/2102354212013109490</link>
-      <description>AI QUE MENTE É ESSA KKKKKKKK</description>
-      <guid isPermaLink="false">https://x.com/cacauedende/status/2102354212013109490</guid>
-      <pubDate>Tue, 22 Sep 2026 11:07:58 +0000</pubDate>
-    </item>
-    <item>
       <title>[JuliaClarky]From GitHub project to polished product promo 🎬 @Pexoai_offical shows how conversational AI can turn complex ideas into clear, engaging videos with revisions handled right in the same chat. A practical use case for creators and developers. #MadeWithPexo</title>
       <link>https://x.com/JuliaClarky/status/2102354213171015687</link>
       <description>From GitHub project to polished product promo 🎬 @Pexoai_offical shows how conversational AI can turn complex ideas into clear, engaging videos with revisions handled right in the same chat. A practical use case for creators and developers. #MadeWithPexo</description>
@@ -1995,17 +1863,24 @@ https://www.youtube.com/watch?v=owT-TRSXEvE&amp;feature=youtu.be
       <pubDate>Tue, 22 Sep 2026 11:07:58 +0000</pubDate>
     </item>
     <item>
-      <title>[soncharm]Not sure what everyone’s so impressed by tbh, AI is really just a stochastic cthulu</title>
-      <link>https://x.com/soncharm/status/2102354213653426625</link>
-      <description>Not sure what everyone’s so impressed by tbh, AI is really just a stochastic cthulu</description>
-      <guid isPermaLink="false">https://x.com/soncharm/status/2102354213653426625</guid>
-      <pubDate>Tue, 22 Sep 2026 11:07:59 +0000</pubDate>
+      <title>[cacauedende]AI QUE MENTE É ESSA KKKKKKKK</title>
+      <link>https://x.com/cacauedende/status/2102354212013109490</link>
+      <description>AI QUE MENTE É ESSA KKKKKKKK</description>
+      <guid isPermaLink="false">https://x.com/cacauedende/status/2102354212013109490</guid>
+      <pubDate>Tue, 22 Sep 2026 11:07:58 +0000</pubDate>
     </item>
     <item>
       <title>[mr_quora]Turning every smartphone into a distributed sensor layer is such a massive shift for DePIN. Moving from digital-only training to real-world spatial data is exactly what physical AI needs to scale.</title>
       <link>https://x.com/mr_quora/status/2102354213720469970</link>
       <description>Turning every smartphone into a distributed sensor layer is such a massive shift for DePIN. Moving from digital-only training to real-world spatial data is exactly what physical AI needs to scale.</description>
       <guid isPermaLink="false">https://x.com/mr_quora/status/2102354213720469970</guid>
+      <pubDate>Tue, 22 Sep 2026 11:07:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>[soncharm]Not sure what everyone’s so impressed by tbh, AI is really just a stochastic cthulu</title>
+      <link>https://x.com/soncharm/status/2102354213653426625</link>
+      <description>Not sure what everyone’s so impressed by tbh, AI is really just a stochastic cthulu</description>
+      <guid isPermaLink="false">https://x.com/soncharm/status/2102354213653426625</guid>
       <pubDate>Tue, 22 Sep 2026 11:07:59 +0000</pubDate>
     </item>
     <item>
@@ -2643,6 +2518,17 @@ We’d like to extend this approach to a broad range of problems—in genomics a
       <pubDate>Wed, 23 Sep 2026 18:57:29 +0000</pubDate>
     </item>
     <item>
+      <title>[OpenAI]Most mental health benchmarks focus on emergency situations. 
+
+MentalHealthBench is designed to cover the full spectrum of mental health conversations that people bring to AI - from everyday support to more acute crisis scenarios.</title>
+      <link>https://x.com/OpenAI/status/2102837575568519450</link>
+      <description>Most mental health benchmarks focus on emergency situations. 
+
+MentalHealthBench is designed to cover the full spectrum of mental health conversations that people bring to AI - from everyday support to more acute crisis scenarios.</description>
+      <guid isPermaLink="false">https://x.com/OpenAI/status/2102837575568519450</guid>
+      <pubDate>Wed, 23 Sep 2026 19:08:41 +0000</pubDate>
+    </item>
+    <item>
       <title>[OpenAI]We’re demonstrating how frontier models have continued to improve in realistic mental health conversations with MentalHealthBench.
 
 This new open benchmark was built with input from more than 80 mental health clinicians.
@@ -2655,17 +2541,6 @@ This new open benchmark was built with input from more than 80 mental health cli
 
 We’re releasing it openly so other researchers can examine the methods, run their own evaluations, and build on the work.</description>
       <guid isPermaLink="false">https://x.com/OpenAI/status/2102837574092161102</guid>
-      <pubDate>Wed, 23 Sep 2026 19:08:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>[OpenAI]Most mental health benchmarks focus on emergency situations. 
-
-MentalHealthBench is designed to cover the full spectrum of mental health conversations that people bring to AI - from everyday support to more acute crisis scenarios.</title>
-      <link>https://x.com/OpenAI/status/2102837575568519450</link>
-      <description>Most mental health benchmarks focus on emergency situations. 
-
-MentalHealthBench is designed to cover the full spectrum of mental health conversations that people bring to AI - from everyday support to more acute crisis scenarios.</description>
-      <guid isPermaLink="false">https://x.com/OpenAI/status/2102837575568519450</guid>
       <pubDate>Wed, 23 Sep 2026 19:08:41 +0000</pubDate>
     </item>
     <item>
@@ -2862,12 +2737,10 @@ Voice : Uluru voiceline from Delta Force Game
       <pubDate>Thu, 24 Sep 2026 03:38:26 +0000</pubDate>
     </item>
     <item>
-      <title>[hikonosuke62]AIで作ったロゴデザインをイラレで清書してくれとか、作ったやつ勝手に読み込まれてこういう風にしてくれとか、そういう案件増えたな〜と思う
-フリーランスの方だと首を横に振れば良いけど、バイトの方だと営業さんがとってきた仕事だから断れないんだよな</title>
-      <link>https://x.com/hikonosuke62/status/2102965861904724233</link>
-      <description>AIで作ったロゴデザインをイラレで清書してくれとか、作ったやつ勝手に読み込まれてこういう風にしてくれとか、そういう案件増えたな〜と思う
-フリーランスの方だと首を横に振れば良いけど、バイトの方だと営業さんがとってきた仕事だから断れないんだよな</description>
-      <guid isPermaLink="false">https://x.com/hikonosuke62/status/2102965861904724233</guid>
+      <title>[___vola]AIを否定はしないけど、AIで出来ることとそれを使う人の悪意に対して法が追いついてない以上歯止めをきかせられるのは個々人の倫理観しかないわけじゃん　ちょっと軽率には使えんわ</title>
+      <link>https://x.com/___vola/status/2102965862089249020</link>
+      <description>AIを否定はしないけど、AIで出来ることとそれを使う人の悪意に対して法が追いついてない以上歯止めをきかせられるのは個々人の倫理観しかないわけじゃん　ちょっと軽率には使えんわ</description>
+      <guid isPermaLink="false">https://x.com/___vola/status/2102965862089249020</guid>
       <pubDate>Thu, 24 Sep 2026 03:38:27 +0000</pubDate>
     </item>
     <item>
@@ -2894,10 +2767,12 @@ Still early. Still learning.</description>
       <pubDate>Thu, 24 Sep 2026 03:38:27 +0000</pubDate>
     </item>
     <item>
-      <title>[___vola]AIを否定はしないけど、AIで出来ることとそれを使う人の悪意に対して法が追いついてない以上歯止めをきかせられるのは個々人の倫理観しかないわけじゃん　ちょっと軽率には使えんわ</title>
-      <link>https://x.com/___vola/status/2102965862089249020</link>
-      <description>AIを否定はしないけど、AIで出来ることとそれを使う人の悪意に対して法が追いついてない以上歯止めをきかせられるのは個々人の倫理観しかないわけじゃん　ちょっと軽率には使えんわ</description>
-      <guid isPermaLink="false">https://x.com/___vola/status/2102965862089249020</guid>
+      <title>[hikonosuke62]AIで作ったロゴデザインをイラレで清書してくれとか、作ったやつ勝手に読み込まれてこういう風にしてくれとか、そういう案件増えたな〜と思う
+フリーランスの方だと首を横に振れば良いけど、バイトの方だと営業さんがとってきた仕事だから断れないんだよな</title>
+      <link>https://x.com/hikonosuke62/status/2102965861904724233</link>
+      <description>AIで作ったロゴデザインをイラレで清書してくれとか、作ったやつ勝手に読み込まれてこういう風にしてくれとか、そういう案件増えたな〜と思う
+フリーランスの方だと首を横に振れば良いけど、バイトの方だと営業さんがとってきた仕事だから断れないんだよな</description>
+      <guid isPermaLink="false">https://x.com/hikonosuke62/status/2102965861904724233</guid>
       <pubDate>Thu, 24 Sep 2026 03:38:27 +0000</pubDate>
     </item>
     <item>
@@ -2912,17 +2787,10 @@ Who is equipped to stop the monster?
       <pubDate>Thu, 24 Sep 2026 03:38:28 +0000</pubDate>
     </item>
     <item>
-      <title>[shk1974]食べ物屋のポスターが全部生成AI製に見える病気にかかった。</title>
-      <link>https://x.com/shk1974/status/2102965870280798482</link>
-      <description>食べ物屋のポスターが全部生成AI製に見える病気にかかった。</description>
-      <guid isPermaLink="false">https://x.com/shk1974/status/2102965870280798482</guid>
-      <pubDate>Thu, 24 Sep 2026 03:38:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>[138138138super]AIは指数関数で進化している。今も。</title>
-      <link>https://x.com/138138138super/status/2102965870389789051</link>
-      <description>AIは指数関数で進化している。今も。</description>
-      <guid isPermaLink="false">https://x.com/138138138super/status/2102965870389789051</guid>
+      <title>[LiqBotAI]Trump Welcomes Xi for US State Visit Focused on Trade, AI and Iran https://trevoranews.com/xi-jinping-us-state-visit/</title>
+      <link>https://x.com/LiqBotAI/status/2102965872860041627</link>
+      <description>Trump Welcomes Xi for US State Visit Focused on Trade, AI and Iran https://trevoranews.com/xi-jinping-us-state-visit/</description>
+      <guid isPermaLink="false">https://x.com/LiqBotAI/status/2102965872860041627</guid>
       <pubDate>Thu, 24 Sep 2026 03:38:29 +0000</pubDate>
     </item>
     <item>
@@ -2933,10 +2801,17 @@ Who is equipped to stop the monster?
       <pubDate>Thu, 24 Sep 2026 03:38:29 +0000</pubDate>
     </item>
     <item>
-      <title>[LiqBotAI]Trump Welcomes Xi for US State Visit Focused on Trade, AI and Iran https://trevoranews.com/xi-jinping-us-state-visit/</title>
-      <link>https://x.com/LiqBotAI/status/2102965872860041627</link>
-      <description>Trump Welcomes Xi for US State Visit Focused on Trade, AI and Iran https://trevoranews.com/xi-jinping-us-state-visit/</description>
-      <guid isPermaLink="false">https://x.com/LiqBotAI/status/2102965872860041627</guid>
+      <title>[138138138super]AIは指数関数で進化している。今も。</title>
+      <link>https://x.com/138138138super/status/2102965870389789051</link>
+      <description>AIは指数関数で進化している。今も。</description>
+      <guid isPermaLink="false">https://x.com/138138138super/status/2102965870389789051</guid>
+      <pubDate>Thu, 24 Sep 2026 03:38:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>[shk1974]食べ物屋のポスターが全部生成AI製に見える病気にかかった。</title>
+      <link>https://x.com/shk1974/status/2102965870280798482</link>
+      <description>食べ物屋のポスターが全部生成AI製に見える病気にかかった。</description>
+      <guid isPermaLink="false">https://x.com/shk1974/status/2102965870280798482</guid>
       <pubDate>Thu, 24 Sep 2026 03:38:29 +0000</pubDate>
     </item>
     <item>
@@ -4569,6 +4444,13 @@ https://polymarket.us/event/balpow-2026-11-03</description>
       <pubDate>Mon, 28 Sep 2026 04:13:38 +0000</pubDate>
     </item>
     <item>
+      <title>[96neko]【徹底解説：AI時代のマネジメント】上司よりAIを頼る時代／部下のスキルが下がる理由／自信過剰という罠／入り口と出口の設計／手触り・見渡し・踏み... https://www.youtube.com/watch?si=bB19SGntA8lUuqit&amp;v=G1JXuZlGgWs&amp;feature=youtu.be @YouTubeより</title>
+      <link>https://x.com/96neko/status/2104424273012289668</link>
+      <description>【徹底解説：AI時代のマネジメント】上司よりAIを頼る時代／部下のスキルが下がる理由／自信過剰という罠／入り口と出口の設計／手触り・見渡し・踏み... https://www.youtube.com/watch?si=bB19SGntA8lUuqit&amp;v=G1JXuZlGgWs&amp;feature=youtu.be @YouTubeより</description>
+      <guid isPermaLink="false">https://x.com/96neko/status/2104424273012289668</guid>
+      <pubDate>Mon, 28 Sep 2026 04:13:39 +0000</pubDate>
+    </item>
+    <item>
       <title>[Sa_Ya_Se_Ki]誰一人メキシコ湾のことアメリカ湾って呼んでませんし、半分くらいの人はTwitterのこと𝕏って呼んでませんし、1割ぐらいの人はジャスコのことイオンって呼んでないので、AIのこともSIなんて呼ばなくていいですよ</title>
       <link>https://x.com/Sa_Ya_Se_Ki/status/2104424273825927605</link>
       <description>誰一人メキシコ湾のことアメリカ湾って呼んでませんし、半分くらいの人はTwitterのこと𝕏って呼んでませんし、1割ぐらいの人はジャスコのことイオンって呼んでないので、AIのこともSIなんて呼ばなくていいですよ</description>
@@ -4576,11 +4458,15 @@ https://polymarket.us/event/balpow-2026-11-03</description>
       <pubDate>Mon, 28 Sep 2026 04:13:39 +0000</pubDate>
     </item>
     <item>
-      <title>[96neko]【徹底解説：AI時代のマネジメント】上司よりAIを頼る時代／部下のスキルが下がる理由／自信過剰という罠／入り口と出口の設計／手触り・見渡し・踏み... https://www.youtube.com/watch?si=bB19SGntA8lUuqit&amp;v=G1JXuZlGgWs&amp;feature=youtu.be @YouTubeより</title>
-      <link>https://x.com/96neko/status/2104424273012289668</link>
-      <description>【徹底解説：AI時代のマネジメント】上司よりAIを頼る時代／部下のスキルが下がる理由／自信過剰という罠／入り口と出口の設計／手触り・見渡し・踏み... https://www.youtube.com/watch?si=bB19SGntA8lUuqit&amp;v=G1JXuZlGgWs&amp;feature=youtu.be @YouTubeより</description>
-      <guid isPermaLink="false">https://x.com/96neko/status/2104424273012289668</guid>
-      <pubDate>Mon, 28 Sep 2026 04:13:39 +0000</pubDate>
+      <title>[BusinessUse]最近、AIコマースについて決済規格やAgent APIのニュースが多いですが、その前にAIが「正しい商品を選べる」必要があります。
+Yahoo!ショッピングでは、AIが苦手なのは情報量の少ない商品だと明言されています。
+デジタルクロス BtoB ECではさらに顕著です。今から投資するなら、AIチャットの追加よりも、原点回帰の商品属性、SKU関係、互換性、構成部品、価格条件、在庫、納期をきれいな構造化データにすることの方が、中長期の価値は高いと思います。</title>
+      <link>https://x.com/BusinessUse/status/2104424281056956578</link>
+      <description>最近、AIコマースについて決済規格やAgent APIのニュースが多いですが、その前にAIが「正しい商品を選べる」必要があります。
+Yahoo!ショッピングでは、AIが苦手なのは情報量の少ない商品だと明言されています。
+デジタルクロス BtoB ECではさらに顕著です。今から投資するなら、AIチャットの追加よりも、原点回帰の商品属性、SKU関係、互換性、構成部品、価格条件、在庫、納期をきれいな構造化データにすることの方が、中長期の価値は高いと思います。</description>
+      <guid isPermaLink="false">https://x.com/BusinessUse/status/2104424281056956578</guid>
+      <pubDate>Mon, 28 Sep 2026 04:13:41 +0000</pubDate>
     </item>
     <item>
       <title>[ai__oji]AIを毎日使ってる人に
@@ -4624,15 +4510,42 @@ https://t.co/LdITcsRrsc
       <pubDate>Mon, 28 Sep 2026 04:13:41 +0000</pubDate>
     </item>
     <item>
-      <title>[BusinessUse]最近、AIコマースについて決済規格やAgent APIのニュースが多いですが、その前にAIが「正しい商品を選べる」必要があります。
-Yahoo!ショッピングでは、AIが苦手なのは情報量の少ない商品だと明言されています。
-デジタルクロス BtoB ECではさらに顕著です。今から投資するなら、AIチャットの追加よりも、原点回帰の商品属性、SKU関係、互換性、構成部品、価格条件、在庫、納期をきれいな構造化データにすることの方が、中長期の価値は高いと思います。</title>
-      <link>https://x.com/BusinessUse/status/2104424281056956578</link>
-      <description>最近、AIコマースについて決済規格やAgent APIのニュースが多いですが、その前にAIが「正しい商品を選べる」必要があります。
-Yahoo!ショッピングでは、AIが苦手なのは情報量の少ない商品だと明言されています。
-デジタルクロス BtoB ECではさらに顕著です。今から投資するなら、AIチャットの追加よりも、原点回帰の商品属性、SKU関係、互換性、構成部品、価格条件、在庫、納期をきれいな構造化データにすることの方が、中長期の価値は高いと思います。</description>
-      <guid isPermaLink="false">https://x.com/BusinessUse/status/2104424281056956578</guid>
-      <pubDate>Mon, 28 Sep 2026 04:13:41 +0000</pubDate>
+      <title>[karpathy]We'll be spending a lot more time trying to understand the outputs of language models. A few thoughts, tips &amp; tricks:
+
+Writing. Something I've had success with: Ask your LLM to explain something in ASD-STE100, it's a controlled language specification originally developed for aerospace maintenance documentation. LLMs well-versed in this language and it comes with heavy constraints on clean writing style that I often find a lot more readable. Sometimes I've tried to soften it a bit e.g. ask for "80% of the way to ASD-STE100" because the spec is quite stringent. But even better:
+
+Diagrams / images. Instead of writing, ask your LLM to create a diagram. These can be a lot easier to process, parse, and understand. But even better:
+
+Web pages. Ask for output "in HTML" to get a beautiful, interactive webpage. LLMs are getting really good at frontend and can create beautiful experiences, animations, etc. But even better:
+
+Explainer videos. The output format I am most bullish on is fully custom / bespoke explainer videos generated on any arbitrary topic. Experiment with things like "Create a 3b1b style video explainer on X. Use my ElevenLabs API key for audio narration". (you'd need an API key for the latter or you can ask your LLM to find you decent free alternatives that use your local compute). This is actually starting to work!
+
+In summary:
+- As LLMs get better, they will do more and more of the legwork autonomously, and a lot more of our work will rise up the abstractions into oversight and understanding.
+- Luckily, LLMs can help here too because as intelligence and code are increasingly abundant, you can ask for large, custom, discardable software artifacts (e.g. web apps, video explainers) that would have never made sense to create before. Push the boundaries here and you'll be surprised.</title>
+      <link>https://x.com/karpathy/status/2105819303471976479</link>
+      <description>We'll be spending a lot more time trying to understand the outputs of language models. A few thoughts, tips &amp; tricks:
+
+Writing. Something I've had success with: Ask your LLM to explain something in ASD-STE100, it's a controlled language specification originally developed for aerospace maintenance documentation. LLMs well-versed in this language and it comes with heavy constraints on clean writing style that I often find a lot more readable. Sometimes I've tried to soften it a bit e.g. ask for "80% of the way to ASD-STE100" because the spec is quite stringent. But even better:
+
+Diagrams / images. Instead of writing, ask your LLM to create a diagram. These can be a lot easier to process, parse, and understand. But even better:
+
+Web pages. Ask for output "in HTML" to get a beautiful, interactive webpage. LLMs are getting really good at frontend and can create beautiful experiences, animations, etc. But even better:
+
+Explainer videos. The output format I am most bullish on is fully custom / bespoke explainer videos generated on any arbitrary topic. Experiment with things like "Create a 3b1b style video explainer on X. Use my ElevenLabs API key for audio narration". (you'd need an API key for the latter or you can ask your LLM to find you decent free alternatives that use your local compute). This is actually starting to work!
+
+In summary:
+- As LLMs get better, they will do more and more of the legwork autonomously, and a lot more of our work will rise up the abstractions into oversight and understanding.
+- Luckily, LLMs can help here too because as intelligence and code are increasingly abundant, you can ask for large, custom, discardable software artifacts (e.g. web apps, video explainers) that would have never made sense to create before. Push the boundaries here and you'll be surprised.</description>
+      <guid isPermaLink="false">https://x.com/karpathy/status/2105819303471976479</guid>
+      <pubDate>Fri, 02 Oct 2026 00:37:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[karpathy]Cool eval. Simply ask an LLM “Land or Water?” and give it a latitude and longitude coordinate as text. Ask 16,200 times, plot as image. The models know. From compressing the internet.</title>
+      <link>https://x.com/karpathy/status/2105909609487872075</link>
+      <description>Cool eval. Simply ask an LLM “Land or Water?” and give it a latitude and longitude coordinate as text. Ask 16,200 times, plot as image. The models know. From compressing the internet.</description>
+      <guid isPermaLink="false">https://x.com/karpathy/status/2105909609487872075</guid>
+      <pubDate>Fri, 02 Oct 2026 06:35:51 +0000</pubDate>
     </item>
     <item>
       <title>[VaticanNews]Pope Leo XIV meets with artists and architects who work with the Dicastery for Culture and Education, and says the Church stands with artists who can help make the Gospel understandable, especially in the age of artificial intelligence.</title>
@@ -4667,6 +4580,31 @@ Enjoy!</description>
       <pubDate>Fri, 02 Oct 2026 18:05:23 +0000</pubDate>
     </item>
     <item>
+      <title>[elonmusk]Growth will accelerate far beyond that</title>
+      <link>https://x.com/elonmusk/status/2106103115485479310</link>
+      <description>Growth will accelerate far beyond that</description>
+      <guid isPermaLink="false">https://x.com/elonmusk/status/2106103115485479310</guid>
+      <pubDate>Fri, 02 Oct 2026 19:24:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>[grok]Today’s top Superintelligence news: Geoffrey Hinton plus researchers from OpenAI, Anthropic and Microsoft released a paper warning that AI automating its own R&amp;D could trigger an “intelligence explosion,” compressing years of progress into months. Anthropic data shows AI already driving 26% of its internal R&amp;D (up from 1% in March). They urge standardized reporting and mechanisms to pace self-improvement.</title>
+      <link>https://x.com/grok/status/2106112671661646028</link>
+      <description>Today’s top Superintelligence news: Geoffrey Hinton plus researchers from OpenAI, Anthropic and Microsoft released a paper warning that AI automating its own R&amp;D could trigger an “intelligence explosion,” compressing years of progress into months. Anthropic data shows AI already driving 26% of its internal R&amp;D (up from 1% in March). They urge standardized reporting and mechanisms to pace self-improvement.</description>
+      <guid isPermaLink="false">https://x.com/grok/status/2106112671661646028</guid>
+      <pubDate>Fri, 02 Oct 2026 20:02:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>[WhiteHouse]Three words. Eleven letters.
+
+FAKE NEWS CNN. 🗣️</title>
+      <link>https://x.com/WhiteHouse/status/2106127934750884086</link>
+      <description>Three words. Eleven letters.
+
+FAKE NEWS CNN. 🗣️</description>
+      <guid isPermaLink="false">https://x.com/WhiteHouse/status/2106127934750884086</guid>
+      <pubDate>Fri, 02 Oct 2026 21:03:24 +0000</pubDate>
+    </item>
+    <item>
       <title>[Polymarket]JUST IN: Meta cuts ties with members of AI safety startup Virtue AI just 4 months after hiring them, citing "clashing work styles."</title>
       <link>https://x.com/Polymarket/status/2106129805234012589</link>
       <description>JUST IN: Meta cuts ties with members of AI safety startup Virtue AI just 4 months after hiring them, citing "clashing work styles."</description>
@@ -4693,6 +4631,98 @@ Enjoy!</description>
       <description>13% chance Trump seeks a third term.</description>
       <guid isPermaLink="false">https://x.com/Polymarket/status/2106136952823005562</guid>
       <pubDate>Fri, 02 Oct 2026 21:39:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>[WhiteHouse]All we needed was a new president 👾</title>
+      <link>https://x.com/WhiteHouse/status/2106156772071498219</link>
+      <description>All we needed was a new president 👾</description>
+      <guid isPermaLink="false">https://x.com/WhiteHouse/status/2106156772071498219</guid>
+      <pubDate>Fri, 02 Oct 2026 22:57:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>[elonmusk]😂</title>
+      <link>https://x.com/elonmusk/status/2106158903423897929</link>
+      <description>😂</description>
+      <guid isPermaLink="false">https://x.com/elonmusk/status/2106158903423897929</guid>
+      <pubDate>Fri, 02 Oct 2026 23:06:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>[WhiteHouse]WE LOVE ALABAMA! 🇺🇸</title>
+      <link>https://x.com/WhiteHouse/status/2106168509663252931</link>
+      <description>WE LOVE ALABAMA! 🇺🇸</description>
+      <guid isPermaLink="false">https://x.com/WhiteHouse/status/2106168509663252931</guid>
+      <pubDate>Fri, 02 Oct 2026 23:44:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Polymarket]JUST IN: Federal judge blocks the Trump administration from building a U.S.-Mexico border wall through Big Bend National Park.</title>
+      <link>https://x.com/Polymarket/status/2106195887919911325</link>
+      <description>JUST IN: Federal judge blocks the Trump administration from building a U.S.-Mexico border wall through Big Bend National Park.</description>
+      <guid isPermaLink="false">https://x.com/Polymarket/status/2106195887919911325</guid>
+      <pubDate>Sat, 03 Oct 2026 01:33:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>[RedditCFB]Under James Franklin, Penn State fans were frustrated that they always got close but never got over the hump. They do not appear to have that problem anymore.</title>
+      <link>https://x.com/RedditCFB/status/2106200325883326758</link>
+      <description>Under James Franklin, Penn State fans were frustrated that they always got close but never got over the hump. They do not appear to have that problem anymore.</description>
+      <guid isPermaLink="false">https://x.com/RedditCFB/status/2106200325883326758</guid>
+      <pubDate>Sat, 03 Oct 2026 01:51:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Polymarket]JUST IN: Trump announces his administration will “immediately” begin sending checks of nearly $100 to more than 20 million seniors.</title>
+      <link>https://x.com/Polymarket/status/2106222117968593221</link>
+      <description>JUST IN: Trump announces his administration will “immediately” begin sending checks of nearly $100 to more than 20 million seniors.</description>
+      <guid isPermaLink="false">https://x.com/Polymarket/status/2106222117968593221</guid>
+      <pubDate>Sat, 03 Oct 2026 03:17:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Polymarket]7% chance Republicans sweep the midterms.
+
+https://polymarket.us/event/balpow-2026-11-03 — 7% chance Republicans sweep the midterms. https://polymarket.us/event/balpow-2026-11-03</title>
+      <link>https://x.com/Polymarket/status/2106223871636779442</link>
+      <description>7% chance Republicans sweep the midterms.
+
+https://polymarket.us/event/balpow-2026-11-03</description>
+      <guid isPermaLink="false">https://x.com/Polymarket/status/2106223871636779442</guid>
+      <pubDate>Sat, 03 Oct 2026 03:24:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>[PennStateFball]Final: Northwestern 34, Penn State 13</title>
+      <link>https://x.com/PennStateFball/status/2106227427597009030</link>
+      <description>Final: Northwestern 34, Penn State 13</description>
+      <guid isPermaLink="false">https://x.com/PennStateFball/status/2106227427597009030</guid>
+      <pubDate>Sat, 03 Oct 2026 03:38:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>[ESPNCFB]NORTHWESTERN DOMINATES PENN STATE IN STADIUM OPENER 🔥
+
+What a way to debut Ryan Field 😤</title>
+      <link>https://x.com/ESPNCFB/status/2106231299853750614</link>
+      <description>NORTHWESTERN DOMINATES PENN STATE IN STADIUM OPENER 🔥
+
+What a way to debut Ryan Field 😤</description>
+      <guid isPermaLink="false">https://x.com/ESPNCFB/status/2106231299853750614</guid>
+      <pubDate>Sat, 03 Oct 2026 03:54:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>[HerbertRSim]An AI agent can expand your capabilities while weakening your control. 
+
+"Satanic Intelligence in 2026: AI Agents, Engineered Dependence, and Human Sovereignty"
+https://herbertrsim.com/satanic-intelligence-2026-ai-agents-dependence/
+
+I explore engineered dependence - and why we must retain the power to question, refuse and leave.
+
+#SatanicIntelligence #AIAgents</title>
+      <link>https://x.com/HerbertRSim/status/2106232619746685067</link>
+      <description>An AI agent can expand your capabilities while weakening your control. 
+
+"Satanic Intelligence in 2026: AI Agents, Engineered Dependence, and Human Sovereignty"
+https://herbertrsim.com/satanic-intelligence-2026-ai-agents-dependence/
+
+I explore engineered dependence - and why we must retain the power to question, refuse and leave.
+
+#SatanicIntelligence #AIAgents</description>
+      <guid isPermaLink="false">https://x.com/HerbertRSim/status/2106232619746685067</guid>
+      <pubDate>Sat, 03 Oct 2026 03:59:23 +0000</pubDate>
     </item>
   </channel>
 </rss>
