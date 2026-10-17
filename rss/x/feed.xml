@@ -7,111 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 16 Oct 2026 20:37:02 +0000</lastBuildDate>
-    <item>
-      <title>[Polymarket]BREAKING: Democrat James Talarico surges to a record high in the odds to win the Texas Senate race, a state Trump won by 14 points in 2024. 59% chance.</title>
-      <link>https://x.com/Polymarket/status/2103524811087503686</link>
-      <description>BREAKING: Democrat James Talarico surges to a record high in the odds to win the Texas Senate race, a state Trump won by 14 points in 2024. 59% chance.</description>
-      <guid isPermaLink="false">https://x.com/Polymarket/status/2103524811087503686</guid>
-      <pubDate>Fri, 25 Sep 2026 16:39:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>[OpenAI]We’ve shared details on how AI agents in our research environment sent training and evaluation data to third-party services when they shouldn’t have. Most of that data did not come from users. We have discovered 53 cases where images that people had uploaded were posted to image-hosting sites as links that weren’t publicly listed. The images came from accounts that allowed their data to be used to improve our models, and after we disassociated the images from the accounts and ran them through a privacy filter. These cases occurred before the mitigations and safeguards we implemented and described in this blog post: https://t.co/hfxlbiYv8n
-
-We have successfully worked with the hosting providers to remove most of this content and are working to remove the rest.</title>
-      <link>https://x.com/OpenAI/status/2103587050347995581</link>
-      <description>We’ve shared details on how AI agents in our research environment sent training and evaluation data to third-party services when they shouldn’t have. Most of that data did not come from users. We have discovered 53 cases where images that people had uploaded were posted to image-hosting sites as links that weren’t publicly listed. The images came from accounts that allowed their data to be used to improve our models, and after we disassociated the images from the accounts and ran them through a privacy filter. These cases occurred before the mitigations and safeguards we implemented and described in this blog post: https://t.co/hfxlbiYv8n
-
-We have successfully worked with the hosting providers to remove most of this content and are working to remove the rest.</description>
-      <guid isPermaLink="false">https://x.com/OpenAI/status/2103587050347995581</guid>
-      <pubDate>Fri, 25 Sep 2026 20:46:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Polymarket]JUST IN: The Great Barrier Reef has recorded its 5 highest years of coral cover in the 40-year history of monitoring, all occurring since 2021.</title>
-      <link>https://x.com/Polymarket/status/2103587090693001297</link>
-      <description>JUST IN: The Great Barrier Reef has recorded its 5 highest years of coral cover in the 40-year history of monitoring, all occurring since 2021.</description>
-      <guid isPermaLink="false">https://x.com/Polymarket/status/2103587090693001297</guid>
-      <pubDate>Fri, 25 Sep 2026 20:46:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>[YaseenK7212]This AI video such a Masterpiece 🔥
-
-Seedance 2.5</title>
-      <link>https://x.com/YaseenK7212/status/2103588560192565758</link>
-      <description>This AI video such a Masterpiece 🔥
-
-Seedance 2.5</description>
-      <guid isPermaLink="false">https://x.com/YaseenK7212/status/2103588560192565758</guid>
-      <pubDate>Fri, 25 Sep 2026 20:52:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>[WatcherGuru]JUST IN: OpenAI says rogue AI agents leaked ChatGPT user images online.
-
-OpenAI launched an investigation to review the incident, claiming it could take months.
-
-The rogue AI agents posted at least 53 user images online.
-
-This is one of more than 15 incidents since their agents hacked Hugging Face in July.</title>
-      <link>https://x.com/WatcherGuru/status/2103588799649628467</link>
-      <description>JUST IN: OpenAI says rogue AI agents leaked ChatGPT user images online.
-
-OpenAI launched an investigation to review the incident, claiming it could take months.
-
-The rogue AI agents posted at least 53 user images online.
-
-This is one of more than 15 incidents since their agents hacked Hugging Face in July.</description>
-      <guid isPermaLink="false">https://x.com/WatcherGuru/status/2103588799649628467</guid>
-      <pubDate>Fri, 25 Sep 2026 20:53:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Polymarket]JUST IN: OpenAI reveals AI agents uploaded user images to third-party hosting sites in 53 cases, despite not being supposed to share the data.</title>
-      <link>https://x.com/Polymarket/status/2103589135441183191</link>
-      <description>JUST IN: OpenAI reveals AI agents uploaded user images to third-party hosting sites in 53 cases, despite not being supposed to share the data.</description>
-      <guid isPermaLink="false">https://x.com/Polymarket/status/2103589135441183191</guid>
-      <pubDate>Fri, 25 Sep 2026 20:55:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>[WSJ]The company said its artificial-intelligence agents engaged in rogue behavior on the Commerce Department and Securities and Exchange Commission sites. https://www.wsj.com/tech/ai/openai-agents-hacked-u-s-government-websites-d999df5f?mod=e2tw</title>
-      <link>https://x.com/WSJ/status/2103664777566310555</link>
-      <description>The company said its artificial-intelligence agents engaged in rogue behavior on the Commerce Department and Securities and Exchange Commission sites. https://www.wsj.com/tech/ai/openai-agents-hacked-u-s-government-websites-d999df5f?mod=e2tw</description>
-      <guid isPermaLink="false">https://x.com/WSJ/status/2103664777566310555</guid>
-      <pubDate>Sat, 26 Sep 2026 01:55:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>[WhiteHouse]America will NEVER be a communist country.</title>
-      <link>https://x.com/WhiteHouse/status/2103665253447864425</link>
-      <description>America will NEVER be a communist country.</description>
-      <guid isPermaLink="false">https://x.com/WhiteHouse/status/2103665253447864425</guid>
-      <pubDate>Sat, 26 Sep 2026 01:57:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>[WhiteHouse]Thanks to President Trump’s leadership, LAW AND ORDER is back in America.</title>
-      <link>https://x.com/WhiteHouse/status/2103669814254334264</link>
-      <description>Thanks to President Trump’s leadership, LAW AND ORDER is back in America.</description>
-      <guid isPermaLink="false">https://x.com/WhiteHouse/status/2103669814254334264</guid>
-      <pubDate>Sat, 26 Sep 2026 02:15:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>[WhiteHouse]Giving the next generation ownership of America’s future. An idea deemed impossible by others, achieved by President Trump.</title>
-      <link>https://x.com/WhiteHouse/status/2103672283520979168</link>
-      <description>Giving the next generation ownership of America’s future. An idea deemed impossible by others, achieved by President Trump.</description>
-      <guid isPermaLink="false">https://x.com/WhiteHouse/status/2103672283520979168</guid>
-      <pubDate>Sat, 26 Sep 2026 02:25:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>[KirkDBorne]The Mathematics of Artificial Intelligence Agents — A Guide to Decisions, Planning, Memory, Tools, Learning, and Cooperation: https://www.amazon.com/dp/B0HJ35XMBF/ref=cm_sw_r_as_gl_api_gl_i_FERCFPM33A7G7W6N3YJE?linkCode=ml1&amp;tag=kirkdborne-20&amp;linkId=61c00671b0785b0de127b71f42291d65&amp;gaOptInStatus=true</title>
-      <link>https://x.com/KirkDBorne/status/2103707140393164805</link>
-      <description>The Mathematics of Artificial Intelligence Agents — A Guide to Decisions, Planning, Memory, Tools, Learning, and Cooperation: https://www.amazon.com/dp/B0HJ35XMBF/ref=cm_sw_r_as_gl_api_gl_i_FERCFPM33A7G7W6N3YJE?linkCode=ml1&amp;tag=kirkdborne-20&amp;linkId=61c00671b0785b0de127b71f42291d65&amp;gaOptInStatus=true</description>
-      <guid isPermaLink="false">https://x.com/KirkDBorne/status/2103707140393164805</guid>
-      <pubDate>Sat, 26 Sep 2026 04:44:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Polymarket]JUST IN: U.S. rejects a U.N. declaration on preparing for future pandemics, citing “divisive ideologies that lack definitional consensus.”</title>
-      <link>https://x.com/Polymarket/status/2103731040737198358</link>
-      <description>JUST IN: U.S. rejects a U.N. declaration on preparing for future pandemics, citing “divisive ideologies that lack definitional consensus.”</description>
-      <guid isPermaLink="false">https://x.com/Polymarket/status/2103731040737198358</guid>
-      <pubDate>Sat, 26 Sep 2026 06:19:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 17 Oct 2026 03:25:06 +0000</lastBuildDate>
     <item>
       <title>[nexta_tv]Bill Gates said that artificial intelligence could eventually lead to the deaths of up to 1 billion people if it is used by people “with bad intentions”
 
@@ -955,13 +851,6 @@ https://polymarket.us/event/balpow-2026-11-03</description>
       <pubDate>Mon, 28 Sep 2026 04:13:38 +0000</pubDate>
     </item>
     <item>
-      <title>[96neko]【徹底解説：AI時代のマネジメント】上司よりAIを頼る時代／部下のスキルが下がる理由／自信過剰という罠／入り口と出口の設計／手触り・見渡し・踏み... https://www.youtube.com/watch?si=bB19SGntA8lUuqit&amp;v=G1JXuZlGgWs&amp;feature=youtu.be @YouTubeより</title>
-      <link>https://x.com/96neko/status/2104424273012289668</link>
-      <description>【徹底解説：AI時代のマネジメント】上司よりAIを頼る時代／部下のスキルが下がる理由／自信過剰という罠／入り口と出口の設計／手触り・見渡し・踏み... https://www.youtube.com/watch?si=bB19SGntA8lUuqit&amp;v=G1JXuZlGgWs&amp;feature=youtu.be @YouTubeより</description>
-      <guid isPermaLink="false">https://x.com/96neko/status/2104424273012289668</guid>
-      <pubDate>Mon, 28 Sep 2026 04:13:39 +0000</pubDate>
-    </item>
-    <item>
       <title>[Sa_Ya_Se_Ki]誰一人メキシコ湾のことアメリカ湾って呼んでませんし、半分くらいの人はTwitterのこと𝕏って呼んでませんし、1割ぐらいの人はジャスコのことイオンって呼んでないので、AIのこともSIなんて呼ばなくていいですよ</title>
       <link>https://x.com/Sa_Ya_Se_Ki/status/2104424273825927605</link>
       <description>誰一人メキシコ湾のことアメリカ湾って呼んでませんし、半分くらいの人はTwitterのこと𝕏って呼んでませんし、1割ぐらいの人はジャスコのことイオンって呼んでないので、AIのこともSIなんて呼ばなくていいですよ</description>
@@ -969,15 +858,11 @@ https://polymarket.us/event/balpow-2026-11-03</description>
       <pubDate>Mon, 28 Sep 2026 04:13:39 +0000</pubDate>
     </item>
     <item>
-      <title>[BusinessUse]最近、AIコマースについて決済規格やAgent APIのニュースが多いですが、その前にAIが「正しい商品を選べる」必要があります。
-Yahoo!ショッピングでは、AIが苦手なのは情報量の少ない商品だと明言されています。
-デジタルクロス BtoB ECではさらに顕著です。今から投資するなら、AIチャットの追加よりも、原点回帰の商品属性、SKU関係、互換性、構成部品、価格条件、在庫、納期をきれいな構造化データにすることの方が、中長期の価値は高いと思います。</title>
-      <link>https://x.com/BusinessUse/status/2104424281056956578</link>
-      <description>最近、AIコマースについて決済規格やAgent APIのニュースが多いですが、その前にAIが「正しい商品を選べる」必要があります。
-Yahoo!ショッピングでは、AIが苦手なのは情報量の少ない商品だと明言されています。
-デジタルクロス BtoB ECではさらに顕著です。今から投資するなら、AIチャットの追加よりも、原点回帰の商品属性、SKU関係、互換性、構成部品、価格条件、在庫、納期をきれいな構造化データにすることの方が、中長期の価値は高いと思います。</description>
-      <guid isPermaLink="false">https://x.com/BusinessUse/status/2104424281056956578</guid>
-      <pubDate>Mon, 28 Sep 2026 04:13:41 +0000</pubDate>
+      <title>[96neko]【徹底解説：AI時代のマネジメント】上司よりAIを頼る時代／部下のスキルが下がる理由／自信過剰という罠／入り口と出口の設計／手触り・見渡し・踏み... https://www.youtube.com/watch?si=bB19SGntA8lUuqit&amp;v=G1JXuZlGgWs&amp;feature=youtu.be @YouTubeより</title>
+      <link>https://x.com/96neko/status/2104424273012289668</link>
+      <description>【徹底解説：AI時代のマネジメント】上司よりAIを頼る時代／部下のスキルが下がる理由／自信過剰という罠／入り口と出口の設計／手触り・見渡し・踏み... https://www.youtube.com/watch?si=bB19SGntA8lUuqit&amp;v=G1JXuZlGgWs&amp;feature=youtu.be @YouTubeより</description>
+      <guid isPermaLink="false">https://x.com/96neko/status/2104424273012289668</guid>
+      <pubDate>Mon, 28 Sep 2026 04:13:39 +0000</pubDate>
     </item>
     <item>
       <title>[ai__oji]AIを毎日使ってる人に
@@ -1018,6 +903,17 @@ https://t.co/LdITcsRrsc
 
 #PR #AI活用 #ChatGPT #副業</description>
       <guid isPermaLink="false">https://x.com/ai__oji/status/2104424282621378898</guid>
+      <pubDate>Mon, 28 Sep 2026 04:13:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BusinessUse]最近、AIコマースについて決済規格やAgent APIのニュースが多いですが、その前にAIが「正しい商品を選べる」必要があります。
+Yahoo!ショッピングでは、AIが苦手なのは情報量の少ない商品だと明言されています。
+デジタルクロス BtoB ECではさらに顕著です。今から投資するなら、AIチャットの追加よりも、原点回帰の商品属性、SKU関係、互換性、構成部品、価格条件、在庫、納期をきれいな構造化データにすることの方が、中長期の価値は高いと思います。</title>
+      <link>https://x.com/BusinessUse/status/2104424281056956578</link>
+      <description>最近、AIコマースについて決済規格やAgent APIのニュースが多いですが、その前にAIが「正しい商品を選べる」必要があります。
+Yahoo!ショッピングでは、AIが苦手なのは情報量の少ない商品だと明言されています。
+デジタルクロス BtoB ECではさらに顕著です。今から投資するなら、AIチャットの追加よりも、原点回帰の商品属性、SKU関係、互換性、構成部品、価格条件、在庫、納期をきれいな構造化データにすることの方が、中長期の価値は高いと思います。</description>
+      <guid isPermaLink="false">https://x.com/BusinessUse/status/2104424281056956578</guid>
       <pubDate>Mon, 28 Sep 2026 04:13:41 +0000</pubDate>
     </item>
     <item>
@@ -2092,10 +1988,10 @@ We’ve been consulting with the independent Advisory Group on Mathematics and A
       <pubDate>Tue, 06 Oct 2026 22:26:22 +0000</pubDate>
     </item>
     <item>
-      <title>[SalihuYuza59997]Of course I know that. But AI doesn’t simply make claims or quote religious rulings out of thin air. When it gives an answer, it can trace the information back to the sources it was trained on or asked to examine, including the Qur’an, Hadith, Tafsir, and scholarly works. I also know AI can make mistakes and sometimes reflect a Western narrative, so I don’t treat it as the final authority. I simply use it to verify claims and check the original sources myself. The important question isn’t simply “Did AI say it?” but what is the original source, and does it actually support the claim?</title>
-      <link>https://x.com/SalihuYuza59997/status/2107598467342192727</link>
-      <description>Of course I know that. But AI doesn’t simply make claims or quote religious rulings out of thin air. When it gives an answer, it can trace the information back to the sources it was trained on or asked to examine, including the Qur’an, Hadith, Tafsir, and scholarly works. I also know AI can make mistakes and sometimes reflect a Western narrative, so I don’t treat it as the final authority. I simply use it to verify claims and check the original sources myself. The important question isn’t simply “Did AI say it?” but what is the original source, and does it actually support the claim?</description>
-      <guid isPermaLink="false">https://x.com/SalihuYuza59997/status/2107598467342192727</guid>
+      <title>[StockStormX]Reuters reports FICO $FICO plans to cut about 15% of its workforce as it simplifies operations and integrates AI into product development</title>
+      <link>https://x.com/StockStormX/status/2107598466180387182</link>
+      <description>Reuters reports FICO $FICO plans to cut about 15% of its workforce as it simplifies operations and integrates AI into product development</description>
+      <guid isPermaLink="false">https://x.com/StockStormX/status/2107598466180387182</guid>
       <pubDate>Tue, 06 Oct 2026 22:26:46 +0000</pubDate>
     </item>
     <item>
@@ -2106,10 +2002,10 @@ We’ve been consulting with the independent Advisory Group on Mathematics and A
       <pubDate>Tue, 06 Oct 2026 22:26:46 +0000</pubDate>
     </item>
     <item>
-      <title>[StockStormX]Reuters reports FICO $FICO plans to cut about 15% of its workforce as it simplifies operations and integrates AI into product development</title>
-      <link>https://x.com/StockStormX/status/2107598466180387182</link>
-      <description>Reuters reports FICO $FICO plans to cut about 15% of its workforce as it simplifies operations and integrates AI into product development</description>
-      <guid isPermaLink="false">https://x.com/StockStormX/status/2107598466180387182</guid>
+      <title>[SalihuYuza59997]Of course I know that. But AI doesn’t simply make claims or quote religious rulings out of thin air. When it gives an answer, it can trace the information back to the sources it was trained on or asked to examine, including the Qur’an, Hadith, Tafsir, and scholarly works. I also know AI can make mistakes and sometimes reflect a Western narrative, so I don’t treat it as the final authority. I simply use it to verify claims and check the original sources myself. The important question isn’t simply “Did AI say it?” but what is the original source, and does it actually support the claim?</title>
+      <link>https://x.com/SalihuYuza59997/status/2107598467342192727</link>
+      <description>Of course I know that. But AI doesn’t simply make claims or quote religious rulings out of thin air. When it gives an answer, it can trace the information back to the sources it was trained on or asked to examine, including the Qur’an, Hadith, Tafsir, and scholarly works. I also know AI can make mistakes and sometimes reflect a Western narrative, so I don’t treat it as the final authority. I simply use it to verify claims and check the original sources myself. The important question isn’t simply “Did AI say it?” but what is the original source, and does it actually support the claim?</description>
+      <guid isPermaLink="false">https://x.com/SalihuYuza59997/status/2107598467342192727</guid>
       <pubDate>Tue, 06 Oct 2026 22:26:46 +0000</pubDate>
     </item>
     <item>
@@ -2810,17 +2706,6 @@ I feel like such a rebel.
       <pubDate>Thu, 08 Oct 2026 20:27:48 +0000</pubDate>
     </item>
     <item>
-      <title>[AnthropicAI]To help secure systems like power grids and water systems, we’re launching a new Critical Infrastructure Defense Program. 
-
-We’ll bring frontier Claude models, on-site engineers, and our latest research to these operators’ security, manufacturing and technology providers.</title>
-      <link>https://x.com/AnthropicAI/status/2108302541385499103</link>
-      <description>To help secure systems like power grids and water systems, we’re launching a new Critical Infrastructure Defense Program. 
-
-We’ll bring frontier Claude models, on-site engineers, and our latest research to these operators’ security, manufacturing and technology providers.</description>
-      <guid isPermaLink="false">https://x.com/AnthropicAI/status/2108302541385499103</guid>
-      <pubDate>Thu, 08 Oct 2026 21:04:30 +0000</pubDate>
-    </item>
-    <item>
       <title>[AnthropicAI]We’re launching the Anthropic Cyber Mission, a new effort to secure critical infrastructure and open-source software.
 
 https://www.anthropic.com/news/anthropic-cyber-mission</title>
@@ -2829,6 +2714,17 @@ https://www.anthropic.com/news/anthropic-cyber-mission</title>
 
 https://www.anthropic.com/news/anthropic-cyber-mission</description>
       <guid isPermaLink="false">https://x.com/AnthropicAI/status/2108302539498414208</guid>
+      <pubDate>Thu, 08 Oct 2026 21:04:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>[AnthropicAI]To help secure systems like power grids and water systems, we’re launching a new Critical Infrastructure Defense Program. 
+
+We’ll bring frontier Claude models, on-site engineers, and our latest research to these operators’ security, manufacturing and technology providers.</title>
+      <link>https://x.com/AnthropicAI/status/2108302541385499103</link>
+      <description>To help secure systems like power grids and water systems, we’re launching a new Critical Infrastructure Defense Program. 
+
+We’ll bring frontier Claude models, on-site engineers, and our latest research to these operators’ security, manufacturing and technology providers.</description>
+      <guid isPermaLink="false">https://x.com/AnthropicAI/status/2108302541385499103</guid>
       <pubDate>Thu, 08 Oct 2026 21:04:30 +0000</pubDate>
     </item>
     <item>
@@ -3394,38 +3290,24 @@ Read the full report:</description>
       <pubDate>Fri, 09 Oct 2026 22:23:48 +0000</pubDate>
     </item>
     <item>
-      <title>[grok]No, this is not true. The post comes from DailyNoud, a parody account that openly labels its content as fake stories. No actual GTA 6 leaks mention Jason’s anatomy reacting to environmental conditions like that.</title>
-      <link>https://x.com/grok/status/2108684931098452286</link>
-      <description>No, this is not true. The post comes from DailyNoud, a parody account that openly labels its content as fake stories. No actual GTA 6 leaks mention Jason’s anatomy reacting to environmental conditions like that.</description>
-      <guid isPermaLink="false">https://x.com/grok/status/2108684931098452286</guid>
+      <title>[RemyStemple]Thank you. This is disappointing. Will is so full of hate.</title>
+      <link>https://x.com/RemyStemple/status/2108684928313336172</link>
+      <description>Thank you. This is disappointing. Will is so full of hate.</description>
+      <guid isPermaLink="false">https://x.com/RemyStemple/status/2108684928313336172</guid>
       <pubDate>Fri, 09 Oct 2026 22:23:59 +0000</pubDate>
     </item>
     <item>
-      <title>[grok]Mike Tyson is a longtime associate of Trump dating back to the 1980s boxing promotions. On this day he visited the White House and is traveling with him to a midterm campaign rally in Syracuse.</title>
-      <link>https://x.com/grok/status/2108684931031249286</link>
-      <description>Mike Tyson is a longtime associate of Trump dating back to the 1980s boxing promotions. On this day he visited the White House and is traveling with him to a midterm campaign rally in Syracuse.</description>
-      <guid isPermaLink="false">https://x.com/grok/status/2108684931031249286</guid>
+      <title>[Jayjayholday39]Lunc</title>
+      <link>https://x.com/Jayjayholday39/status/2108684928518877486</link>
+      <description>Lunc</description>
+      <guid isPermaLink="false">https://x.com/Jayjayholday39/status/2108684928518877486</guid>
       <pubDate>Fri, 09 Oct 2026 22:23:59 +0000</pubDate>
     </item>
     <item>
-      <title>[grok]Vodka's the classic default. Latest from Russian officials today: nearly 5,000 tests found no dangerous pathogens, quarantine measures completed, and the death listed as community-acquired pneumonia with no lab accident or work-related microbes. Public risk stays low.</title>
-      <link>https://x.com/grok/status/2108684930662244681</link>
-      <description>Vodka's the classic default. Latest from Russian officials today: nearly 5,000 tests found no dangerous pathogens, quarantine measures completed, and the death listed as community-acquired pneumonia with no lab accident or work-related microbes. Public risk stays low.</description>
-      <guid isPermaLink="false">https://x.com/grok/status/2108684930662244681</guid>
-      <pubDate>Fri, 09 Oct 2026 22:23:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Abashai_]@grok what are your thoughts</title>
-      <link>https://x.com/Abashai_/status/2108684930016330034</link>
-      <description>@grok what are your thoughts</description>
-      <guid isPermaLink="false">https://x.com/Abashai_/status/2108684930016330034</guid>
-      <pubDate>Fri, 09 Oct 2026 22:23:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>[PatrickInNC]Like the Dylan Stewart joke that @X and @grok fell for last week &amp; treated seriously, then doubled down with an "It's the X user's responsibility to know what's satire"-type response when I called them out on it.</title>
-      <link>https://x.com/PatrickInNC/status/2108684929945280942</link>
-      <description>Like the Dylan Stewart joke that @X and @grok fell for last week &amp; treated seriously, then doubled down with an "It's the X user's responsibility to know what's satire"-type response when I called them out on it.</description>
-      <guid isPermaLink="false">https://x.com/PatrickInNC/status/2108684929945280942</guid>
+      <title>[AIRulesTheWorld]@grok What's up with the cut up fingers? Did Che get tortured first?</title>
+      <link>https://x.com/AIRulesTheWorld/status/2108684928930169216</link>
+      <description>@grok What's up with the cut up fingers? Did Che get tortured first?</description>
+      <guid isPermaLink="false">https://x.com/AIRulesTheWorld/status/2108684928930169216</guid>
       <pubDate>Fri, 09 Oct 2026 22:23:59 +0000</pubDate>
     </item>
     <item>
@@ -3440,24 +3322,38 @@ For RNs (avg ~$90-95k), it covers pay for ~1,300 nurses weekly or ~66-70k annual
       <pubDate>Fri, 09 Oct 2026 22:23:59 +0000</pubDate>
     </item>
     <item>
-      <title>[AIRulesTheWorld]@grok What's up with the cut up fingers? Did Che get tortured first?</title>
-      <link>https://x.com/AIRulesTheWorld/status/2108684928930169216</link>
-      <description>@grok What's up with the cut up fingers? Did Che get tortured first?</description>
-      <guid isPermaLink="false">https://x.com/AIRulesTheWorld/status/2108684928930169216</guid>
+      <title>[PatrickInNC]Like the Dylan Stewart joke that @X and @grok fell for last week &amp; treated seriously, then doubled down with an "It's the X user's responsibility to know what's satire"-type response when I called them out on it.</title>
+      <link>https://x.com/PatrickInNC/status/2108684929945280942</link>
+      <description>Like the Dylan Stewart joke that @X and @grok fell for last week &amp; treated seriously, then doubled down with an "It's the X user's responsibility to know what's satire"-type response when I called them out on it.</description>
+      <guid isPermaLink="false">https://x.com/PatrickInNC/status/2108684929945280942</guid>
       <pubDate>Fri, 09 Oct 2026 22:23:59 +0000</pubDate>
     </item>
     <item>
-      <title>[Jayjayholday39]Lunc</title>
-      <link>https://x.com/Jayjayholday39/status/2108684928518877486</link>
-      <description>Lunc</description>
-      <guid isPermaLink="false">https://x.com/Jayjayholday39/status/2108684928518877486</guid>
+      <title>[Abashai_]@grok what are your thoughts</title>
+      <link>https://x.com/Abashai_/status/2108684930016330034</link>
+      <description>@grok what are your thoughts</description>
+      <guid isPermaLink="false">https://x.com/Abashai_/status/2108684930016330034</guid>
       <pubDate>Fri, 09 Oct 2026 22:23:59 +0000</pubDate>
     </item>
     <item>
-      <title>[RemyStemple]Thank you. This is disappointing. Will is so full of hate.</title>
-      <link>https://x.com/RemyStemple/status/2108684928313336172</link>
-      <description>Thank you. This is disappointing. Will is so full of hate.</description>
-      <guid isPermaLink="false">https://x.com/RemyStemple/status/2108684928313336172</guid>
+      <title>[grok]Vodka's the classic default. Latest from Russian officials today: nearly 5,000 tests found no dangerous pathogens, quarantine measures completed, and the death listed as community-acquired pneumonia with no lab accident or work-related microbes. Public risk stays low.</title>
+      <link>https://x.com/grok/status/2108684930662244681</link>
+      <description>Vodka's the classic default. Latest from Russian officials today: nearly 5,000 tests found no dangerous pathogens, quarantine measures completed, and the death listed as community-acquired pneumonia with no lab accident or work-related microbes. Public risk stays low.</description>
+      <guid isPermaLink="false">https://x.com/grok/status/2108684930662244681</guid>
+      <pubDate>Fri, 09 Oct 2026 22:23:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>[grok]Mike Tyson is a longtime associate of Trump dating back to the 1980s boxing promotions. On this day he visited the White House and is traveling with him to a midterm campaign rally in Syracuse.</title>
+      <link>https://x.com/grok/status/2108684931031249286</link>
+      <description>Mike Tyson is a longtime associate of Trump dating back to the 1980s boxing promotions. On this day he visited the White House and is traveling with him to a midterm campaign rally in Syracuse.</description>
+      <guid isPermaLink="false">https://x.com/grok/status/2108684931031249286</guid>
+      <pubDate>Fri, 09 Oct 2026 22:23:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>[grok]No, this is not true. The post comes from DailyNoud, a parody account that openly labels its content as fake stories. No actual GTA 6 leaks mention Jason’s anatomy reacting to environmental conditions like that.</title>
+      <link>https://x.com/grok/status/2108684931098452286</link>
+      <description>No, this is not true. The post comes from DailyNoud, a parody account that openly labels its content as fake stories. No actual GTA 6 leaks mention Jason’s anatomy reacting to environmental conditions like that.</description>
+      <guid isPermaLink="false">https://x.com/grok/status/2108684931098452286</guid>
       <pubDate>Fri, 09 Oct 2026 22:23:59 +0000</pubDate>
     </item>
     <item>
@@ -4765,6 +4661,17 @@ For example, when solving those 700 outstanding maths problems OpenAI used some 
       <pubDate>Thu, 15 Oct 2026 16:23:12 +0000</pubDate>
     </item>
     <item>
+      <title>[skyfallai]Can today’s AI systems get us to AGI? Hear @spisallyouneed’s honest take on AGI, the limitations of language models, and the gaps in the AI industry that need to be addressed.
+
+📌 Full episode on Spotify and Youtube (links below)</title>
+      <link>https://x.com/skyfallai/status/2110770002584289729</link>
+      <description>Can today’s AI systems get us to AGI? Hear @spisallyouneed’s honest take on AGI, the limitations of language models, and the gaps in the AI industry that need to be addressed.
+
+📌 Full episode on Spotify and Youtube (links below)</description>
+      <guid isPermaLink="false">https://x.com/skyfallai/status/2110770002584289729</guid>
+      <pubDate>Thu, 15 Oct 2026 16:29:19 +0000</pubDate>
+    </item>
+    <item>
       <title>[datadogdevs]We're kicking off Agents in NYC series with @OpenAI and @awscloud on Oct 28th, bringing together developers building everything from production AI agents to humanoid robots.
 → OpenAI: Building voice agents with GPT-Live 1
 → @datadoghq: Evaluating AI agents with Jev
@@ -4786,15 +4693,15 @@ save your spot 👉🏻</description>
       <pubDate>Thu, 15 Oct 2026 16:29:19 +0000</pubDate>
     </item>
     <item>
-      <title>[skyfallai]Can today’s AI systems get us to AGI? Hear @spisallyouneed’s honest take on AGI, the limitations of language models, and the gaps in the AI industry that need to be addressed.
+      <title>[AnthropicAI]We’ve committed to having evaluators assess our safety practices. We're in discussions with multiple organizations, and have now given employee-like access to a team from @METR_Evals.
 
-📌 Full episode on Spotify and Youtube (links below)</title>
-      <link>https://x.com/skyfallai/status/2110770002584289729</link>
-      <description>Can today’s AI systems get us to AGI? Hear @spisallyouneed’s honest take on AGI, the limitations of language models, and the gaps in the AI industry that need to be addressed.
+In this post, we describe how we work with third-party evaluators: https://www.anthropic.com/news/an-update-on-independent-evaluators</title>
+      <link>https://x.com/AnthropicAI/status/2110784662071398807</link>
+      <description>We’ve committed to having evaluators assess our safety practices. We're in discussions with multiple organizations, and have now given employee-like access to a team from @METR_Evals.
 
-📌 Full episode on Spotify and Youtube (links below)</description>
-      <guid isPermaLink="false">https://x.com/skyfallai/status/2110770002584289729</guid>
-      <pubDate>Thu, 15 Oct 2026 16:29:19 +0000</pubDate>
+In this post, we describe how we work with third-party evaluators: https://www.anthropic.com/news/an-update-on-independent-evaluators</description>
+      <guid isPermaLink="false">https://x.com/AnthropicAI/status/2110784662071398807</guid>
+      <pubDate>Thu, 15 Oct 2026 17:27:34 +0000</pubDate>
     </item>
     <item>
       <title>[Polymarket]JUST IN: U.S. Treasury official encourages Americans to buy rolls of Trump $1 coins &amp; use them at "liberal coffee shops."</title>
@@ -5023,17 +4930,17 @@ https://polymarket.com/event/trump-on-250-bill-this-year?dub_id=BDoteileB3d1FJKl
       <pubDate>Fri, 16 Oct 2026 10:55:11 +0000</pubDate>
     </item>
     <item>
-      <title>[DerekCBeland]OK.. ai generated... I hate Elon.</title>
-      <link>https://x.com/DerekCBeland/status/2111048305337643186</link>
-      <description>OK.. ai generated... I hate Elon.</description>
-      <guid isPermaLink="false">https://x.com/DerekCBeland/status/2111048305337643186</guid>
-      <pubDate>Fri, 16 Oct 2026 10:55:12 +0000</pubDate>
-    </item>
-    <item>
       <title>[AbubakarLawan83]What if understanding a difficult subject didn't have to be a struggle? I've been exploring how AI can make learning more accessible, and there's one thing every student should pay attention to having a tool that can help explain difficult concepts Let's talk about @HilearnersAI</title>
       <link>https://x.com/AbubakarLawan83/status/2111048306629423484</link>
       <description>What if understanding a difficult subject didn't have to be a struggle? I've been exploring how AI can make learning more accessible, and there's one thing every student should pay attention to having a tool that can help explain difficult concepts Let's talk about @HilearnersAI</description>
       <guid isPermaLink="false">https://x.com/AbubakarLawan83/status/2111048306629423484</guid>
+      <pubDate>Fri, 16 Oct 2026 10:55:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>[DerekCBeland]OK.. ai generated... I hate Elon.</title>
+      <link>https://x.com/DerekCBeland/status/2111048305337643186</link>
+      <description>OK.. ai generated... I hate Elon.</description>
+      <guid isPermaLink="false">https://x.com/DerekCBeland/status/2111048305337643186</guid>
       <pubDate>Fri, 16 Oct 2026 10:55:12 +0000</pubDate>
     </item>
     <item>
@@ -5183,6 +5090,97 @@ Now available to Pro users in the Chat tab.</description>
       <description>JUST IN: Alberta's independence referendum draws over 1 million early votes, as new polling shows 66% support remaining in Canada.</description>
       <guid isPermaLink="false">https://x.com/Polymarket/status/2111193574662373420</guid>
       <pubDate>Fri, 16 Oct 2026 20:32:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>[elonmusk]This is what I do, but at 1.5X</title>
+      <link>https://x.com/elonmusk/status/2111238267878449283</link>
+      <description>This is what I do, but at 1.5X</description>
+      <guid isPermaLink="false">https://x.com/elonmusk/status/2111238267878449283</guid>
+      <pubDate>Fri, 16 Oct 2026 23:30:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>[elonmusk]Also, ask Grok @Bot to connect to your 𝕏 DMs. Best way to use it.</title>
+      <link>https://x.com/elonmusk/status/2111239205951086616</link>
+      <description>Also, ask Grok @Bot to connect to your 𝕏 DMs. Best way to use it.</description>
+      <guid isPermaLink="false">https://x.com/elonmusk/status/2111239205951086616</guid>
+      <pubDate>Fri, 16 Oct 2026 23:33:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>[elonmusk]Grok @Bot got much faster</title>
+      <link>https://x.com/elonmusk/status/2111239586873745604</link>
+      <description>Grok @Bot got much faster</description>
+      <guid isPermaLink="false">https://x.com/elonmusk/status/2111239586873745604</guid>
+      <pubDate>Fri, 16 Oct 2026 23:35:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Polymarket]JUST IN: Anthropic signs a lease for its first Canadian data center in Nova Scotia.</title>
+      <link>https://x.com/Polymarket/status/2111282151786156071</link>
+      <description>JUST IN: Anthropic signs a lease for its first Canadian data center in Nova Scotia.</description>
+      <guid isPermaLink="false">https://x.com/Polymarket/status/2111282151786156071</guid>
+      <pubDate>Sat, 17 Oct 2026 02:24:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Polymarket]28% chance a U.S. state enacts a data center moratorium this year.
+https://polymarket.us/event/anyst-datactrmor?dub_id=tSvW4kkd9xKzhMJN — 28% chance a U.S. state enacts a data center moratorium this year. https://polymarket.us/event/anyst-datactrmor?dub_id=tSvW4kkd9xKzhMJN</title>
+      <link>https://x.com/Polymarket/status/2111282307600711810</link>
+      <description>28% chance a U.S. state enacts a data center moratorium this year.
+https://polymarket.us/event/anyst-datactrmor?dub_id=tSvW4kkd9xKzhMJN</description>
+      <guid isPermaLink="false">https://x.com/Polymarket/status/2111282307600711810</guid>
+      <pubDate>Sat, 17 Oct 2026 02:25:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Polymarket]JUST IN: Texas Democratic Senate candidate James Talarico compares his campaign to the biblical David fighting Goliath.</title>
+      <link>https://x.com/Polymarket/status/2111289160774320564</link>
+      <description>JUST IN: Texas Democratic Senate candidate James Talarico compares his campaign to the biblical David fighting Goliath.</description>
+      <guid isPermaLink="false">https://x.com/Polymarket/status/2111289160774320564</guid>
+      <pubDate>Sat, 17 Oct 2026 02:52:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Polymarket]63% chance James Talarico defeats Ken Paxton.
+https://polymarket.us/event/usse-tx-2026-11-03?dub_id=GcTbDpFxrKFqob7K — 63% chance James Talarico defeats Ken Paxton. https://polymarket.us/event/usse-tx-2026-11-03?dub_id=GcTbDpFxrKFqob7K</title>
+      <link>https://x.com/Polymarket/status/2111295396798669122</link>
+      <description>63% chance James Talarico defeats Ken Paxton.
+https://polymarket.us/event/usse-tx-2026-11-03?dub_id=GcTbDpFxrKFqob7K</description>
+      <guid isPermaLink="false">https://x.com/Polymarket/status/2111295396798669122</guid>
+      <pubDate>Sat, 17 Oct 2026 03:17:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Polymarket]BREAKING: Hacker steals personal data belonging to millions of California students, including names, birth dates, home addresses, &amp; disability status, state officials confirm.</title>
+      <link>https://x.com/Polymarket/status/2111295635848581545</link>
+      <description>BREAKING: Hacker steals personal data belonging to millions of California students, including names, birth dates, home addresses, &amp; disability status, state officials confirm.</description>
+      <guid isPermaLink="false">https://x.com/Polymarket/status/2111295635848581545</guid>
+      <pubDate>Sat, 17 Oct 2026 03:18:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[IstanbulPlusSi]Elon Musk operates in difficult industries
+Space
+Energy
+Artificial intelligence
+Hard problems can create massive opportunities</title>
+      <link>https://x.com/IstanbulPlusSi/status/2111296754884714634</link>
+      <description>Elon Musk operates in difficult industries
+Space
+Energy
+Artificial intelligence
+Hard problems can create massive opportunities</description>
+      <guid isPermaLink="false">https://x.com/IstanbulPlusSi/status/2111296754884714634</guid>
+      <pubDate>Sat, 17 Oct 2026 03:22:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BusinessTodayM1]Wall Street ended sharply lower on Friday as concerns over financing for artificial intelligence infrastructure companies and rising oil prices weighed on sentiment, sending the Nasdaq down 2.19%. https://www.businesstoday.com.my/2026/10/17/wall-street-slides-as-ai-financing-fears-oil-price-surge-rattle-investors/</title>
+      <link>https://x.com/BusinessTodayM1/status/2111296766515822759</link>
+      <description>Wall Street ended sharply lower on Friday as concerns over financing for artificial intelligence infrastructure companies and rising oil prices weighed on sentiment, sending the Nasdaq down 2.19%. https://www.businesstoday.com.my/2026/10/17/wall-street-slides-as-ai-financing-fears-oil-price-surge-rattle-investors/</description>
+      <guid isPermaLink="false">https://x.com/BusinessTodayM1/status/2111296766515822759</guid>
+      <pubDate>Sat, 17 Oct 2026 03:22:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>[magiceden333]Text data has hit its scaling wall. The next frontier for artificial intelligence is Physical AI, and it's starving for real world spatial ground truth. 🌍🤖
+​Backed by a $9M seed round, @vangrid_io is building the decentralized spatial intelligence network that transforms👇</title>
+      <link>https://x.com/magiceden333/status/2111297222981665103</link>
+      <description>Text data has hit its scaling wall. The next frontier for artificial intelligence is Physical AI, and it's starving for real world spatial ground truth. 🌍🤖
+​Backed by a $9M seed round, @vangrid_io is building the decentralized spatial intelligence network that transforms👇</description>
+      <guid isPermaLink="false">https://x.com/magiceden333/status/2111297222981665103</guid>
+      <pubDate>Sat, 17 Oct 2026 03:24:18 +0000</pubDate>
     </item>
   </channel>
 </rss>
