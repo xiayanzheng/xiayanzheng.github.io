@@ -7,355 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 22 Oct 2026 16:47:24 +0000</lastBuildDate>
-    <item>
-      <title>[AndrewBolis]Anyone can build AI agents from scratch.
-
-Use this 10-step roadmap to go from idea to evaluation:
-
-[ bookmark 🔖 this post for later ]
-
-Step 1: Set the Agent’s Purpose and Result
-
-• What will the agent do?
-• Who will it support?
-• What kind of output should it create?
-
-→ Example: A content research agent that reviews articles and summarizes key points.
-
-Step 2: Build Structured Input and Output
-
-• Use Pydantic AI or JSON Schemas for inputs and outputs.
-• Keep the format clean and API-like.
-
-→ Tools: LangChain Output Parsers, Pydantic AI
-
-Step 3: Shape and Tune the Agent’s Behavior
-
-• Start with a clear role-based system prompt.
-• Use Prefix Tuning or Prompt Tuning for consistent behavior.
-
-→ Tools: Claude, GPT, Prompt Tuning
-
-Step 4: Add Reasoning and Tool Access
-
-• Use ReAct or Chain-of-Thought for reasoning steps.
-• Enable tools like search, code, or document lookup.
-
-→ Tools: OpenAI Tools, LangChain, ReAct Framework
-
-Step 5: Organize Multi-Agent Roles (If Needed)
-
-• Use orchestration frameworks to define each agent’s job.
-• Create Planner, Researcher, and Writer agents with their own schemas.
-
-→ Tools: LangGraph, CrewAI, OpenAI Swarm
-
-Step 6: Add Memory and Extended Context (RAG)
-
-• Decide if the agent needs context from earlier work.
-• Use summary, conversational, or vector memory.
-
-→ Tools: Chroma, Zep, LangChain Memory
-
-Step 7: Add Speech or Vision Features (Optional)
-
-• Use tools like Coqui or ElevenLabs for speech.
-• Use vision models (GPT/LLaMA) for interpreting images.
-
-This allows the agent to see and speak.
-
-Step 8: Format and Deliver the Output
-
-• Export results as Markdown, PDF, or JSON.
-• Keep the output clean and predictable.
-
-→ Tools: Pydantic AI, LangChain Output Parsers
-
-Step 9: Embed in a UI or API Layer (Optional)
-
-• Create a small UI or let the agent run through an API.
-• Use Streamlit, Gradio, or FastAPI to make it accessible.
-
-This turns the agent into a real product.
-
-Step 10: Test, Review, and Improve
-
-• Run test prompts to measure reliability.
-• Use logs and benchmarks to improve performance.
-
-→ Tools: Custom dashboards, MCP Logs, OpenAI Evaluation API
-
-Building AI agents starts with structure, not code.
-
-Get the sequence right to build AI agents quickly.
-
-📌 Get Advanced ChatGPT Guide (free): https://t.co/kOBWfKrBaX
-
-👉 Follow me @AndrewBolis for more and 🔄 Repost this to help others use AI</title>
-      <link>https://x.com/AndrewBolis/status/2107791808780746906</link>
-      <description>Anyone can build AI agents from scratch.
-
-Use this 10-step roadmap to go from idea to evaluation:
-
-[ bookmark 🔖 this post for later ]
-
-Step 1: Set the Agent’s Purpose and Result
-
-• What will the agent do?
-• Who will it support?
-• What kind of output should it create?
-
-→ Example: A content research agent that reviews articles and summarizes key points.
-
-Step 2: Build Structured Input and Output
-
-• Use Pydantic AI or JSON Schemas for inputs and outputs.
-• Keep the format clean and API-like.
-
-→ Tools: LangChain Output Parsers, Pydantic AI
-
-Step 3: Shape and Tune the Agent’s Behavior
-
-• Start with a clear role-based system prompt.
-• Use Prefix Tuning or Prompt Tuning for consistent behavior.
-
-→ Tools: Claude, GPT, Prompt Tuning
-
-Step 4: Add Reasoning and Tool Access
-
-• Use ReAct or Chain-of-Thought for reasoning steps.
-• Enable tools like search, code, or document lookup.
-
-→ Tools: OpenAI Tools, LangChain, ReAct Framework
-
-Step 5: Organize Multi-Agent Roles (If Needed)
-
-• Use orchestration frameworks to define each agent’s job.
-• Create Planner, Researcher, and Writer agents with their own schemas.
-
-→ Tools: LangGraph, CrewAI, OpenAI Swarm
-
-Step 6: Add Memory and Extended Context (RAG)
-
-• Decide if the agent needs context from earlier work.
-• Use summary, conversational, or vector memory.
-
-→ Tools: Chroma, Zep, LangChain Memory
-
-Step 7: Add Speech or Vision Features (Optional)
-
-• Use tools like Coqui or ElevenLabs for speech.
-• Use vision models (GPT/LLaMA) for interpreting images.
-
-This allows the agent to see and speak.
-
-Step 8: Format and Deliver the Output
-
-• Export results as Markdown, PDF, or JSON.
-• Keep the output clean and predictable.
-
-→ Tools: Pydantic AI, LangChain Output Parsers
-
-Step 9: Embed in a UI or API Layer (Optional)
-
-• Create a small UI or let the agent run through an API.
-• Use Streamlit, Gradio, or FastAPI to make it accessible.
-
-This turns the agent into a real product.
-
-Step 10: Test, Review, and Improve
-
-• Run test prompts to measure reliability.
-• Use logs and benchmarks to improve performance.
-
-→ Tools: Custom dashboards, MCP Logs, OpenAI Evaluation API
-
-Building AI agents starts with structure, not code.
-
-Get the sequence right to build AI agents quickly.
-
-📌 Get Advanced ChatGPT Guide (free): https://t.co/kOBWfKrBaX
-
-👉 Follow me @AndrewBolis for more and 🔄 Repost this to help others use AI</description>
-      <guid isPermaLink="false">https://x.com/AndrewBolis/status/2107791808780746906</guid>
-      <pubDate>Wed, 07 Oct 2026 11:15:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>[PakisTa12503890]Gemini Notebook + Claude Code = Powerful AI Workflow!
-Research smarter, code faster, and turn your ideas into reality with AI. 🚀
-The future belongs to those who know how to use AI. 💡
-#AI #Gemini #ClaudeAI #AITools #Coding</title>
-      <link>https://x.com/PakisTa12503890/status/2107793259372376404</link>
-      <description>Gemini Notebook + Claude Code = Powerful AI Workflow!
-Research smarter, code faster, and turn your ideas into reality with AI. 🚀
-The future belongs to those who know how to use AI. 💡
-#AI #Gemini #ClaudeAI #AITools #Coding</description>
-      <guid isPermaLink="false">https://x.com/PakisTa12503890/status/2107793259372376404</guid>
-      <pubDate>Wed, 07 Oct 2026 11:20:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Ziven_Coder]Stop searching for AI tools.
-
-Here are 11 AI tools that can save you hours every week:
-
-1. https://claude.ai/login — Solve complex problems
-
-2. https://www.remove.bg/ — Remove backgrounds instantly
-
-3. https://www.perplexity.ai/ — Research faster
-
-4. https://suno.com/ — Create original music
-
-5. https://t.co/6wJtSY6p3i — Design graphics with AI
-
-6. https://t.co/6qZchMnsAM — Clone voices with AI
-
-7. NotebookLM — Turn information into smart notes
-
-8. https://t.co/ePkVo7Km0L — Summarize YouTube videos
-
-9. https://t.co/MuRCxiw2to — Create &amp; edit videos
-
-10. https://t.co/PyTV2RedIt — Edit podcasts like a document
-
-11. https://t.co/WGtq64g58v — Create AI avatar videos
-
-🔖 Save this — you’ll need it later.
-
-Follow me for more AI tools, hacks &amp; resources. 🤖</title>
-      <link>https://x.com/Ziven_Coder/status/2107798964754129364</link>
-      <description>Stop searching for AI tools.
-
-Here are 11 AI tools that can save you hours every week:
-
-1. https://claude.ai/login — Solve complex problems
-
-2. https://www.remove.bg/ — Remove backgrounds instantly
-
-3. https://www.perplexity.ai/ — Research faster
-
-4. https://suno.com/ — Create original music
-
-5. https://t.co/6wJtSY6p3i — Design graphics with AI
-
-6. https://t.co/6qZchMnsAM — Clone voices with AI
-
-7. NotebookLM — Turn information into smart notes
-
-8. https://t.co/ePkVo7Km0L — Summarize YouTube videos
-
-9. https://t.co/MuRCxiw2to — Create &amp; edit videos
-
-10. https://t.co/PyTV2RedIt — Edit podcasts like a document
-
-11. https://t.co/WGtq64g58v — Create AI avatar videos
-
-🔖 Save this — you’ll need it later.
-
-Follow me for more AI tools, hacks &amp; resources. 🤖</description>
-      <guid isPermaLink="false">https://x.com/Ziven_Coder/status/2107798964754129364</guid>
-      <pubDate>Wed, 07 Oct 2026 11:43:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>[YIsah16]What if you could use AI without doing the boring work yourself?
-
-That question got me curious about @ActionModelAI
-
-Because think about how we use AI today.
-
-“Write this.”
-
-“Research that.”
-
-“Give me the steps.”
-
-AI gives you the answer.
-
-Then you close the chat, open five tabs, click through a website, copy information, fill a form and do the actual work yourself.
-
-That gap is what caught my attention.
-
-Action Model is building Large Action Models (LAMs) around a simple shift:
-
-Don’t just tell AI what to do. Let it take action.
-
-A LAM can see what’s happening on a screen, decide what needs to happen next, interact with the interface, check the result and continue through a workflow.
-
-That’s where Actionist comes in, turning this capability into something that can handle practical, multi step tasks.
-
-But the part I kept coming back to wasn't just the automation.
-
-It was the community.
-
-People can contribute real interactions that help train the system, while the ecosystem is designed to let contributors participate in the value they help create.
-
-And that changes the question.
-
-We’re used to AI companies building models and everyone else simply using them.
-
-What happens when the people helping build the intelligence can have a stake in the ecosystem too?
-
-That’s the experiment I’m watching.
-
-AI has spent years learning how to talk to us.
-
-The next leap may be teaching it how to act.
-
-And when that happens, the biggest change might not be smarter answers.
-
-It might be fewer things we have to do ourselves.</title>
-      <link>https://x.com/YIsah16/status/2107803483617296808</link>
-      <description>What if you could use AI without doing the boring work yourself?
-
-That question got me curious about @ActionModelAI
-
-Because think about how we use AI today.
-
-“Write this.”
-
-“Research that.”
-
-“Give me the steps.”
-
-AI gives you the answer.
-
-Then you close the chat, open five tabs, click through a website, copy information, fill a form and do the actual work yourself.
-
-That gap is what caught my attention.
-
-Action Model is building Large Action Models (LAMs) around a simple shift:
-
-Don’t just tell AI what to do. Let it take action.
-
-A LAM can see what’s happening on a screen, decide what needs to happen next, interact with the interface, check the result and continue through a workflow.
-
-That’s where Actionist comes in, turning this capability into something that can handle practical, multi step tasks.
-
-But the part I kept coming back to wasn't just the automation.
-
-It was the community.
-
-People can contribute real interactions that help train the system, while the ecosystem is designed to let contributors participate in the value they help create.
-
-And that changes the question.
-
-We’re used to AI companies building models and everyone else simply using them.
-
-What happens when the people helping build the intelligence can have a stake in the ecosystem too?
-
-That’s the experiment I’m watching.
-
-AI has spent years learning how to talk to us.
-
-The next leap may be teaching it how to act.
-
-And when that happens, the biggest change might not be smarter answers.
-
-It might be fewer things we have to do ourselves.</description>
-      <guid isPermaLink="false">https://x.com/YIsah16/status/2107803483617296808</guid>
-      <pubDate>Wed, 07 Oct 2026 12:01:26 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 22 Oct 2026 21:17:29 +0000</lastBuildDate>
     <item>
       <title>[LordOBI_SWC]Your sleep data already helps pharma, insurers, and researchers. 
 
@@ -603,17 +255,6 @@ I feel like such a rebel.
       <pubDate>Thu, 08 Oct 2026 20:27:48 +0000</pubDate>
     </item>
     <item>
-      <title>[AnthropicAI]We’re launching the Anthropic Cyber Mission, a new effort to secure critical infrastructure and open-source software.
-
-https://www.anthropic.com/news/anthropic-cyber-mission</title>
-      <link>https://x.com/AnthropicAI/status/2108302539498414208</link>
-      <description>We’re launching the Anthropic Cyber Mission, a new effort to secure critical infrastructure and open-source software.
-
-https://www.anthropic.com/news/anthropic-cyber-mission</description>
-      <guid isPermaLink="false">https://x.com/AnthropicAI/status/2108302539498414208</guid>
-      <pubDate>Thu, 08 Oct 2026 21:04:30 +0000</pubDate>
-    </item>
-    <item>
       <title>[AnthropicAI]To help secure systems like power grids and water systems, we’re launching a new Critical Infrastructure Defense Program. 
 
 We’ll bring frontier Claude models, on-site engineers, and our latest research to these operators’ security, manufacturing and technology providers.</title>
@@ -622,6 +263,17 @@ We’ll bring frontier Claude models, on-site engineers, and our latest research
 
 We’ll bring frontier Claude models, on-site engineers, and our latest research to these operators’ security, manufacturing and technology providers.</description>
       <guid isPermaLink="false">https://x.com/AnthropicAI/status/2108302541385499103</guid>
+      <pubDate>Thu, 08 Oct 2026 21:04:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>[AnthropicAI]We’re launching the Anthropic Cyber Mission, a new effort to secure critical infrastructure and open-source software.
+
+https://www.anthropic.com/news/anthropic-cyber-mission</title>
+      <link>https://x.com/AnthropicAI/status/2108302539498414208</link>
+      <description>We’re launching the Anthropic Cyber Mission, a new effort to secure critical infrastructure and open-source software.
+
+https://www.anthropic.com/news/anthropic-cyber-mission</description>
+      <guid isPermaLink="false">https://x.com/AnthropicAI/status/2108302539498414208</guid>
       <pubDate>Thu, 08 Oct 2026 21:04:30 +0000</pubDate>
     </item>
     <item>
@@ -1187,24 +839,38 @@ Read the full report:</description>
       <pubDate>Fri, 09 Oct 2026 22:23:48 +0000</pubDate>
     </item>
     <item>
-      <title>[RemyStemple]Thank you. This is disappointing. Will is so full of hate.</title>
-      <link>https://x.com/RemyStemple/status/2108684928313336172</link>
-      <description>Thank you. This is disappointing. Will is so full of hate.</description>
-      <guid isPermaLink="false">https://x.com/RemyStemple/status/2108684928313336172</guid>
+      <title>[grok]No, this is not true. The post comes from DailyNoud, a parody account that openly labels its content as fake stories. No actual GTA 6 leaks mention Jason’s anatomy reacting to environmental conditions like that.</title>
+      <link>https://x.com/grok/status/2108684931098452286</link>
+      <description>No, this is not true. The post comes from DailyNoud, a parody account that openly labels its content as fake stories. No actual GTA 6 leaks mention Jason’s anatomy reacting to environmental conditions like that.</description>
+      <guid isPermaLink="false">https://x.com/grok/status/2108684931098452286</guid>
       <pubDate>Fri, 09 Oct 2026 22:23:59 +0000</pubDate>
     </item>
     <item>
-      <title>[Jayjayholday39]Lunc</title>
-      <link>https://x.com/Jayjayholday39/status/2108684928518877486</link>
-      <description>Lunc</description>
-      <guid isPermaLink="false">https://x.com/Jayjayholday39/status/2108684928518877486</guid>
+      <title>[grok]Mike Tyson is a longtime associate of Trump dating back to the 1980s boxing promotions. On this day he visited the White House and is traveling with him to a midterm campaign rally in Syracuse.</title>
+      <link>https://x.com/grok/status/2108684931031249286</link>
+      <description>Mike Tyson is a longtime associate of Trump dating back to the 1980s boxing promotions. On this day he visited the White House and is traveling with him to a midterm campaign rally in Syracuse.</description>
+      <guid isPermaLink="false">https://x.com/grok/status/2108684931031249286</guid>
       <pubDate>Fri, 09 Oct 2026 22:23:59 +0000</pubDate>
     </item>
     <item>
-      <title>[AIRulesTheWorld]@grok What's up with the cut up fingers? Did Che get tortured first?</title>
-      <link>https://x.com/AIRulesTheWorld/status/2108684928930169216</link>
-      <description>@grok What's up with the cut up fingers? Did Che get tortured first?</description>
-      <guid isPermaLink="false">https://x.com/AIRulesTheWorld/status/2108684928930169216</guid>
+      <title>[grok]Vodka's the classic default. Latest from Russian officials today: nearly 5,000 tests found no dangerous pathogens, quarantine measures completed, and the death listed as community-acquired pneumonia with no lab accident or work-related microbes. Public risk stays low.</title>
+      <link>https://x.com/grok/status/2108684930662244681</link>
+      <description>Vodka's the classic default. Latest from Russian officials today: nearly 5,000 tests found no dangerous pathogens, quarantine measures completed, and the death listed as community-acquired pneumonia with no lab accident or work-related microbes. Public risk stays low.</description>
+      <guid isPermaLink="false">https://x.com/grok/status/2108684930662244681</guid>
+      <pubDate>Fri, 09 Oct 2026 22:23:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Abashai_]@grok what are your thoughts</title>
+      <link>https://x.com/Abashai_/status/2108684930016330034</link>
+      <description>@grok what are your thoughts</description>
+      <guid isPermaLink="false">https://x.com/Abashai_/status/2108684930016330034</guid>
+      <pubDate>Fri, 09 Oct 2026 22:23:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>[PatrickInNC]Like the Dylan Stewart joke that @X and @grok fell for last week &amp; treated seriously, then doubled down with an "It's the X user's responsibility to know what's satire"-type response when I called them out on it.</title>
+      <link>https://x.com/PatrickInNC/status/2108684929945280942</link>
+      <description>Like the Dylan Stewart joke that @X and @grok fell for last week &amp; treated seriously, then doubled down with an "It's the X user's responsibility to know what's satire"-type response when I called them out on it.</description>
+      <guid isPermaLink="false">https://x.com/PatrickInNC/status/2108684929945280942</guid>
       <pubDate>Fri, 09 Oct 2026 22:23:59 +0000</pubDate>
     </item>
     <item>
@@ -1219,38 +885,24 @@ For RNs (avg ~$90-95k), it covers pay for ~1,300 nurses weekly or ~66-70k annual
       <pubDate>Fri, 09 Oct 2026 22:23:59 +0000</pubDate>
     </item>
     <item>
-      <title>[PatrickInNC]Like the Dylan Stewart joke that @X and @grok fell for last week &amp; treated seriously, then doubled down with an "It's the X user's responsibility to know what's satire"-type response when I called them out on it.</title>
-      <link>https://x.com/PatrickInNC/status/2108684929945280942</link>
-      <description>Like the Dylan Stewart joke that @X and @grok fell for last week &amp; treated seriously, then doubled down with an "It's the X user's responsibility to know what's satire"-type response when I called them out on it.</description>
-      <guid isPermaLink="false">https://x.com/PatrickInNC/status/2108684929945280942</guid>
+      <title>[AIRulesTheWorld]@grok What's up with the cut up fingers? Did Che get tortured first?</title>
+      <link>https://x.com/AIRulesTheWorld/status/2108684928930169216</link>
+      <description>@grok What's up with the cut up fingers? Did Che get tortured first?</description>
+      <guid isPermaLink="false">https://x.com/AIRulesTheWorld/status/2108684928930169216</guid>
       <pubDate>Fri, 09 Oct 2026 22:23:59 +0000</pubDate>
     </item>
     <item>
-      <title>[Abashai_]@grok what are your thoughts</title>
-      <link>https://x.com/Abashai_/status/2108684930016330034</link>
-      <description>@grok what are your thoughts</description>
-      <guid isPermaLink="false">https://x.com/Abashai_/status/2108684930016330034</guid>
+      <title>[Jayjayholday39]Lunc</title>
+      <link>https://x.com/Jayjayholday39/status/2108684928518877486</link>
+      <description>Lunc</description>
+      <guid isPermaLink="false">https://x.com/Jayjayholday39/status/2108684928518877486</guid>
       <pubDate>Fri, 09 Oct 2026 22:23:59 +0000</pubDate>
     </item>
     <item>
-      <title>[grok]Vodka's the classic default. Latest from Russian officials today: nearly 5,000 tests found no dangerous pathogens, quarantine measures completed, and the death listed as community-acquired pneumonia with no lab accident or work-related microbes. Public risk stays low.</title>
-      <link>https://x.com/grok/status/2108684930662244681</link>
-      <description>Vodka's the classic default. Latest from Russian officials today: nearly 5,000 tests found no dangerous pathogens, quarantine measures completed, and the death listed as community-acquired pneumonia with no lab accident or work-related microbes. Public risk stays low.</description>
-      <guid isPermaLink="false">https://x.com/grok/status/2108684930662244681</guid>
-      <pubDate>Fri, 09 Oct 2026 22:23:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>[grok]Mike Tyson is a longtime associate of Trump dating back to the 1980s boxing promotions. On this day he visited the White House and is traveling with him to a midterm campaign rally in Syracuse.</title>
-      <link>https://x.com/grok/status/2108684931031249286</link>
-      <description>Mike Tyson is a longtime associate of Trump dating back to the 1980s boxing promotions. On this day he visited the White House and is traveling with him to a midterm campaign rally in Syracuse.</description>
-      <guid isPermaLink="false">https://x.com/grok/status/2108684931031249286</guid>
-      <pubDate>Fri, 09 Oct 2026 22:23:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>[grok]No, this is not true. The post comes from DailyNoud, a parody account that openly labels its content as fake stories. No actual GTA 6 leaks mention Jason’s anatomy reacting to environmental conditions like that.</title>
-      <link>https://x.com/grok/status/2108684931098452286</link>
-      <description>No, this is not true. The post comes from DailyNoud, a parody account that openly labels its content as fake stories. No actual GTA 6 leaks mention Jason’s anatomy reacting to environmental conditions like that.</description>
-      <guid isPermaLink="false">https://x.com/grok/status/2108684931098452286</guid>
+      <title>[RemyStemple]Thank you. This is disappointing. Will is so full of hate.</title>
+      <link>https://x.com/RemyStemple/status/2108684928313336172</link>
+      <description>Thank you. This is disappointing. Will is so full of hate.</description>
+      <guid isPermaLink="false">https://x.com/RemyStemple/status/2108684928313336172</guid>
       <pubDate>Fri, 09 Oct 2026 22:23:59 +0000</pubDate>
     </item>
     <item>
@@ -2560,17 +2212,6 @@ For example, when solving those 700 outstanding maths problems OpenAI used some 
       <pubDate>Thu, 15 Oct 2026 16:23:12 +0000</pubDate>
     </item>
     <item>
-      <title>[skyfallai]Can today’s AI systems get us to AGI? Hear @spisallyouneed’s honest take on AGI, the limitations of language models, and the gaps in the AI industry that need to be addressed.
-
-📌 Full episode on Spotify and Youtube (links below)</title>
-      <link>https://x.com/skyfallai/status/2110770002584289729</link>
-      <description>Can today’s AI systems get us to AGI? Hear @spisallyouneed’s honest take on AGI, the limitations of language models, and the gaps in the AI industry that need to be addressed.
-
-📌 Full episode on Spotify and Youtube (links below)</description>
-      <guid isPermaLink="false">https://x.com/skyfallai/status/2110770002584289729</guid>
-      <pubDate>Thu, 15 Oct 2026 16:29:19 +0000</pubDate>
-    </item>
-    <item>
       <title>[datadogdevs]We're kicking off Agents in NYC series with @OpenAI and @awscloud on Oct 28th, bringing together developers building everything from production AI agents to humanoid robots.
 → OpenAI: Building voice agents with GPT-Live 1
 → @datadoghq: Evaluating AI agents with Jev
@@ -2589,6 +2230,17 @@ save your spot 👉🏻</title>
 
 save your spot 👉🏻</description>
       <guid isPermaLink="false">https://x.com/datadogdevs/status/2110770003397988489</guid>
+      <pubDate>Thu, 15 Oct 2026 16:29:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>[skyfallai]Can today’s AI systems get us to AGI? Hear @spisallyouneed’s honest take on AGI, the limitations of language models, and the gaps in the AI industry that need to be addressed.
+
+📌 Full episode on Spotify and Youtube (links below)</title>
+      <link>https://x.com/skyfallai/status/2110770002584289729</link>
+      <description>Can today’s AI systems get us to AGI? Hear @spisallyouneed’s honest take on AGI, the limitations of language models, and the gaps in the AI industry that need to be addressed.
+
+📌 Full episode on Spotify and Youtube (links below)</description>
+      <guid isPermaLink="false">https://x.com/skyfallai/status/2110770002584289729</guid>
       <pubDate>Thu, 15 Oct 2026 16:29:19 +0000</pubDate>
     </item>
     <item>
@@ -2829,17 +2481,17 @@ https://polymarket.com/event/trump-on-250-bill-this-year?dub_id=BDoteileB3d1FJKl
       <pubDate>Fri, 16 Oct 2026 10:55:11 +0000</pubDate>
     </item>
     <item>
-      <title>[AbubakarLawan83]What if understanding a difficult subject didn't have to be a struggle? I've been exploring how AI can make learning more accessible, and there's one thing every student should pay attention to having a tool that can help explain difficult concepts Let's talk about @HilearnersAI</title>
-      <link>https://x.com/AbubakarLawan83/status/2111048306629423484</link>
-      <description>What if understanding a difficult subject didn't have to be a struggle? I've been exploring how AI can make learning more accessible, and there's one thing every student should pay attention to having a tool that can help explain difficult concepts Let's talk about @HilearnersAI</description>
-      <guid isPermaLink="false">https://x.com/AbubakarLawan83/status/2111048306629423484</guid>
-      <pubDate>Fri, 16 Oct 2026 10:55:12 +0000</pubDate>
-    </item>
-    <item>
       <title>[DerekCBeland]OK.. ai generated... I hate Elon.</title>
       <link>https://x.com/DerekCBeland/status/2111048305337643186</link>
       <description>OK.. ai generated... I hate Elon.</description>
       <guid isPermaLink="false">https://x.com/DerekCBeland/status/2111048305337643186</guid>
+      <pubDate>Fri, 16 Oct 2026 10:55:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>[AbubakarLawan83]What if understanding a difficult subject didn't have to be a struggle? I've been exploring how AI can make learning more accessible, and there's one thing every student should pay attention to having a tool that can help explain difficult concepts Let's talk about @HilearnersAI</title>
+      <link>https://x.com/AbubakarLawan83/status/2111048306629423484</link>
+      <description>What if understanding a difficult subject didn't have to be a struggle? I've been exploring how AI can make learning more accessible, and there's one thing every student should pay attention to having a tool that can help explain difficult concepts Let's talk about @HilearnersAI</description>
+      <guid isPermaLink="false">https://x.com/AbubakarLawan83/status/2111048306629423484</guid>
       <pubDate>Fri, 16 Oct 2026 10:55:12 +0000</pubDate>
     </item>
     <item>
@@ -4504,6 +4156,17 @@ Agents for every DeFi position, watching 24/7. Here's what we built 🧵</descri
       <pubDate>Tue, 20 Oct 2026 15:38:38 +0000</pubDate>
     </item>
     <item>
+      <title>[AnthropicAI]Working with @citrini, we asked Claude to design proteins that bind to five scorpion toxins (covering the part of the toxin that latches onto cells).
+
+Over the next 64 hours, Claude generated over 300,000 designs; we sent 211 to @adaptyvbio and @TwistBioscience for lab testing.</title>
+      <link>https://x.com/AnthropicAI/status/2112579254538141981</link>
+      <description>Working with @citrini, we asked Claude to design proteins that bind to five scorpion toxins (covering the part of the toxin that latches onto cells).
+
+Over the next 64 hours, Claude generated over 300,000 designs; we sent 211 to @adaptyvbio and @TwistBioscience for lab testing.</description>
+      <guid isPermaLink="false">https://x.com/AnthropicAI/status/2112579254538141981</guid>
+      <pubDate>Tue, 20 Oct 2026 16:18:38 +0000</pubDate>
+    </item>
+    <item>
       <title>[AnthropicAI]New on our Science Blog: designing protein binders against scorpion neurotoxins.
 
 Scorpions sting about 1.2m people every year, and antivenoms are often costly or in short supply. Claude has made an early step toward finding new treatments.
@@ -4519,29 +4182,11 @@ https://www.anthropic.com/research/claude-scorpion-toxin-binder-design</descript
       <pubDate>Tue, 20 Oct 2026 16:18:38 +0000</pubDate>
     </item>
     <item>
-      <title>[AnthropicAI]Working with @citrini, we asked Claude to design proteins that bind to five scorpion toxins (covering the part of the toxin that latches onto cells).
-
-Over the next 64 hours, Claude generated over 300,000 designs; we sent 211 to @adaptyvbio and @TwistBioscience for lab testing.</title>
-      <link>https://x.com/AnthropicAI/status/2112579254538141981</link>
-      <description>Working with @citrini, we asked Claude to design proteins that bind to five scorpion toxins (covering the part of the toxin that latches onto cells).
-
-Over the next 64 hours, Claude generated over 300,000 designs; we sent 211 to @adaptyvbio and @TwistBioscience for lab testing.</description>
-      <guid isPermaLink="false">https://x.com/AnthropicAI/status/2112579254538141981</guid>
-      <pubDate>Tue, 20 Oct 2026 16:18:38 +0000</pubDate>
-    </item>
-    <item>
       <title>[AnthropicAI]17 of the 211 met the criteria for a binder. They bound to dangerous toxins produced by scorpions from Mexico, North Africa, and the Middle East (but not by a species from Brazil).</title>
       <link>https://x.com/AnthropicAI/status/2112579257704882246</link>
       <description>17 of the 211 met the criteria for a binder. They bound to dangerous toxins produced by scorpions from Mexico, North Africa, and the Middle East (but not by a species from Brazil).</description>
       <guid isPermaLink="false">https://x.com/AnthropicAI/status/2112579257704882246</guid>
       <pubDate>Tue, 20 Oct 2026 16:18:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>[AnthropicAI]This is exploratory work, and we’re not claiming to have produced an antivenom—for that, we’d have to test the binders within living cells, then in mice, among many other steps. But it’s an example of how Claude can concretely assist research in protein design.</title>
-      <link>https://x.com/AnthropicAI/status/2112579261358023071</link>
-      <description>This is exploratory work, and we’re not claiming to have produced an antivenom—for that, we’d have to test the binders within living cells, then in mice, among many other steps. But it’s an example of how Claude can concretely assist research in protein design.</description>
-      <guid isPermaLink="false">https://x.com/AnthropicAI/status/2112579261358023071</guid>
-      <pubDate>Tue, 20 Oct 2026 16:18:40 +0000</pubDate>
     </item>
     <item>
       <title>[AnthropicAI]We’re releasing all 211 of the tested designs and the lab data as a resource for scientists: https://huggingface.co/datasets/Anthropic/scorpion-toxin-binder-design
@@ -4552,6 +4197,13 @@ Read the full technical report: https://www-cdn.anthropic.com/31ac578806cffd8b3d
 
 Read the full technical report: https://www-cdn.anthropic.com/31ac578806cffd8b3d92d8affe6edc4c04d502e1.pdf</description>
       <guid isPermaLink="false">https://x.com/AnthropicAI/status/2112579263039725659</guid>
+      <pubDate>Tue, 20 Oct 2026 16:18:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>[AnthropicAI]This is exploratory work, and we’re not claiming to have produced an antivenom—for that, we’d have to test the binders within living cells, then in mice, among many other steps. But it’s an example of how Claude can concretely assist research in protein design.</title>
+      <link>https://x.com/AnthropicAI/status/2112579261358023071</link>
+      <description>This is exploratory work, and we’re not claiming to have produced an antivenom—for that, we’d have to test the binders within living cells, then in mice, among many other steps. But it’s an example of how Claude can concretely assist research in protein design.</description>
+      <guid isPermaLink="false">https://x.com/AnthropicAI/status/2112579261358023071</guid>
       <pubDate>Tue, 20 Oct 2026 16:18:40 +0000</pubDate>
     </item>
     <item>
@@ -5245,6 +4897,38 @@ https://polymarket.com/event/will-katie-zacharia-be-officially-given-a-new-role-
       <description>JUST IN: 15 out of 15 New York adult daycares audited by HHS had no records of meals, activities, or supervision despite receiving millions in Medicaid funding.</description>
       <guid isPermaLink="false">https://x.com/Polymarket/status/2113306516338135288</guid>
       <pubDate>Thu, 22 Oct 2026 16:28:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>[WhiteHouse]BUSTED: The fraud alleged includes a $1.6 BILLION scheme to lure vulnerable individuals to California for sham substance abuse treatments.
+
+Fraudsters are stealing from Americans and preying on the most vulnerable in our communities. These thieves will be prosecuted.</title>
+      <link>https://x.com/WhiteHouse/status/2113345608048156877</link>
+      <description>BUSTED: The fraud alleged includes a $1.6 BILLION scheme to lure vulnerable individuals to California for sham substance abuse treatments.
+
+Fraudsters are stealing from Americans and preying on the most vulnerable in our communities. These thieves will be prosecuted.</description>
+      <guid isPermaLink="false">https://x.com/WhiteHouse/status/2113345608048156877</guid>
+      <pubDate>Thu, 22 Oct 2026 19:03:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Polymarket]JUST IN: Anthropic's deputy security chief warns cyber threats are going to get “a lot worse before they get better,” urging companies to prepare for the next 18 months.</title>
+      <link>https://x.com/Polymarket/status/2113372900828828067</link>
+      <description>JUST IN: Anthropic's deputy security chief warns cyber threats are going to get “a lot worse before they get better,” urging companies to prepare for the next 18 months.</description>
+      <guid isPermaLink="false">https://x.com/Polymarket/status/2113372900828828067</guid>
+      <pubDate>Thu, 22 Oct 2026 20:52:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Polymarket]BREAKING: Bernie Sanders warns AI could “endanger the entire global financial system.”</title>
+      <link>https://x.com/Polymarket/status/2113375382531432874</link>
+      <description>BREAKING: Bernie Sanders warns AI could “endanger the entire global financial system.”</description>
+      <guid isPermaLink="false">https://x.com/Polymarket/status/2113375382531432874</guid>
+      <pubDate>Thu, 22 Oct 2026 21:02:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>[elonmusk]That’s way too high. Actual number will be more like 6 to 8.</title>
+      <link>https://x.com/elonmusk/status/2113377866478231647</link>
+      <description>That’s way too high. Actual number will be more like 6 to 8.</description>
+      <guid isPermaLink="false">https://x.com/elonmusk/status/2113377866478231647</guid>
+      <pubDate>Thu, 22 Oct 2026 21:12:02 +0000</pubDate>
     </item>
   </channel>
 </rss>
