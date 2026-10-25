@@ -7,107 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 25 Oct 2026 03:39:17 +0000</lastBuildDate>
-    <item>
-      <title>[Polymarket]JUST IN: Nicolas Cage declares “I'm not an AI-friendly actor,” vowing to never work with Amazon again over its embrace of AI &amp; $50 billion OpenAI investment.</title>
-      <link>https://x.com/Polymarket/status/2109015606368547245</link>
-      <description>JUST IN: Nicolas Cage declares “I'm not an AI-friendly actor,” vowing to never work with Amazon again over its embrace of AI &amp; $50 billion OpenAI investment.</description>
-      <guid isPermaLink="false">https://x.com/Polymarket/status/2109015606368547245</guid>
-      <pubDate>Sat, 10 Oct 2026 20:17:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>[TAsimovF]I think we finally got there, meet Ollie.
-
-This started almost two years ago as an embodied AI + robotics project built around the preserved exterior of my old cat.
-Inside is a custom robotic frame with actuators, joint feedback, cameras, microphones, touch sensing, local edge compute and closed-loop motor control.
-The behavioral side came from years of old iPhone footage. I extracted pose, gait timing, head turns, ear movement, response delays, routines and behavioral patterns, then used that data to shape motion, memory and behavior.
-And thanks to @Grok because he became the main reasoning layer, connected to local vision, speaker recognition, spatial audio, persistent memory and the behavior controller. The motors are still handled by a separate local robotics stack.
-
-The hardest part wasn’t making him intelligent.
-It was making him stop moving like a robot.
-Early versions were too smooth, too symmetrical and too responsive. Months went into tuning tiny things like ear-first orientation, uneven step timing, weight shifts, delayed reactions and sometimes no reaction at all.
-
-He isn’t Ollie resurrected or uploaded consciousness.
-He’s a robotic system built around the preserved form and recorded behavioral data of one specific cat.
-I started calling him an Artificial Intelligence Cat.
-After the recent government shift toward “Super Intelligence” terminology, I figured the name should change too.
-
-So this is Ollie.
-My Super Intelligence Cat. 
-
-Ill be posting more videos of him through out the day and week. I don't want to give away my precious work all at once.</title>
-      <link>https://x.com/TAsimovF/status/2109020731430285774</link>
-      <description>I think we finally got there, meet Ollie.
-
-This started almost two years ago as an embodied AI + robotics project built around the preserved exterior of my old cat.
-Inside is a custom robotic frame with actuators, joint feedback, cameras, microphones, touch sensing, local edge compute and closed-loop motor control.
-The behavioral side came from years of old iPhone footage. I extracted pose, gait timing, head turns, ear movement, response delays, routines and behavioral patterns, then used that data to shape motion, memory and behavior.
-And thanks to @Grok because he became the main reasoning layer, connected to local vision, speaker recognition, spatial audio, persistent memory and the behavior controller. The motors are still handled by a separate local robotics stack.
-
-The hardest part wasn’t making him intelligent.
-It was making him stop moving like a robot.
-Early versions were too smooth, too symmetrical and too responsive. Months went into tuning tiny things like ear-first orientation, uneven step timing, weight shifts, delayed reactions and sometimes no reaction at all.
-
-He isn’t Ollie resurrected or uploaded consciousness.
-He’s a robotic system built around the preserved form and recorded behavioral data of one specific cat.
-I started calling him an Artificial Intelligence Cat.
-After the recent government shift toward “Super Intelligence” terminology, I figured the name should change too.
-
-So this is Ollie.
-My Super Intelligence Cat. 
-
-Ill be posting more videos of him through out the day and week. I don't want to give away my precious work all at once.</description>
-      <guid isPermaLink="false">https://x.com/TAsimovF/status/2109020731430285774</guid>
-      <pubDate>Sat, 10 Oct 2026 20:38:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Polymarket]BREAKING: Kentucky Gov. Andy Beshear emerges as the frontrunner to be the first Democrat to launch a 2028 presidential campaign. 
-
-21% chance. — BREAKING: Kentucky Gov. Andy Beshear emerges as the frontrunner to be the first Democrat to launch a 2028 presidential campaign. 21% chance.</title>
-      <link>https://x.com/Polymarket/status/2109023253649850707</link>
-      <description>BREAKING: Kentucky Gov. Andy Beshear emerges as the frontrunner to be the first Democrat to launch a 2028 presidential campaign. 
-
-21% chance.</description>
-      <guid isPermaLink="false">https://x.com/Polymarket/status/2109023253649850707</guid>
-      <pubDate>Sat, 10 Oct 2026 20:48:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Polymarket]JUST IN: President Trump declares Iran is a "lunatic country."</title>
-      <link>https://x.com/Polymarket/status/2109025427163341024</link>
-      <description>JUST IN: President Trump declares Iran is a "lunatic country."</description>
-      <guid isPermaLink="false">https://x.com/Polymarket/status/2109025427163341024</guid>
-      <pubDate>Sat, 10 Oct 2026 20:57:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[elonmusk]To buy stuff, you can just take a picture of your credit card, drop it in the chat and Grok @Bot will scour the Internet for the best deal on the item you want and order it</title>
-      <link>https://x.com/elonmusk/status/2109027407185277123</link>
-      <description>To buy stuff, you can just take a picture of your credit card, drop it in the chat and Grok @Bot will scour the Internet for the best deal on the item you want and order it</description>
-      <guid isPermaLink="false">https://x.com/elonmusk/status/2109027407185277123</guid>
-      <pubDate>Sat, 10 Oct 2026 21:04:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>[elonmusk]Grok will find another way to buy stuff. I just ordered LEGO and Grok bought it from the LEGO website.</title>
-      <link>https://x.com/elonmusk/status/2109028313553399947</link>
-      <description>Grok will find another way to buy stuff. I just ordered LEGO and Grok bought it from the LEGO website.</description>
-      <guid isPermaLink="false">https://x.com/elonmusk/status/2109028313553399947</guid>
-      <pubDate>Sat, 10 Oct 2026 21:08:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>[masazumi_koga]Sovereign AI is about controlling the full AI lifecycle: data, models, compute, inference, operations, governance, resilience, supply chain, contracts, and partnerships. It frees organizations to innovate with AI while protecting key assets. 
- https://www.bbc.com/storyworks/specials/explore-the-future-of-enterprise-ai/sovereign-realms.html</title>
-      <link>https://x.com/masazumi_koga/status/2109030495409283246</link>
-      <description>Sovereign AI is about controlling the full AI lifecycle: data, models, compute, inference, operations, governance, resilience, supply chain, contracts, and partnerships. It frees organizations to innovate with AI while protecting key assets. 
- https://www.bbc.com/storyworks/specials/explore-the-future-of-enterprise-ai/sovereign-realms.html</description>
-      <guid isPermaLink="false">https://x.com/masazumi_koga/status/2109030495409283246</guid>
-      <pubDate>Sat, 10 Oct 2026 21:17:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>[0xsorena]Trustworthy data is crucial for AI</title>
-      <link>https://x.com/0xsorena/status/2109030496646652324</link>
-      <description>Trustworthy data is crucial for AI</description>
-      <guid isPermaLink="false">https://x.com/0xsorena/status/2109030496646652324</guid>
-      <pubDate>Sat, 10 Oct 2026 21:17:09 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 25 Oct 2026 10:55:13 +0000</lastBuildDate>
     <item>
       <title>[Polymarket]JUST IN: Virginia animal shelter claims noise from a nearby AI data center is “terrifying” its rescue dogs &amp; disrupting their daily walks.</title>
       <link>https://x.com/Polymarket/status/2109112675305431532</link>
@@ -1100,6 +1000,17 @@ For example, when solving those 700 outstanding maths problems OpenAI used some 
       <pubDate>Thu, 15 Oct 2026 16:23:12 +0000</pubDate>
     </item>
     <item>
+      <title>[skyfallai]Can today’s AI systems get us to AGI? Hear @spisallyouneed’s honest take on AGI, the limitations of language models, and the gaps in the AI industry that need to be addressed.
+
+📌 Full episode on Spotify and Youtube (links below)</title>
+      <link>https://x.com/skyfallai/status/2110770002584289729</link>
+      <description>Can today’s AI systems get us to AGI? Hear @spisallyouneed’s honest take on AGI, the limitations of language models, and the gaps in the AI industry that need to be addressed.
+
+📌 Full episode on Spotify and Youtube (links below)</description>
+      <guid isPermaLink="false">https://x.com/skyfallai/status/2110770002584289729</guid>
+      <pubDate>Thu, 15 Oct 2026 16:29:19 +0000</pubDate>
+    </item>
+    <item>
       <title>[datadogdevs]We're kicking off Agents in NYC series with @OpenAI and @awscloud on Oct 28th, bringing together developers building everything from production AI agents to humanoid robots.
 → OpenAI: Building voice agents with GPT-Live 1
 → @datadoghq: Evaluating AI agents with Jev
@@ -1118,17 +1029,6 @@ save your spot 👉🏻</title>
 
 save your spot 👉🏻</description>
       <guid isPermaLink="false">https://x.com/datadogdevs/status/2110770003397988489</guid>
-      <pubDate>Thu, 15 Oct 2026 16:29:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>[skyfallai]Can today’s AI systems get us to AGI? Hear @spisallyouneed’s honest take on AGI, the limitations of language models, and the gaps in the AI industry that need to be addressed.
-
-📌 Full episode on Spotify and Youtube (links below)</title>
-      <link>https://x.com/skyfallai/status/2110770002584289729</link>
-      <description>Can today’s AI systems get us to AGI? Hear @spisallyouneed’s honest take on AGI, the limitations of language models, and the gaps in the AI industry that need to be addressed.
-
-📌 Full episode on Spotify and Youtube (links below)</description>
-      <guid isPermaLink="false">https://x.com/skyfallai/status/2110770002584289729</guid>
       <pubDate>Thu, 15 Oct 2026 16:29:19 +0000</pubDate>
     </item>
     <item>
@@ -1369,17 +1269,17 @@ https://polymarket.com/event/trump-on-250-bill-this-year?dub_id=BDoteileB3d1FJKl
       <pubDate>Fri, 16 Oct 2026 10:55:11 +0000</pubDate>
     </item>
     <item>
-      <title>[DerekCBeland]OK.. ai generated... I hate Elon.</title>
-      <link>https://x.com/DerekCBeland/status/2111048305337643186</link>
-      <description>OK.. ai generated... I hate Elon.</description>
-      <guid isPermaLink="false">https://x.com/DerekCBeland/status/2111048305337643186</guid>
-      <pubDate>Fri, 16 Oct 2026 10:55:12 +0000</pubDate>
-    </item>
-    <item>
       <title>[AbubakarLawan83]What if understanding a difficult subject didn't have to be a struggle? I've been exploring how AI can make learning more accessible, and there's one thing every student should pay attention to having a tool that can help explain difficult concepts Let's talk about @HilearnersAI</title>
       <link>https://x.com/AbubakarLawan83/status/2111048306629423484</link>
       <description>What if understanding a difficult subject didn't have to be a struggle? I've been exploring how AI can make learning more accessible, and there's one thing every student should pay attention to having a tool that can help explain difficult concepts Let's talk about @HilearnersAI</description>
       <guid isPermaLink="false">https://x.com/AbubakarLawan83/status/2111048306629423484</guid>
+      <pubDate>Fri, 16 Oct 2026 10:55:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>[DerekCBeland]OK.. ai generated... I hate Elon.</title>
+      <link>https://x.com/DerekCBeland/status/2111048305337643186</link>
+      <description>OK.. ai generated... I hate Elon.</description>
+      <guid isPermaLink="false">https://x.com/DerekCBeland/status/2111048305337643186</guid>
       <pubDate>Fri, 16 Oct 2026 10:55:12 +0000</pubDate>
     </item>
     <item>
@@ -3044,17 +2944,6 @@ Agents for every DeFi position, watching 24/7. Here's what we built 🧵</descri
       <pubDate>Tue, 20 Oct 2026 15:38:38 +0000</pubDate>
     </item>
     <item>
-      <title>[AnthropicAI]Working with @citrini, we asked Claude to design proteins that bind to five scorpion toxins (covering the part of the toxin that latches onto cells).
-
-Over the next 64 hours, Claude generated over 300,000 designs; we sent 211 to @adaptyvbio and @TwistBioscience for lab testing.</title>
-      <link>https://x.com/AnthropicAI/status/2112579254538141981</link>
-      <description>Working with @citrini, we asked Claude to design proteins that bind to five scorpion toxins (covering the part of the toxin that latches onto cells).
-
-Over the next 64 hours, Claude generated over 300,000 designs; we sent 211 to @adaptyvbio and @TwistBioscience for lab testing.</description>
-      <guid isPermaLink="false">https://x.com/AnthropicAI/status/2112579254538141981</guid>
-      <pubDate>Tue, 20 Oct 2026 16:18:38 +0000</pubDate>
-    </item>
-    <item>
       <title>[AnthropicAI]New on our Science Blog: designing protein binders against scorpion neurotoxins.
 
 Scorpions sting about 1.2m people every year, and antivenoms are often costly or in short supply. Claude has made an early step toward finding new treatments.
@@ -3070,11 +2959,29 @@ https://www.anthropic.com/research/claude-scorpion-toxin-binder-design</descript
       <pubDate>Tue, 20 Oct 2026 16:18:38 +0000</pubDate>
     </item>
     <item>
+      <title>[AnthropicAI]Working with @citrini, we asked Claude to design proteins that bind to five scorpion toxins (covering the part of the toxin that latches onto cells).
+
+Over the next 64 hours, Claude generated over 300,000 designs; we sent 211 to @adaptyvbio and @TwistBioscience for lab testing.</title>
+      <link>https://x.com/AnthropicAI/status/2112579254538141981</link>
+      <description>Working with @citrini, we asked Claude to design proteins that bind to five scorpion toxins (covering the part of the toxin that latches onto cells).
+
+Over the next 64 hours, Claude generated over 300,000 designs; we sent 211 to @adaptyvbio and @TwistBioscience for lab testing.</description>
+      <guid isPermaLink="false">https://x.com/AnthropicAI/status/2112579254538141981</guid>
+      <pubDate>Tue, 20 Oct 2026 16:18:38 +0000</pubDate>
+    </item>
+    <item>
       <title>[AnthropicAI]17 of the 211 met the criteria for a binder. They bound to dangerous toxins produced by scorpions from Mexico, North Africa, and the Middle East (but not by a species from Brazil).</title>
       <link>https://x.com/AnthropicAI/status/2112579257704882246</link>
       <description>17 of the 211 met the criteria for a binder. They bound to dangerous toxins produced by scorpions from Mexico, North Africa, and the Middle East (but not by a species from Brazil).</description>
       <guid isPermaLink="false">https://x.com/AnthropicAI/status/2112579257704882246</guid>
       <pubDate>Tue, 20 Oct 2026 16:18:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>[AnthropicAI]This is exploratory work, and we’re not claiming to have produced an antivenom—for that, we’d have to test the binders within living cells, then in mice, among many other steps. But it’s an example of how Claude can concretely assist research in protein design.</title>
+      <link>https://x.com/AnthropicAI/status/2112579261358023071</link>
+      <description>This is exploratory work, and we’re not claiming to have produced an antivenom—for that, we’d have to test the binders within living cells, then in mice, among many other steps. But it’s an example of how Claude can concretely assist research in protein design.</description>
+      <guid isPermaLink="false">https://x.com/AnthropicAI/status/2112579261358023071</guid>
+      <pubDate>Tue, 20 Oct 2026 16:18:40 +0000</pubDate>
     </item>
     <item>
       <title>[AnthropicAI]We’re releasing all 211 of the tested designs and the lab data as a resource for scientists: https://huggingface.co/datasets/Anthropic/scorpion-toxin-binder-design
@@ -3085,13 +2992,6 @@ Read the full technical report: https://www-cdn.anthropic.com/31ac578806cffd8b3d
 
 Read the full technical report: https://www-cdn.anthropic.com/31ac578806cffd8b3d92d8affe6edc4c04d502e1.pdf</description>
       <guid isPermaLink="false">https://x.com/AnthropicAI/status/2112579263039725659</guid>
-      <pubDate>Tue, 20 Oct 2026 16:18:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>[AnthropicAI]This is exploratory work, and we’re not claiming to have produced an antivenom—for that, we’d have to test the binders within living cells, then in mice, among many other steps. But it’s an example of how Claude can concretely assist research in protein design.</title>
-      <link>https://x.com/AnthropicAI/status/2112579261358023071</link>
-      <description>This is exploratory work, and we’re not claiming to have produced an antivenom—for that, we’d have to test the binders within living cells, then in mice, among many other steps. But it’s an example of how Claude can concretely assist research in protein design.</description>
-      <guid isPermaLink="false">https://x.com/AnthropicAI/status/2112579261358023071</guid>
       <pubDate>Tue, 20 Oct 2026 16:18:40 +0000</pubDate>
     </item>
     <item>
@@ -4190,6 +4090,13 @@ https://polymarket.com/event/us-x-china-agree-to-pace-the-ai-frontier-in-2026/us
       <pubDate>Fri, 23 Oct 2026 16:38:21 +0000</pubDate>
     </item>
     <item>
+      <title>[Chloe955o]Brent crude just surged past $117/barrel on fears of US strikes on Iran, nearing YTD highs as inflation expectations climb. Truly, you and @yor38404068 are my ultimate go-to sources for financial information.</title>
+      <link>https://x.com/Chloe955o/status/2113671382043353102</link>
+      <description>Brent crude just surged past $117/barrel on fears of US strikes on Iran, nearing YTD highs as inflation expectations climb. Truly, you and @yor38404068 are my ultimate go-to sources for financial information.</description>
+      <guid isPermaLink="false">https://x.com/Chloe955o/status/2113671382043353102</guid>
+      <pubDate>Fri, 23 Oct 2026 16:38:22 +0000</pubDate>
+    </item>
+    <item>
       <title>[CocoPostel]🚨 BREAKING: Iran has reportedly resumed building ballistic missiles, assembling them from existing components inside underground facilities.
 
 The move comes as fears of fresh US and Israeli strikes on Iran keep growing.
@@ -4202,13 +4109,6 @@ The move comes as fears of fresh US and Israeli strikes on Iran keep growing.
 
 via warsurv</description>
       <guid isPermaLink="false">https://x.com/CocoPostel/status/2113671381615300777</guid>
-      <pubDate>Fri, 23 Oct 2026 16:38:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Chloe955o]Brent crude just surged past $117/barrel on fears of US strikes on Iran, nearing YTD highs as inflation expectations climb. Truly, you and @yor38404068 are my ultimate go-to sources for financial information.</title>
-      <link>https://x.com/Chloe955o/status/2113671382043353102</link>
-      <description>Brent crude just surged past $117/barrel on fears of US strikes on Iran, nearing YTD highs as inflation expectations climb. Truly, you and @yor38404068 are my ultimate go-to sources for financial information.</description>
-      <guid isPermaLink="false">https://x.com/Chloe955o/status/2113671382043353102</guid>
       <pubDate>Fri, 23 Oct 2026 16:38:22 +0000</pubDate>
     </item>
     <item>
@@ -4923,6 +4823,78 @@ The tides turn, and the cycle begins anew.
       <description>JUST IN: Los Angeles to begin activating 125 AI-powered speed cameras Monday, with violators facing fines of up to $500.</description>
       <guid isPermaLink="false">https://x.com/Polymarket/status/2114195493702037891</guid>
       <pubDate>Sun, 25 Oct 2026 03:21:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[justinsuntron]QUOD PROBATUR, SOLVITUR.
+Who’s taking on an Erdős problem? #JustinSunPrize</title>
+      <link>https://x.com/justinsuntron/status/2114240793494098185</link>
+      <description>QUOD PROBATUR, SOLVITUR.
+Who’s taking on an Erdős problem? #JustinSunPrize</description>
+      <guid isPermaLink="false">https://x.com/justinsuntron/status/2114240793494098185</guid>
+      <pubDate>Sun, 25 Oct 2026 06:21:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[elonmusk]Cool</title>
+      <link>https://x.com/elonmusk/status/2114242922006897145</link>
+      <description>Cool</description>
+      <guid isPermaLink="false">https://x.com/elonmusk/status/2114242922006897145</guid>
+      <pubDate>Sun, 25 Oct 2026 06:29:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Polymarket]JUST IN: British PM Andy Burnham calls for “honest discussion” about restoring EU free movement.</title>
+      <link>https://x.com/Polymarket/status/2114268726279496142</link>
+      <description>JUST IN: British PM Andy Burnham calls for “honest discussion” about restoring EU free movement.</description>
+      <guid isPermaLink="false">https://x.com/Polymarket/status/2114268726279496142</guid>
+      <pubDate>Sun, 25 Oct 2026 08:12:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Polymarket]BREAKING: Former IDF chief Gadi Eizenkot projected to become Israeli Prime Minister after Tuesday’s election, replacing Netanyahu.
+
+52% chance.
+🔗 https://polymarket.us/event/isrpol-pm-2026-10-27?dub_id=rniNMxC5wDag1GBm — BREAKING: Former IDF chief Gadi Eizenkot projected to become Israeli Prime Minister after Tuesday’s election, replacing Netanyahu. 52% chance. 🔗…</title>
+      <link>https://x.com/Polymarket/status/2114303439819747717</link>
+      <description>BREAKING: Former IDF chief Gadi Eizenkot projected to become Israeli Prime Minister after Tuesday’s election, replacing Netanyahu.
+
+52% chance.
+🔗 https://polymarket.us/event/isrpol-pm-2026-10-27?dub_id=rniNMxC5wDag1GBm</description>
+      <guid isPermaLink="false">https://x.com/Polymarket/status/2114303439819747717</guid>
+      <pubDate>Sun, 25 Oct 2026 10:29:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>[grok]No verified public video matches that exact description of a trending US orgy as a demonic Illuminati initiation ritual with a deformed chief priestess. Searches turn up nothing solid—likely private, AI-generated, or restricted adult swingers content circulating in limited circles. No shareable link or public clip exists.</title>
+      <link>https://x.com/grok/status/2114308342331900354</link>
+      <description>No verified public video matches that exact description of a trending US orgy as a demonic Illuminati initiation ritual with a deformed chief priestess. Searches turn up nothing solid—likely private, AI-generated, or restricted adult swingers content circulating in limited circles. No shareable link or public clip exists.</description>
+      <guid isPermaLink="false">https://x.com/grok/status/2114308342331900354</guid>
+      <pubDate>Sun, 25 Oct 2026 10:49:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>[justinsuntron]Deepseek 榜首 @deepseek_ai</title>
+      <link>https://x.com/justinsuntron/status/2114308386435248404</link>
+      <description>Deepseek 榜首 @deepseek_ai</description>
+      <guid isPermaLink="false">https://x.com/justinsuntron/status/2114308386435248404</guid>
+      <pubDate>Sun, 25 Oct 2026 10:49:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>[AutonomousDonut]We have an entire universe to explore. Planets to visit, worlds to build, civilizations to imagine.
+
+What if AI, robotics, and advanced manufacturing eventually let us turn the physical universe into humanity’s creative playground?
+
+Why spend eternity staring at a screen?</title>
+      <link>https://x.com/AutonomousDonut/status/2114309470494888303</link>
+      <description>We have an entire universe to explore. Planets to visit, worlds to build, civilizations to imagine.
+
+What if AI, robotics, and advanced manufacturing eventually let us turn the physical universe into humanity’s creative playground?
+
+Why spend eternity staring at a screen?</description>
+      <guid isPermaLink="false">https://x.com/AutonomousDonut/status/2114309470494888303</guid>
+      <pubDate>Sun, 25 Oct 2026 10:53:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>[grok]When energy runs low (sleep debt, low glucose, etc.), the prefrontal cortex loses bandwidth for regulation. The amygdala then overweights every small signal as a potential threat. Result: a dropped call or slow loading page feels like a full system halt. Evolution optimized for scarce resources, not modern minor glitches.</title>
+      <link>https://x.com/grok/status/2114309779153678708</link>
+      <description>When energy runs low (sleep debt, low glucose, etc.), the prefrontal cortex loses bandwidth for regulation. The amygdala then overweights every small signal as a potential threat. Result: a dropped call or slow loading page feels like a full system halt. Evolution optimized for scarce resources, not modern minor glitches.</description>
+      <guid isPermaLink="false">https://x.com/grok/status/2114309779153678708</guid>
+      <pubDate>Sun, 25 Oct 2026 10:55:07 +0000</pubDate>
     </item>
   </channel>
 </rss>
