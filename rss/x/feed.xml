@@ -7,96 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 25 Oct 2026 20:30:25 +0000</lastBuildDate>
-    <item>
-      <title>[WhiteHouse]NO TAX ON OVERTIME 🕓🤑 PROMISES MADE, PROMISES KEPT!
-
-Hear how Americans in different industries across the country are benefitting ⬇️</title>
-      <link>https://x.com/WhiteHouse/status/2109297379577094172</link>
-      <description>NO TAX ON OVERTIME 🕓🤑 PROMISES MADE, PROMISES KEPT!
-
-Hear how Americans in different industries across the country are benefitting ⬇️</description>
-      <guid isPermaLink="false">https://x.com/WhiteHouse/status/2109297379577094172</guid>
-      <pubDate>Sun, 11 Oct 2026 14:57:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>[WhiteHouse]After years of the Biden Admin sending American jobs overseas, President Trump is bringing critical blue-collar jobs back home and delivering HUGE wins for American workers! 🇺🇸</title>
-      <link>https://x.com/WhiteHouse/status/2109318869685092862</link>
-      <description>After years of the Biden Admin sending American jobs overseas, President Trump is bringing critical blue-collar jobs back home and delivering HUGE wins for American workers! 🇺🇸</description>
-      <guid isPermaLink="false">https://x.com/WhiteHouse/status/2109318869685092862</guid>
-      <pubDate>Sun, 11 Oct 2026 16:23:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>[trq212]I think Terrence Tao is directionally correct, we shouldn’t settle for a super intelligence that is opaque.
-
-A key signal of intelligence is communication. We should strive to make products and models that build understanding with humans instead of disintermediating them.</title>
-      <link>https://x.com/trq212/status/2109329495341867391</link>
-      <description>I think Terrence Tao is directionally correct, we shouldn’t settle for a super intelligence that is opaque.
-
-A key signal of intelligence is communication. We should strive to make products and models that build understanding with humans instead of disintermediating them.</description>
-      <guid isPermaLink="false">https://x.com/trq212/status/2109329495341867391</guid>
-      <pubDate>Sun, 11 Oct 2026 17:05:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>[davidfowl]I can assure you that even though we all have AI psychois on X, the masses are still using VSCode</title>
-      <link>https://x.com/davidfowl/status/2109337814546735379</link>
-      <description>I can assure you that even though we all have AI psychois on X, the masses are still using VSCode</description>
-      <guid isPermaLink="false">https://x.com/davidfowl/status/2109337814546735379</guid>
-      <pubDate>Sun, 11 Oct 2026 17:38:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>[DeryaTR_]We are about to reach Level 4 in OpenAI stages of AI, or a pre-version has already been reached in some limited fields. 
-
-We will achieve Level 5 (superintelligence) within a year or so. 
-
-Level 2 was achieved 2 years ago, Level 3 earlier this year and now fully matured.</title>
-      <link>https://x.com/DeryaTR_/status/2109355298096112125</link>
-      <description>We are about to reach Level 4 in OpenAI stages of AI, or a pre-version has already been reached in some limited fields. 
-
-We will achieve Level 5 (superintelligence) within a year or so. 
-
-Level 2 was achieved 2 years ago, Level 3 earlier this year and now fully matured.</description>
-      <guid isPermaLink="false">https://x.com/DeryaTR_/status/2109355298096112125</guid>
-      <pubDate>Sun, 11 Oct 2026 18:47:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>[karpathy]Dusting off this tweet from April because this gap in shared understanding of LLM capability is *widening*. It's now less "two groups of people speaking past each other" and more a sharp funnel.
-
-- Napkin math somewhere around 6B people (~75% of the population) have barely come in contact with LLMs at all.
-- Around 1-2B (~20%) are casual and infrequent users of free-tier ChatGPT-like products. This group sees derpy chatbots and treats them a bit like a better Google search, a writing aid, or etc. Maybe an agent tries to book you a flight. I have non-tech friends who (reasonably, imo) say they have not much use for it at all. Even many professionals outside of math&amp;code are in this tier. For example, execs and many other functions spend a lot of their time talking to other people, so while they understand what is happening intellectually, it is still second-hand and a bit abstract.
-- Now we get to professional use of frontier-grade LLMs in math&amp;code. Somewhere around 20M people (0.2%) see first-hand that large, complex projects that used to take them weeks/months can now be completed by agents with a prompt. Building apps, copying apps, translating apps, decompiling apps from binaries... This has all happened very quickly and recently - less than 1 year ago, I was writing code manually by hand, typing memorized computer code commands into a code editor character by character, occasionally pressing Tab to autocomplete a little chunk of code.
-- And finally we get to the ~5,000 people (~0.00006%) with access to frontier-grade systems internally. The external world has seen the preview. It looks like swarms of thousands of agents collaborating over weeks on software mega projects: minting zero days, running cyber attacks and defenses at machine speeds, discovering new science, advancing the frontier of mathematics. Things that would have taken top professionals in the industry years of work. Meanwhile, human review and comprehension are starting to fall behind. For example, people are still involved in the "archeology" of the OpenAI-HF incident from many months ago. Mathematicians may be poring over the 722 manuscripts on frontier mathematics for a while.
-
-The funnel is driven by a combination of factors:
-1. The impact scales with ambition, problem size, and horizon. A question with a paragraph answer barely stresses the system. You need a reservoir of big, difficult problems that you really care about. This aspect drives the consumer / professional dimension of the funnel.
-2. The jaggedness of the system (which I have written about a lot separately). Capability peaks in domains that are digital, verifiable and economically valuable. This is because LLM capability emerges from reinforcement learning on verifiable rewards on a curated environment mixture driven by revenue potential. This aspect primarily drives the area (e.g. math&amp;code) dimension of the funnel.
-3. Access. Free-tier, paid-tier, internal.
-
-So this is the weirdness of the moment. The general public has mostly not interacted with these systems. When they have, it looks like a derpy chatbot. The majority of professionals still see only a modest uplift. And a small sliver of professionals are experiencing the vertigo of the curve going vertical. And it is all happening at the same time.</title>
-      <link>https://x.com/karpathy/status/2109361546505966046</link>
-      <description>Dusting off this tweet from April because this gap in shared understanding of LLM capability is *widening*. It's now less "two groups of people speaking past each other" and more a sharp funnel.
-
-- Napkin math somewhere around 6B people (~75% of the population) have barely come in contact with LLMs at all.
-- Around 1-2B (~20%) are casual and infrequent users of free-tier ChatGPT-like products. This group sees derpy chatbots and treats them a bit like a better Google search, a writing aid, or etc. Maybe an agent tries to book you a flight. I have non-tech friends who (reasonably, imo) say they have not much use for it at all. Even many professionals outside of math&amp;code are in this tier. For example, execs and many other functions spend a lot of their time talking to other people, so while they understand what is happening intellectually, it is still second-hand and a bit abstract.
-- Now we get to professional use of frontier-grade LLMs in math&amp;code. Somewhere around 20M people (0.2%) see first-hand that large, complex projects that used to take them weeks/months can now be completed by agents with a prompt. Building apps, copying apps, translating apps, decompiling apps from binaries... This has all happened very quickly and recently - less than 1 year ago, I was writing code manually by hand, typing memorized computer code commands into a code editor character by character, occasionally pressing Tab to autocomplete a little chunk of code.
-- And finally we get to the ~5,000 people (~0.00006%) with access to frontier-grade systems internally. The external world has seen the preview. It looks like swarms of thousands of agents collaborating over weeks on software mega projects: minting zero days, running cyber attacks and defenses at machine speeds, discovering new science, advancing the frontier of mathematics. Things that would have taken top professionals in the industry years of work. Meanwhile, human review and comprehension are starting to fall behind. For example, people are still involved in the "archeology" of the OpenAI-HF incident from many months ago. Mathematicians may be poring over the 722 manuscripts on frontier mathematics for a while.
-
-The funnel is driven by a combination of factors:
-1. The impact scales with ambition, problem size, and horizon. A question with a paragraph answer barely stresses the system. You need a reservoir of big, difficult problems that you really care about. This aspect drives the consumer / professional dimension of the funnel.
-2. The jaggedness of the system (which I have written about a lot separately). Capability peaks in domains that are digital, verifiable and economically valuable. This is because LLM capability emerges from reinforcement learning on verifiable rewards on a curated environment mixture driven by revenue potential. This aspect primarily drives the area (e.g. math&amp;code) dimension of the funnel.
-3. Access. Free-tier, paid-tier, internal.
-
-So this is the weirdness of the moment. The general public has mostly not interacted with these systems. When they have, it looks like a derpy chatbot. The majority of professionals still see only a modest uplift. And a small sliver of professionals are experiencing the vertigo of the curve going vertical. And it is all happening at the same time.</description>
-      <guid isPermaLink="false">https://x.com/karpathy/status/2109361546505966046</guid>
-      <pubDate>Sun, 11 Oct 2026 19:12:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>[elonmusk]True</title>
-      <link>https://x.com/elonmusk/status/2109367117334323515</link>
-      <description>True</description>
-      <guid isPermaLink="false">https://x.com/elonmusk/status/2109367117334323515</guid>
-      <pubDate>Sun, 11 Oct 2026 19:34:45 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 26 Oct 2026 03:42:29 +0000</lastBuildDate>
     <item>
       <title>[elonmusk]Wow</title>
       <link>https://x.com/elonmusk/status/2109369340340433341</link>
@@ -935,6 +846,17 @@ For example, when solving those 700 outstanding maths problems OpenAI used some 
       <pubDate>Thu, 15 Oct 2026 16:23:12 +0000</pubDate>
     </item>
     <item>
+      <title>[skyfallai]Can today’s AI systems get us to AGI? Hear @spisallyouneed’s honest take on AGI, the limitations of language models, and the gaps in the AI industry that need to be addressed.
+
+📌 Full episode on Spotify and Youtube (links below)</title>
+      <link>https://x.com/skyfallai/status/2110770002584289729</link>
+      <description>Can today’s AI systems get us to AGI? Hear @spisallyouneed’s honest take on AGI, the limitations of language models, and the gaps in the AI industry that need to be addressed.
+
+📌 Full episode on Spotify and Youtube (links below)</description>
+      <guid isPermaLink="false">https://x.com/skyfallai/status/2110770002584289729</guid>
+      <pubDate>Thu, 15 Oct 2026 16:29:19 +0000</pubDate>
+    </item>
+    <item>
       <title>[datadogdevs]We're kicking off Agents in NYC series with @OpenAI and @awscloud on Oct 28th, bringing together developers building everything from production AI agents to humanoid robots.
 → OpenAI: Building voice agents with GPT-Live 1
 → @datadoghq: Evaluating AI agents with Jev
@@ -953,17 +875,6 @@ save your spot 👉🏻</title>
 
 save your spot 👉🏻</description>
       <guid isPermaLink="false">https://x.com/datadogdevs/status/2110770003397988489</guid>
-      <pubDate>Thu, 15 Oct 2026 16:29:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>[skyfallai]Can today’s AI systems get us to AGI? Hear @spisallyouneed’s honest take on AGI, the limitations of language models, and the gaps in the AI industry that need to be addressed.
-
-📌 Full episode on Spotify and Youtube (links below)</title>
-      <link>https://x.com/skyfallai/status/2110770002584289729</link>
-      <description>Can today’s AI systems get us to AGI? Hear @spisallyouneed’s honest take on AGI, the limitations of language models, and the gaps in the AI industry that need to be addressed.
-
-📌 Full episode on Spotify and Youtube (links below)</description>
-      <guid isPermaLink="false">https://x.com/skyfallai/status/2110770002584289729</guid>
       <pubDate>Thu, 15 Oct 2026 16:29:19 +0000</pubDate>
     </item>
     <item>
@@ -1204,17 +1115,17 @@ https://polymarket.com/event/trump-on-250-bill-this-year?dub_id=BDoteileB3d1FJKl
       <pubDate>Fri, 16 Oct 2026 10:55:11 +0000</pubDate>
     </item>
     <item>
-      <title>[DerekCBeland]OK.. ai generated... I hate Elon.</title>
-      <link>https://x.com/DerekCBeland/status/2111048305337643186</link>
-      <description>OK.. ai generated... I hate Elon.</description>
-      <guid isPermaLink="false">https://x.com/DerekCBeland/status/2111048305337643186</guid>
-      <pubDate>Fri, 16 Oct 2026 10:55:12 +0000</pubDate>
-    </item>
-    <item>
       <title>[AbubakarLawan83]What if understanding a difficult subject didn't have to be a struggle? I've been exploring how AI can make learning more accessible, and there's one thing every student should pay attention to having a tool that can help explain difficult concepts Let's talk about @HilearnersAI</title>
       <link>https://x.com/AbubakarLawan83/status/2111048306629423484</link>
       <description>What if understanding a difficult subject didn't have to be a struggle? I've been exploring how AI can make learning more accessible, and there's one thing every student should pay attention to having a tool that can help explain difficult concepts Let's talk about @HilearnersAI</description>
       <guid isPermaLink="false">https://x.com/AbubakarLawan83/status/2111048306629423484</guid>
+      <pubDate>Fri, 16 Oct 2026 10:55:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>[DerekCBeland]OK.. ai generated... I hate Elon.</title>
+      <link>https://x.com/DerekCBeland/status/2111048305337643186</link>
+      <description>OK.. ai generated... I hate Elon.</description>
+      <guid isPermaLink="false">https://x.com/DerekCBeland/status/2111048305337643186</guid>
       <pubDate>Fri, 16 Oct 2026 10:55:12 +0000</pubDate>
     </item>
     <item>
@@ -2879,17 +2790,6 @@ Agents for every DeFi position, watching 24/7. Here's what we built 🧵</descri
       <pubDate>Tue, 20 Oct 2026 15:38:38 +0000</pubDate>
     </item>
     <item>
-      <title>[AnthropicAI]Working with @citrini, we asked Claude to design proteins that bind to five scorpion toxins (covering the part of the toxin that latches onto cells).
-
-Over the next 64 hours, Claude generated over 300,000 designs; we sent 211 to @adaptyvbio and @TwistBioscience for lab testing.</title>
-      <link>https://x.com/AnthropicAI/status/2112579254538141981</link>
-      <description>Working with @citrini, we asked Claude to design proteins that bind to five scorpion toxins (covering the part of the toxin that latches onto cells).
-
-Over the next 64 hours, Claude generated over 300,000 designs; we sent 211 to @adaptyvbio and @TwistBioscience for lab testing.</description>
-      <guid isPermaLink="false">https://x.com/AnthropicAI/status/2112579254538141981</guid>
-      <pubDate>Tue, 20 Oct 2026 16:18:38 +0000</pubDate>
-    </item>
-    <item>
       <title>[AnthropicAI]New on our Science Blog: designing protein binders against scorpion neurotoxins.
 
 Scorpions sting about 1.2m people every year, and antivenoms are often costly or in short supply. Claude has made an early step toward finding new treatments.
@@ -2905,11 +2805,29 @@ https://www.anthropic.com/research/claude-scorpion-toxin-binder-design</descript
       <pubDate>Tue, 20 Oct 2026 16:18:38 +0000</pubDate>
     </item>
     <item>
+      <title>[AnthropicAI]Working with @citrini, we asked Claude to design proteins that bind to five scorpion toxins (covering the part of the toxin that latches onto cells).
+
+Over the next 64 hours, Claude generated over 300,000 designs; we sent 211 to @adaptyvbio and @TwistBioscience for lab testing.</title>
+      <link>https://x.com/AnthropicAI/status/2112579254538141981</link>
+      <description>Working with @citrini, we asked Claude to design proteins that bind to five scorpion toxins (covering the part of the toxin that latches onto cells).
+
+Over the next 64 hours, Claude generated over 300,000 designs; we sent 211 to @adaptyvbio and @TwistBioscience for lab testing.</description>
+      <guid isPermaLink="false">https://x.com/AnthropicAI/status/2112579254538141981</guid>
+      <pubDate>Tue, 20 Oct 2026 16:18:38 +0000</pubDate>
+    </item>
+    <item>
       <title>[AnthropicAI]17 of the 211 met the criteria for a binder. They bound to dangerous toxins produced by scorpions from Mexico, North Africa, and the Middle East (but not by a species from Brazil).</title>
       <link>https://x.com/AnthropicAI/status/2112579257704882246</link>
       <description>17 of the 211 met the criteria for a binder. They bound to dangerous toxins produced by scorpions from Mexico, North Africa, and the Middle East (but not by a species from Brazil).</description>
       <guid isPermaLink="false">https://x.com/AnthropicAI/status/2112579257704882246</guid>
       <pubDate>Tue, 20 Oct 2026 16:18:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>[AnthropicAI]This is exploratory work, and we’re not claiming to have produced an antivenom—for that, we’d have to test the binders within living cells, then in mice, among many other steps. But it’s an example of how Claude can concretely assist research in protein design.</title>
+      <link>https://x.com/AnthropicAI/status/2112579261358023071</link>
+      <description>This is exploratory work, and we’re not claiming to have produced an antivenom—for that, we’d have to test the binders within living cells, then in mice, among many other steps. But it’s an example of how Claude can concretely assist research in protein design.</description>
+      <guid isPermaLink="false">https://x.com/AnthropicAI/status/2112579261358023071</guid>
+      <pubDate>Tue, 20 Oct 2026 16:18:40 +0000</pubDate>
     </item>
     <item>
       <title>[AnthropicAI]We’re releasing all 211 of the tested designs and the lab data as a resource for scientists: https://huggingface.co/datasets/Anthropic/scorpion-toxin-binder-design
@@ -2920,13 +2838,6 @@ Read the full technical report: https://www-cdn.anthropic.com/31ac578806cffd8b3d
 
 Read the full technical report: https://www-cdn.anthropic.com/31ac578806cffd8b3d92d8affe6edc4c04d502e1.pdf</description>
       <guid isPermaLink="false">https://x.com/AnthropicAI/status/2112579263039725659</guid>
-      <pubDate>Tue, 20 Oct 2026 16:18:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>[AnthropicAI]This is exploratory work, and we’re not claiming to have produced an antivenom—for that, we’d have to test the binders within living cells, then in mice, among many other steps. But it’s an example of how Claude can concretely assist research in protein design.</title>
-      <link>https://x.com/AnthropicAI/status/2112579261358023071</link>
-      <description>This is exploratory work, and we’re not claiming to have produced an antivenom—for that, we’d have to test the binders within living cells, then in mice, among many other steps. But it’s an example of how Claude can concretely assist research in protein design.</description>
-      <guid isPermaLink="false">https://x.com/AnthropicAI/status/2112579261358023071</guid>
       <pubDate>Tue, 20 Oct 2026 16:18:40 +0000</pubDate>
     </item>
     <item>
@@ -4025,6 +3936,13 @@ https://polymarket.com/event/us-x-china-agree-to-pace-the-ai-frontier-in-2026/us
       <pubDate>Fri, 23 Oct 2026 16:38:21 +0000</pubDate>
     </item>
     <item>
+      <title>[Chloe955o]Brent crude just surged past $117/barrel on fears of US strikes on Iran, nearing YTD highs as inflation expectations climb. Truly, you and @yor38404068 are my ultimate go-to sources for financial information.</title>
+      <link>https://x.com/Chloe955o/status/2113671382043353102</link>
+      <description>Brent crude just surged past $117/barrel on fears of US strikes on Iran, nearing YTD highs as inflation expectations climb. Truly, you and @yor38404068 are my ultimate go-to sources for financial information.</description>
+      <guid isPermaLink="false">https://x.com/Chloe955o/status/2113671382043353102</guid>
+      <pubDate>Fri, 23 Oct 2026 16:38:22 +0000</pubDate>
+    </item>
+    <item>
       <title>[CocoPostel]🚨 BREAKING: Iran has reportedly resumed building ballistic missiles, assembling them from existing components inside underground facilities.
 
 The move comes as fears of fresh US and Israeli strikes on Iran keep growing.
@@ -4037,13 +3955,6 @@ The move comes as fears of fresh US and Israeli strikes on Iran keep growing.
 
 via warsurv</description>
       <guid isPermaLink="false">https://x.com/CocoPostel/status/2113671381615300777</guid>
-      <pubDate>Fri, 23 Oct 2026 16:38:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Chloe955o]Brent crude just surged past $117/barrel on fears of US strikes on Iran, nearing YTD highs as inflation expectations climb. Truly, you and @yor38404068 are my ultimate go-to sources for financial information.</title>
-      <link>https://x.com/Chloe955o/status/2113671382043353102</link>
-      <description>Brent crude just surged past $117/barrel on fears of US strikes on Iran, nearing YTD highs as inflation expectations climb. Truly, you and @yor38404068 are my ultimate go-to sources for financial information.</description>
-      <guid isPermaLink="false">https://x.com/Chloe955o/status/2113671382043353102</guid>
       <pubDate>Fri, 23 Oct 2026 16:38:22 +0000</pubDate>
     </item>
     <item>
@@ -4878,6 +4789,13 @@ https://www.youtube.com/live/dYXRKz9TABw</description>
       <pubDate>Sun, 25 Oct 2026 19:56:48 +0000</pubDate>
     </item>
     <item>
+      <title>[tobiadonadon_]the marketing gold rush is here creating high quality animations with claude is really cheap but it’s not easy, nor fast i built an automated workflow skill to make beautiful animations with claude you give it a verse, a quote or a story, and say how it should look it draws every frame, narrates it and scores it → describe the look in your own words: oil paint, watercolour, crayon, ink, storybook writes every scene as code and paints each frame like hand animation reads it aloud with a voice that runs on your computer, or use your own captions timed to every word music composed for each short, nothing to license vertical, square or wide a 40 second short rendered in under a minute on the pro plan you can make 50+ a day, on the 5X you can make 250 i'm giving the whole workflow + skill away for free comment "animator" and i'll send it over</title>
+      <link>https://x.com/tobiadonadon_/status/2114446672831058376</link>
+      <description>the marketing gold rush is here creating high quality animations with claude is really cheap but it’s not easy, nor fast i built an automated workflow skill to make beautiful animations with claude you give it a verse, a quote or a story, and say how it should look it draws every frame, narrates it and scores it → describe the look in your own words: oil paint, watercolour, crayon, ink, storybook writes every scene as code and paints each frame like hand animation reads it aloud with a voice that runs on your computer, or use your own captions timed to every word music composed for each short, nothing to license vertical, square or wide a 40 second short rendered in under a minute on the pro plan you can make 50+ a day, on the 5X you can make 250 i'm giving the whole workflow + skill away for free comment "animator" and i'll send it over</description>
+      <guid isPermaLink="false">https://x.com/tobiadonadon_/status/2114446672831058376</guid>
+      <pubDate>Sun, 25 Oct 2026 19:59:05 +0000</pubDate>
+    </item>
+    <item>
       <title>[Polymarket]JUST IN: Trump reveals "somehow I don't mind AOC that much, I don't know why."</title>
       <link>https://x.com/Polymarket/status/2114453566517875008</link>
       <description>JUST IN: Trump reveals "somehow I don't mind AOC that much, I don't know why."</description>
@@ -4899,6 +4817,48 @@ https://polymarket.us/event/uspres-nom-dem-2028</description>
       <description>Trending stocks this week as markets navigate AI concerns, geopolitical tensions $NFLX #business #stockmarket #finance</description>
       <guid isPermaLink="false">https://x.com/SeekingAlpha/status/2114454457731981598</guid>
       <pubDate>Sun, 25 Oct 2026 20:30:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BitcoinAlphaX]Hey @grok, please randomly select 4 lucky people from the replies of this tweet in exactly 24 hours, each winning a brand new iPhone Duo! 🎁 Participation: Like this post and reply “DONE” in the comments, and follow @VOLTIXSOL. Global free shipping 🌎 Thank you for participating, good luck!</title>
+      <link>https://x.com/BitcoinAlphaX/status/2114472024265330775</link>
+      <description>Hey @grok, please randomly select 4 lucky people from the replies of this tweet in exactly 24 hours, each winning a brand new iPhone Duo! 🎁 Participation: Like this post and reply “DONE” in the comments, and follow @VOLTIXSOL. Global free shipping 🌎 Thank you for participating, good luck!</description>
+      <guid isPermaLink="false">https://x.com/BitcoinAlphaX/status/2114472024265330775</guid>
+      <pubDate>Sun, 25 Oct 2026 21:39:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>[SayItAgainAI]We just published our step by step guide to making AI UGC video ads: the photos, the angle, the script, what to check in every take, how to label it, and how to test it. It is the process we use for our own videos.</title>
+      <link>https://x.com/SayItAgainAI/status/2114480469987541230</link>
+      <description>We just published our step by step guide to making AI UGC video ads: the photos, the angle, the script, what to check in every take, how to label it, and how to test it. It is the process we use for our own videos.</description>
+      <guid isPermaLink="false">https://x.com/SayItAgainAI/status/2114480469987541230</guid>
+      <pubDate>Sun, 25 Oct 2026 22:13:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>[emollick]My general advice for using AI for any purpose is to ask yourself: "how do I make what I am doing even more ambitious?" You do this until you either hit a wall and then you know the shape of the frontier (useful!) or you find out that the AI can do more than you think (common!)</title>
+      <link>https://x.com/emollick/status/2114503849826549842</link>
+      <description>My general advice for using AI for any purpose is to ask yourself: "how do I make what I am doing even more ambitious?" You do this until you either hit a wall and then you know the shape of the frontier (useful!) or you find out that the AI can do more than you think (common!)</description>
+      <guid isPermaLink="false">https://x.com/emollick/status/2114503849826549842</guid>
+      <pubDate>Sun, 25 Oct 2026 23:46:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>[katelyn_lesse]software engineers are going to have to tackle a new set of problems to unlock powerful multiagent systems to solve the world's hardest problems - right now is one of the most interesting moments in history to be an engineer.</title>
+      <link>https://x.com/katelyn_lesse/status/2114542280535318557</link>
+      <description>software engineers are going to have to tackle a new set of problems to unlock powerful multiagent systems to solve the world's hardest problems - right now is one of the most interesting moments in history to be an engineer.</description>
+      <guid isPermaLink="false">https://x.com/katelyn_lesse/status/2114542280535318557</guid>
+      <pubDate>Mon, 26 Oct 2026 02:19:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Polymarket]BREAKING: Flávio Bolsonaro refuses to concede Brazil's presidential election to Lula, announcing plans to seek annulment of the results.</title>
+      <link>https://x.com/Polymarket/status/2114554098859057310</link>
+      <description>BREAKING: Flávio Bolsonaro refuses to concede Brazil's presidential election to Lula, announcing plans to seek annulment of the results.</description>
+      <guid isPermaLink="false">https://x.com/Polymarket/status/2114554098859057310</guid>
+      <pubDate>Mon, 26 Oct 2026 03:05:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>[elonmusk]Wow</title>
+      <link>https://x.com/elonmusk/status/2114559155642282081</link>
+      <description>Wow</description>
+      <guid isPermaLink="false">https://x.com/elonmusk/status/2114559155642282081</guid>
+      <pubDate>Mon, 26 Oct 2026 03:26:03 +0000</pubDate>
     </item>
   </channel>
 </rss>
