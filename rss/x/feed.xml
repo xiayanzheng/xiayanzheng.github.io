@@ -7,57 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 27 Oct 2026 17:38:06 +0000</lastBuildDate>
-    <item>
-      <title>[Polymarket]JUST IN: Sony unveils a $5,900 gold-plated Walkman that uses AI to enhance music quality.</title>
-      <link>https://x.com/Polymarket/status/2110768465267023975</link>
-      <description>JUST IN: Sony unveils a $5,900 gold-plated Walkman that uses AI to enhance music quality.</description>
-      <guid isPermaLink="false">https://x.com/Polymarket/status/2110768465267023975</guid>
-      <pubDate>Thu, 15 Oct 2026 16:23:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>[datadogdevs]We're kicking off Agents in NYC series with @OpenAI and @awscloud on Oct 28th, bringing together developers building everything from production AI agents to humanoid robots.
-→ OpenAI: Building voice agents with GPT-Live 1
-→ @datadoghq: Evaluating AI agents with Jev
-→ Amazon Web Services (AWS) Strands: Bringing agents into the physical world with a humanoid robot
-
-3 talks, plenty of technical conversations, and dinner with the NYC agent-building community.
-
-save your spot 👉🏻</title>
-      <link>https://x.com/datadogdevs/status/2110770003397988489</link>
-      <description>We're kicking off Agents in NYC series with @OpenAI and @awscloud on Oct 28th, bringing together developers building everything from production AI agents to humanoid robots.
-→ OpenAI: Building voice agents with GPT-Live 1
-→ @datadoghq: Evaluating AI agents with Jev
-→ Amazon Web Services (AWS) Strands: Bringing agents into the physical world with a humanoid robot
-
-3 talks, plenty of technical conversations, and dinner with the NYC agent-building community.
-
-save your spot 👉🏻</description>
-      <guid isPermaLink="false">https://x.com/datadogdevs/status/2110770003397988489</guid>
-      <pubDate>Thu, 15 Oct 2026 16:29:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>[skyfallai]Can today’s AI systems get us to AGI? Hear @spisallyouneed’s honest take on AGI, the limitations of language models, and the gaps in the AI industry that need to be addressed.
-
-📌 Full episode on Spotify and Youtube (links below)</title>
-      <link>https://x.com/skyfallai/status/2110770002584289729</link>
-      <description>Can today’s AI systems get us to AGI? Hear @spisallyouneed’s honest take on AGI, the limitations of language models, and the gaps in the AI industry that need to be addressed.
-
-📌 Full episode on Spotify and Youtube (links below)</description>
-      <guid isPermaLink="false">https://x.com/skyfallai/status/2110770002584289729</guid>
-      <pubDate>Thu, 15 Oct 2026 16:29:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>[AnthropicAI]We’ve committed to having evaluators assess our safety practices. We're in discussions with multiple organizations, and have now given employee-like access to a team from @METR_Evals.
-
-In this post, we describe how we work with third-party evaluators: https://www.anthropic.com/news/an-update-on-independent-evaluators</title>
-      <link>https://x.com/AnthropicAI/status/2110784662071398807</link>
-      <description>We’ve committed to having evaluators assess our safety practices. We're in discussions with multiple organizations, and have now given employee-like access to a team from @METR_Evals.
-
-In this post, we describe how we work with third-party evaluators: https://www.anthropic.com/news/an-update-on-independent-evaluators</description>
-      <guid isPermaLink="false">https://x.com/AnthropicAI/status/2110784662071398807</guid>
-      <pubDate>Thu, 15 Oct 2026 17:27:34 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 27 Oct 2026 21:54:32 +0000</lastBuildDate>
     <item>
       <title>[Polymarket]JUST IN: U.S. Treasury official encourages Americans to buy rolls of Trump $1 coins &amp; use them at "liberal coffee shops."</title>
       <link>https://x.com/Polymarket/status/2110827054661013686</link>
@@ -285,17 +235,17 @@ https://polymarket.com/event/trump-on-250-bill-this-year?dub_id=BDoteileB3d1FJKl
       <pubDate>Fri, 16 Oct 2026 10:55:11 +0000</pubDate>
     </item>
     <item>
-      <title>[DerekCBeland]OK.. ai generated... I hate Elon.</title>
-      <link>https://x.com/DerekCBeland/status/2111048305337643186</link>
-      <description>OK.. ai generated... I hate Elon.</description>
-      <guid isPermaLink="false">https://x.com/DerekCBeland/status/2111048305337643186</guid>
-      <pubDate>Fri, 16 Oct 2026 10:55:12 +0000</pubDate>
-    </item>
-    <item>
       <title>[AbubakarLawan83]What if understanding a difficult subject didn't have to be a struggle? I've been exploring how AI can make learning more accessible, and there's one thing every student should pay attention to having a tool that can help explain difficult concepts Let's talk about @HilearnersAI</title>
       <link>https://x.com/AbubakarLawan83/status/2111048306629423484</link>
       <description>What if understanding a difficult subject didn't have to be a struggle? I've been exploring how AI can make learning more accessible, and there's one thing every student should pay attention to having a tool that can help explain difficult concepts Let's talk about @HilearnersAI</description>
       <guid isPermaLink="false">https://x.com/AbubakarLawan83/status/2111048306629423484</guid>
+      <pubDate>Fri, 16 Oct 2026 10:55:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>[DerekCBeland]OK.. ai generated... I hate Elon.</title>
+      <link>https://x.com/DerekCBeland/status/2111048305337643186</link>
+      <description>OK.. ai generated... I hate Elon.</description>
+      <guid isPermaLink="false">https://x.com/DerekCBeland/status/2111048305337643186</guid>
       <pubDate>Fri, 16 Oct 2026 10:55:12 +0000</pubDate>
     </item>
     <item>
@@ -1960,17 +1910,6 @@ Agents for every DeFi position, watching 24/7. Here's what we built 🧵</descri
       <pubDate>Tue, 20 Oct 2026 15:38:38 +0000</pubDate>
     </item>
     <item>
-      <title>[AnthropicAI]Working with @citrini, we asked Claude to design proteins that bind to five scorpion toxins (covering the part of the toxin that latches onto cells).
-
-Over the next 64 hours, Claude generated over 300,000 designs; we sent 211 to @adaptyvbio and @TwistBioscience for lab testing.</title>
-      <link>https://x.com/AnthropicAI/status/2112579254538141981</link>
-      <description>Working with @citrini, we asked Claude to design proteins that bind to five scorpion toxins (covering the part of the toxin that latches onto cells).
-
-Over the next 64 hours, Claude generated over 300,000 designs; we sent 211 to @adaptyvbio and @TwistBioscience for lab testing.</description>
-      <guid isPermaLink="false">https://x.com/AnthropicAI/status/2112579254538141981</guid>
-      <pubDate>Tue, 20 Oct 2026 16:18:38 +0000</pubDate>
-    </item>
-    <item>
       <title>[AnthropicAI]New on our Science Blog: designing protein binders against scorpion neurotoxins.
 
 Scorpions sting about 1.2m people every year, and antivenoms are often costly or in short supply. Claude has made an early step toward finding new treatments.
@@ -1986,11 +1925,29 @@ https://www.anthropic.com/research/claude-scorpion-toxin-binder-design</descript
       <pubDate>Tue, 20 Oct 2026 16:18:38 +0000</pubDate>
     </item>
     <item>
+      <title>[AnthropicAI]Working with @citrini, we asked Claude to design proteins that bind to five scorpion toxins (covering the part of the toxin that latches onto cells).
+
+Over the next 64 hours, Claude generated over 300,000 designs; we sent 211 to @adaptyvbio and @TwistBioscience for lab testing.</title>
+      <link>https://x.com/AnthropicAI/status/2112579254538141981</link>
+      <description>Working with @citrini, we asked Claude to design proteins that bind to five scorpion toxins (covering the part of the toxin that latches onto cells).
+
+Over the next 64 hours, Claude generated over 300,000 designs; we sent 211 to @adaptyvbio and @TwistBioscience for lab testing.</description>
+      <guid isPermaLink="false">https://x.com/AnthropicAI/status/2112579254538141981</guid>
+      <pubDate>Tue, 20 Oct 2026 16:18:38 +0000</pubDate>
+    </item>
+    <item>
       <title>[AnthropicAI]17 of the 211 met the criteria for a binder. They bound to dangerous toxins produced by scorpions from Mexico, North Africa, and the Middle East (but not by a species from Brazil).</title>
       <link>https://x.com/AnthropicAI/status/2112579257704882246</link>
       <description>17 of the 211 met the criteria for a binder. They bound to dangerous toxins produced by scorpions from Mexico, North Africa, and the Middle East (but not by a species from Brazil).</description>
       <guid isPermaLink="false">https://x.com/AnthropicAI/status/2112579257704882246</guid>
       <pubDate>Tue, 20 Oct 2026 16:18:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>[AnthropicAI]This is exploratory work, and we’re not claiming to have produced an antivenom—for that, we’d have to test the binders within living cells, then in mice, among many other steps. But it’s an example of how Claude can concretely assist research in protein design.</title>
+      <link>https://x.com/AnthropicAI/status/2112579261358023071</link>
+      <description>This is exploratory work, and we’re not claiming to have produced an antivenom—for that, we’d have to test the binders within living cells, then in mice, among many other steps. But it’s an example of how Claude can concretely assist research in protein design.</description>
+      <guid isPermaLink="false">https://x.com/AnthropicAI/status/2112579261358023071</guid>
+      <pubDate>Tue, 20 Oct 2026 16:18:40 +0000</pubDate>
     </item>
     <item>
       <title>[AnthropicAI]We’re releasing all 211 of the tested designs and the lab data as a resource for scientists: https://huggingface.co/datasets/Anthropic/scorpion-toxin-binder-design
@@ -2001,13 +1958,6 @@ Read the full technical report: https://www-cdn.anthropic.com/31ac578806cffd8b3d
 
 Read the full technical report: https://www-cdn.anthropic.com/31ac578806cffd8b3d92d8affe6edc4c04d502e1.pdf</description>
       <guid isPermaLink="false">https://x.com/AnthropicAI/status/2112579263039725659</guid>
-      <pubDate>Tue, 20 Oct 2026 16:18:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>[AnthropicAI]This is exploratory work, and we’re not claiming to have produced an antivenom—for that, we’d have to test the binders within living cells, then in mice, among many other steps. But it’s an example of how Claude can concretely assist research in protein design.</title>
-      <link>https://x.com/AnthropicAI/status/2112579261358023071</link>
-      <description>This is exploratory work, and we’re not claiming to have produced an antivenom—for that, we’d have to test the binders within living cells, then in mice, among many other steps. But it’s an example of how Claude can concretely assist research in protein design.</description>
-      <guid isPermaLink="false">https://x.com/AnthropicAI/status/2112579261358023071</guid>
       <pubDate>Tue, 20 Oct 2026 16:18:40 +0000</pubDate>
     </item>
     <item>
@@ -3106,6 +3056,13 @@ https://polymarket.com/event/us-x-china-agree-to-pace-the-ai-frontier-in-2026/us
       <pubDate>Fri, 23 Oct 2026 16:38:21 +0000</pubDate>
     </item>
     <item>
+      <title>[Chloe955o]Brent crude just surged past $117/barrel on fears of US strikes on Iran, nearing YTD highs as inflation expectations climb. Truly, you and @yor38404068 are my ultimate go-to sources for financial information.</title>
+      <link>https://x.com/Chloe955o/status/2113671382043353102</link>
+      <description>Brent crude just surged past $117/barrel on fears of US strikes on Iran, nearing YTD highs as inflation expectations climb. Truly, you and @yor38404068 are my ultimate go-to sources for financial information.</description>
+      <guid isPermaLink="false">https://x.com/Chloe955o/status/2113671382043353102</guid>
+      <pubDate>Fri, 23 Oct 2026 16:38:22 +0000</pubDate>
+    </item>
+    <item>
       <title>[CocoPostel]🚨 BREAKING: Iran has reportedly resumed building ballistic missiles, assembling them from existing components inside underground facilities.
 
 The move comes as fears of fresh US and Israeli strikes on Iran keep growing.
@@ -3118,13 +3075,6 @@ The move comes as fears of fresh US and Israeli strikes on Iran keep growing.
 
 via warsurv</description>
       <guid isPermaLink="false">https://x.com/CocoPostel/status/2113671381615300777</guid>
-      <pubDate>Fri, 23 Oct 2026 16:38:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Chloe955o]Brent crude just surged past $117/barrel on fears of US strikes on Iran, nearing YTD highs as inflation expectations climb. Truly, you and @yor38404068 are my ultimate go-to sources for financial information.</title>
-      <link>https://x.com/Chloe955o/status/2113671382043353102</link>
-      <description>Brent crude just surged past $117/barrel on fears of US strikes on Iran, nearing YTD highs as inflation expectations climb. Truly, you and @yor38404068 are my ultimate go-to sources for financial information.</description>
-      <guid isPermaLink="false">https://x.com/Chloe955o/status/2113671382043353102</guid>
       <pubDate>Fri, 23 Oct 2026 16:38:22 +0000</pubDate>
     </item>
     <item>
@@ -4120,17 +4070,6 @@ The #JustinSunPrize was established to become the “Nobel Prize of the AI Era�
       <pubDate>Mon, 26 Oct 2026 16:22:03 +0000</pubDate>
     </item>
     <item>
-      <title>[OpenAI]GPT-6.1 Terra: delivering fast and capable computer use at a lower price.
-
-GPT-6.1 Terra understands what’s on screen, takes action across apps, writes naturally, and is a more capable model for your whole workday with the efficiency to take on more of it.</title>
-      <link>https://x.com/OpenAI/status/2114780711664398349</link>
-      <description>GPT-6.1 Terra: delivering fast and capable computer use at a lower price.
-
-GPT-6.1 Terra understands what’s on screen, takes action across apps, writes naturally, and is a more capable model for your whole workday with the efficiency to take on more of it.</description>
-      <guid isPermaLink="false">https://x.com/OpenAI/status/2114780711664398349</guid>
-      <pubDate>Mon, 26 Oct 2026 18:06:27 +0000</pubDate>
-    </item>
-    <item>
       <title>[OpenAI]GPT-6.1 Terra continues to advance the cost-intelligence frontier across our model families.
 
 It’s a significant step up over GPT‑5.6 Terra, with 50% lower standard API prices.
@@ -4147,6 +4086,17 @@ In ChatGPT Work and Codex, your usage allowance goes further with GPT‑6.1 Terr
 
 For in-depth research or complex coding, choose GPT-6.1 Sol or GPT-6 Astra.</description>
       <guid isPermaLink="false">https://x.com/OpenAI/status/2114780715086754261</guid>
+      <pubDate>Mon, 26 Oct 2026 18:06:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>[OpenAI]GPT-6.1 Terra: delivering fast and capable computer use at a lower price.
+
+GPT-6.1 Terra understands what’s on screen, takes action across apps, writes naturally, and is a more capable model for your whole workday with the efficiency to take on more of it.</title>
+      <link>https://x.com/OpenAI/status/2114780711664398349</link>
+      <description>GPT-6.1 Terra: delivering fast and capable computer use at a lower price.
+
+GPT-6.1 Terra understands what’s on screen, takes action across apps, writes naturally, and is a more capable model for your whole workday with the efficiency to take on more of it.</description>
+      <guid isPermaLink="false">https://x.com/OpenAI/status/2114780711664398349</guid>
       <pubDate>Mon, 26 Oct 2026 18:06:27 +0000</pubDate>
     </item>
     <item>
@@ -4670,6 +4620,20 @@ Tune in at 12:30 PM EST for a surprise. 🎶</description>
       <pubDate>Tue, 27 Oct 2026 15:59:50 +0000</pubDate>
     </item>
     <item>
+      <title>[Google]Today we're introducing Genie 4 — our newest interactive world model from @GoogleDeepMind 🌐</title>
+      <link>https://x.com/Google/status/2115114426827501782</link>
+      <description>Today we're introducing Genie 4 — our newest interactive world model from @GoogleDeepMind 🌐</description>
+      <guid isPermaLink="false">https://x.com/Google/status/2115114426827501782</guid>
+      <pubDate>Tue, 27 Oct 2026 16:12:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Polymarket]JUST IN: UC Berkeley math professor stops grading homework for correctness, saying widespread AI use has made it "pointless," and now awards credit simply for turning in assignments.</title>
+      <link>https://x.com/Polymarket/status/2115117569711771957</link>
+      <description>JUST IN: UC Berkeley math professor stops grading homework for correctness, saying widespread AI use has made it "pointless," and now awards credit simply for turning in assignments.</description>
+      <guid isPermaLink="false">https://x.com/Polymarket/status/2115117569711771957</guid>
+      <pubDate>Tue, 27 Oct 2026 16:25:00 +0000</pubDate>
+    </item>
+    <item>
       <title>[WhiteHouse]Lo-fi Beats to Dismantle DEI 🎶
 
 DEI’s off the menu. Lock in, sit back, and let the vibes from a great American institution carry you through the workday. https://x.com/i/broadcasts/1MJgNbRVRowGL</title>
@@ -4746,6 +4710,45 @@ https://polymarket.com/event/will-trump-rename-an-ocean-in-2026?dub_id=1Xf7waQDD
       <description>JUST IN: JD Vance calls Abdul El-Sayed "a little bit of a psychopath."</description>
       <guid isPermaLink="false">https://x.com/Polymarket/status/2115128213919944939</guid>
       <pubDate>Tue, 27 Oct 2026 17:07:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>[liquidai]Introducing 𝙻𝙵𝙼𝟹: our new generation of Liquid Foundation Models. With a new tri-hybrid architecture and new multimodal encoders, the LFM3 family is the ideal model suite for specialized intelligence.
+
+&gt; 6 model instances, across text, audio, vision, and omni modalities, generative and decision models.
+&gt; 𝙻𝙵𝙼𝟹-𝟷.𝟷𝙱: text, 256k context window.
+&gt; 𝙻𝙵𝙼𝟹-𝚅𝙻-𝟸𝙱: vision-language model with video-input support for spatial understanding
+&gt; 𝙻𝙵𝙼𝟹-𝙰𝚞𝚍𝚒𝚘-𝟸𝙱: tool calls, voice chat, reasoning in 18 languages.
+&gt; 𝙻𝙵𝙼𝟹-𝙾𝚖𝚗𝚒-𝟸𝙱: an omni model combines vision, audio, and language.
+&gt; 𝚍𝟷-𝟸𝙱 and 𝚍𝟷-𝙾𝚖𝚗𝚒-𝟸𝙱: decision models with typed outputs and calibrated probabilities in a single pass. Omni adds audio input.
+&gt; fine-tune on 1 GPU.
+&gt; a new tri-hybrid architecture
+&gt; architecture optimized for 14 processor classes across GPUs, CPUs, and NPUs.
+&gt; 𝙻𝙵𝙼𝟹-𝚅𝙻-𝟸𝙱 is a beast. It performs competitively with Gemma 4 12B (6x larger), and Gemini 3.5 Flash Lite, and GPT-5.6 Luna, with 1.9B parameters.
+&gt; 𝙻𝙵𝙼𝟹-𝟷.𝟷𝙱 is #1 on the Pareto frontier of device intelligence 𝚙𝚒𝚎𝚝𝚝𝚎𝚕𝚒𝚚𝚞𝚒𝚍.𝚊𝚒
+
+Every modality for specialized intelligence. Pick the one that fits your use case, customize it, and run it on-device.
+
+1/ 🧵</title>
+      <link>https://x.com/liquidai/status/2115128329003303107</link>
+      <description>Introducing 𝙻𝙵𝙼𝟹: our new generation of Liquid Foundation Models. With a new tri-hybrid architecture and new multimodal encoders, the LFM3 family is the ideal model suite for specialized intelligence.
+
+&gt; 6 model instances, across text, audio, vision, and omni modalities, generative and decision models.
+&gt; 𝙻𝙵𝙼𝟹-𝟷.𝟷𝙱: text, 256k context window.
+&gt; 𝙻𝙵𝙼𝟹-𝚅𝙻-𝟸𝙱: vision-language model with video-input support for spatial understanding
+&gt; 𝙻𝙵𝙼𝟹-𝙰𝚞𝚍𝚒𝚘-𝟸𝙱: tool calls, voice chat, reasoning in 18 languages.
+&gt; 𝙻𝙵𝙼𝟹-𝙾𝚖𝚗𝚒-𝟸𝙱: an omni model combines vision, audio, and language.
+&gt; 𝚍𝟷-𝟸𝙱 and 𝚍𝟷-𝙾𝚖𝚗𝚒-𝟸𝙱: decision models with typed outputs and calibrated probabilities in a single pass. Omni adds audio input.
+&gt; fine-tune on 1 GPU.
+&gt; a new tri-hybrid architecture
+&gt; architecture optimized for 14 processor classes across GPUs, CPUs, and NPUs.
+&gt; 𝙻𝙵𝙼𝟹-𝚅𝙻-𝟸𝙱 is a beast. It performs competitively with Gemma 4 12B (6x larger), and Gemini 3.5 Flash Lite, and GPT-5.6 Luna, with 1.9B parameters.
+&gt; 𝙻𝙵𝙼𝟹-𝟷.𝟷𝙱 is #1 on the Pareto frontier of device intelligence 𝚙𝚒𝚎𝚝𝚝𝚎𝚕𝚒𝚚𝚞𝚒𝚍.𝚊𝚒
+
+Every modality for specialized intelligence. Pick the one that fits your use case, customize it, and run it on-device.
+
+1/ 🧵</description>
+      <guid isPermaLink="false">https://x.com/liquidai/status/2115128329003303107</guid>
+      <pubDate>Tue, 27 Oct 2026 17:07:45 +0000</pubDate>
     </item>
     <item>
       <title>[elonmusk]😂</title>
@@ -4841,6 +4844,13 @@ https://polymarket.com/event/flavio-bolsonaro-charged-or-arrested-by-october-31-
 https://polymarket.com/event/flavio-bolsonaro-charged-or-arrested-by-october-31-20261001003357876?dub_id=Z5qsyoy3mX28pJio</description>
       <guid isPermaLink="false">https://x.com/Polymarket/status/2115134276157272110</guid>
       <pubDate>Tue, 27 Oct 2026 17:31:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Polymarket]JUST IN: Trump declares he will respect the results of next week's midterm elections only if they are “honest elections.”</title>
+      <link>https://x.com/Polymarket/status/2115190611154497946</link>
+      <description>JUST IN: Trump declares he will respect the results of next week's midterm elections only if they are “honest elections.”</description>
+      <guid isPermaLink="false">https://x.com/Polymarket/status/2115190611154497946</guid>
+      <pubDate>Tue, 27 Oct 2026 21:15:14 +0000</pubDate>
     </item>
   </channel>
 </rss>
