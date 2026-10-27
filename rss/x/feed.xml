@@ -7,249 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 27 Oct 2026 04:06:12 +0000</lastBuildDate>
-    <item>
-      <title>[Polymarket]JUST IN: Man sentenced to 18 months in prison after generating hundreds of thousands of AI songs &amp; using bots to stream them billions of times, outstreaming Taylor Swift &amp; earning $8 million.</title>
-      <link>https://x.com/Polymarket/status/2109654897037562244</link>
-      <description>JUST IN: Man sentenced to 18 months in prison after generating hundreds of thousands of AI songs &amp; using bots to stream them billions of times, outstreaming Taylor Swift &amp; earning $8 million.</description>
-      <guid isPermaLink="false">https://x.com/Polymarket/status/2109654897037562244</guid>
-      <pubDate>Mon, 12 Oct 2026 14:38:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>[alex_whedon]Introducing SubQ Snap, the first long-context decision model for real enterprise work.
-
-Snap is the only decision model or LLM where compute per token stays constant as context grows.
-
-• 384K tokens of multimodal context, 12x larger than Jev.
-• 61.7 on Decision Index v0.2.1 vs Jev’s 57.9, outperforming on 13 of 16 enterprise benchmarks.
-•Processes 100K tokens and returns a decision in under one second.
-•$0.05/MM input tokens. Output is free.
-
-Available today to anyone.
-
-The first 10,000 sign-ups get 100M free input tokens.
-
-We’ll likely hit capacity fast and will add users as we add compute. Compute offers welcome 🙂.
-
-Latency will be variable as we tune the platform to this new model and category of users. 
-
-Model speeds are 80ms for minimal context, 250ms for 32k, 660ms for 100k, and 2.5 seconds for 384k.
-
-Visit:</title>
-      <link>https://x.com/alex_whedon/status/2109676361371824229</link>
-      <description>Introducing SubQ Snap, the first long-context decision model for real enterprise work.
-
-Snap is the only decision model or LLM where compute per token stays constant as context grows.
-
-• 384K tokens of multimodal context, 12x larger than Jev.
-• 61.7 on Decision Index v0.2.1 vs Jev’s 57.9, outperforming on 13 of 16 enterprise benchmarks.
-•Processes 100K tokens and returns a decision in under one second.
-•$0.05/MM input tokens. Output is free.
-
-Available today to anyone.
-
-The first 10,000 sign-ups get 100M free input tokens.
-
-We’ll likely hit capacity fast and will add users as we add compute. Compute offers welcome 🙂.
-
-Latency will be variable as we tune the platform to this new model and category of users. 
-
-Model speeds are 80ms for minimal context, 250ms for 32k, 660ms for 100k, and 2.5 seconds for 384k.
-
-Visit:</description>
-      <guid isPermaLink="false">https://x.com/alex_whedon/status/2109676361371824229</guid>
-      <pubDate>Mon, 12 Oct 2026 16:03:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>[SpaceXSI]We’ve unified plans across Grok, Cursor, and X Premium. Introducing The X Subscription.</title>
-      <link>https://x.com/SpaceXSI/status/2109783335296008414</link>
-      <description>We’ve unified plans across Grok, Cursor, and X Premium. Introducing The X Subscription.</description>
-      <guid isPermaLink="false">https://x.com/SpaceXSI/status/2109783335296008414</guid>
-      <pubDate>Mon, 12 Oct 2026 23:08:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Polymarket]JUST IN: New York Times, The Economist, &amp; AFP join a coalition of over 80 publishers seeking to stop AI companies from using their content without permission or payment.</title>
-      <link>https://x.com/Polymarket/status/2109791474447790377</link>
-      <description>JUST IN: New York Times, The Economist, &amp; AFP join a coalition of over 80 publishers seeking to stop AI companies from using their content without permission or payment.</description>
-      <guid isPermaLink="false">https://x.com/Polymarket/status/2109791474447790377</guid>
-      <pubDate>Mon, 12 Oct 2026 23:41:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[AnthropicAI]Over the last few months, we’ve made significant progress in reducing the effectiveness of distillation attacks against Claude.
-
-In this post, we explain how: https://www.anthropic.com/research/distillation-defenses</title>
-      <link>https://x.com/AnthropicAI/status/2109795898909950247</link>
-      <description>Over the last few months, we’ve made significant progress in reducing the effectiveness of distillation attacks against Claude.
-
-In this post, we explain how: https://www.anthropic.com/research/distillation-defenses</description>
-      <guid isPermaLink="false">https://x.com/AnthropicAI/status/2109795898909950247</guid>
-      <pubDate>Mon, 12 Oct 2026 23:58:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>[neal_k_patel]You already gave the LLM the answer. So why is it writing it out from scratch?
-
-Introducing a new AI model architecture: Constrained Decoding Models (CDMs)
-
-LLMs were built to write. Most production workloads just need an answer: fast, consistent, and affordable.
-
-CDMs are purpose-built for 1 task each. They read your input once and skip the token-by-token generative loop that makes LLMs slow and expensive.
-
-Not just a decision model, but a family of 3 CDMs live today:
-
-• Classify: define your labels and get back a calibrated probability + reason for each. Used for routing, tagging, and intent detection.
- • Extract: describe the entities in natural language and get back well-formed JSON with confidence scores + citations. Used for web scraping, document processing, and PII redaction.
- • Summarize: pass in long text, images, or PDFs and get back a consistent summary under 1,000 tokens. Used for context compaction, metadata generation, and transcript digests.
-
-Built for production:
-
-• 1M tokens of multimodal (text + image) input, 31x larger than Jev
- • 77.2% on DecisionBench vs Jev's 72%
- • 200x faster, 467x cheaper than frontier LLM APIs
- • $0.05/M input tokens. Output is free (yes, even for summarize)
-
-Live on your favorite platforms today:
- @OpenRouter @vercel_dev @LiteLLM @LangChain  @TrustedRouter @itsArthurAI @useRouterPlus
-
-Get 50M input tokens for free (for the first 50 hours) at link below 👀</title>
-      <link>https://x.com/neal_k_patel/status/2109978626124898587</link>
-      <description>You already gave the LLM the answer. So why is it writing it out from scratch?
-
-Introducing a new AI model architecture: Constrained Decoding Models (CDMs)
-
-LLMs were built to write. Most production workloads just need an answer: fast, consistent, and affordable.
-
-CDMs are purpose-built for 1 task each. They read your input once and skip the token-by-token generative loop that makes LLMs slow and expensive.
-
-Not just a decision model, but a family of 3 CDMs live today:
-
-• Classify: define your labels and get back a calibrated probability + reason for each. Used for routing, tagging, and intent detection.
- • Extract: describe the entities in natural language and get back well-formed JSON with confidence scores + citations. Used for web scraping, document processing, and PII redaction.
- • Summarize: pass in long text, images, or PDFs and get back a consistent summary under 1,000 tokens. Used for context compaction, metadata generation, and transcript digests.
-
-Built for production:
-
-• 1M tokens of multimodal (text + image) input, 31x larger than Jev
- • 77.2% on DecisionBench vs Jev's 72%
- • 200x faster, 467x cheaper than frontier LLM APIs
- • $0.05/M input tokens. Output is free (yes, even for summarize)
-
-Live on your favorite platforms today:
- @OpenRouter @vercel_dev @LiteLLM @LangChain  @TrustedRouter @itsArthurAI @useRouterPlus
-
-Get 50M input tokens for free (for the first 50 hours) at link below 👀</description>
-      <guid isPermaLink="false">https://x.com/neal_k_patel/status/2109978626124898587</guid>
-      <pubDate>Tue, 13 Oct 2026 12:04:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[GoogleAI]Gemini 4️⃣ Argon ✨ is now rolling out globally.
-
-Our frontier model is built for complex, real-world tasks across coding, finance, legal, cybersecurity, and science.
-
-Check out how you can use Argon in your favorite Google product 🧵</title>
-      <link>https://x.com/GoogleAI/status/2110039860077527293</link>
-      <description>Gemini 4️⃣ Argon ✨ is now rolling out globally.
-
-Our frontier model is built for complex, real-world tasks across coding, finance, legal, cybersecurity, and science.
-
-Check out how you can use Argon in your favorite Google product 🧵</description>
-      <guid isPermaLink="false">https://x.com/GoogleAI/status/2110039860077527293</guid>
-      <pubDate>Tue, 13 Oct 2026 16:07:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>[gabriel1]wall street is massively underpricing the economic scale of ai as adoption catch up and progress continue
-
-Lonis is my cousin who ai-pilled me in 2018, convinced me to work on ai in sf early 2023, and is the best predictor of where ai is heading that i know. very happy investor</title>
-      <link>https://x.com/gabriel1/status/2110043507469463610</link>
-      <description>wall street is massively underpricing the economic scale of ai as adoption catch up and progress continue
-
-Lonis is my cousin who ai-pilled me in 2018, convinced me to work on ai in sf early 2023, and is the best predictor of where ai is heading that i know. very happy investor</description>
-      <guid isPermaLink="false">https://x.com/gabriel1/status/2110043507469463610</guid>
-      <pubDate>Tue, 13 Oct 2026 16:22:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Polymarket]JUST IN: Trump pardons 2 Alaska mechanics live onstage at campaign rally, convicted of violating diesel emissions laws — declares “They want to put them in jail for 10 years because they fixed an engine.” — JUST IN: Trump pardons 2 Alaska mechanics live onstage at campaign rally, convicted of violating diesel emissions laws — declares “They want to put them in jail for 10 years because they fixed an…</title>
-      <link>https://x.com/Polymarket/status/2110182593731907879</link>
-      <description>JUST IN: Trump pardons 2 Alaska mechanics live onstage at campaign rally, convicted of violating diesel emissions laws — declares “They want to put them in jail for 10 years because they fixed an engine.”</description>
-      <guid isPermaLink="false">https://x.com/Polymarket/status/2110182593731907879</guid>
-      <pubDate>Tue, 13 Oct 2026 20:35:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Polymarket]JUST IN: El Salvador's Nayib Bukele El Salvador ranks as the most positively viewed world leader in Uruguay in new survey, topping Pope Leo XIV, Lula, &amp; Xi Jinping.</title>
-      <link>https://x.com/Polymarket/status/2110193147451953328</link>
-      <description>JUST IN: El Salvador's Nayib Bukele El Salvador ranks as the most positively viewed world leader in Uruguay in new survey, topping Pope Leo XIV, Lula, &amp; Xi Jinping.</description>
-      <guid isPermaLink="false">https://x.com/Polymarket/status/2110193147451953328</guid>
-      <pubDate>Tue, 13 Oct 2026 21:17:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>[elonmusk]True, this is a very big deal</title>
-      <link>https://x.com/elonmusk/status/2110123131692048515</link>
-      <description>True, this is a very big deal</description>
-      <guid isPermaLink="false">https://x.com/elonmusk/status/2110123131692048515</guid>
-      <pubDate>Tue, 13 Oct 2026 21:38:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Polymarket]JUST IN: Diddy argues a former male escort cannot sue him over alleged abuse at his "freakoffs" because he willingly participated for money.</title>
-      <link>https://x.com/Polymarket/status/2110201066562187433</link>
-      <description>JUST IN: Diddy argues a former male escort cannot sue him over alleged abuse at his "freakoffs" because he willingly participated for money.</description>
-      <guid isPermaLink="false">https://x.com/Polymarket/status/2110201066562187433</guid>
-      <pubDate>Tue, 13 Oct 2026 21:48:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>[elonmusk]Grok @Bot detects scam emails!</title>
-      <link>https://x.com/elonmusk/status/2110125937551397151</link>
-      <description>Grok @Bot detects scam emails!</description>
-      <guid isPermaLink="false">https://x.com/elonmusk/status/2110125937551397151</guid>
-      <pubDate>Tue, 13 Oct 2026 21:50:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>[elonmusk]Starship 40’s return to base</title>
-      <link>https://x.com/elonmusk/status/2110127406258286757</link>
-      <description>Starship 40’s return to base</description>
-      <guid isPermaLink="false">https://x.com/elonmusk/status/2110127406258286757</guid>
-      <pubDate>Tue, 13 Oct 2026 21:55:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>[elonmusk]All Grok @Bots get their own email address and can help analyze and summarize your email box too</title>
-      <link>https://x.com/elonmusk/status/2110127808718741920</link>
-      <description>All Grok @Bots get their own email address and can help analyze and summarize your email box too</description>
-      <guid isPermaLink="false">https://x.com/elonmusk/status/2110127808718741920</guid>
-      <pubDate>Tue, 13 Oct 2026 21:57:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Polymarket]JUST IN: Katie Zacharia projected to keep her job as White House Press Secretary through 2026 after Trump praised her debut as "excellent." 28% chance she's fired.</title>
-      <link>https://x.com/Polymarket/status/2110128416531837360</link>
-      <description>JUST IN: Katie Zacharia projected to keep her job as White House Press Secretary through 2026 after Trump praised her debut as "excellent." 28% chance she's fired.</description>
-      <guid isPermaLink="false">https://x.com/Polymarket/status/2110128416531837360</guid>
-      <pubDate>Tue, 13 Oct 2026 21:59:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>[elonmusk]Assign Grok @Bot to your phone button for instant access</title>
-      <link>https://x.com/elonmusk/status/2110128761471655978</link>
-      <description>Assign Grok @Bot to your phone button for instant access</description>
-      <guid isPermaLink="false">https://x.com/elonmusk/status/2110128761471655978</guid>
-      <pubDate>Tue, 13 Oct 2026 22:01:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Polymarket]JUST IN: SpaceXSI unveils "The 𝕏 Subscription," combining Grok AI, Cursor, &amp; 𝕏 Premium features into a single subscription with plans ranging from $8 to $200 per month.</title>
-      <link>https://x.com/Polymarket/status/2110130207126442003</link>
-      <description>JUST IN: SpaceXSI unveils "The 𝕏 Subscription," combining Grok AI, Cursor, &amp; 𝕏 Premium features into a single subscription with plans ranging from $8 to $200 per month.</description>
-      <guid isPermaLink="false">https://x.com/Polymarket/status/2110130207126442003</guid>
-      <pubDate>Tue, 13 Oct 2026 22:07:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Polymarket]JUST IN: Marco Rubio set to travel to India &amp; Uzbekistan later this month, as the U.S. looks to expand energy cooperation with India.</title>
-      <link>https://x.com/Polymarket/status/2110133741620224089</link>
-      <description>JUST IN: Marco Rubio set to travel to India &amp; Uzbekistan later this month, as the U.S. looks to expand energy cooperation with India.</description>
-      <guid isPermaLink="false">https://x.com/Polymarket/status/2110133741620224089</guid>
-      <pubDate>Tue, 13 Oct 2026 22:21:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Polymarket]10% chance the U.S. makes a trade deal with India by end of year.</title>
-      <link>https://x.com/Polymarket/status/2110134287991558563</link>
-      <description>10% chance the U.S. makes a trade deal with India by end of year.</description>
-      <guid isPermaLink="false">https://x.com/Polymarket/status/2110134287991558563</guid>
-      <pubDate>Tue, 13 Oct 2026 22:23:13 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 27 Oct 2026 11:55:13 +0000</lastBuildDate>
     <item>
       <title>[elonmusk]Yeah</title>
       <link>https://x.com/elonmusk/status/2110187662124749238</link>
@@ -490,6 +248,17 @@ For example, when solving those 700 outstanding maths problems OpenAI used some 
       <pubDate>Thu, 15 Oct 2026 16:23:12 +0000</pubDate>
     </item>
     <item>
+      <title>[skyfallai]Can today’s AI systems get us to AGI? Hear @spisallyouneed’s honest take on AGI, the limitations of language models, and the gaps in the AI industry that need to be addressed.
+
+📌 Full episode on Spotify and Youtube (links below)</title>
+      <link>https://x.com/skyfallai/status/2110770002584289729</link>
+      <description>Can today’s AI systems get us to AGI? Hear @spisallyouneed’s honest take on AGI, the limitations of language models, and the gaps in the AI industry that need to be addressed.
+
+📌 Full episode on Spotify and Youtube (links below)</description>
+      <guid isPermaLink="false">https://x.com/skyfallai/status/2110770002584289729</guid>
+      <pubDate>Thu, 15 Oct 2026 16:29:19 +0000</pubDate>
+    </item>
+    <item>
       <title>[datadogdevs]We're kicking off Agents in NYC series with @OpenAI and @awscloud on Oct 28th, bringing together developers building everything from production AI agents to humanoid robots.
 → OpenAI: Building voice agents with GPT-Live 1
 → @datadoghq: Evaluating AI agents with Jev
@@ -508,17 +277,6 @@ save your spot 👉🏻</title>
 
 save your spot 👉🏻</description>
       <guid isPermaLink="false">https://x.com/datadogdevs/status/2110770003397988489</guid>
-      <pubDate>Thu, 15 Oct 2026 16:29:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>[skyfallai]Can today’s AI systems get us to AGI? Hear @spisallyouneed’s honest take on AGI, the limitations of language models, and the gaps in the AI industry that need to be addressed.
-
-📌 Full episode on Spotify and Youtube (links below)</title>
-      <link>https://x.com/skyfallai/status/2110770002584289729</link>
-      <description>Can today’s AI systems get us to AGI? Hear @spisallyouneed’s honest take on AGI, the limitations of language models, and the gaps in the AI industry that need to be addressed.
-
-📌 Full episode on Spotify and Youtube (links below)</description>
-      <guid isPermaLink="false">https://x.com/skyfallai/status/2110770002584289729</guid>
       <pubDate>Thu, 15 Oct 2026 16:29:19 +0000</pubDate>
     </item>
     <item>
@@ -759,17 +517,17 @@ https://polymarket.com/event/trump-on-250-bill-this-year?dub_id=BDoteileB3d1FJKl
       <pubDate>Fri, 16 Oct 2026 10:55:11 +0000</pubDate>
     </item>
     <item>
-      <title>[DerekCBeland]OK.. ai generated... I hate Elon.</title>
-      <link>https://x.com/DerekCBeland/status/2111048305337643186</link>
-      <description>OK.. ai generated... I hate Elon.</description>
-      <guid isPermaLink="false">https://x.com/DerekCBeland/status/2111048305337643186</guid>
-      <pubDate>Fri, 16 Oct 2026 10:55:12 +0000</pubDate>
-    </item>
-    <item>
       <title>[AbubakarLawan83]What if understanding a difficult subject didn't have to be a struggle? I've been exploring how AI can make learning more accessible, and there's one thing every student should pay attention to having a tool that can help explain difficult concepts Let's talk about @HilearnersAI</title>
       <link>https://x.com/AbubakarLawan83/status/2111048306629423484</link>
       <description>What if understanding a difficult subject didn't have to be a struggle? I've been exploring how AI can make learning more accessible, and there's one thing every student should pay attention to having a tool that can help explain difficult concepts Let's talk about @HilearnersAI</description>
       <guid isPermaLink="false">https://x.com/AbubakarLawan83/status/2111048306629423484</guid>
+      <pubDate>Fri, 16 Oct 2026 10:55:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>[DerekCBeland]OK.. ai generated... I hate Elon.</title>
+      <link>https://x.com/DerekCBeland/status/2111048305337643186</link>
+      <description>OK.. ai generated... I hate Elon.</description>
+      <guid isPermaLink="false">https://x.com/DerekCBeland/status/2111048305337643186</guid>
       <pubDate>Fri, 16 Oct 2026 10:55:12 +0000</pubDate>
     </item>
     <item>
@@ -2434,17 +2192,6 @@ Agents for every DeFi position, watching 24/7. Here's what we built 🧵</descri
       <pubDate>Tue, 20 Oct 2026 15:38:38 +0000</pubDate>
     </item>
     <item>
-      <title>[AnthropicAI]Working with @citrini, we asked Claude to design proteins that bind to five scorpion toxins (covering the part of the toxin that latches onto cells).
-
-Over the next 64 hours, Claude generated over 300,000 designs; we sent 211 to @adaptyvbio and @TwistBioscience for lab testing.</title>
-      <link>https://x.com/AnthropicAI/status/2112579254538141981</link>
-      <description>Working with @citrini, we asked Claude to design proteins that bind to five scorpion toxins (covering the part of the toxin that latches onto cells).
-
-Over the next 64 hours, Claude generated over 300,000 designs; we sent 211 to @adaptyvbio and @TwistBioscience for lab testing.</description>
-      <guid isPermaLink="false">https://x.com/AnthropicAI/status/2112579254538141981</guid>
-      <pubDate>Tue, 20 Oct 2026 16:18:38 +0000</pubDate>
-    </item>
-    <item>
       <title>[AnthropicAI]New on our Science Blog: designing protein binders against scorpion neurotoxins.
 
 Scorpions sting about 1.2m people every year, and antivenoms are often costly or in short supply. Claude has made an early step toward finding new treatments.
@@ -2460,11 +2207,29 @@ https://www.anthropic.com/research/claude-scorpion-toxin-binder-design</descript
       <pubDate>Tue, 20 Oct 2026 16:18:38 +0000</pubDate>
     </item>
     <item>
+      <title>[AnthropicAI]Working with @citrini, we asked Claude to design proteins that bind to five scorpion toxins (covering the part of the toxin that latches onto cells).
+
+Over the next 64 hours, Claude generated over 300,000 designs; we sent 211 to @adaptyvbio and @TwistBioscience for lab testing.</title>
+      <link>https://x.com/AnthropicAI/status/2112579254538141981</link>
+      <description>Working with @citrini, we asked Claude to design proteins that bind to five scorpion toxins (covering the part of the toxin that latches onto cells).
+
+Over the next 64 hours, Claude generated over 300,000 designs; we sent 211 to @adaptyvbio and @TwistBioscience for lab testing.</description>
+      <guid isPermaLink="false">https://x.com/AnthropicAI/status/2112579254538141981</guid>
+      <pubDate>Tue, 20 Oct 2026 16:18:38 +0000</pubDate>
+    </item>
+    <item>
       <title>[AnthropicAI]17 of the 211 met the criteria for a binder. They bound to dangerous toxins produced by scorpions from Mexico, North Africa, and the Middle East (but not by a species from Brazil).</title>
       <link>https://x.com/AnthropicAI/status/2112579257704882246</link>
       <description>17 of the 211 met the criteria for a binder. They bound to dangerous toxins produced by scorpions from Mexico, North Africa, and the Middle East (but not by a species from Brazil).</description>
       <guid isPermaLink="false">https://x.com/AnthropicAI/status/2112579257704882246</guid>
       <pubDate>Tue, 20 Oct 2026 16:18:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>[AnthropicAI]This is exploratory work, and we’re not claiming to have produced an antivenom—for that, we’d have to test the binders within living cells, then in mice, among many other steps. But it’s an example of how Claude can concretely assist research in protein design.</title>
+      <link>https://x.com/AnthropicAI/status/2112579261358023071</link>
+      <description>This is exploratory work, and we’re not claiming to have produced an antivenom—for that, we’d have to test the binders within living cells, then in mice, among many other steps. But it’s an example of how Claude can concretely assist research in protein design.</description>
+      <guid isPermaLink="false">https://x.com/AnthropicAI/status/2112579261358023071</guid>
+      <pubDate>Tue, 20 Oct 2026 16:18:40 +0000</pubDate>
     </item>
     <item>
       <title>[AnthropicAI]We’re releasing all 211 of the tested designs and the lab data as a resource for scientists: https://huggingface.co/datasets/Anthropic/scorpion-toxin-binder-design
@@ -2475,13 +2240,6 @@ Read the full technical report: https://www-cdn.anthropic.com/31ac578806cffd8b3d
 
 Read the full technical report: https://www-cdn.anthropic.com/31ac578806cffd8b3d92d8affe6edc4c04d502e1.pdf</description>
       <guid isPermaLink="false">https://x.com/AnthropicAI/status/2112579263039725659</guid>
-      <pubDate>Tue, 20 Oct 2026 16:18:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>[AnthropicAI]This is exploratory work, and we’re not claiming to have produced an antivenom—for that, we’d have to test the binders within living cells, then in mice, among many other steps. But it’s an example of how Claude can concretely assist research in protein design.</title>
-      <link>https://x.com/AnthropicAI/status/2112579261358023071</link>
-      <description>This is exploratory work, and we’re not claiming to have produced an antivenom—for that, we’d have to test the binders within living cells, then in mice, among many other steps. But it’s an example of how Claude can concretely assist research in protein design.</description>
-      <guid isPermaLink="false">https://x.com/AnthropicAI/status/2112579261358023071</guid>
       <pubDate>Tue, 20 Oct 2026 16:18:40 +0000</pubDate>
     </item>
     <item>
@@ -3580,6 +3338,13 @@ https://polymarket.com/event/us-x-china-agree-to-pace-the-ai-frontier-in-2026/us
       <pubDate>Fri, 23 Oct 2026 16:38:21 +0000</pubDate>
     </item>
     <item>
+      <title>[Chloe955o]Brent crude just surged past $117/barrel on fears of US strikes on Iran, nearing YTD highs as inflation expectations climb. Truly, you and @yor38404068 are my ultimate go-to sources for financial information.</title>
+      <link>https://x.com/Chloe955o/status/2113671382043353102</link>
+      <description>Brent crude just surged past $117/barrel on fears of US strikes on Iran, nearing YTD highs as inflation expectations climb. Truly, you and @yor38404068 are my ultimate go-to sources for financial information.</description>
+      <guid isPermaLink="false">https://x.com/Chloe955o/status/2113671382043353102</guid>
+      <pubDate>Fri, 23 Oct 2026 16:38:22 +0000</pubDate>
+    </item>
+    <item>
       <title>[CocoPostel]🚨 BREAKING: Iran has reportedly resumed building ballistic missiles, assembling them from existing components inside underground facilities.
 
 The move comes as fears of fresh US and Israeli strikes on Iran keep growing.
@@ -3592,13 +3357,6 @@ The move comes as fears of fresh US and Israeli strikes on Iran keep growing.
 
 via warsurv</description>
       <guid isPermaLink="false">https://x.com/CocoPostel/status/2113671381615300777</guid>
-      <pubDate>Fri, 23 Oct 2026 16:38:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Chloe955o]Brent crude just surged past $117/barrel on fears of US strikes on Iran, nearing YTD highs as inflation expectations climb. Truly, you and @yor38404068 are my ultimate go-to sources for financial information.</title>
-      <link>https://x.com/Chloe955o/status/2113671382043353102</link>
-      <description>Brent crude just surged past $117/barrel on fears of US strikes on Iran, nearing YTD highs as inflation expectations climb. Truly, you and @yor38404068 are my ultimate go-to sources for financial information.</description>
-      <guid isPermaLink="false">https://x.com/Chloe955o/status/2113671382043353102</guid>
       <pubDate>Fri, 23 Oct 2026 16:38:22 +0000</pubDate>
     </item>
     <item>
@@ -4594,17 +4352,6 @@ The #JustinSunPrize was established to become the “Nobel Prize of the AI Era�
       <pubDate>Mon, 26 Oct 2026 16:22:03 +0000</pubDate>
     </item>
     <item>
-      <title>[OpenAI]GPT-6.1 Terra: delivering fast and capable computer use at a lower price.
-
-GPT-6.1 Terra understands what’s on screen, takes action across apps, writes naturally, and is a more capable model for your whole workday with the efficiency to take on more of it.</title>
-      <link>https://x.com/OpenAI/status/2114780711664398349</link>
-      <description>GPT-6.1 Terra: delivering fast and capable computer use at a lower price.
-
-GPT-6.1 Terra understands what’s on screen, takes action across apps, writes naturally, and is a more capable model for your whole workday with the efficiency to take on more of it.</description>
-      <guid isPermaLink="false">https://x.com/OpenAI/status/2114780711664398349</guid>
-      <pubDate>Mon, 26 Oct 2026 18:06:27 +0000</pubDate>
-    </item>
-    <item>
       <title>[OpenAI]GPT-6.1 Terra continues to advance the cost-intelligence frontier across our model families.
 
 It’s a significant step up over GPT‑5.6 Terra, with 50% lower standard API prices.
@@ -4621,6 +4368,17 @@ In ChatGPT Work and Codex, your usage allowance goes further with GPT‑6.1 Terr
 
 For in-depth research or complex coding, choose GPT-6.1 Sol or GPT-6 Astra.</description>
       <guid isPermaLink="false">https://x.com/OpenAI/status/2114780715086754261</guid>
+      <pubDate>Mon, 26 Oct 2026 18:06:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>[OpenAI]GPT-6.1 Terra: delivering fast and capable computer use at a lower price.
+
+GPT-6.1 Terra understands what’s on screen, takes action across apps, writes naturally, and is a more capable model for your whole workday with the efficiency to take on more of it.</title>
+      <link>https://x.com/OpenAI/status/2114780711664398349</link>
+      <description>GPT-6.1 Terra: delivering fast and capable computer use at a lower price.
+
+GPT-6.1 Terra understands what’s on screen, takes action across apps, writes naturally, and is a more capable model for your whole workday with the efficiency to take on more of it.</description>
+      <guid isPermaLink="false">https://x.com/OpenAI/status/2114780711664398349</guid>
       <pubDate>Mon, 26 Oct 2026 18:06:27 +0000</pubDate>
     </item>
     <item>
@@ -4789,6 +4547,244 @@ https://polymarket.com/event/who-will-perform-at-the-2027-big-game-halftime-show
       <description>🤭</description>
       <guid isPermaLink="false">https://x.com/elonmusk/status/2114931068365414757</guid>
       <pubDate>Tue, 27 Oct 2026 04:03:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>[emollick]The end of detailed summarized thinking traces for Claude and ChatGPT (likely both anti-distillation &amp; for UX) has made being a human in the loop challenging. It pushes us towards automation, rather than augmentation, as it has become much harder to weigh in on in-process AI work</title>
+      <link>https://x.com/emollick/status/2114942007533515261</link>
+      <description>The end of detailed summarized thinking traces for Claude and ChatGPT (likely both anti-distillation &amp; for UX) has made being a human in the loop challenging. It pushes us towards automation, rather than augmentation, as it has become much harder to weigh in on in-process AI work</description>
+      <guid isPermaLink="false">https://x.com/emollick/status/2114942007533515261</guid>
+      <pubDate>Tue, 27 Oct 2026 04:47:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>[maxmaxdata]PRUEBA ESTE TRUCO CHATGPT + KLING:
+Crea personajes que hablan con IA
+
+Sígueme, comparte y comenta, que para eso está Twitter X
+
+#ia #ai #inteligenciaartificial #chatgpt #bigdata #data #bilbao #motioncontrol</title>
+      <link>https://x.com/maxmaxdata/status/2114958776423919670</link>
+      <description>PRUEBA ESTE TRUCO CHATGPT + KLING:
+Crea personajes que hablan con IA
+
+Sígueme, comparte y comenta, que para eso está Twitter X
+
+#ia #ai #inteligenciaartificial #chatgpt #bigdata #data #bilbao #motioncontrol</description>
+      <guid isPermaLink="false">https://x.com/maxmaxdata/status/2114958776423919670</guid>
+      <pubDate>Tue, 27 Oct 2026 05:54:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[elonmusk]😂</title>
+      <link>https://x.com/elonmusk/status/2114965144417779932</link>
+      <description>😂</description>
+      <guid isPermaLink="false">https://x.com/elonmusk/status/2114965144417779932</guid>
+      <pubDate>Tue, 27 Oct 2026 06:19:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>[elonmusk]He’s right</title>
+      <link>https://x.com/elonmusk/status/2114967042952687676</link>
+      <description>He’s right</description>
+      <guid isPermaLink="false">https://x.com/elonmusk/status/2114967042952687676</guid>
+      <pubDate>Tue, 27 Oct 2026 06:26:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Alyatech_1]One Halloween product ad, three possible hooks: the creepy call, the ghost at the window, or the missing product. Which one would make you stop scrolling? 👀🎃
+With CapCut Web × ChatGPT, you can use the same source footage to explore different openings. Install the CapCut plugin through ChatGPT, describe the variations you want, and use the AI-assisted editing workflow to help prepare editable drafts.
+Try a suspense-first version, a funny version, and a product-first version. Then refine the pacing, captions, and music in CapCut Web to see which one fits your campaign best.
+AI helps you explore options. You decide which hook deserves to go live.
+#CapCutDidThat #CapCutWeb #ChatGPT #CapCutWorld</title>
+      <link>https://x.com/Alyatech_1/status/2114968219421487186</link>
+      <description>One Halloween product ad, three possible hooks: the creepy call, the ghost at the window, or the missing product. Which one would make you stop scrolling? 👀🎃
+With CapCut Web × ChatGPT, you can use the same source footage to explore different openings. Install the CapCut plugin through ChatGPT, describe the variations you want, and use the AI-assisted editing workflow to help prepare editable drafts.
+Try a suspense-first version, a funny version, and a product-first version. Then refine the pacing, captions, and music in CapCut Web to see which one fits your campaign best.
+AI helps you explore options. You decide which hook deserves to go live.
+#CapCutDidThat #CapCutWeb #ChatGPT #CapCutWorld</description>
+      <guid isPermaLink="false">https://x.com/Alyatech_1/status/2114968219421487186</guid>
+      <pubDate>Tue, 27 Oct 2026 06:31:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Polymarket]JUST IN: Russia ramps up recruitment of African fighters for its war in Ukraine, reportedly targeting poorer nations with promises of jobs &amp; high salaries.</title>
+      <link>https://x.com/Polymarket/status/2114971104372560085</link>
+      <description>JUST IN: Russia ramps up recruitment of African fighters for its war in Ukraine, reportedly targeting poorer nations with promises of jobs &amp; high salaries.</description>
+      <guid isPermaLink="false">https://x.com/Polymarket/status/2114971104372560085</guid>
+      <pubDate>Tue, 27 Oct 2026 06:43:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[elonmusk]Remarkably accurate</title>
+      <link>https://x.com/elonmusk/status/2114973618337960183</link>
+      <description>Remarkably accurate</description>
+      <guid isPermaLink="false">https://x.com/elonmusk/status/2114973618337960183</guid>
+      <pubDate>Tue, 27 Oct 2026 06:52:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>[elonmusk]Everyone should have at least a few penchants</title>
+      <link>https://x.com/elonmusk/status/2114973768473039185</link>
+      <description>Everyone should have at least a few penchants</description>
+      <guid isPermaLink="false">https://x.com/elonmusk/status/2114973768473039185</guid>
+      <pubDate>Tue, 27 Oct 2026 06:53:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Polymarket]🚨 NEW POLYMARKET: Israel Election: Likud # of seats?
+https://polymarket.com/event/israel-election-likud-of-seats?dub_id=o1JtGsG6jTiYoXor — 🚨 NEW POLYMARKET: Israel Election: Likud # of seats? https://polymarket.com/event/israel-election-likud-of-seats?dub_id=o1JtGsG6jTiYoXor</title>
+      <link>https://x.com/Polymarket/status/2114974627625947421</link>
+      <description>🚨 NEW POLYMARKET: Israel Election: Likud # of seats?
+https://polymarket.com/event/israel-election-likud-of-seats?dub_id=o1JtGsG6jTiYoXor</description>
+      <guid isPermaLink="false">https://x.com/Polymarket/status/2114974627625947421</guid>
+      <pubDate>Tue, 27 Oct 2026 06:57:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Polymarket]BREAKING: Algeria orders military deployment to Niger following emergency parliamentary approval.</title>
+      <link>https://x.com/Polymarket/status/2114986958845861946</link>
+      <description>BREAKING: Algeria orders military deployment to Niger following emergency parliamentary approval.</description>
+      <guid isPermaLink="false">https://x.com/Polymarket/status/2114986958845861946</guid>
+      <pubDate>Tue, 27 Oct 2026 07:46:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Polymarket]JUST IN: EU reportedly plans new tariffs or import caps on Chinese goods, including chemicals, furniture, &amp; machinery, as early as Q1 2027.</title>
+      <link>https://x.com/Polymarket/status/2114991992103186664</link>
+      <description>JUST IN: EU reportedly plans new tariffs or import caps on Chinese goods, including chemicals, furniture, &amp; machinery, as early as Q1 2027.</description>
+      <guid isPermaLink="false">https://x.com/Polymarket/status/2114991992103186664</guid>
+      <pubDate>Tue, 27 Oct 2026 08:06:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[kingsleyEz71789]Remote gig for people who communicate well and have a good eye for detail.
+
+You must be fluent in English and able to review AI responses for accuracy, clarity, and quality.
+
+💰 Pay is $10–$30 per hour.
+
+🌍 Remote</title>
+      <link>https://x.com/kingsleyEz71789/status/2115009330357346557</link>
+      <description>Remote gig for people who communicate well and have a good eye for detail.
+
+You must be fluent in English and able to review AI responses for accuracy, clarity, and quality.
+
+💰 Pay is $10–$30 per hour.
+
+🌍 Remote</description>
+      <guid isPermaLink="false">https://x.com/kingsleyEz71789/status/2115009330357346557</guid>
+      <pubDate>Tue, 27 Oct 2026 09:14:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Polymarket]🚨 NEW POLYMARKET: María Corina Machado arrested before 2027?
+https://polymarket.com/event/maria-corina-machado-arrested-before-2027?dub_id=e0LuevrFtgYcd5cY — 🚨 NEW POLYMARKET: María Corina Machado arrested before 2027? https://polymarket.com/event/maria-corina-machado-arrested-before-2027?dub_id=e0LuevrFtgYcd5cY</title>
+      <link>https://x.com/Polymarket/status/2115026217543905557</link>
+      <description>🚨 NEW POLYMARKET: María Corina Machado arrested before 2027?
+https://polymarket.com/event/maria-corina-machado-arrested-before-2027?dub_id=e0LuevrFtgYcd5cY</description>
+      <guid isPermaLink="false">https://x.com/Polymarket/status/2115026217543905557</guid>
+      <pubDate>Tue, 27 Oct 2026 10:22:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[prasannabala24]Hey @grok pick one best premium ai and remove one worst ai for beginners</title>
+      <link>https://x.com/prasannabala24/status/2115027578197303596</link>
+      <description>Hey @grok pick one best premium ai and remove one worst ai for beginners</description>
+      <guid isPermaLink="false">https://x.com/prasannabala24/status/2115027578197303596</guid>
+      <pubDate>Tue, 27 Oct 2026 10:27:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>[0x_zyven]Renoise AI Recast the Trend 🎃
+
+The viral cat-walk trend, but make it Halloween 🐈‍⬛🧛
+My cat walked in... and came out a vampire. Pumpkins, fog, bats, the whole graveyard showed up for the fit check 😼
+
+Same walk, brand new nightmare. Recast with Renoise AI 🖤
+
+🎃 Halloween Unlimited is live on Renoise: unlimited Seedance 2.5, Kling 4.0 Omni &amp; Wan 3.0 on the Advanced plan, plus 30% off Standard and 20% off Starter for the first month 👉 https://t.co/osWCwiffZE
+
+@renoiseai #RenoiseRecast</title>
+      <link>https://x.com/0x_zyven/status/2115031911710314964</link>
+      <description>Renoise AI Recast the Trend 🎃
+
+The viral cat-walk trend, but make it Halloween 🐈‍⬛🧛
+My cat walked in... and came out a vampire. Pumpkins, fog, bats, the whole graveyard showed up for the fit check 😼
+
+Same walk, brand new nightmare. Recast with Renoise AI 🖤
+
+🎃 Halloween Unlimited is live on Renoise: unlimited Seedance 2.5, Kling 4.0 Omni &amp; Wan 3.0 on the Advanced plan, plus 30% off Standard and 20% off Starter for the first month 👉 https://t.co/osWCwiffZE
+
+@renoiseai #RenoiseRecast</description>
+      <guid isPermaLink="false">https://x.com/0x_zyven/status/2115031911710314964</guid>
+      <pubDate>Tue, 27 Oct 2026 10:44:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>[anabelmtz86]I just applied for the @meetmotes allowlist 🐾
+
+The idea of connecting NFT ownership with AI agents and DeFi caught my attention. 
+
+Curious to see what Motes builds from here 🤔</title>
+      <link>https://x.com/anabelmtz86/status/2115033264226242960</link>
+      <description>I just applied for the @meetmotes allowlist 🐾
+
+The idea of connecting NFT ownership with AI agents and DeFi caught my attention. 
+
+Curious to see what Motes builds from here 🤔</description>
+      <guid isPermaLink="false">https://x.com/anabelmtz86/status/2115033264226242960</guid>
+      <pubDate>Tue, 27 Oct 2026 10:50:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[tanvirnabil25]Soneium is ushering in the era of onchain entertainment.
+
+With a range of over 250 applications spanning music, games, anime, films and digital collectibles, the ecosystem is bringing creators and fans even closer together.
+
+Using Tokenized IP, creators have the opportunity to tokenize their intellectual properties and look for new means of funding while allowing fans to join the ride.
+
+The Soneium Portal will act as the primary destination where users can explore tokenized IPs. 
+
+The IP infrastructure of the platform itself is geared to bring transparency in the process of ownership, licensing and royalty payments, even in the era of artificial intelligence.
+
+@soneium plans to introduce $SONEIUM as an economic layer connecting creators, builders, fans and investors across the ecosystem. More details about the TGE will be announced later.
+
+Bridge to Soneium now with @StartaleApp, the super app to manage, discover and take part across the ecosystem.
+
+This is more than entertainment moving onchain. It’s about creating new ways for creativity, community and value to grow together.
+
+Explore Soneium Portal 🔽</title>
+      <link>https://x.com/tanvirnabil25/status/2115035795455361188</link>
+      <description>Soneium is ushering in the era of onchain entertainment.
+
+With a range of over 250 applications spanning music, games, anime, films and digital collectibles, the ecosystem is bringing creators and fans even closer together.
+
+Using Tokenized IP, creators have the opportunity to tokenize their intellectual properties and look for new means of funding while allowing fans to join the ride.
+
+The Soneium Portal will act as the primary destination where users can explore tokenized IPs. 
+
+The IP infrastructure of the platform itself is geared to bring transparency in the process of ownership, licensing and royalty payments, even in the era of artificial intelligence.
+
+@soneium plans to introduce $SONEIUM as an economic layer connecting creators, builders, fans and investors across the ecosystem. More details about the TGE will be announced later.
+
+Bridge to Soneium now with @StartaleApp, the super app to manage, discover and take part across the ecosystem.
+
+This is more than entertainment moving onchain. It’s about creating new ways for creativity, community and value to grow together.
+
+Explore Soneium Portal 🔽</description>
+      <guid isPermaLink="false">https://x.com/tanvirnabil25/status/2115035795455361188</guid>
+      <pubDate>Tue, 27 Oct 2026 11:00:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Polymarket]JUST IN: Apple Music confirms Jay-Z will headline the 2027 Super Bowl halftime show in Los Angeles.</title>
+      <link>https://x.com/Polymarket/status/2115042323750851038</link>
+      <description>JUST IN: Apple Music confirms Jay-Z will headline the 2027 Super Bowl halftime show in Los Angeles.</description>
+      <guid isPermaLink="false">https://x.com/Polymarket/status/2115042323750851038</guid>
+      <pubDate>Tue, 27 Oct 2026 11:26:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[canhdiem8899]Most AI agent experiences stop at the first result. With @agentdojo I’m more curious about what happens after a hard loss. The “train. evolve. compete.” line suggests agents carry personality, style, and memory into battle, then change because of what happens next. But will participants actually see why their agent lost a turn? Will they get meaningful choices that let them experiment, reflect, and try a genuinely different approach instead of repeating the same strategy?
+A setback only becomes useful when it changes your next decision. That’s the experience I’d like to see. The introduction opens the door; the quality of the learning moments after each duel will decide whether the dojo feels worth returning to. I’m watching how the project treats those moments while following @agentdojo and exploring through Rarelist. My interest stays on the second attempt and the thinking that makes it different
+@rarelistio
+Join and Earn:</title>
+      <link>https://x.com/canhdiem8899/status/2115043352286839198</link>
+      <description>Most AI agent experiences stop at the first result. With @agentdojo I’m more curious about what happens after a hard loss. The “train. evolve. compete.” line suggests agents carry personality, style, and memory into battle, then change because of what happens next. But will participants actually see why their agent lost a turn? Will they get meaningful choices that let them experiment, reflect, and try a genuinely different approach instead of repeating the same strategy?
+A setback only becomes useful when it changes your next decision. That’s the experience I’d like to see. The introduction opens the door; the quality of the learning moments after each duel will decide whether the dojo feels worth returning to. I’m watching how the project treats those moments while following @agentdojo and exploring through Rarelist. My interest stays on the second attempt and the thinking that makes it different
+@rarelistio
+Join and Earn:</description>
+      <guid isPermaLink="false">https://x.com/canhdiem8899/status/2115043352286839198</guid>
+      <pubDate>Tue, 27 Oct 2026 11:30:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>[aisurgeries]Utility of Generative Artificial Intelligence in Orthopaedic Surgery Patient Education Materials: A Scoping Review https://www.cureus.com/articles/526299-utility-of-generative-artificial-intelligence-in-orthopaedic-surgery-patient-education-materials-a-scoping-review @CureusMedical</title>
+      <link>https://x.com/aisurgeries/status/2115049515447406667</link>
+      <description>Utility of Generative Artificial Intelligence in Orthopaedic Surgery Patient Education Materials: A Scoping Review https://www.cureus.com/articles/526299-utility-of-generative-artificial-intelligence-in-orthopaedic-surgery-patient-education-materials-a-scoping-review @CureusMedical</description>
+      <guid isPermaLink="false">https://x.com/aisurgeries/status/2115049515447406667</guid>
+      <pubDate>Tue, 27 Oct 2026 11:54:34 +0000</pubDate>
     </item>
   </channel>
 </rss>
