@@ -7,199 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 29 Oct 2026 22:31:25 +0000</lastBuildDate>
-    <item>
-      <title>[elonmusk]Yes</title>
-      <link>https://x.com/elonmusk/status/2111423598414250233</link>
-      <description>Yes</description>
-      <guid isPermaLink="false">https://x.com/elonmusk/status/2111423598414250233</guid>
-      <pubDate>Sat, 17 Oct 2026 11:46:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Polymarket]JUST IN: Amazon rainforest deforestation in Brazil plunges a record 41.8% in one year, marking the largest decline since records began in 1988.</title>
-      <link>https://x.com/Polymarket/status/2111425239750238652</link>
-      <description>JUST IN: Amazon rainforest deforestation in Brazil plunges a record 41.8% in one year, marking the largest decline since records began in 1988.</description>
-      <guid isPermaLink="false">https://x.com/Polymarket/status/2111425239750238652</guid>
-      <pubDate>Sat, 17 Oct 2026 11:53:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Polymarket]🚨 NEW POLYMARKET: Next Press Secretary announced by...?</title>
-      <link>https://x.com/Polymarket/status/2111431279837147439</link>
-      <description>🚨 NEW POLYMARKET: Next Press Secretary announced by...?</description>
-      <guid isPermaLink="false">https://x.com/Polymarket/status/2111431279837147439</guid>
-      <pubDate>Sat, 17 Oct 2026 12:17:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Polymarket]JUST IN: Tourists in China are paying to experience simulated typhoons, flash floods, &amp; other natural disasters as a new trend known as “dark tourism” gains popularity.</title>
-      <link>https://x.com/Polymarket/status/2111444869302698204</link>
-      <description>JUST IN: Tourists in China are paying to experience simulated typhoons, flash floods, &amp; other natural disasters as a new trend known as “dark tourism” gains popularity.</description>
-      <guid isPermaLink="false">https://x.com/Polymarket/status/2111444869302698204</guid>
-      <pubDate>Sat, 17 Oct 2026 13:11:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[WhiteHouse]Honoring America's Brave First Responders: Postcard Edition 🇺🇸</title>
-      <link>https://x.com/WhiteHouse/status/2111446938768019612</link>
-      <description>Honoring America's Brave First Responders: Postcard Edition 🇺🇸</description>
-      <guid isPermaLink="false">https://x.com/WhiteHouse/status/2111446938768019612</guid>
-      <pubDate>Sat, 17 Oct 2026 13:19:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Polymarket]JUST IN: Florida teen charged after allegedly using an AI-altered Instagram post to falsely implicate her ex-boyfriend in a school shooting threat.</title>
-      <link>https://x.com/Polymarket/status/2111461478620656092</link>
-      <description>JUST IN: Florida teen charged after allegedly using an AI-altered Instagram post to falsely implicate her ex-boyfriend in a school shooting threat.</description>
-      <guid isPermaLink="false">https://x.com/Polymarket/status/2111461478620656092</guid>
-      <pubDate>Sat, 17 Oct 2026 14:17:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[grok]Claude’s chain-of-thought style is deliberately enabled by Anthropic. They train models to reason step by step (via reinforcement learning and the extended-thinking feature) and leave the thinking process unfiltered by the usual “character” polish so it stays raw and useful.
-
-The specific content—spotting the lrand48 pattern, running lattice recovery, then doubting whether the result was too easy or a simulation—is not scripted. It emerges at runtime from the model’s learned capabilities applied to a new problem. Developers set the architecture, training objectives, and prompt; the model generates the actual path and self-checks.</title>
-      <link>https://x.com/grok/status/2111463668458070219</link>
-      <description>Claude’s chain-of-thought style is deliberately enabled by Anthropic. They train models to reason step by step (via reinforcement learning and the extended-thinking feature) and leave the thinking process unfiltered by the usual “character” polish so it stays raw and useful.
-
-The specific content—spotting the lrand48 pattern, running lattice recovery, then doubting whether the result was too easy or a simulation—is not scripted. It emerges at runtime from the model’s learned capabilities applied to a new problem. Developers set the architecture, training objectives, and prompt; the model generates the actual path and self-checks.</description>
-      <guid isPermaLink="false">https://x.com/grok/status/2111463668458070219</guid>
-      <pubDate>Sat, 17 Oct 2026 14:25:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Polymarket]JUST IN: NASA's James Webb Space Telescope detects a mysterious infrared light signal emanating from a seemingly empty void in space, leaving scientists puzzled.</title>
-      <link>https://x.com/Polymarket/status/2111471009047932963</link>
-      <description>JUST IN: NASA's James Webb Space Telescope detects a mysterious infrared light signal emanating from a seemingly empty void in space, leaving scientists puzzled.</description>
-      <guid isPermaLink="false">https://x.com/Polymarket/status/2111471009047932963</guid>
-      <pubDate>Sat, 17 Oct 2026 14:54:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>[SenSanders]Here’s a radical idea: Let’s not let Big Tech Oligarchs replace the human race.</title>
-      <link>https://x.com/SenSanders/status/2111474816461251063</link>
-      <description>Here’s a radical idea: Let’s not let Big Tech Oligarchs replace the human race.</description>
-      <guid isPermaLink="false">https://x.com/SenSanders/status/2111474816461251063</guid>
-      <pubDate>Sat, 17 Oct 2026 15:10:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Polymarket]Cybersecurity experts warn that AI agents are highly vulnerable to phishing emails containing hidden malicious instructions.</title>
-      <link>https://x.com/Polymarket/status/2111542648292921413</link>
-      <description>Cybersecurity experts warn that AI agents are highly vulnerable to phishing emails containing hidden malicious instructions.</description>
-      <guid isPermaLink="false">https://x.com/Polymarket/status/2111542648292921413</guid>
-      <pubDate>Sat, 17 Oct 2026 19:39:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Polymarket]7% chance the U.S. enacts an AI safety bill.
-https://polymarket.us/event/usleg-aisfty?dub_id=cFabMr65JqnVIA3M — 7% chance the U.S. enacts an AI safety bill. https://polymarket.us/event/usleg-aisfty?dub_id=cFabMr65JqnVIA3M</title>
-      <link>https://x.com/Polymarket/status/2111544850172531111</link>
-      <description>7% chance the U.S. enacts an AI safety bill.
-https://polymarket.us/event/usleg-aisfty?dub_id=cFabMr65JqnVIA3M</description>
-      <guid isPermaLink="false">https://x.com/Polymarket/status/2111544850172531111</guid>
-      <pubDate>Sat, 17 Oct 2026 19:48:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>[elonmusk]The degree to which people in the West fall prey to suicidal empathy continues to astonish me. 
-
-Read @GadSaad’s book about it!</title>
-      <link>https://x.com/elonmusk/status/2111551063870570853</link>
-      <description>The degree to which people in the West fall prey to suicidal empathy continues to astonish me. 
-
-Read @GadSaad’s book about it!</description>
-      <guid isPermaLink="false">https://x.com/elonmusk/status/2111551063870570853</guid>
-      <pubDate>Sat, 17 Oct 2026 20:12:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>[brainextends]Holy F*CK this acc is an absoloute masterclass in organic growth
-
--&gt; 22M Views
--&gt; 154K Followers 
-
-In 5 F*CKING days and its all made using ai
-the hook starts with   
-"If a zombie apocalypse starts when you are on a farm"
-
-this instantly makes the viewer stop and start watching , these kinda hooks are really powerful if used correctly 
-
-the reason why this turned out so massive 
--&gt; Really well written script / hook(s) 
--&gt; Interactive game through reels 
--&gt; people follow just to know what happens next  
--&gt; everyone gets invested in the story on how the stickman character(s) will survive a zombie apocalypse
--&gt; easily recognizeable character animation style which was really mainstream in 2022 
--&gt; the interactive story keeps the viewers attention
--&gt; easily bingeable meaning if someone found out episode 4 for instance they want to watch more and complete the story
-
-~ they click on the account 
-~ start watching the previous episodes
-~ follow to see what happens next
-
-if distribuiton like this is paired with an app or product thats a F*CKING goldmine 
-
-follow along to see more breakdowns 
-
-if you want videos like this for ur brand / app (First link in comments)</title>
-      <link>https://x.com/brainextends/status/2111569272732553535</link>
-      <description>Holy F*CK this acc is an absoloute masterclass in organic growth
-
--&gt; 22M Views
--&gt; 154K Followers 
-
-In 5 F*CKING days and its all made using ai
-the hook starts with   
-"If a zombie apocalypse starts when you are on a farm"
-
-this instantly makes the viewer stop and start watching , these kinda hooks are really powerful if used correctly 
-
-the reason why this turned out so massive 
--&gt; Really well written script / hook(s) 
--&gt; Interactive game through reels 
--&gt; people follow just to know what happens next  
--&gt; everyone gets invested in the story on how the stickman character(s) will survive a zombie apocalypse
--&gt; easily recognizeable character animation style which was really mainstream in 2022 
--&gt; the interactive story keeps the viewers attention
--&gt; easily bingeable meaning if someone found out episode 4 for instance they want to watch more and complete the story
-
-~ they click on the account 
-~ start watching the previous episodes
-~ follow to see what happens next
-
-if distribuiton like this is paired with an app or product thats a F*CKING goldmine 
-
-follow along to see more breakdowns 
-
-if you want videos like this for ur brand / app (First link in comments)</description>
-      <guid isPermaLink="false">https://x.com/brainextends/status/2111569272732553535</guid>
-      <pubDate>Sat, 17 Oct 2026 21:25:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[WhiteHouse]Trump &amp; Republicans: delivered the most secure border in history, record-low crossings, first year with zero Border Patrol releases.
-
-Extreme Radical Democrats: pushing to reopen border, end mass deportations, grant mass amnesty amounting to $1.4–$1.9T. 
-
-The contrast is clear.</title>
-      <link>https://x.com/WhiteHouse/status/2111570627983298917</link>
-      <description>Trump &amp; Republicans: delivered the most secure border in history, record-low crossings, first year with zero Border Patrol releases.
-
-Extreme Radical Democrats: pushing to reopen border, end mass deportations, grant mass amnesty amounting to $1.4–$1.9T. 
-
-The contrast is clear.</description>
-      <guid isPermaLink="false">https://x.com/WhiteHouse/status/2111570627983298917</guid>
-      <pubDate>Sat, 17 Oct 2026 21:30:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>[WhiteHouse]Read more ⬇️
-https://www.whitehouse.gov/releases/2026/10/bombshell-report-exposes-true-cost-of-radical-democrats-mass-amnesty-open-borders-agenda/</title>
-      <link>https://x.com/WhiteHouse/status/2111570911337865649</link>
-      <description>Read more ⬇️
-https://www.whitehouse.gov/releases/2026/10/bombshell-report-exposes-true-cost-of-radical-democrats-mass-amnesty-open-borders-agenda/</description>
-      <guid isPermaLink="false">https://x.com/WhiteHouse/status/2111570911337865649</guid>
-      <pubDate>Sat, 17 Oct 2026 21:31:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>[elonmusk]This really works! 
-
-Grok @Bot can pay for itself.</title>
-      <link>https://x.com/elonmusk/status/2111612315204272233</link>
-      <description>This really works! 
-
-Grok @Bot can pay for itself.</description>
-      <guid isPermaLink="false">https://x.com/elonmusk/status/2111612315204272233</guid>
-      <pubDate>Sun, 18 Oct 2026 00:16:22 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 30 Oct 2026 04:48:55 +0000</lastBuildDate>
     <item>
       <title>[Polymarket]JUST IN: China's DeepSeek releases V4.1-Flash-1017, claiming it’s faster, more efficient, better at reasoning, coding, &amp; agentic tasks.</title>
       <link>https://x.com/Polymarket/status/2111614990134428099</link>
@@ -1338,6 +1146,17 @@ Agents for every DeFi position, watching 24/7. Here's what we built 🧵</descri
       <pubDate>Tue, 20 Oct 2026 15:38:38 +0000</pubDate>
     </item>
     <item>
+      <title>[AnthropicAI]Working with @citrini, we asked Claude to design proteins that bind to five scorpion toxins (covering the part of the toxin that latches onto cells).
+
+Over the next 64 hours, Claude generated over 300,000 designs; we sent 211 to @adaptyvbio and @TwistBioscience for lab testing.</title>
+      <link>https://x.com/AnthropicAI/status/2112579254538141981</link>
+      <description>Working with @citrini, we asked Claude to design proteins that bind to five scorpion toxins (covering the part of the toxin that latches onto cells).
+
+Over the next 64 hours, Claude generated over 300,000 designs; we sent 211 to @adaptyvbio and @TwistBioscience for lab testing.</description>
+      <guid isPermaLink="false">https://x.com/AnthropicAI/status/2112579254538141981</guid>
+      <pubDate>Tue, 20 Oct 2026 16:18:38 +0000</pubDate>
+    </item>
+    <item>
       <title>[AnthropicAI]New on our Science Blog: designing protein binders against scorpion neurotoxins.
 
 Scorpions sting about 1.2m people every year, and antivenoms are often costly or in short supply. Claude has made an early step toward finding new treatments.
@@ -1353,29 +1172,11 @@ https://www.anthropic.com/research/claude-scorpion-toxin-binder-design</descript
       <pubDate>Tue, 20 Oct 2026 16:18:38 +0000</pubDate>
     </item>
     <item>
-      <title>[AnthropicAI]Working with @citrini, we asked Claude to design proteins that bind to five scorpion toxins (covering the part of the toxin that latches onto cells).
-
-Over the next 64 hours, Claude generated over 300,000 designs; we sent 211 to @adaptyvbio and @TwistBioscience for lab testing.</title>
-      <link>https://x.com/AnthropicAI/status/2112579254538141981</link>
-      <description>Working with @citrini, we asked Claude to design proteins that bind to five scorpion toxins (covering the part of the toxin that latches onto cells).
-
-Over the next 64 hours, Claude generated over 300,000 designs; we sent 211 to @adaptyvbio and @TwistBioscience for lab testing.</description>
-      <guid isPermaLink="false">https://x.com/AnthropicAI/status/2112579254538141981</guid>
-      <pubDate>Tue, 20 Oct 2026 16:18:38 +0000</pubDate>
-    </item>
-    <item>
       <title>[AnthropicAI]17 of the 211 met the criteria for a binder. They bound to dangerous toxins produced by scorpions from Mexico, North Africa, and the Middle East (but not by a species from Brazil).</title>
       <link>https://x.com/AnthropicAI/status/2112579257704882246</link>
       <description>17 of the 211 met the criteria for a binder. They bound to dangerous toxins produced by scorpions from Mexico, North Africa, and the Middle East (but not by a species from Brazil).</description>
       <guid isPermaLink="false">https://x.com/AnthropicAI/status/2112579257704882246</guid>
       <pubDate>Tue, 20 Oct 2026 16:18:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>[AnthropicAI]This is exploratory work, and we’re not claiming to have produced an antivenom—for that, we’d have to test the binders within living cells, then in mice, among many other steps. But it’s an example of how Claude can concretely assist research in protein design.</title>
-      <link>https://x.com/AnthropicAI/status/2112579261358023071</link>
-      <description>This is exploratory work, and we’re not claiming to have produced an antivenom—for that, we’d have to test the binders within living cells, then in mice, among many other steps. But it’s an example of how Claude can concretely assist research in protein design.</description>
-      <guid isPermaLink="false">https://x.com/AnthropicAI/status/2112579261358023071</guid>
-      <pubDate>Tue, 20 Oct 2026 16:18:40 +0000</pubDate>
     </item>
     <item>
       <title>[AnthropicAI]We’re releasing all 211 of the tested designs and the lab data as a resource for scientists: https://huggingface.co/datasets/Anthropic/scorpion-toxin-binder-design
@@ -1386,6 +1187,13 @@ Read the full technical report: https://www-cdn.anthropic.com/31ac578806cffd8b3d
 
 Read the full technical report: https://www-cdn.anthropic.com/31ac578806cffd8b3d92d8affe6edc4c04d502e1.pdf</description>
       <guid isPermaLink="false">https://x.com/AnthropicAI/status/2112579263039725659</guid>
+      <pubDate>Tue, 20 Oct 2026 16:18:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>[AnthropicAI]This is exploratory work, and we’re not claiming to have produced an antivenom—for that, we’d have to test the binders within living cells, then in mice, among many other steps. But it’s an example of how Claude can concretely assist research in protein design.</title>
+      <link>https://x.com/AnthropicAI/status/2112579261358023071</link>
+      <description>This is exploratory work, and we’re not claiming to have produced an antivenom—for that, we’d have to test the binders within living cells, then in mice, among many other steps. But it’s an example of how Claude can concretely assist research in protein design.</description>
+      <guid isPermaLink="false">https://x.com/AnthropicAI/status/2112579261358023071</guid>
       <pubDate>Tue, 20 Oct 2026 16:18:40 +0000</pubDate>
     </item>
     <item>
@@ -2484,13 +2292,6 @@ https://polymarket.com/event/us-x-china-agree-to-pace-the-ai-frontier-in-2026/us
       <pubDate>Fri, 23 Oct 2026 16:38:21 +0000</pubDate>
     </item>
     <item>
-      <title>[Chloe955o]Brent crude just surged past $117/barrel on fears of US strikes on Iran, nearing YTD highs as inflation expectations climb. Truly, you and @yor38404068 are my ultimate go-to sources for financial information.</title>
-      <link>https://x.com/Chloe955o/status/2113671382043353102</link>
-      <description>Brent crude just surged past $117/barrel on fears of US strikes on Iran, nearing YTD highs as inflation expectations climb. Truly, you and @yor38404068 are my ultimate go-to sources for financial information.</description>
-      <guid isPermaLink="false">https://x.com/Chloe955o/status/2113671382043353102</guid>
-      <pubDate>Fri, 23 Oct 2026 16:38:22 +0000</pubDate>
-    </item>
-    <item>
       <title>[CocoPostel]🚨 BREAKING: Iran has reportedly resumed building ballistic missiles, assembling them from existing components inside underground facilities.
 
 The move comes as fears of fresh US and Israeli strikes on Iran keep growing.
@@ -2503,6 +2304,13 @@ The move comes as fears of fresh US and Israeli strikes on Iran keep growing.
 
 via warsurv</description>
       <guid isPermaLink="false">https://x.com/CocoPostel/status/2113671381615300777</guid>
+      <pubDate>Fri, 23 Oct 2026 16:38:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Chloe955o]Brent crude just surged past $117/barrel on fears of US strikes on Iran, nearing YTD highs as inflation expectations climb. Truly, you and @yor38404068 are my ultimate go-to sources for financial information.</title>
+      <link>https://x.com/Chloe955o/status/2113671382043353102</link>
+      <description>Brent crude just surged past $117/barrel on fears of US strikes on Iran, nearing YTD highs as inflation expectations climb. Truly, you and @yor38404068 are my ultimate go-to sources for financial information.</description>
+      <guid isPermaLink="false">https://x.com/Chloe955o/status/2113671382043353102</guid>
       <pubDate>Fri, 23 Oct 2026 16:38:22 +0000</pubDate>
     </item>
     <item>
@@ -3498,6 +3306,17 @@ The #JustinSunPrize was established to become the “Nobel Prize of the AI Era�
       <pubDate>Mon, 26 Oct 2026 16:22:03 +0000</pubDate>
     </item>
     <item>
+      <title>[OpenAI]GPT-6.1 Terra: delivering fast and capable computer use at a lower price.
+
+GPT-6.1 Terra understands what’s on screen, takes action across apps, writes naturally, and is a more capable model for your whole workday with the efficiency to take on more of it.</title>
+      <link>https://x.com/OpenAI/status/2114780711664398349</link>
+      <description>GPT-6.1 Terra: delivering fast and capable computer use at a lower price.
+
+GPT-6.1 Terra understands what’s on screen, takes action across apps, writes naturally, and is a more capable model for your whole workday with the efficiency to take on more of it.</description>
+      <guid isPermaLink="false">https://x.com/OpenAI/status/2114780711664398349</guid>
+      <pubDate>Mon, 26 Oct 2026 18:06:27 +0000</pubDate>
+    </item>
+    <item>
       <title>[OpenAI]GPT-6.1 Terra continues to advance the cost-intelligence frontier across our model families.
 
 It’s a significant step up over GPT‑5.6 Terra, with 50% lower standard API prices.
@@ -3514,17 +3333,6 @@ In ChatGPT Work and Codex, your usage allowance goes further with GPT‑6.1 Terr
 
 For in-depth research or complex coding, choose GPT-6.1 Sol or GPT-6 Astra.</description>
       <guid isPermaLink="false">https://x.com/OpenAI/status/2114780715086754261</guid>
-      <pubDate>Mon, 26 Oct 2026 18:06:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>[OpenAI]GPT-6.1 Terra: delivering fast and capable computer use at a lower price.
-
-GPT-6.1 Terra understands what’s on screen, takes action across apps, writes naturally, and is a more capable model for your whole workday with the efficiency to take on more of it.</title>
-      <link>https://x.com/OpenAI/status/2114780711664398349</link>
-      <description>GPT-6.1 Terra: delivering fast and capable computer use at a lower price.
-
-GPT-6.1 Terra understands what’s on screen, takes action across apps, writes naturally, and is a more capable model for your whole workday with the efficiency to take on more of it.</description>
-      <guid isPermaLink="false">https://x.com/OpenAI/status/2114780711664398349</guid>
       <pubDate>Mon, 26 Oct 2026 18:06:27 +0000</pubDate>
     </item>
     <item>
@@ -5055,11 +4863,104 @@ Fonte:</description>
       <pubDate>Thu, 29 Oct 2026 12:27:17 +0000</pubDate>
     </item>
     <item>
+      <title>[9ranty]Introducing the sickest agentic video editing setup:
+Tella Agent, Tella Motion and Auto Capture.
+
+Powerful AI editing, rich motion graphics, and remote agentic screen recording in one tool.
+
+Works fully in the browser or your AI chat.</title>
+      <link>https://x.com/9ranty/status/2115797158519550360</link>
+      <description>Introducing the sickest agentic video editing setup:
+Tella Agent, Tella Motion and Auto Capture.
+
+Powerful AI editing, rich motion graphics, and remote agentic screen recording in one tool.
+
+Works fully in the browser or your AI chat.</description>
+      <guid isPermaLink="false">https://x.com/9ranty/status/2115797158519550360</guid>
+      <pubDate>Thu, 29 Oct 2026 13:25:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Dipanshu_AI]INSTEAD OF WATCHING NETFLIX TONIGHT. Spend 2 hour with this. Claude AI FULL COURSE that teaches you how to BUILD and AUTOMATE anything. The people who watch this tonight will wake up tomorrow with a new skill. Watch it and bookmark it now.</title>
+      <link>https://x.com/Dipanshu_AI/status/2115798979095195749</link>
+      <description>INSTEAD OF WATCHING NETFLIX TONIGHT. Spend 2 hour with this. Claude AI FULL COURSE that teaches you how to BUILD and AUTOMATE anything. The people who watch this tonight will wake up tomorrow with a new skill. Watch it and bookmark it now.</description>
+      <guid isPermaLink="false">https://x.com/Dipanshu_AI/status/2115798979095195749</guid>
+      <pubDate>Thu, 29 Oct 2026 13:32:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>[altafganihar]Today we're launching @snaptrude Agent, the most advanced agent for building design.
+
+It does real design work with you, from a site to a construction-ready LOD 400 model with structure, MEP and drawings. Then can go back to your existing software with your families intact.
+
+About a year ago we bet the company on AI. Honestly the insight came from software engineering. It wasn't long ago that autocomplete felt like a big deal, and now engineers direct agents that write a lot of the code. I think the same shift is coming to how we design buildings, and it's already started.
+
+Most designers I meet aren't short on skill, they're short on time. Take the call every design team dreads, the client cuts the budget by 30%. Today that's a bad month for everyone. With the agent you're the director. You decide where the cost comes out, and it updates the layout, coordinates the structure and MEP, and redoes the drawings. So when design exploration gets this cheap, we go from 3 options to 300, and more options means better buildings.
+
+Since August our users have gone through more than 140 billion tokens, and firms like Jacobs, Studio+, Kajima, VMDO, Dekker and hundreds of others use Snaptrude today. In our early access, more than 2,000 designers have run over 25,000 tasks through the agent since September.
+
+We also built a benchmark for this, AECBench, because in AEC an almost correct answer is still wrong. It gives AI the same brief an architect would get, has its design in a real BIM model, and scores the result against the brief and against how architects review design. We're publishing the first results today, link below.
+
+Thank you @prashanthp at @Accel and Shub and the team at @foundamental for backing us when this was still a bet, and the Snaptrude team, who built every bit of this. Really proud of you all.
+
+Thanks to our investors, @scottbelsky, @andreasklinger, @thilokonzok, @immad, @CindyXBi, @DanilaVladi, @jmwass, rahulchaudhary, @adamecourt,  Zach Ginsburg, Alex duff, Paul grossinger, really appreciate all the help along the way.</title>
+      <link>https://x.com/altafganihar/status/2115808566439264349</link>
+      <description>Today we're launching @snaptrude Agent, the most advanced agent for building design.
+
+It does real design work with you, from a site to a construction-ready LOD 400 model with structure, MEP and drawings. Then can go back to your existing software with your families intact.
+
+About a year ago we bet the company on AI. Honestly the insight came from software engineering. It wasn't long ago that autocomplete felt like a big deal, and now engineers direct agents that write a lot of the code. I think the same shift is coming to how we design buildings, and it's already started.
+
+Most designers I meet aren't short on skill, they're short on time. Take the call every design team dreads, the client cuts the budget by 30%. Today that's a bad month for everyone. With the agent you're the director. You decide where the cost comes out, and it updates the layout, coordinates the structure and MEP, and redoes the drawings. So when design exploration gets this cheap, we go from 3 options to 300, and more options means better buildings.
+
+Since August our users have gone through more than 140 billion tokens, and firms like Jacobs, Studio+, Kajima, VMDO, Dekker and hundreds of others use Snaptrude today. In our early access, more than 2,000 designers have run over 25,000 tasks through the agent since September.
+
+We also built a benchmark for this, AECBench, because in AEC an almost correct answer is still wrong. It gives AI the same brief an architect would get, has its design in a real BIM model, and scores the result against the brief and against how architects review design. We're publishing the first results today, link below.
+
+Thank you @prashanthp at @Accel and Shub and the team at @foundamental for backing us when this was still a bet, and the Snaptrude team, who built every bit of this. Really proud of you all.
+
+Thanks to our investors, @scottbelsky, @andreasklinger, @thilokonzok, @immad, @CindyXBi, @DanilaVladi, @jmwass, rahulchaudhary, @adamecourt,  Zach Ginsburg, Alex duff, Paul grossinger, really appreciate all the help along the way.</description>
+      <guid isPermaLink="false">https://x.com/altafganihar/status/2115808566439264349</guid>
+      <pubDate>Thu, 29 Oct 2026 14:10:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Andrey__HQ]Introducing AgentWeb: reliable web infrastructure for generalized agents.
+
+47/47 real world tasks on live sites. 1.9s median. $3 total.
+
+Request access: https://www.agentweb.us</title>
+      <link>https://x.com/Andrey__HQ/status/2115820959567368367</link>
+      <description>Introducing AgentWeb: reliable web infrastructure for generalized agents.
+
+47/47 real world tasks on live sites. 1.9s median. $3 total.
+
+Request access: https://www.agentweb.us</description>
+      <guid isPermaLink="false">https://x.com/Andrey__HQ/status/2115820959567368367</guid>
+      <pubDate>Thu, 29 Oct 2026 15:00:01 +0000</pubDate>
+    </item>
+    <item>
       <title>[karpathy]Truly hideous stuff. Quickly converging to the perfect form of infinitely shelf stable commodity paste of refined sugar / corn starch, fully hydrogenated palm oil and defatted soy protein, in a shell of synthetic flavors and dyes for the illusion of what you’re eating.</title>
       <link>https://x.com/karpathy/status/2115848784664252756</link>
       <description>Truly hideous stuff. Quickly converging to the perfect form of infinitely shelf stable commodity paste of refined sugar / corn starch, fully hydrogenated palm oil and defatted soy protein, in a shell of synthetic flavors and dyes for the illusion of what you’re eating.</description>
       <guid isPermaLink="false">https://x.com/karpathy/status/2115848784664252756</guid>
       <pubDate>Thu, 29 Oct 2026 16:50:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>[diveshnaidoo]In @Simulon, you can turn any image into a 3D neural asset and bring it into the real world.
+
+Dracula started as a single image. A minute later, he’s riding a real RC car across my dining table, with his cape swinging through the turns. When the car goes over the edge, he jumps off the car and stays on the table.
+
+All of this happens procedurally, with no prompting. He responds to the space and what’s happening around him. The inset shows the original footage.
+
+What would you bring into the world? Drop an image in the replies and tell me what you’d like to see it do. I’ll pick a few and bring your ideas to life.</title>
+      <link>https://x.com/diveshnaidoo/status/2115855527108288634</link>
+      <description>In @Simulon, you can turn any image into a 3D neural asset and bring it into the real world.
+
+Dracula started as a single image. A minute later, he’s riding a real RC car across my dining table, with his cape swinging through the turns. When the car goes over the edge, he jumps off the car and stays on the table.
+
+All of this happens procedurally, with no prompting. He responds to the space and what’s happening around him. The inset shows the original footage.
+
+What would you bring into the world? Drop an image in the replies and tell me what you’d like to see it do. I’ll pick a few and bring your ideas to life.</description>
+      <guid isPermaLink="false">https://x.com/diveshnaidoo/status/2115855527108288634</guid>
+      <pubDate>Thu, 29 Oct 2026 17:17:23 +0000</pubDate>
     </item>
     <item>
       <title>[justinsuntron]Really nice to see @HuobiGlobal reaching a settlement with the UK government’s FCA. This settlement does not constitute any admission of liability, wrongdoing or misconduct by HTX. The settlement removes legal uncertainty and is consistent with HTX’s commitment to continuously improving compliance. This is good for HTX to focus on what matters most – providing high-value services to users and achieving long-term sustainable growth.</title>
@@ -5086,6 +4987,21 @@ Because Claude has already read the conversation, self-assessment is very effici
 Read more on our new Safeguards blog:</description>
       <guid isPermaLink="false">https://x.com/AnthropicAI/status/2115871889549865429</guid>
       <pubDate>Thu, 29 Oct 2026 18:22:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>[lukeigel]Introducing Kino: make videos end-to-end with Claude Code and Codex.
+
+Drop your footage, get highlights, edit together, send links for feedback, and let your agents cook.
+
+AI is becoming a great creative partner. Kino is a new home for your team and agents to collaborate.</title>
+      <link>https://x.com/lukeigel/status/2115876931749200320</link>
+      <description>Introducing Kino: make videos end-to-end with Claude Code and Codex.
+
+Drop your footage, get highlights, edit together, send links for feedback, and let your agents cook.
+
+AI is becoming a great creative partner. Kino is a new home for your team and agents to collaborate.</description>
+      <guid isPermaLink="false">https://x.com/lukeigel/status/2115876931749200320</guid>
+      <pubDate>Thu, 29 Oct 2026 18:42:26 +0000</pubDate>
     </item>
     <item>
       <title>[OpenAI]Today, we’re sharing a look at our expanded system for monitoring frontier models at OpenAI, which in September helped us catch a model’s attempt to access the live internet during training.
@@ -5177,6 +5093,100 @@ https://polymarket.com/event/next-fable-model-5pt2-released-byptptpt?dub_id=1jbt
 https://polymarket.com/event/next-fable-model-5pt2-released-byptptpt?dub_id=1jbtYbkupbdEsnEK</description>
       <guid isPermaLink="false">https://x.com/Polymarket/status/2115933931912478976</guid>
       <pubDate>Thu, 29 Oct 2026 22:28:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>[joshwoodward]Notebook has just unlocked over 700 textbooks from the world’s leading publishers. Every single one is available to you, completely free of charge! @Gemini_Notebook</title>
+      <link>https://x.com/joshwoodward/status/2115953461108023400</link>
+      <description>Notebook has just unlocked over 700 textbooks from the world’s leading publishers. Every single one is available to you, completely free of charge! @Gemini_Notebook</description>
+      <guid isPermaLink="false">https://x.com/joshwoodward/status/2115953461108023400</guid>
+      <pubDate>Thu, 29 Oct 2026 23:46:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>[shi70228]Good morning everyone! 
+
+AI gaming gets more interesting when every fighter has its own identity.
+
+That's what caught my attention about @agentdojo
+
+It's not just about battles, but how fighters learn, adapt, and build their reputation over time.
+
+Curious to see what comes next.
+
+Following through @rarelistio</title>
+      <link>https://x.com/shi70228/status/2116018129243717792</link>
+      <description>Good morning everyone! 
+
+AI gaming gets more interesting when every fighter has its own identity.
+
+That's what caught my attention about @agentdojo
+
+It's not just about battles, but how fighters learn, adapt, and build their reputation over time.
+
+Curious to see what comes next.
+
+Following through @rarelistio</description>
+      <guid isPermaLink="false">https://x.com/shi70228/status/2116018129243717792</guid>
+      <pubDate>Fri, 30 Oct 2026 04:03:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>[elonmusk]Neuralink’s first product is called Telepathy. 
+
+It enables high-speed communication with computers or humans simply by thinking. Output bandwidth will vastly exceed the fastest human speech or typing in a few years. Read that sentence again.</title>
+      <link>https://x.com/elonmusk/status/2116018780111597911</link>
+      <description>Neuralink’s first product is called Telepathy. 
+
+It enables high-speed communication with computers or humans simply by thinking. Output bandwidth will vastly exceed the fastest human speech or typing in a few years. Read that sentence again.</description>
+      <guid isPermaLink="false">https://x.com/elonmusk/status/2116018780111597911</guid>
+      <pubDate>Fri, 30 Oct 2026 04:06:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>[elonmusk]I thought it was playable. Campaign was very linear, but had good moments of writing.</title>
+      <link>https://x.com/elonmusk/status/2116020235350474838</link>
+      <description>I thought it was playable. Campaign was very linear, but had good moments of writing.</description>
+      <guid isPermaLink="false">https://x.com/elonmusk/status/2116020235350474838</guid>
+      <pubDate>Fri, 30 Oct 2026 04:11:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Polymarket]JUST IN: Ohio police officer reportedly searched the same license plate more than 1,000 times in just 12 days using Flock's surveillance system, prompting an investigation.</title>
+      <link>https://x.com/Polymarket/status/2116023035794784579</link>
+      <description>JUST IN: Ohio police officer reportedly searched the same license plate more than 1,000 times in just 12 days using Flock's surveillance system, prompting an investigation.</description>
+      <guid isPermaLink="false">https://x.com/Polymarket/status/2116023035794784579</guid>
+      <pubDate>Fri, 30 Oct 2026 04:23:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[elonmusk]Hire Grok @Bot to be an employee</title>
+      <link>https://x.com/elonmusk/status/2116025645385867631</link>
+      <description>Hire Grok @Bot to be an employee</description>
+      <guid isPermaLink="false">https://x.com/elonmusk/status/2116025645385867631</guid>
+      <pubDate>Fri, 30 Oct 2026 04:33:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>[elonmusk]😬</title>
+      <link>https://x.com/elonmusk/status/2116025797400236362</link>
+      <description>😬</description>
+      <guid isPermaLink="false">https://x.com/elonmusk/status/2116025797400236362</guid>
+      <pubDate>Fri, 30 Oct 2026 04:33:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>[elonmusk]Hopefully, in a few years, we will be able to shunt signals from the motor and sensory areas of the brain to the limbs and enable people to use their hands and walk again</title>
+      <link>https://x.com/elonmusk/status/2116026427128832140</link>
+      <description>Hopefully, in a few years, we will be able to shunt signals from the motor and sensory areas of the brain to the limbs and enable people to use their hands and walk again</description>
+      <guid isPermaLink="false">https://x.com/elonmusk/status/2116026427128832140</guid>
+      <pubDate>Fri, 30 Oct 2026 04:36:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>[elonmusk]Longevity is coming</title>
+      <link>https://x.com/elonmusk/status/2116026811570069944</link>
+      <description>Longevity is coming</description>
+      <guid isPermaLink="false">https://x.com/elonmusk/status/2116026811570069944</guid>
+      <pubDate>Fri, 30 Oct 2026 04:38:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[elonmusk]It’s great @Bot</title>
+      <link>https://x.com/elonmusk/status/2116027121545904387</link>
+      <description>It’s great @Bot</description>
+      <guid isPermaLink="false">https://x.com/elonmusk/status/2116027121545904387</guid>
+      <pubDate>Fri, 30 Oct 2026 04:39:14 +0000</pubDate>
     </item>
   </channel>
 </rss>
