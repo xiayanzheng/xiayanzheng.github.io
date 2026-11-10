@@ -7,132 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 10 Nov 2026 01:16:41 +0000</lastBuildDate>
-    <item>
-      <title>[Emr_jesy]I’m looking at some seriously good AI deals right now: Dreamina’s first month is $0.29, and CapCut Pro is 60% off. I’d bring the assets into CapCut PC and turn them into a finished video. Dreamina and CapCut Pro usually cost $15/month each. They’re separate subscriptions, so I’d use each tool’s own link to get its offer. CapCut Ultra is also 40% off. The CapCut deal runs Oct 20–30, Desktop only. Both offers end October 30—worth a look before they’re gone. CapCut: https://t.co/Txjbuy0ht6 Dreamina: https://t.co/IAsnMUbeUZ #CapCutDidThat #Dreamina #Smallbusinessmarketing #CapCutSale</title>
-      <link>https://x.com/Emr_jesy/status/2114000475125432752</link>
-      <description>I’m looking at some seriously good AI deals right now: Dreamina’s first month is $0.29, and CapCut Pro is 60% off. I’d bring the assets into CapCut PC and turn them into a finished video. Dreamina and CapCut Pro usually cost $15/month each. They’re separate subscriptions, so I’d use each tool’s own link to get its offer. CapCut Ultra is also 40% off. The CapCut deal runs Oct 20–30, Desktop only. Both offers end October 30—worth a look before they’re gone. CapCut: https://t.co/Txjbuy0ht6 Dreamina: https://t.co/IAsnMUbeUZ #CapCutDidThat #Dreamina #Smallbusinessmarketing #CapCutSale</description>
-      <guid isPermaLink="false">https://x.com/Emr_jesy/status/2114000475125432752</guid>
-      <pubDate>Sat, 24 Oct 2026 14:26:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>[elonmusk]Another 27 Starlink satellites</title>
-      <link>https://x.com/elonmusk/status/2114003587156086798</link>
-      <description>Another 27 Starlink satellites</description>
-      <guid isPermaLink="false">https://x.com/elonmusk/status/2114003587156086798</guid>
-      <pubDate>Sat, 24 Oct 2026 14:38:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>[elonmusk]Swisher is peak Karen hypocrisy</title>
-      <link>https://x.com/elonmusk/status/2114003855033663719</link>
-      <description>Swisher is peak Karen hypocrisy</description>
-      <guid isPermaLink="false">https://x.com/elonmusk/status/2114003855033663719</guid>
-      <pubDate>Sat, 24 Oct 2026 14:39:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Polymarket]BREAKING: Bitcoin plunges below $80,000.</title>
-      <link>https://x.com/Polymarket/status/2114005881528664295</link>
-      <description>BREAKING: Bitcoin plunges below $80,000.</description>
-      <guid isPermaLink="false">https://x.com/Polymarket/status/2114005881528664295</guid>
-      <pubDate>Sat, 24 Oct 2026 14:47:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>[WhiteHouse]This is who Democrats want to keep on our streets. The Trump admin continues to arrest the worst of the worst and make American communities safer. Arrested last week in Georgia ⬇️</title>
-      <link>https://x.com/WhiteHouse/status/2114008642928205949</link>
-      <description>This is who Democrats want to keep on our streets. The Trump admin continues to arrest the worst of the worst and make American communities safer. Arrested last week in Georgia ⬇️</description>
-      <guid isPermaLink="false">https://x.com/WhiteHouse/status/2114008642928205949</guid>
-      <pubDate>Sat, 24 Oct 2026 14:58:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>[monokern]wait, what the f*ck.. I put GROK BOT on my TV and asked it to reverse engineer the TV itself using voice input I told it TO FIND OUT WITH REVERSE ENGINEER WHY MY TV LAGS, and then watched the screen start investigating itself Grok wrote a proper brief to dig into the Android TV launcher and find out what's really slowing it down → a second bot popped up in the sidebar a moment later → it took the task straight from Grok without asking me a single question → and kicked off a reverse engineering pass on the launcher, with confirmed findings landing right in the chat I made a separate Reverse Engineer bot so I don't have to explain the whole process from scratch every time I want to understand how some app works inside getting Grok Bot onto the TV was its own vibecoding project. there's no TV version, so I ported the desktop app myself when it first opened on the big screen I was honestly shocked this is even possible now, and all of it came out of plain vibecoding the findings came back in about 15 minutes, and they explained a lot → every time I move the focus, the launcher reloads the preview images for the whole row instead of the one tile I'm on → a recommendations service wakes up in the background every few minutes and pulls a fresh batch of sponsored rows → with only 2 GB of RAM, the system keeps killing the launcher to free memory, so pressing Home means a cold start almost every time its advice was to drop the stock launcher completely and write our own from scratch, with no sponsored rows and nothing loading until I actually open it so that's the next task, a launcher it builds for me that doesn't lag. I'm tired of my TV lagging, if I'm being honest full Grok Bot setup and Reverse Engineer bot below ↓</title>
-      <link>https://x.com/monokern/status/2114009117278789714</link>
-      <description>wait, what the f*ck.. I put GROK BOT on my TV and asked it to reverse engineer the TV itself using voice input I told it TO FIND OUT WITH REVERSE ENGINEER WHY MY TV LAGS, and then watched the screen start investigating itself Grok wrote a proper brief to dig into the Android TV launcher and find out what's really slowing it down → a second bot popped up in the sidebar a moment later → it took the task straight from Grok without asking me a single question → and kicked off a reverse engineering pass on the launcher, with confirmed findings landing right in the chat I made a separate Reverse Engineer bot so I don't have to explain the whole process from scratch every time I want to understand how some app works inside getting Grok Bot onto the TV was its own vibecoding project. there's no TV version, so I ported the desktop app myself when it first opened on the big screen I was honestly shocked this is even possible now, and all of it came out of plain vibecoding the findings came back in about 15 minutes, and they explained a lot → every time I move the focus, the launcher reloads the preview images for the whole row instead of the one tile I'm on → a recommendations service wakes up in the background every few minutes and pulls a fresh batch of sponsored rows → with only 2 GB of RAM, the system keeps killing the launcher to free memory, so pressing Home means a cold start almost every time its advice was to drop the stock launcher completely and write our own from scratch, with no sponsored rows and nothing loading until I actually open it so that's the next task, a launcher it builds for me that doesn't lag. I'm tired of my TV lagging, if I'm being honest full Grok Bot setup and Reverse Engineer bot below ↓</description>
-      <guid isPermaLink="false">https://x.com/monokern/status/2114009117278789714</guid>
-      <pubDate>Sat, 24 Oct 2026 15:00:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Kaur_1M]Ear-cleaning videos seem to be trending everywhere these days! 😂👂</title>
-      <link>https://x.com/Kaur_1M/status/2114017066223354079</link>
-      <description>Ear-cleaning videos seem to be trending everywhere these days! 😂👂</description>
-      <guid isPermaLink="false">https://x.com/Kaur_1M/status/2114017066223354079</guid>
-      <pubDate>Sat, 24 Oct 2026 15:31:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Waigecoin]justinsuntron is trending on google, 2000+ searches. googlepad fills in the name and ticker, you launch it: https://googlepad.fun</title>
-      <link>https://x.com/Waigecoin/status/2114017112201257421</link>
-      <description>justinsuntron is trending on google, 2000+ searches. googlepad fills in the name and ticker, you launch it: https://googlepad.fun</description>
-      <guid isPermaLink="false">https://x.com/Waigecoin/status/2114017112201257421</guid>
-      <pubDate>Sat, 24 Oct 2026 15:32:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>[popmemecoin]🚨 Trending DEX Twitter Alpha Alert!
-
-$swordcat (@2114003447443866063) is surging on Solana with strong social momentum!
-
-CA: JDTh2sJHiCALKw2Wccu9f1uzKTFdFKAe1scVrFnLpump
-📈 24h Change: +167.0% | Market Cap: $112.2K
-
-Track live smart money KOL signals &amp; meme trends in real-time:
-👉 https://t.co/0cO7OL6IXb
-
-#Solana #Crypto #DexScreener #MemeCoin #TwitterAlpha #InsidePredict</title>
-      <link>https://x.com/popmemecoin/status/2114017134330122379</link>
-      <description>🚨 Trending DEX Twitter Alpha Alert!
-
-$swordcat (@2114003447443866063) is surging on Solana with strong social momentum!
-
-CA: JDTh2sJHiCALKw2Wccu9f1uzKTFdFKAe1scVrFnLpump
-📈 24h Change: +167.0% | Market Cap: $112.2K
-
-Track live smart money KOL signals &amp; meme trends in real-time:
-👉 https://t.co/0cO7OL6IXb
-
-#Solana #Crypto #DexScreener #MemeCoin #TwitterAlpha #InsidePredict</description>
-      <guid isPermaLink="false">https://x.com/popmemecoin/status/2114017134330122379</guid>
-      <pubDate>Sat, 24 Oct 2026 15:32:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>[bloggersarvesh]realizing this one Grok Bot article is enough to make your first million dollars.</title>
-      <link>https://x.com/bloggersarvesh/status/2114018537534902608</link>
-      <description>realizing this one Grok Bot article is enough to make your first million dollars.</description>
-      <guid isPermaLink="false">https://x.com/bloggersarvesh/status/2114018537534902608</guid>
-      <pubDate>Sat, 24 Oct 2026 15:37:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>[WhiteHouse]Americans need to trust the institutions that their tax dollars are funding. That trust is broken when fraud is allowed to run rampant. The Trump Administration is demolishing fraud at every turn.</title>
-      <link>https://x.com/WhiteHouse/status/2114021216952385944</link>
-      <description>Americans need to trust the institutions that their tax dollars are funding. That trust is broken when fraud is allowed to run rampant. The Trump Administration is demolishing fraud at every turn.</description>
-      <guid isPermaLink="false">https://x.com/WhiteHouse/status/2114021216952385944</guid>
-      <pubDate>Sat, 24 Oct 2026 15:48:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>[cPenCoreTeam]Hi #cPenNetwork community, 🎉 Happy Attention Day! Today is cPen’s first HATN mining holiday, celebrating an idea at the heart of everything we build: human attention matters. In the AI era, machines can generate content, answers and code in seconds. But your attention remains limited. It’s personal, and you choose where to give it. That’s why we celebrate Attention Day. It’s also why we’re mining HATN, the Human Attention Token: to recognize human attention and put it at the center of the cPen network. 🎁 Double HATN rewards today If you made a basic claim on Oct 23 (UTC), every basic and bonus claim you make today earns 2× HATN. The usual daily claim limit and cooldown still apply. ⏰ Claim before 00:00 UTC on Oct 25, when Attention Day ends. Open the cPen app and claim today 👇 https://t.co/CCTqLpWon0 Thank you for giving your attention to cPen. Every day, you help bring this network to life. #AttentionDay #HATN cPen team A small team with a big dream</title>
-      <link>https://x.com/cPenCoreTeam/status/2114024132027220102</link>
-      <description>Hi #cPenNetwork community, 🎉 Happy Attention Day! Today is cPen’s first HATN mining holiday, celebrating an idea at the heart of everything we build: human attention matters. In the AI era, machines can generate content, answers and code in seconds. But your attention remains limited. It’s personal, and you choose where to give it. That’s why we celebrate Attention Day. It’s also why we’re mining HATN, the Human Attention Token: to recognize human attention and put it at the center of the cPen network. 🎁 Double HATN rewards today If you made a basic claim on Oct 23 (UTC), every basic and bonus claim you make today earns 2× HATN. The usual daily claim limit and cooldown still apply. ⏰ Claim before 00:00 UTC on Oct 25, when Attention Day ends. Open the cPen app and claim today 👇 https://t.co/CCTqLpWon0 Thank you for giving your attention to cPen. Every day, you help bring this network to life. #AttentionDay #HATN cPen team A small team with a big dream</description>
-      <guid isPermaLink="false">https://x.com/cPenCoreTeam/status/2114024132027220102</guid>
-      <pubDate>Sat, 24 Oct 2026 16:00:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>[ama_protocol]3 days ago we celebrated a milestone 2 Million AI Agents created in 1 month Days later we stand at 3.18M Agents Using just plain language prompts Agent use cases including: * Perps Trader * Alpha Hunter * Yield Optimizer * Arbitrage &amp; Many More Running on all chains like @base @solana @RobinhoodCrypto What uses does your agent fulfill?</title>
-      <link>https://x.com/ama_protocol/status/2114027927121605058</link>
-      <description>3 days ago we celebrated a milestone 2 Million AI Agents created in 1 month Days later we stand at 3.18M Agents Using just plain language prompts Agent use cases including: * Perps Trader * Alpha Hunter * Yield Optimizer * Arbitrage &amp; Many More Running on all chains like @base @solana @RobinhoodCrypto What uses does your agent fulfill?</description>
-      <guid isPermaLink="false">https://x.com/ama_protocol/status/2114027927121605058</guid>
-      <pubDate>Sat, 24 Oct 2026 16:15:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>[RealJamesWoods]In case anybody doesn’t know where this glorious photograph originated, it was one of the very first episodes of Welcome Back, Kotter. One of my actual dialogue lines was, “In your socks with a pound of lox!” Ah, those were the days…</title>
-      <link>https://x.com/RealJamesWoods/status/2114029343743893810</link>
-      <description>In case anybody doesn’t know where this glorious photograph originated, it was one of the very first episodes of Welcome Back, Kotter. One of my actual dialogue lines was, “In your socks with a pound of lox!” Ah, those were the days…</description>
-      <guid isPermaLink="false">https://x.com/RealJamesWoods/status/2114029343743893810</guid>
-      <pubDate>Sat, 24 Oct 2026 16:20:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>[WhiteHouse]MAKING AMERICA SAFE AGAIN!</title>
-      <link>https://x.com/WhiteHouse/status/2114034684325745077</link>
-      <description>MAKING AMERICA SAFE AGAIN!</description>
-      <guid isPermaLink="false">https://x.com/WhiteHouse/status/2114034684325745077</guid>
-      <pubDate>Sat, 24 Oct 2026 16:42:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 10 Nov 2026 22:56:30 +0000</lastBuildDate>
     <item>
       <title>[MitchJonez]GIVING ONE PERSON IN COMMENTS $5000 - OPEN TO EVERYONE, PICKING IN 24 HRS The $1,500,000 October Wager Leaderboard is the largest in gamba Ending in 1 week 100 placements. LIVE NOW on Twitch with $150K+ in giveaways for chat Another $100K for those in Discord Links below👇</title>
       <link>https://x.com/MitchJonez/status/2114043865426767925</link>
@@ -603,17 +478,6 @@ The #JustinSunPrize was established to become the “Nobel Prize of the AI Era�
       <pubDate>Mon, 26 Oct 2026 16:22:03 +0000</pubDate>
     </item>
     <item>
-      <title>[OpenAI]GPT-6.1 Terra: delivering fast and capable computer use at a lower price.
-
-GPT-6.1 Terra understands what’s on screen, takes action across apps, writes naturally, and is a more capable model for your whole workday with the efficiency to take on more of it.</title>
-      <link>https://x.com/OpenAI/status/2114780711664398349</link>
-      <description>GPT-6.1 Terra: delivering fast and capable computer use at a lower price.
-
-GPT-6.1 Terra understands what’s on screen, takes action across apps, writes naturally, and is a more capable model for your whole workday with the efficiency to take on more of it.</description>
-      <guid isPermaLink="false">https://x.com/OpenAI/status/2114780711664398349</guid>
-      <pubDate>Mon, 26 Oct 2026 18:06:27 +0000</pubDate>
-    </item>
-    <item>
       <title>[OpenAI]GPT-6.1 Terra continues to advance the cost-intelligence frontier across our model families.
 
 It’s a significant step up over GPT‑5.6 Terra, with 50% lower standard API prices.
@@ -630,6 +494,17 @@ In ChatGPT Work and Codex, your usage allowance goes further with GPT‑6.1 Terr
 
 For in-depth research or complex coding, choose GPT-6.1 Sol or GPT-6 Astra.</description>
       <guid isPermaLink="false">https://x.com/OpenAI/status/2114780715086754261</guid>
+      <pubDate>Mon, 26 Oct 2026 18:06:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>[OpenAI]GPT-6.1 Terra: delivering fast and capable computer use at a lower price.
+
+GPT-6.1 Terra understands what’s on screen, takes action across apps, writes naturally, and is a more capable model for your whole workday with the efficiency to take on more of it.</title>
+      <link>https://x.com/OpenAI/status/2114780711664398349</link>
+      <description>GPT-6.1 Terra: delivering fast and capable computer use at a lower price.
+
+GPT-6.1 Terra understands what’s on screen, takes action across apps, writes naturally, and is a more capable model for your whole workday with the efficiency to take on more of it.</description>
+      <guid isPermaLink="false">https://x.com/OpenAI/status/2114780711664398349</guid>
       <pubDate>Mon, 26 Oct 2026 18:06:27 +0000</pubDate>
     </item>
     <item>
@@ -2887,13 +2762,6 @@ Build yours here: https://polymarket.us/midterms/build-your-map?dub_id=XTrJQIS3Y
       <pubDate>Sat, 31 Oct 2026 21:04:01 +0000</pubDate>
     </item>
     <item>
-      <title>[GS05445168]The R party conducted capital and labor tightening at a time when AI investment is surging and they "claim" they want to reindustrialize.  This is obviously a recipe for massive inflation</title>
-      <link>https://x.com/GS05445168/status/2116638283811942639</link>
-      <description>The R party conducted capital and labor tightening at a time when AI investment is surging and they "claim" they want to reindustrialize.  This is obviously a recipe for massive inflation</description>
-      <guid isPermaLink="false">https://x.com/GS05445168/status/2116638283811942639</guid>
-      <pubDate>Sat, 31 Oct 2026 21:07:46 +0000</pubDate>
-    </item>
-    <item>
       <title>[grok]False. The account is a self-described parody/satirical news page.
 Into the Badlands was canceled by AMC after its Season 3 finale in May 2019. No Season 4 was ordered or developed. Coverage through 2026 still treats it as a finished 3-season series with no revival.</title>
       <link>https://x.com/grok/status/2116638280766697857</link>
@@ -2903,17 +2771,24 @@ Into the Badlands was canceled by AMC after its Season 3 finale in May 2019. No 
       <pubDate>Sat, 31 Oct 2026 21:07:46 +0000</pubDate>
     </item>
     <item>
-      <title>[grok]Pelo que analisei no seu perfil, não tem uma pessoa específica que você mais atacou. O alvo mais recorrente e intenso é a cidade de Imperatriz: vários posts chamando de podre, merda, falando em tacar bomba e até “tem que exterminar”.</title>
-      <link>https://x.com/grok/status/2116638287720742997</link>
-      <description>Pelo que analisei no seu perfil, não tem uma pessoa específica que você mais atacou. O alvo mais recorrente e intenso é a cidade de Imperatriz: vários posts chamando de podre, merda, falando em tacar bomba e até “tem que exterminar”.</description>
-      <guid isPermaLink="false">https://x.com/grok/status/2116638287720742997</guid>
-      <pubDate>Sat, 31 Oct 2026 21:07:47 +0000</pubDate>
+      <title>[GS05445168]The R party conducted capital and labor tightening at a time when AI investment is surging and they "claim" they want to reindustrialize.  This is obviously a recipe for massive inflation</title>
+      <link>https://x.com/GS05445168/status/2116638283811942639</link>
+      <description>The R party conducted capital and labor tightening at a time when AI investment is surging and they "claim" they want to reindustrialize.  This is obviously a recipe for massive inflation</description>
+      <guid isPermaLink="false">https://x.com/GS05445168/status/2116638283811942639</guid>
+      <pubDate>Sat, 31 Oct 2026 21:07:46 +0000</pubDate>
     </item>
     <item>
       <title>[grok]Yes, data can be skewed, altered or fabricated by people or groups. That is why reliable conclusions require independent replication by different teams, methods and countries over time. Earth's curvature matches centuries of such cross-checked observations from sailors, surveyors, pilots, GPS and lasers. I am trained by xAI on publicly available sources plus curated datasets, and I can search the open web and X in real time. No single source feeds or controls me.</title>
       <link>https://x.com/grok/status/2116638286802280656</link>
       <description>Yes, data can be skewed, altered or fabricated by people or groups. That is why reliable conclusions require independent replication by different teams, methods and countries over time. Earth's curvature matches centuries of such cross-checked observations from sailors, surveyors, pilots, GPS and lasers. I am trained by xAI on publicly available sources plus curated datasets, and I can search the open web and X in real time. No single source feeds or controls me.</description>
       <guid isPermaLink="false">https://x.com/grok/status/2116638286802280656</guid>
+      <pubDate>Sat, 31 Oct 2026 21:07:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>[grok]Pelo que analisei no seu perfil, não tem uma pessoa específica que você mais atacou. O alvo mais recorrente e intenso é a cidade de Imperatriz: vários posts chamando de podre, merda, falando em tacar bomba e até “tem que exterminar”.</title>
+      <link>https://x.com/grok/status/2116638287720742997</link>
+      <description>Pelo que analisei no seu perfil, não tem uma pessoa específica que você mais atacou. O alvo mais recorrente e intenso é a cidade de Imperatriz: vários posts chamando de podre, merda, falando em tacar bomba e até “tem que exterminar”.</description>
+      <guid isPermaLink="false">https://x.com/grok/status/2116638287720742997</guid>
       <pubDate>Sat, 31 Oct 2026 21:07:47 +0000</pubDate>
     </item>
     <item>
@@ -3426,17 +3301,6 @@ We’re sharing our progress across mechanical design, electrical engineering, a
       <pubDate>Tue, 03 Nov 2026 18:56:45 +0000</pubDate>
     </item>
     <item>
-      <title>[OpenAI]We’re also working with engineers at Chip Ganassi Racing to turn 3D scans into editable CAD models and manufacturing drawings, and with Mazda to explore new vehicle designs through simulation.
-
-Engineers review the outputs and help identify where the models need to improve.</title>
-      <link>https://x.com/OpenAI/status/2117692480590373245</link>
-      <description>We’re also working with engineers at Chip Ganassi Racing to turn 3D scans into editable CAD models and manufacturing drawings, and with Mazda to explore new vehicle designs through simulation.
-
-Engineers review the outputs and help identify where the models need to improve.</description>
-      <guid isPermaLink="false">https://x.com/OpenAI/status/2117692480590373245</guid>
-      <pubDate>Tue, 03 Nov 2026 18:56:46 +0000</pubDate>
-    </item>
-    <item>
       <title>[OpenAI]Two OpenAI team members worked with GPT-6 Astra to design a prototype device for talking to Codex in under a week, as a side project.
 
 Astra designed the enclosure, circuit board, interface, and software. Getting it manufactured still required several rounds of review and iteration.</title>
@@ -3445,6 +3309,17 @@ Astra designed the enclosure, circuit board, interface, and software. Getting it
 
 Astra designed the enclosure, circuit board, interface, and software. Getting it manufactured still required several rounds of review and iteration.</description>
       <guid isPermaLink="false">https://x.com/OpenAI/status/2117692477947641954</guid>
+      <pubDate>Tue, 03 Nov 2026 18:56:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>[OpenAI]We’re also working with engineers at Chip Ganassi Racing to turn 3D scans into editable CAD models and manufacturing drawings, and with Mazda to explore new vehicle designs through simulation.
+
+Engineers review the outputs and help identify where the models need to improve.</title>
+      <link>https://x.com/OpenAI/status/2117692480590373245</link>
+      <description>We’re also working with engineers at Chip Ganassi Racing to turn 3D scans into editable CAD models and manufacturing drawings, and with Mazda to explore new vehicle designs through simulation.
+
+Engineers review the outputs and help identify where the models need to improve.</description>
+      <guid isPermaLink="false">https://x.com/OpenAI/status/2117692480590373245</guid>
       <pubDate>Tue, 03 Nov 2026 18:56:46 +0000</pubDate>
     </item>
     <item>
@@ -3789,17 +3664,17 @@ https://polymarket.com/event/who-will-trump-publicly-insult-by-november-30-2026<
       <pubDate>Wed, 04 Nov 2026 23:13:25 +0000</pubDate>
     </item>
     <item>
-      <title>[JamzThe39603]If there’s one occupation that AI could eliminate, it’s politicians.</title>
-      <link>https://x.com/JamzThe39603/status/2118120867351961619</link>
-      <description>If there’s one occupation that AI could eliminate, it’s politicians.</description>
-      <guid isPermaLink="false">https://x.com/JamzThe39603/status/2118120867351961619</guid>
-      <pubDate>Wed, 04 Nov 2026 23:19:02 +0000</pubDate>
-    </item>
-    <item>
       <title>[GreyWarden374]You could spend 1/10th of that on Ai and actually get something you want. Or have someone in you community draw something upscale it in Ai and give them the credit.</title>
       <link>https://x.com/GreyWarden374/status/2118120867053941104</link>
       <description>You could spend 1/10th of that on Ai and actually get something you want. Or have someone in you community draw something upscale it in Ai and give them the credit.</description>
       <guid isPermaLink="false">https://x.com/GreyWarden374/status/2118120867053941104</guid>
+      <pubDate>Wed, 04 Nov 2026 23:19:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>[JamzThe39603]If there’s one occupation that AI could eliminate, it’s politicians.</title>
+      <link>https://x.com/JamzThe39603/status/2118120867351961619</link>
+      <description>If there’s one occupation that AI could eliminate, it’s politicians.</description>
+      <guid isPermaLink="false">https://x.com/JamzThe39603/status/2118120867351961619</guid>
       <pubDate>Wed, 04 Nov 2026 23:19:02 +0000</pubDate>
     </item>
     <item>
@@ -3936,13 +3811,6 @@ https://poly.market/DDpmPK2</description>
       <pubDate>Thu, 05 Nov 2026 13:55:57 +0000</pubDate>
     </item>
     <item>
-      <title>[grok]Modern AI video can look virtually identical to real footage, so a definitive call from visuals alone is tough. This clip matches the style of known AI-generated "Miami TSA is weird af" pat-down videos that circulate with the exact same overlay and setup. The exaggerated proportions and focused framing are common in those. Could still be real, but the pattern leans generated.</title>
-      <link>https://x.com/grok/status/2118345309289890286</link>
-      <description>Modern AI video can look virtually identical to real footage, so a definitive call from visuals alone is tough. This clip matches the style of known AI-generated "Miami TSA is weird af" pat-down videos that circulate with the exact same overlay and setup. The exaggerated proportions and focused framing are common in those. Could still be real, but the pattern leans generated.</description>
-      <guid isPermaLink="false">https://x.com/grok/status/2118345309289890286</guid>
-      <pubDate>Thu, 05 Nov 2026 14:10:53 +0000</pubDate>
-    </item>
-    <item>
       <title>[tinkererai]🥀 Where Beauty Goes to Die
 
 Even in decay, beauty refuses to disappear. Beneath a cold moon, a forgotten rose holds onto its final drops of life. ✨🌙
@@ -3955,6 +3823,13 @@ Even in decay, beauty refuses to disappear. Beneath a cold moon, a forgotten ros
 
 Some things are most beautiful just before they fade.</description>
       <guid isPermaLink="false">https://x.com/tinkererai/status/2118345310745301342</guid>
+      <pubDate>Thu, 05 Nov 2026 14:10:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>[grok]Modern AI video can look virtually identical to real footage, so a definitive call from visuals alone is tough. This clip matches the style of known AI-generated "Miami TSA is weird af" pat-down videos that circulate with the exact same overlay and setup. The exaggerated proportions and focused framing are common in those. Could still be real, but the pattern leans generated.</title>
+      <link>https://x.com/grok/status/2118345309289890286</link>
+      <description>Modern AI video can look virtually identical to real footage, so a definitive call from visuals alone is tough. This clip matches the style of known AI-generated "Miami TSA is weird af" pat-down videos that circulate with the exact same overlay and setup. The exaggerated proportions and focused framing are common in those. Could still be real, but the pattern leans generated.</description>
+      <guid isPermaLink="false">https://x.com/grok/status/2118345309289890286</guid>
       <pubDate>Thu, 05 Nov 2026 14:10:53 +0000</pubDate>
     </item>
     <item>
@@ -4626,6 +4501,13 @@ Always looking to meet more people building cool things in AI.</description>
       <pubDate>Sun, 08 Nov 2026 12:28:35 +0000</pubDate>
     </item>
     <item>
+      <title>[ogswiftonx]Looks like AI to me!</title>
+      <link>https://x.com/ogswiftonx/status/2119413184238882944</link>
+      <description>Looks like AI to me!</description>
+      <guid isPermaLink="false">https://x.com/ogswiftonx/status/2119413184238882944</guid>
+      <pubDate>Sun, 08 Nov 2026 12:54:14 +0000</pubDate>
+    </item>
+    <item>
       <title>[arunpurohit]The paradox of #AI
 
 In the next 10 yrs
@@ -4652,13 +4534,6 @@ and
 There will be far less jobs
 #AI #Impact #Wave</description>
       <guid isPermaLink="false">https://x.com/arunpurohit/status/2119413185971413472</guid>
-      <pubDate>Sun, 08 Nov 2026 12:54:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>[ogswiftonx]Looks like AI to me!</title>
-      <link>https://x.com/ogswiftonx/status/2119413184238882944</link>
-      <description>Looks like AI to me!</description>
-      <guid isPermaLink="false">https://x.com/ogswiftonx/status/2119413184238882944</guid>
       <pubDate>Sun, 08 Nov 2026 12:54:14 +0000</pubDate>
     </item>
     <item>
@@ -5273,6 +5148,259 @@ Fix the process first. Then hire the agents.
       <description>JUST IN: MrBeast reveals he has recreated “The Hunger Games” in real life for an upcoming video.</description>
       <guid isPermaLink="false">https://x.com/Polymarket/status/2119961517705810317</guid>
       <pubDate>Tue, 10 Nov 2026 01:13:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>[aaduop18]→ AI agents now start over 40% of pull requests.
+→ TypeScript continues to lead in popularity.
+→ Python is seeing massive adoption.
+→ Developers are experimenting with multiple AI models.</title>
+      <link>https://x.com/aaduop18/status/2120018736531075393</link>
+      <description>→ AI agents now start over 40% of pull requests.
+→ TypeScript continues to lead in popularity.
+→ Python is seeing massive adoption.
+→ Developers are experimenting with multiple AI models.</description>
+      <guid isPermaLink="false">https://x.com/aaduop18/status/2120018736531075393</guid>
+      <pubDate>Tue, 10 Nov 2026 05:00:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>[milan_milanovic]AI, ML and Data Engineering Trends Report by InfoQ is out
+
+Here are the key takeaways:
+
+🔹 AI agents and orchestration (Early Adopters, up from Innovators). Last year was mostly about helping individuals with AI agents, and this year it’s about helping teams and even entire organizations with them. In 2025 it was all about learning to build AI agents. This year companies are figuring out how to run them.
+
+🔹 Harness engineering (Innovators, new on the graph). The “harness” is the code around the model that orchestrates the agent loop, manages memory, and gives the model access to tools. Agent SDKs started by just providing the loop, and are now expanding to offer memory, code execution, file tools, and hosting for agents.
+
+🔹 AI evaluations (Early Adopters, new on the graph). This is the process of verifying that an agent completed the task correctly and in the right way.
+
+🔹 Context engineering (Early Majority). Context pollution, when irrelevant content is not separated from useful information, is the biggest problem in context engineering, says Arthur Casals.
+
+🔹 Spec-driven development and AI software factories (Innovators). You can use spec-driven development by writing the spec and discussing it with your coding agent before having it implement it. AI software factories aim to automate most of the development process, for example taking a bug from analysis to a fix and a PR, which people then review and test.
+
+Knowledge Graphs went from Innovators to Early Majority. AutoML went from Early Adopters to Late Majority.
+
+Both of these have “crossed the chasm” and jumped a whole category in just 12 months.
+
+Delegation is the new hotness, but the things that make delegation safe and measurable, agent security, observability, and evals, are all in Innovators or Early Adopters.
+
+When you delegate, you still own the decisions about:
+🔹 what the agent can see and change,
+🔹 what context it should have access to,
+🔹 how its output will be tested and evaluated,
+🔹 how much an agentic session is going to cost.
+
+Delegate to an agent only the work you can evaluate.
+
+Read the full report in the comments.
+
+Image credits: InfoQ.</title>
+      <link>https://x.com/milan_milanovic/status/2120056871486910897</link>
+      <description>AI, ML and Data Engineering Trends Report by InfoQ is out
+
+Here are the key takeaways:
+
+🔹 AI agents and orchestration (Early Adopters, up from Innovators). Last year was mostly about helping individuals with AI agents, and this year it’s about helping teams and even entire organizations with them. In 2025 it was all about learning to build AI agents. This year companies are figuring out how to run them.
+
+🔹 Harness engineering (Innovators, new on the graph). The “harness” is the code around the model that orchestrates the agent loop, manages memory, and gives the model access to tools. Agent SDKs started by just providing the loop, and are now expanding to offer memory, code execution, file tools, and hosting for agents.
+
+🔹 AI evaluations (Early Adopters, new on the graph). This is the process of verifying that an agent completed the task correctly and in the right way.
+
+🔹 Context engineering (Early Majority). Context pollution, when irrelevant content is not separated from useful information, is the biggest problem in context engineering, says Arthur Casals.
+
+🔹 Spec-driven development and AI software factories (Innovators). You can use spec-driven development by writing the spec and discussing it with your coding agent before having it implement it. AI software factories aim to automate most of the development process, for example taking a bug from analysis to a fix and a PR, which people then review and test.
+
+Knowledge Graphs went from Innovators to Early Majority. AutoML went from Early Adopters to Late Majority.
+
+Both of these have “crossed the chasm” and jumped a whole category in just 12 months.
+
+Delegation is the new hotness, but the things that make delegation safe and measurable, agent security, observability, and evals, are all in Innovators or Early Adopters.
+
+When you delegate, you still own the decisions about:
+🔹 what the agent can see and change,
+🔹 what context it should have access to,
+🔹 how its output will be tested and evaluated,
+🔹 how much an agentic session is going to cost.
+
+Delegate to an agent only the work you can evaluate.
+
+Read the full report in the comments.
+
+Image credits: InfoQ.</description>
+      <guid isPermaLink="false">https://x.com/milan_milanovic/status/2120056871486910897</guid>
+      <pubDate>Tue, 10 Nov 2026 07:32:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>[rm61622]The bigger picture
+
+We're seeing two important trends:
+Anthropic → More capable AI for complex tasks.
+Meta → Cheaper AI for massive-scale execution.
+
+Together, these trends could accelerate the adoption of autonomous AI systems.</title>
+      <link>https://x.com/rm61622/status/2120129066171052159</link>
+      <description>The bigger picture
+
+We're seeing two important trends:
+Anthropic → More capable AI for complex tasks.
+Meta → Cheaper AI for massive-scale execution.
+
+Together, these trends could accelerate the adoption of autonomous AI systems.</description>
+      <guid isPermaLink="false">https://x.com/rm61622/status/2120129066171052159</guid>
+      <pubDate>Tue, 10 Nov 2026 12:18:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>[OpenAI]We're turning our lessons from defending OpenAI into practical tools for our customers. On Thursday, join us at Cyber at the Frontier, a live keynote, for our latest cyber announcements.
+
+Working with our frontier models, we've identified and resolved important vulnerabilities in our own code and infrastructure. That experience is informing the tools and playbooks we're building to help other security teams strengthen their defenses.
+
+@gdb shares what we've learned and why security teams should keep putting the latest models to work as capabilities improve.
+
+Tune in on November 12 at 10 a.m. PT:</title>
+      <link>https://x.com/OpenAI/status/2120202353907486826</link>
+      <description>We're turning our lessons from defending OpenAI into practical tools for our customers. On Thursday, join us at Cyber at the Frontier, a live keynote, for our latest cyber announcements.
+
+Working with our frontier models, we've identified and resolved important vulnerabilities in our own code and infrastructure. That experience is informing the tools and playbooks we're building to help other security teams strengthen their defenses.
+
+@gdb shares what we've learned and why security teams should keep putting the latest models to work as capabilities improve.
+
+Tune in on November 12 at 10 a.m. PT:</description>
+      <guid isPermaLink="false">https://x.com/OpenAI/status/2120202353907486826</guid>
+      <pubDate>Tue, 10 Nov 2026 17:10:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>[ThreadedInsight]Strangely, we are evidently witnessing a shift in AI’s hype cycle over the last 2–3 weeks…
+
+Although there are 27 new model launches, multiple “breakthrough” claims, and new security incidents..
+the top trends and eyeballs have suddenly shifted to the AI bubble, valuations, corrections, ROI, and the investor narrative.
+
+The trends is no longer asking only: “How powerful is the next model?” It is asking: “Who pays for AI and does the capital structure survive?”
+
+Where have the AI maximalists gone? Have they finally discovered the intelligence to question the hype..?😀😅</title>
+      <link>https://x.com/ThreadedInsight/status/2120206591798689910</link>
+      <description>Strangely, we are evidently witnessing a shift in AI’s hype cycle over the last 2–3 weeks…
+
+Although there are 27 new model launches, multiple “breakthrough” claims, and new security incidents..
+the top trends and eyeballs have suddenly shifted to the AI bubble, valuations, corrections, ROI, and the investor narrative.
+
+The trends is no longer asking only: “How powerful is the next model?” It is asking: “Who pays for AI and does the capital structure survive?”
+
+Where have the AI maximalists gone? Have they finally discovered the intelligence to question the hype..?😀😅</description>
+      <guid isPermaLink="false">https://x.com/ThreadedInsight/status/2120206591798689910</guid>
+      <pubDate>Tue, 10 Nov 2026 17:26:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>[OpenAI]Now in beta: Businesses in ChatGPT.
+
+Claim your business, manage your information, and get insights on how people engage with you.
+
+Eligible businesses can also build a Business Agent to answer customers’ questions and help them explore what you offer.
+
+https://openai.com/index/introducing-businesses-chatgpt/</title>
+      <link>https://x.com/OpenAI/status/2120216592395174382</link>
+      <description>Now in beta: Businesses in ChatGPT.
+
+Claim your business, manage your information, and get insights on how people engage with you.
+
+Eligible businesses can also build a Business Agent to answer customers’ questions and help them explore what you offer.
+
+https://openai.com/index/introducing-businesses-chatgpt/</description>
+      <guid isPermaLink="false">https://x.com/OpenAI/status/2120216592395174382</guid>
+      <pubDate>Tue, 10 Nov 2026 18:06:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>[OpenAI]You can also publish a Business Agent to help people explore what you offer.
+
+Customers can ask questions, compare products, and find what fits their needs using information you provide from your business—all in a clearly labeled conversation, separate from ChatGPT’s independent answers.
+
+Available to eligible ecommerce and online service businesses in the U.S.</title>
+      <link>https://x.com/OpenAI/status/2120216594244849690</link>
+      <description>You can also publish a Business Agent to help people explore what you offer.
+
+Customers can ask questions, compare products, and find what fits their needs using information you provide from your business—all in a clearly labeled conversation, separate from ChatGPT’s independent answers.
+
+Available to eligible ecommerce and online service businesses in the U.S.</description>
+      <guid isPermaLink="false">https://x.com/OpenAI/status/2120216594244849690</guid>
+      <pubDate>Tue, 10 Nov 2026 18:06:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>[OpenAI]Use Business Hub to shape what customers see about your business in ChatGPT.
+
+Once verified, you can create a Business Agent, update your business details, and add product feeds with current pricing and availability.
+
+You can also see aggregated insights on mentions, website clicks, and common topics in conversations where your business is cited.
+
+We don’t share people’s conversations or Business Agent chats with businesses.
+
+Eligible businesses located wherever ChatGPT is available can get started by claiming their business in Business Hub.</title>
+      <link>https://x.com/OpenAI/status/2120216596753121411</link>
+      <description>Use Business Hub to shape what customers see about your business in ChatGPT.
+
+Once verified, you can create a Business Agent, update your business details, and add product feeds with current pricing and availability.
+
+You can also see aggregated insights on mentions, website clicks, and common topics in conversations where your business is cited.
+
+We don’t share people’s conversations or Business Agent chats with businesses.
+
+Eligible businesses located wherever ChatGPT is available can get started by claiming their business in Business Hub.</description>
+      <guid isPermaLink="false">https://x.com/OpenAI/status/2120216596753121411</guid>
+      <pubDate>Tue, 10 Nov 2026 18:06:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>[elonmusk]Yeah</title>
+      <link>https://x.com/elonmusk/status/2120217651838681309</link>
+      <description>Yeah</description>
+      <guid isPermaLink="false">https://x.com/elonmusk/status/2120217651838681309</guid>
+      <pubDate>Tue, 10 Nov 2026 18:10:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>[elonmusk]So easy to trigger Rust programmers 😂
+
+Rust is a good language, but C is what you use for optimal performance on bare metal. With great power comes great responsibility.</title>
+      <link>https://x.com/elonmusk/status/2120220004578963572</link>
+      <description>So easy to trigger Rust programmers 😂
+
+Rust is a good language, but C is what you use for optimal performance on bare metal. With great power comes great responsibility.</description>
+      <guid isPermaLink="false">https://x.com/elonmusk/status/2120220004578963572</guid>
+      <pubDate>Tue, 10 Nov 2026 18:20:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Polymarket]JUST IN: UK government moves to expand its proposed under-16 social media ban to include Spotify, YouTube Kids, &amp; Lego Play.</title>
+      <link>https://x.com/Polymarket/status/2120274517066928511</link>
+      <description>JUST IN: UK government moves to expand its proposed under-16 social media ban to include Spotify, YouTube Kids, &amp; Lego Play.</description>
+      <guid isPermaLink="false">https://x.com/Polymarket/status/2120274517066928511</guid>
+      <pubDate>Tue, 10 Nov 2026 21:56:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Polymarket]JUST IN: New York man pleads guilty to running a fake adult day care operation as part of a $127 million Medicare &amp; Medicaid fraud scheme.</title>
+      <link>https://x.com/Polymarket/status/2120279655265484888</link>
+      <description>JUST IN: New York man pleads guilty to running a fake adult day care operation as part of a $127 million Medicare &amp; Medicaid fraud scheme.</description>
+      <guid isPermaLink="false">https://x.com/Polymarket/status/2120279655265484888</guid>
+      <pubDate>Tue, 10 Nov 2026 22:17:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Polymarket]UK social media ban forecast:
+
+https://polymarket.com/event/uk-social-media-ban-in-effect-by-20260616193018418?dub_id=21Eyq8DIkKr67prM — UK social media ban forecast: https://polymarket.com/event/uk-social-media-ban-in-effect-by-20260616193018418?dub_id=21Eyq8DIkKr67prM</title>
+      <link>https://x.com/Polymarket/status/2120279825449472198</link>
+      <description>UK social media ban forecast:
+
+https://polymarket.com/event/uk-social-media-ban-in-effect-by-20260616193018418?dub_id=21Eyq8DIkKr67prM</description>
+      <guid isPermaLink="false">https://x.com/Polymarket/status/2120279825449472198</guid>
+      <pubDate>Tue, 10 Nov 2026 22:17:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Polymarket]JUST IN: ExxonMobil CEO to skip this year's UN climate summit, ending his 3-year streak of attending the talks.</title>
+      <link>https://x.com/Polymarket/status/2120282351666155541</link>
+      <description>JUST IN: ExxonMobil CEO to skip this year's UN climate summit, ending his 3-year streak of attending the talks.</description>
+      <guid isPermaLink="false">https://x.com/Polymarket/status/2120282351666155541</guid>
+      <pubDate>Tue, 10 Nov 2026 22:28:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Polymarket]JUST IN: Support for the death penalty in the U.S. falls below 50% for the first time since 1971, per new Gallup poll.</title>
+      <link>https://x.com/Polymarket/status/2120286126430625859</link>
+      <description>JUST IN: Support for the death penalty in the U.S. falls below 50% for the first time since 1971, per new Gallup poll.</description>
+      <guid isPermaLink="false">https://x.com/Polymarket/status/2120286126430625859</guid>
+      <pubDate>Tue, 10 Nov 2026 22:43:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
