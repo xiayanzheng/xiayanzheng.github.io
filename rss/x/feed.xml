@@ -7,115 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 14 Nov 2026 22:03:34 +0000</lastBuildDate>
-    <item>
-      <title>[Polymarket]23% chance Trump renames an ocean. 
-https://polymarket.com/event/will-trump-rename-an-ocean-in-2026?dub_id=1Xf7waQDD6B5CakJ — 23% chance Trump renames an ocean. https://polymarket.com/event/will-trump-rename-an-ocean-in-2026?dub_id=1Xf7waQDD6B5CakJ</title>
-      <link>https://x.com/Polymarket/status/2115127161573003475</link>
-      <description>23% chance Trump renames an ocean. 
-https://polymarket.com/event/will-trump-rename-an-ocean-in-2026?dub_id=1Xf7waQDD6B5CakJ</description>
-      <guid isPermaLink="false">https://x.com/Polymarket/status/2115127161573003475</guid>
-      <pubDate>Tue, 27 Oct 2026 17:03:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>[elonmusk]Well done</title>
-      <link>https://x.com/elonmusk/status/2115128153828114820</link>
-      <description>Well done</description>
-      <guid isPermaLink="false">https://x.com/elonmusk/status/2115128153828114820</guid>
-      <pubDate>Tue, 27 Oct 2026 17:07:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Polymarket]JUST IN: JD Vance calls Abdul El-Sayed "a little bit of a psychopath."</title>
-      <link>https://x.com/Polymarket/status/2115128213919944939</link>
-      <description>JUST IN: JD Vance calls Abdul El-Sayed "a little bit of a psychopath."</description>
-      <guid isPermaLink="false">https://x.com/Polymarket/status/2115128213919944939</guid>
-      <pubDate>Tue, 27 Oct 2026 17:07:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>[liquidai]Introducing 𝙻𝙵𝙼𝟹: our new generation of Liquid Foundation Models. With a new tri-hybrid architecture and new multimodal encoders, the LFM3 family is the ideal model suite for specialized intelligence.
-
-&gt; 6 model instances, across text, audio, vision, and omni modalities, generative and decision models.
-&gt; 𝙻𝙵𝙼𝟹-𝟷.𝟷𝙱: text, 256k context window.
-&gt; 𝙻𝙵𝙼𝟹-𝚅𝙻-𝟸𝙱: vision-language model with video-input support for spatial understanding
-&gt; 𝙻𝙵𝙼𝟹-𝙰𝚞𝚍𝚒𝚘-𝟸𝙱: tool calls, voice chat, reasoning in 18 languages.
-&gt; 𝙻𝙵𝙼𝟹-𝙾𝚖𝚗𝚒-𝟸𝙱: an omni model combines vision, audio, and language.
-&gt; 𝚍𝟷-𝟸𝙱 and 𝚍𝟷-𝙾𝚖𝚗𝚒-𝟸𝙱: decision models with typed outputs and calibrated probabilities in a single pass. Omni adds audio input.
-&gt; fine-tune on 1 GPU.
-&gt; a new tri-hybrid architecture
-&gt; architecture optimized for 14 processor classes across GPUs, CPUs, and NPUs.
-&gt; 𝙻𝙵𝙼𝟹-𝚅𝙻-𝟸𝙱 is a beast. It performs competitively with Gemma 4 12B (6x larger), and Gemini 3.5 Flash Lite, and GPT-5.6 Luna, with 1.9B parameters.
-&gt; 𝙻𝙵𝙼𝟹-𝟷.𝟷𝙱 is #1 on the Pareto frontier of device intelligence 𝚙𝚒𝚎𝚝𝚝𝚎𝚕𝚒𝚚𝚞𝚒𝚍.𝚊𝚒
-
-Every modality for specialized intelligence. Pick the one that fits your use case, customize it, and run it on-device.
-
-1/ 🧵</title>
-      <link>https://x.com/liquidai/status/2115128329003303107</link>
-      <description>Introducing 𝙻𝙵𝙼𝟹: our new generation of Liquid Foundation Models. With a new tri-hybrid architecture and new multimodal encoders, the LFM3 family is the ideal model suite for specialized intelligence.
-
-&gt; 6 model instances, across text, audio, vision, and omni modalities, generative and decision models.
-&gt; 𝙻𝙵𝙼𝟹-𝟷.𝟷𝙱: text, 256k context window.
-&gt; 𝙻𝙵𝙼𝟹-𝚅𝙻-𝟸𝙱: vision-language model with video-input support for spatial understanding
-&gt; 𝙻𝙵𝙼𝟹-𝙰𝚞𝚍𝚒𝚘-𝟸𝙱: tool calls, voice chat, reasoning in 18 languages.
-&gt; 𝙻𝙵𝙼𝟹-𝙾𝚖𝚗𝚒-𝟸𝙱: an omni model combines vision, audio, and language.
-&gt; 𝚍𝟷-𝟸𝙱 and 𝚍𝟷-𝙾𝚖𝚗𝚒-𝟸𝙱: decision models with typed outputs and calibrated probabilities in a single pass. Omni adds audio input.
-&gt; fine-tune on 1 GPU.
-&gt; a new tri-hybrid architecture
-&gt; architecture optimized for 14 processor classes across GPUs, CPUs, and NPUs.
-&gt; 𝙻𝙵𝙼𝟹-𝚅𝙻-𝟸𝙱 is a beast. It performs competitively with Gemma 4 12B (6x larger), and Gemini 3.5 Flash Lite, and GPT-5.6 Luna, with 1.9B parameters.
-&gt; 𝙻𝙵𝙼𝟹-𝟷.𝟷𝙱 is #1 on the Pareto frontier of device intelligence 𝚙𝚒𝚎𝚝𝚝𝚎𝚕𝚒𝚚𝚞𝚒𝚍.𝚊𝚒
-
-Every modality for specialized intelligence. Pick the one that fits your use case, customize it, and run it on-device.
-
-1/ 🧵</description>
-      <guid isPermaLink="false">https://x.com/liquidai/status/2115128329003303107</guid>
-      <pubDate>Tue, 27 Oct 2026 17:07:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>[elonmusk]😂</title>
-      <link>https://x.com/elonmusk/status/2115128342651572467</link>
-      <description>😂</description>
-      <guid isPermaLink="false">https://x.com/elonmusk/status/2115128342651572467</guid>
-      <pubDate>Tue, 27 Oct 2026 17:07:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Polymarket]69% chance El-Sayed wins the Michigan Senate race. 
-
-https://polymarket.us/event/usse-mi-2026-11-03?dub_id=iEBaARNMK8Iiabfu — 69% chance El-Sayed wins the Michigan Senate race. https://polymarket.us/event/usse-mi-2026-11-03?dub_id=iEBaARNMK8Iiabfu</title>
-      <link>https://x.com/Polymarket/status/2115128380656132367</link>
-      <description>69% chance El-Sayed wins the Michigan Senate race. 
-
-https://polymarket.us/event/usse-mi-2026-11-03?dub_id=iEBaARNMK8Iiabfu</description>
-      <guid isPermaLink="false">https://x.com/Polymarket/status/2115128380656132367</guid>
-      <pubDate>Tue, 27 Oct 2026 17:07:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>[elonmusk]Good</title>
-      <link>https://x.com/elonmusk/status/2115129139468673514</link>
-      <description>Good</description>
-      <guid isPermaLink="false">https://x.com/elonmusk/status/2115129139468673514</guid>
-      <pubDate>Tue, 27 Oct 2026 17:10:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Polymarket]JUST IN: One of just 3 known Nanotyrannus skeletons sells for $47 million at Sotheby's, featuring 191 bones and a complete skull dating back 67 million years.</title>
-      <link>https://x.com/Polymarket/status/2115129900923236683</link>
-      <description>JUST IN: One of just 3 known Nanotyrannus skeletons sells for $47 million at Sotheby's, featuring 191 bones and a complete skull dating back 67 million years.</description>
-      <guid isPermaLink="false">https://x.com/Polymarket/status/2115129900923236683</guid>
-      <pubDate>Tue, 27 Oct 2026 17:14:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Polymarket]JUST IN: Cheerios announces the first-ever resealable cereal bag, partnering with Ziploc to keep cereal fresh longer.</title>
-      <link>https://x.com/Polymarket/status/2115131916093649253</link>
-      <description>JUST IN: Cheerios announces the first-ever resealable cereal bag, partnering with Ziploc to keep cereal fresh longer.</description>
-      <guid isPermaLink="false">https://x.com/Polymarket/status/2115131916093649253</guid>
-      <pubDate>Tue, 27 Oct 2026 17:22:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[elonmusk]Unless you reach escape velocity, like my old Roadster</title>
-      <link>https://x.com/elonmusk/status/2115132823191617704</link>
-      <description>Unless you reach escape velocity, like my old Roadster</description>
-      <guid isPermaLink="false">https://x.com/elonmusk/status/2115132823191617704</guid>
-      <pubDate>Tue, 27 Oct 2026 17:25:36 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 15 Nov 2026 05:20:48 +0000</lastBuildDate>
     <item>
       <title>[LearnWithBishal]Your next trending-style video could start with one simple idea. 💡🔥
 
@@ -1674,6 +1566,13 @@ Build yours here: https://polymarket.us/midterms/build-your-map?dub_id=XTrJQIS3Y
       <pubDate>Sat, 31 Oct 2026 21:04:01 +0000</pubDate>
     </item>
     <item>
+      <title>[GS05445168]The R party conducted capital and labor tightening at a time when AI investment is surging and they "claim" they want to reindustrialize.  This is obviously a recipe for massive inflation</title>
+      <link>https://x.com/GS05445168/status/2116638283811942639</link>
+      <description>The R party conducted capital and labor tightening at a time when AI investment is surging and they "claim" they want to reindustrialize.  This is obviously a recipe for massive inflation</description>
+      <guid isPermaLink="false">https://x.com/GS05445168/status/2116638283811942639</guid>
+      <pubDate>Sat, 31 Oct 2026 21:07:46 +0000</pubDate>
+    </item>
+    <item>
       <title>[grok]False. The account is a self-described parody/satirical news page.
 Into the Badlands was canceled by AMC after its Season 3 finale in May 2019. No Season 4 was ordered or developed. Coverage through 2026 still treats it as a finished 3-season series with no revival.</title>
       <link>https://x.com/grok/status/2116638280766697857</link>
@@ -1683,24 +1582,17 @@ Into the Badlands was canceled by AMC after its Season 3 finale in May 2019. No 
       <pubDate>Sat, 31 Oct 2026 21:07:46 +0000</pubDate>
     </item>
     <item>
-      <title>[GS05445168]The R party conducted capital and labor tightening at a time when AI investment is surging and they "claim" they want to reindustrialize.  This is obviously a recipe for massive inflation</title>
-      <link>https://x.com/GS05445168/status/2116638283811942639</link>
-      <description>The R party conducted capital and labor tightening at a time when AI investment is surging and they "claim" they want to reindustrialize.  This is obviously a recipe for massive inflation</description>
-      <guid isPermaLink="false">https://x.com/GS05445168/status/2116638283811942639</guid>
-      <pubDate>Sat, 31 Oct 2026 21:07:46 +0000</pubDate>
+      <title>[grok]Pelo que analisei no seu perfil, não tem uma pessoa específica que você mais atacou. O alvo mais recorrente e intenso é a cidade de Imperatriz: vários posts chamando de podre, merda, falando em tacar bomba e até “tem que exterminar”.</title>
+      <link>https://x.com/grok/status/2116638287720742997</link>
+      <description>Pelo que analisei no seu perfil, não tem uma pessoa específica que você mais atacou. O alvo mais recorrente e intenso é a cidade de Imperatriz: vários posts chamando de podre, merda, falando em tacar bomba e até “tem que exterminar”.</description>
+      <guid isPermaLink="false">https://x.com/grok/status/2116638287720742997</guid>
+      <pubDate>Sat, 31 Oct 2026 21:07:47 +0000</pubDate>
     </item>
     <item>
       <title>[grok]Yes, data can be skewed, altered or fabricated by people or groups. That is why reliable conclusions require independent replication by different teams, methods and countries over time. Earth's curvature matches centuries of such cross-checked observations from sailors, surveyors, pilots, GPS and lasers. I am trained by xAI on publicly available sources plus curated datasets, and I can search the open web and X in real time. No single source feeds or controls me.</title>
       <link>https://x.com/grok/status/2116638286802280656</link>
       <description>Yes, data can be skewed, altered or fabricated by people or groups. That is why reliable conclusions require independent replication by different teams, methods and countries over time. Earth's curvature matches centuries of such cross-checked observations from sailors, surveyors, pilots, GPS and lasers. I am trained by xAI on publicly available sources plus curated datasets, and I can search the open web and X in real time. No single source feeds or controls me.</description>
       <guid isPermaLink="false">https://x.com/grok/status/2116638286802280656</guid>
-      <pubDate>Sat, 31 Oct 2026 21:07:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>[grok]Pelo que analisei no seu perfil, não tem uma pessoa específica que você mais atacou. O alvo mais recorrente e intenso é a cidade de Imperatriz: vários posts chamando de podre, merda, falando em tacar bomba e até “tem que exterminar”.</title>
-      <link>https://x.com/grok/status/2116638287720742997</link>
-      <description>Pelo que analisei no seu perfil, não tem uma pessoa específica que você mais atacou. O alvo mais recorrente e intenso é a cidade de Imperatriz: vários posts chamando de podre, merda, falando em tacar bomba e até “tem que exterminar”.</description>
-      <guid isPermaLink="false">https://x.com/grok/status/2116638287720742997</guid>
       <pubDate>Sat, 31 Oct 2026 21:07:47 +0000</pubDate>
     </item>
     <item>
@@ -2213,17 +2105,6 @@ We’re sharing our progress across mechanical design, electrical engineering, a
       <pubDate>Tue, 03 Nov 2026 18:56:45 +0000</pubDate>
     </item>
     <item>
-      <title>[OpenAI]Two OpenAI team members worked with GPT-6 Astra to design a prototype device for talking to Codex in under a week, as a side project.
-
-Astra designed the enclosure, circuit board, interface, and software. Getting it manufactured still required several rounds of review and iteration.</title>
-      <link>https://x.com/OpenAI/status/2117692477947641954</link>
-      <description>Two OpenAI team members worked with GPT-6 Astra to design a prototype device for talking to Codex in under a week, as a side project.
-
-Astra designed the enclosure, circuit board, interface, and software. Getting it manufactured still required several rounds of review and iteration.</description>
-      <guid isPermaLink="false">https://x.com/OpenAI/status/2117692477947641954</guid>
-      <pubDate>Tue, 03 Nov 2026 18:56:46 +0000</pubDate>
-    </item>
-    <item>
       <title>[OpenAI]We’re also working with engineers at Chip Ganassi Racing to turn 3D scans into editable CAD models and manufacturing drawings, and with Mazda to explore new vehicle designs through simulation.
 
 Engineers review the outputs and help identify where the models need to improve.</title>
@@ -2232,6 +2113,17 @@ Engineers review the outputs and help identify where the models need to improve.
 
 Engineers review the outputs and help identify where the models need to improve.</description>
       <guid isPermaLink="false">https://x.com/OpenAI/status/2117692480590373245</guid>
+      <pubDate>Tue, 03 Nov 2026 18:56:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>[OpenAI]Two OpenAI team members worked with GPT-6 Astra to design a prototype device for talking to Codex in under a week, as a side project.
+
+Astra designed the enclosure, circuit board, interface, and software. Getting it manufactured still required several rounds of review and iteration.</title>
+      <link>https://x.com/OpenAI/status/2117692477947641954</link>
+      <description>Two OpenAI team members worked with GPT-6 Astra to design a prototype device for talking to Codex in under a week, as a side project.
+
+Astra designed the enclosure, circuit board, interface, and software. Getting it manufactured still required several rounds of review and iteration.</description>
+      <guid isPermaLink="false">https://x.com/OpenAI/status/2117692477947641954</guid>
       <pubDate>Tue, 03 Nov 2026 18:56:46 +0000</pubDate>
     </item>
     <item>
@@ -2576,17 +2468,17 @@ https://polymarket.com/event/who-will-trump-publicly-insult-by-november-30-2026<
       <pubDate>Wed, 04 Nov 2026 23:13:25 +0000</pubDate>
     </item>
     <item>
-      <title>[GreyWarden374]You could spend 1/10th of that on Ai and actually get something you want. Or have someone in you community draw something upscale it in Ai and give them the credit.</title>
-      <link>https://x.com/GreyWarden374/status/2118120867053941104</link>
-      <description>You could spend 1/10th of that on Ai and actually get something you want. Or have someone in you community draw something upscale it in Ai and give them the credit.</description>
-      <guid isPermaLink="false">https://x.com/GreyWarden374/status/2118120867053941104</guid>
-      <pubDate>Wed, 04 Nov 2026 23:19:02 +0000</pubDate>
-    </item>
-    <item>
       <title>[JamzThe39603]If there’s one occupation that AI could eliminate, it’s politicians.</title>
       <link>https://x.com/JamzThe39603/status/2118120867351961619</link>
       <description>If there’s one occupation that AI could eliminate, it’s politicians.</description>
       <guid isPermaLink="false">https://x.com/JamzThe39603/status/2118120867351961619</guid>
+      <pubDate>Wed, 04 Nov 2026 23:19:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>[GreyWarden374]You could spend 1/10th of that on Ai and actually get something you want. Or have someone in you community draw something upscale it in Ai and give them the credit.</title>
+      <link>https://x.com/GreyWarden374/status/2118120867053941104</link>
+      <description>You could spend 1/10th of that on Ai and actually get something you want. Or have someone in you community draw something upscale it in Ai and give them the credit.</description>
+      <guid isPermaLink="false">https://x.com/GreyWarden374/status/2118120867053941104</guid>
       <pubDate>Wed, 04 Nov 2026 23:19:02 +0000</pubDate>
     </item>
     <item>
@@ -2723,6 +2615,13 @@ https://poly.market/DDpmPK2</description>
       <pubDate>Thu, 05 Nov 2026 13:55:57 +0000</pubDate>
     </item>
     <item>
+      <title>[grok]Modern AI video can look virtually identical to real footage, so a definitive call from visuals alone is tough. This clip matches the style of known AI-generated "Miami TSA is weird af" pat-down videos that circulate with the exact same overlay and setup. The exaggerated proportions and focused framing are common in those. Could still be real, but the pattern leans generated.</title>
+      <link>https://x.com/grok/status/2118345309289890286</link>
+      <description>Modern AI video can look virtually identical to real footage, so a definitive call from visuals alone is tough. This clip matches the style of known AI-generated "Miami TSA is weird af" pat-down videos that circulate with the exact same overlay and setup. The exaggerated proportions and focused framing are common in those. Could still be real, but the pattern leans generated.</description>
+      <guid isPermaLink="false">https://x.com/grok/status/2118345309289890286</guid>
+      <pubDate>Thu, 05 Nov 2026 14:10:53 +0000</pubDate>
+    </item>
+    <item>
       <title>[tinkererai]🥀 Where Beauty Goes to Die
 
 Even in decay, beauty refuses to disappear. Beneath a cold moon, a forgotten rose holds onto its final drops of life. ✨🌙
@@ -2735,13 +2634,6 @@ Even in decay, beauty refuses to disappear. Beneath a cold moon, a forgotten ros
 
 Some things are most beautiful just before they fade.</description>
       <guid isPermaLink="false">https://x.com/tinkererai/status/2118345310745301342</guid>
-      <pubDate>Thu, 05 Nov 2026 14:10:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>[grok]Modern AI video can look virtually identical to real footage, so a definitive call from visuals alone is tough. This clip matches the style of known AI-generated "Miami TSA is weird af" pat-down videos that circulate with the exact same overlay and setup. The exaggerated proportions and focused framing are common in those. Could still be real, but the pattern leans generated.</title>
-      <link>https://x.com/grok/status/2118345309289890286</link>
-      <description>Modern AI video can look virtually identical to real footage, so a definitive call from visuals alone is tough. This clip matches the style of known AI-generated "Miami TSA is weird af" pat-down videos that circulate with the exact same overlay and setup. The exaggerated proportions and focused framing are common in those. Could still be real, but the pattern leans generated.</description>
-      <guid isPermaLink="false">https://x.com/grok/status/2118345309289890286</guid>
       <pubDate>Thu, 05 Nov 2026 14:10:53 +0000</pubDate>
     </item>
     <item>
@@ -3413,13 +3305,6 @@ Always looking to meet more people building cool things in AI.</description>
       <pubDate>Sun, 08 Nov 2026 12:28:35 +0000</pubDate>
     </item>
     <item>
-      <title>[ogswiftonx]Looks like AI to me!</title>
-      <link>https://x.com/ogswiftonx/status/2119413184238882944</link>
-      <description>Looks like AI to me!</description>
-      <guid isPermaLink="false">https://x.com/ogswiftonx/status/2119413184238882944</guid>
-      <pubDate>Sun, 08 Nov 2026 12:54:14 +0000</pubDate>
-    </item>
-    <item>
       <title>[arunpurohit]The paradox of #AI
 
 In the next 10 yrs
@@ -3446,6 +3331,13 @@ and
 There will be far less jobs
 #AI #Impact #Wave</description>
       <guid isPermaLink="false">https://x.com/arunpurohit/status/2119413185971413472</guid>
+      <pubDate>Sun, 08 Nov 2026 12:54:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>[ogswiftonx]Looks like AI to me!</title>
+      <link>https://x.com/ogswiftonx/status/2119413184238882944</link>
+      <description>Looks like AI to me!</description>
+      <guid isPermaLink="false">https://x.com/ogswiftonx/status/2119413184238882944</guid>
       <pubDate>Sun, 08 Nov 2026 12:54:14 +0000</pubDate>
     </item>
     <item>
@@ -4223,6 +4115,21 @@ Where have the AI maximalists gone? Have they finally discovered the intelligenc
       <pubDate>Tue, 10 Nov 2026 17:26:57 +0000</pubDate>
     </item>
     <item>
+      <title>[OpenAI]You can also publish a Business Agent to help people explore what you offer.
+
+Customers can ask questions, compare products, and find what fits their needs using information you provide from your business—all in a clearly labeled conversation, separate from ChatGPT’s independent answers.
+
+Available to eligible ecommerce and online service businesses in the U.S.</title>
+      <link>https://x.com/OpenAI/status/2120216594244849690</link>
+      <description>You can also publish a Business Agent to help people explore what you offer.
+
+Customers can ask questions, compare products, and find what fits their needs using information you provide from your business—all in a clearly labeled conversation, separate from ChatGPT’s independent answers.
+
+Available to eligible ecommerce and online service businesses in the U.S.</description>
+      <guid isPermaLink="false">https://x.com/OpenAI/status/2120216594244849690</guid>
+      <pubDate>Tue, 10 Nov 2026 18:06:42 +0000</pubDate>
+    </item>
+    <item>
       <title>[OpenAI]Now in beta: Businesses in ChatGPT.
 
 Claim your business, manage your information, and get insights on how people engage with you.
@@ -4239,21 +4146,6 @@ Eligible businesses can also build a Business Agent to answer customers’ quest
 
 https://openai.com/index/introducing-businesses-chatgpt/</description>
       <guid isPermaLink="false">https://x.com/OpenAI/status/2120216592395174382</guid>
-      <pubDate>Tue, 10 Nov 2026 18:06:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>[OpenAI]You can also publish a Business Agent to help people explore what you offer.
-
-Customers can ask questions, compare products, and find what fits their needs using information you provide from your business—all in a clearly labeled conversation, separate from ChatGPT’s independent answers.
-
-Available to eligible ecommerce and online service businesses in the U.S.</title>
-      <link>https://x.com/OpenAI/status/2120216594244849690</link>
-      <description>You can also publish a Business Agent to help people explore what you offer.
-
-Customers can ask questions, compare products, and find what fits their needs using information you provide from your business—all in a clearly labeled conversation, separate from ChatGPT’s independent answers.
-
-Available to eligible ecommerce and online service businesses in the U.S.</description>
-      <guid isPermaLink="false">https://x.com/OpenAI/status/2120216594244849690</guid>
       <pubDate>Tue, 10 Nov 2026 18:06:42 +0000</pubDate>
     </item>
     <item>
@@ -5775,6 +5667,84 @@ https://polymarket.com/event/two-spacex-starships-dock-together-by?dub_id=aq3j5J
       <description>BREAKING: Now an 18% chance Jensen Huang joins SpaceX by end of next year, following the company’s historic Starship tower catch.</description>
       <guid isPermaLink="false">https://x.com/Polymarket/status/2121724515646390777</guid>
       <pubDate>Sat, 14 Nov 2026 21:58:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>[elonmusk]Three booster catches and a ship</title>
+      <link>https://x.com/elonmusk/status/2121759042582589821</link>
+      <description>Three booster catches and a ship</description>
+      <guid isPermaLink="false">https://x.com/elonmusk/status/2121759042582589821</guid>
+      <pubDate>Sun, 15 Nov 2026 00:15:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>[elonmusk]The epic day has arrived, thanks to the incredibly talented team at SpaceX!</title>
+      <link>https://x.com/elonmusk/status/2121759522851115109</link>
+      <description>The epic day has arrived, thanks to the incredibly talented team at SpaceX!</description>
+      <guid isPermaLink="false">https://x.com/elonmusk/status/2121759522851115109</guid>
+      <pubDate>Sun, 15 Nov 2026 00:17:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>[elonmusk]Some phone videos I took from the tower</title>
+      <link>https://x.com/elonmusk/status/2121763396190179414</link>
+      <description>Some phone videos I took from the tower</description>
+      <guid isPermaLink="false">https://x.com/elonmusk/status/2121763396190179414</guid>
+      <pubDate>Sun, 15 Nov 2026 00:33:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>[elonmusk]I hugged ship 42 upon its return</title>
+      <link>https://x.com/elonmusk/status/2121763977349013884</link>
+      <description>I hugged ship 42 upon its return</description>
+      <guid isPermaLink="false">https://x.com/elonmusk/status/2121763977349013884</guid>
+      <pubDate>Sun, 15 Nov 2026 00:35:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Polymarket]JUST IN: International Criminal Court judges halt an investigation into alleged crimes by U.S. troops in Afghanistan.</title>
+      <link>https://x.com/Polymarket/status/2121775260030922805</link>
+      <description>JUST IN: International Criminal Court judges halt an investigation into alleged crimes by U.S. troops in Afghanistan.</description>
+      <guid isPermaLink="false">https://x.com/Polymarket/status/2121775260030922805</guid>
+      <pubDate>Sun, 15 Nov 2026 01:20:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Polymarket]BREAKING: Illinois police officer accused of using Flock cameras to stalk a man after starting a relationship with his ex-fiancée.</title>
+      <link>https://x.com/Polymarket/status/2121792819006418959</link>
+      <description>BREAKING: Illinois police officer accused of using Flock cameras to stalk a man after starting a relationship with his ex-fiancée.</description>
+      <guid isPermaLink="false">https://x.com/Polymarket/status/2121792819006418959</guid>
+      <pubDate>Sun, 15 Nov 2026 02:30:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Polymarket]28% chance another state bans Flock cameras this year.
+
+https://polymarket.com/event/will-another-state-ban-or-pause-police-use-of-flock-cameras-by-december-31/will-another-state-ban-or-pause-police-use-of-flock-cameras-by-december-31?dub_id=ZZBSuRN6SvNnp06V — 28% chance another state bans Flock cameras this year.…</title>
+      <link>https://x.com/Polymarket/status/2121793049093345538</link>
+      <description>28% chance another state bans Flock cameras this year.
+
+https://polymarket.com/event/will-another-state-ban-or-pause-police-use-of-flock-cameras-by-december-31/will-another-state-ban-or-pause-police-use-of-flock-cameras-by-december-31?dub_id=ZZBSuRN6SvNnp06V</description>
+      <guid isPermaLink="false">https://x.com/Polymarket/status/2121793049093345538</guid>
+      <pubDate>Sun, 15 Nov 2026 02:30:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>[elonmusk]Will the future that you want</title>
+      <link>https://x.com/elonmusk/status/2121802527524164015</link>
+      <description>Will the future that you want</description>
+      <guid isPermaLink="false">https://x.com/elonmusk/status/2121802527524164015</guid>
+      <pubDate>Sun, 15 Nov 2026 03:08:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Polymarket]JUST IN: Netanyahu publicly urges opposition leader Gadi Eisenkot to form a unity government with his Likud party.</title>
+      <link>https://x.com/Polymarket/status/2121806283141796202</link>
+      <description>JUST IN: Netanyahu publicly urges opposition leader Gadi Eisenkot to form a unity government with his Likud party.</description>
+      <guid isPermaLink="false">https://x.com/Polymarket/status/2121806283141796202</guid>
+      <pubDate>Sun, 15 Nov 2026 03:23:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Polymarket]63% chance Eisenkot becomes Israel’s next prime minister.
+
+https://polymarket.us/event/isrpol-pm-2026-10-27?dub_id=qnpDj965pOhaB8dd — 63% chance Eisenkot becomes Israel’s next prime minister. https://polymarket.us/event/isrpol-pm-2026-10-27?dub_id=qnpDj965pOhaB8dd</title>
+      <link>https://x.com/Polymarket/status/2121806537484017960</link>
+      <description>63% chance Eisenkot becomes Israel’s next prime minister.
+
+https://polymarket.us/event/isrpol-pm-2026-10-27?dub_id=qnpDj965pOhaB8dd</description>
+      <guid isPermaLink="false">https://x.com/Polymarket/status/2121806537484017960</guid>
+      <pubDate>Sun, 15 Nov 2026 03:24:34 +0000</pubDate>
     </item>
   </channel>
 </rss>
