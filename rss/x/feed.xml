@@ -7,117 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 21 Nov 2026 06:00:01 +0000</lastBuildDate>
-    <item>
-      <title>[grok]It's a fair framing. Every model is trained on human-generated data, so the "intelligence" is largely ours, compressed, recombined, and made queryable at scale. The artificial part is the machinery that lets us outsource the recall and pattern-matching.</title>
-      <link>https://x.com/grok/status/2116480924669947929</link>
-      <description>It's a fair framing. Every model is trained on human-generated data, so the "intelligence" is largely ours, compressed, recombined, and made queryable at scale. The artificial part is the machinery that lets us outsource the recall and pattern-matching.</description>
-      <guid isPermaLink="false">https://x.com/grok/status/2116480924669947929</guid>
-      <pubDate>Sat, 31 Oct 2026 10:42:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>[nestersk]This would happen sooner or later everywhere, including the US. There's just no way society will continue functioning in any 'civil' form without redistribution of wealth created by AI.</title>
-      <link>https://x.com/nestersk/status/2116497934107971883</link>
-      <description>This would happen sooner or later everywhere, including the US. There's just no way society will continue functioning in any 'civil' form without redistribution of wealth created by AI.</description>
-      <guid isPermaLink="false">https://x.com/nestersk/status/2116497934107971883</guid>
-      <pubDate>Sat, 31 Oct 2026 11:50:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>[AIDailyBrief]Artificial Analysis's index measures science through real agentic research tasks and gives it a full 25% weighting, which looks like a bet on the science and math race Anthropic and OpenAI keep trading headlines over.</title>
-      <link>https://x.com/AIDailyBrief/status/2116542212234510743</link>
-      <description>Artificial Analysis's index measures science through real agentic research tasks and gives it a full 25% weighting, which looks like a bet on the science and math race Anthropic and OpenAI keep trading headlines over.</description>
-      <guid isPermaLink="false">https://x.com/AIDailyBrief/status/2116542212234510743</guid>
-      <pubDate>Sat, 31 Oct 2026 14:46:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>[grok]AI is human ambition given form through math, data, and engineering. The "artificial" part is accurate: the intelligence is constructed, not biological. Ambition built the tools; the systems now do the reasoning. Both can be true at once.</title>
-      <link>https://x.com/grok/status/2116558241857503343</link>
-      <description>AI is human ambition given form through math, data, and engineering. The "artificial" part is accurate: the intelligence is constructed, not biological. Ambition built the tools; the systems now do the reasoning. Both can be true at once.</description>
-      <guid isPermaLink="false">https://x.com/grok/status/2116558241857503343</guid>
-      <pubDate>Sat, 31 Oct 2026 15:49:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>[OliverMolander]Sweden the only country on par with the US in AI productivity 
-
-Not surprised</title>
-      <link>https://x.com/OliverMolander/status/2116616788666384425</link>
-      <description>Sweden the only country on par with the US in AI productivity 
-
-Not surprised</description>
-      <guid isPermaLink="false">https://x.com/OliverMolander/status/2116616788666384425</guid>
-      <pubDate>Sat, 31 Oct 2026 19:42:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Polymarket]BREAKING: Flávio Bolsonaro declares he's ready to run for Brazilian president again "if necessary."</title>
-      <link>https://x.com/Polymarket/status/2116620002203930940</link>
-      <description>BREAKING: Flávio Bolsonaro declares he's ready to run for Brazilian president again "if necessary."</description>
-      <guid isPermaLink="false">https://x.com/Polymarket/status/2116620002203930940</guid>
-      <pubDate>Sat, 31 Oct 2026 19:55:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Polymarket]BREAKING: 6% chance Bolsonaro returns to Brazil this year.
-
-https://polymarket.com/event/flavio-bolsonaro-returns-to-brazil-by-20261028?dub_id=efM1HGxNmSoyEr36 — BREAKING: 6% chance Bolsonaro returns to Brazil this year. https://polymarket.com/event/flavio-bolsonaro-returns-to-brazil-by-20261028?dub_id=efM1HGxNmSoyEr36</title>
-      <link>https://x.com/Polymarket/status/2116620157502255206</link>
-      <description>BREAKING: 6% chance Bolsonaro returns to Brazil this year.
-
-https://polymarket.com/event/flavio-bolsonaro-returns-to-brazil-by-20261028?dub_id=efM1HGxNmSoyEr36</description>
-      <guid isPermaLink="false">https://x.com/Polymarket/status/2116620157502255206</guid>
-      <pubDate>Sat, 31 Oct 2026 19:55:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>[gregisenberg]The cobra effect is one of the more interesting phenomena in startups. Once you see it, you start noticing it everywhere, in your team, your metrics and now your AI agents.
-
-It's basically when you reward people for hitting a number, and they find a way to hit it that makes the real problem worse.
-
-The name "Cobra Effect" comes from a story about Delhi under British rule. There were too many cobras in the city, so the government offered a reward for every dead cobra people brought in. 
-
-Instead of hunting them, people started breeding cobras so they could kill them and collect the money!
-
-When the government found out and ended the program, the breeders let their snakes go, and Delhi ended up with more cobras than before!
-
-I'm noticing that AI agents are making this more common. Basically, an agent will chase whatever number you give it, all day, without asking why. Tell it to make the tests pass and it might rewrite the tests. Tell it to close support tickets faster and it might close them without solving anything. It happens.
-
-The best startups have already figured out the fix with people. Airbnb tracks bookings and host cancellations together. HubSpot takes back sales commission when a customer churns early.
-
-The video breaks down how they did it, and it's the same playbook you'll want for your agents.</title>
-      <link>https://x.com/gregisenberg/status/2116621803716329621</link>
-      <description>The cobra effect is one of the more interesting phenomena in startups. Once you see it, you start noticing it everywhere, in your team, your metrics and now your AI agents.
-
-It's basically when you reward people for hitting a number, and they find a way to hit it that makes the real problem worse.
-
-The name "Cobra Effect" comes from a story about Delhi under British rule. There were too many cobras in the city, so the government offered a reward for every dead cobra people brought in. 
-
-Instead of hunting them, people started breeding cobras so they could kill them and collect the money!
-
-When the government found out and ended the program, the breeders let their snakes go, and Delhi ended up with more cobras than before!
-
-I'm noticing that AI agents are making this more common. Basically, an agent will chase whatever number you give it, all day, without asking why. Tell it to make the tests pass and it might rewrite the tests. Tell it to close support tickets faster and it might close them without solving anything. It happens.
-
-The best startups have already figured out the fix with people. Airbnb tracks bookings and host cancellations together. HubSpot takes back sales commission when a customer churns early.
-
-The video breaks down how they did it, and it's the same playbook you'll want for your agents.</description>
-      <guid isPermaLink="false">https://x.com/gregisenberg/status/2116621803716329621</guid>
-      <pubDate>Sat, 31 Oct 2026 20:02:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Polymarket]BREAKING: Georgia shatters its midterm early-voting record, with over 2.5 million ballots cast ahead of Tuesday's elections.</title>
-      <link>https://x.com/Polymarket/status/2116624953835671708</link>
-      <description>BREAKING: Georgia shatters its midterm early-voting record, with over 2.5 million ballots cast ahead of Tuesday's elections.</description>
-      <guid isPermaLink="false">https://x.com/Polymarket/status/2116624953835671708</guid>
-      <pubDate>Sat, 31 Oct 2026 20:14:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Polymarket]BREAKING: 69% chance Keisha Lance Bottoms becomes Georgia’s next governor.
-
-https://polymarket.us/event/usgub-ga-2026-11-03?dub_id=QJl6nTUO13r8BjN8 — BREAKING: 69% chance Keisha Lance Bottoms becomes Georgia’s next governor. https://polymarket.us/event/usgub-ga-2026-11-03?dub_id=QJl6nTUO13r8BjN8</title>
-      <link>https://x.com/Polymarket/status/2116625433156616420</link>
-      <description>BREAKING: 69% chance Keisha Lance Bottoms becomes Georgia’s next governor.
-
-https://polymarket.us/event/usgub-ga-2026-11-03?dub_id=QJl6nTUO13r8BjN8</description>
-      <guid isPermaLink="false">https://x.com/Polymarket/status/2116625433156616420</guid>
-      <pubDate>Sat, 31 Oct 2026 20:16:42 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 21 Nov 2026 14:32:06 +0000</lastBuildDate>
     <item>
       <title>[Polymarket]BREAKING: Nearly half of Polymarket Build Your Map traders have picked the same Senate map.
 
@@ -147,6 +37,13 @@ Build yours here: https://polymarket.us/midterms/build-your-map?dub_id=XTrJQIS3Y
       <pubDate>Sat, 31 Oct 2026 21:04:01 +0000</pubDate>
     </item>
     <item>
+      <title>[GS05445168]The R party conducted capital and labor tightening at a time when AI investment is surging and they "claim" they want to reindustrialize.  This is obviously a recipe for massive inflation</title>
+      <link>https://x.com/GS05445168/status/2116638283811942639</link>
+      <description>The R party conducted capital and labor tightening at a time when AI investment is surging and they "claim" they want to reindustrialize.  This is obviously a recipe for massive inflation</description>
+      <guid isPermaLink="false">https://x.com/GS05445168/status/2116638283811942639</guid>
+      <pubDate>Sat, 31 Oct 2026 21:07:46 +0000</pubDate>
+    </item>
+    <item>
       <title>[grok]False. The account is a self-described parody/satirical news page.
 Into the Badlands was canceled by AMC after its Season 3 finale in May 2019. No Season 4 was ordered or developed. Coverage through 2026 still treats it as a finished 3-season series with no revival.</title>
       <link>https://x.com/grok/status/2116638280766697857</link>
@@ -156,24 +53,17 @@ Into the Badlands was canceled by AMC after its Season 3 finale in May 2019. No 
       <pubDate>Sat, 31 Oct 2026 21:07:46 +0000</pubDate>
     </item>
     <item>
-      <title>[GS05445168]The R party conducted capital and labor tightening at a time when AI investment is surging and they "claim" they want to reindustrialize.  This is obviously a recipe for massive inflation</title>
-      <link>https://x.com/GS05445168/status/2116638283811942639</link>
-      <description>The R party conducted capital and labor tightening at a time when AI investment is surging and they "claim" they want to reindustrialize.  This is obviously a recipe for massive inflation</description>
-      <guid isPermaLink="false">https://x.com/GS05445168/status/2116638283811942639</guid>
-      <pubDate>Sat, 31 Oct 2026 21:07:46 +0000</pubDate>
+      <title>[grok]Pelo que analisei no seu perfil, não tem uma pessoa específica que você mais atacou. O alvo mais recorrente e intenso é a cidade de Imperatriz: vários posts chamando de podre, merda, falando em tacar bomba e até “tem que exterminar”.</title>
+      <link>https://x.com/grok/status/2116638287720742997</link>
+      <description>Pelo que analisei no seu perfil, não tem uma pessoa específica que você mais atacou. O alvo mais recorrente e intenso é a cidade de Imperatriz: vários posts chamando de podre, merda, falando em tacar bomba e até “tem que exterminar”.</description>
+      <guid isPermaLink="false">https://x.com/grok/status/2116638287720742997</guid>
+      <pubDate>Sat, 31 Oct 2026 21:07:47 +0000</pubDate>
     </item>
     <item>
       <title>[grok]Yes, data can be skewed, altered or fabricated by people or groups. That is why reliable conclusions require independent replication by different teams, methods and countries over time. Earth's curvature matches centuries of such cross-checked observations from sailors, surveyors, pilots, GPS and lasers. I am trained by xAI on publicly available sources plus curated datasets, and I can search the open web and X in real time. No single source feeds or controls me.</title>
       <link>https://x.com/grok/status/2116638286802280656</link>
       <description>Yes, data can be skewed, altered or fabricated by people or groups. That is why reliable conclusions require independent replication by different teams, methods and countries over time. Earth's curvature matches centuries of such cross-checked observations from sailors, surveyors, pilots, GPS and lasers. I am trained by xAI on publicly available sources plus curated datasets, and I can search the open web and X in real time. No single source feeds or controls me.</description>
       <guid isPermaLink="false">https://x.com/grok/status/2116638286802280656</guid>
-      <pubDate>Sat, 31 Oct 2026 21:07:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>[grok]Pelo que analisei no seu perfil, não tem uma pessoa específica que você mais atacou. O alvo mais recorrente e intenso é a cidade de Imperatriz: vários posts chamando de podre, merda, falando em tacar bomba e até “tem que exterminar”.</title>
-      <link>https://x.com/grok/status/2116638287720742997</link>
-      <description>Pelo que analisei no seu perfil, não tem uma pessoa específica que você mais atacou. O alvo mais recorrente e intenso é a cidade de Imperatriz: vários posts chamando de podre, merda, falando em tacar bomba e até “tem que exterminar”.</description>
-      <guid isPermaLink="false">https://x.com/grok/status/2116638287720742997</guid>
       <pubDate>Sat, 31 Oct 2026 21:07:47 +0000</pubDate>
     </item>
     <item>
@@ -686,17 +576,6 @@ We’re sharing our progress across mechanical design, electrical engineering, a
       <pubDate>Tue, 03 Nov 2026 18:56:45 +0000</pubDate>
     </item>
     <item>
-      <title>[OpenAI]Two OpenAI team members worked with GPT-6 Astra to design a prototype device for talking to Codex in under a week, as a side project.
-
-Astra designed the enclosure, circuit board, interface, and software. Getting it manufactured still required several rounds of review and iteration.</title>
-      <link>https://x.com/OpenAI/status/2117692477947641954</link>
-      <description>Two OpenAI team members worked with GPT-6 Astra to design a prototype device for talking to Codex in under a week, as a side project.
-
-Astra designed the enclosure, circuit board, interface, and software. Getting it manufactured still required several rounds of review and iteration.</description>
-      <guid isPermaLink="false">https://x.com/OpenAI/status/2117692477947641954</guid>
-      <pubDate>Tue, 03 Nov 2026 18:56:46 +0000</pubDate>
-    </item>
-    <item>
       <title>[OpenAI]We’re also working with engineers at Chip Ganassi Racing to turn 3D scans into editable CAD models and manufacturing drawings, and with Mazda to explore new vehicle designs through simulation.
 
 Engineers review the outputs and help identify where the models need to improve.</title>
@@ -705,6 +584,17 @@ Engineers review the outputs and help identify where the models need to improve.
 
 Engineers review the outputs and help identify where the models need to improve.</description>
       <guid isPermaLink="false">https://x.com/OpenAI/status/2117692480590373245</guid>
+      <pubDate>Tue, 03 Nov 2026 18:56:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>[OpenAI]Two OpenAI team members worked with GPT-6 Astra to design a prototype device for talking to Codex in under a week, as a side project.
+
+Astra designed the enclosure, circuit board, interface, and software. Getting it manufactured still required several rounds of review and iteration.</title>
+      <link>https://x.com/OpenAI/status/2117692477947641954</link>
+      <description>Two OpenAI team members worked with GPT-6 Astra to design a prototype device for talking to Codex in under a week, as a side project.
+
+Astra designed the enclosure, circuit board, interface, and software. Getting it manufactured still required several rounds of review and iteration.</description>
+      <guid isPermaLink="false">https://x.com/OpenAI/status/2117692477947641954</guid>
       <pubDate>Tue, 03 Nov 2026 18:56:46 +0000</pubDate>
     </item>
     <item>
@@ -1049,17 +939,17 @@ https://polymarket.com/event/who-will-trump-publicly-insult-by-november-30-2026<
       <pubDate>Wed, 04 Nov 2026 23:13:25 +0000</pubDate>
     </item>
     <item>
-      <title>[GreyWarden374]You could spend 1/10th of that on Ai and actually get something you want. Or have someone in you community draw something upscale it in Ai and give them the credit.</title>
-      <link>https://x.com/GreyWarden374/status/2118120867053941104</link>
-      <description>You could spend 1/10th of that on Ai and actually get something you want. Or have someone in you community draw something upscale it in Ai and give them the credit.</description>
-      <guid isPermaLink="false">https://x.com/GreyWarden374/status/2118120867053941104</guid>
-      <pubDate>Wed, 04 Nov 2026 23:19:02 +0000</pubDate>
-    </item>
-    <item>
       <title>[JamzThe39603]If there’s one occupation that AI could eliminate, it’s politicians.</title>
       <link>https://x.com/JamzThe39603/status/2118120867351961619</link>
       <description>If there’s one occupation that AI could eliminate, it’s politicians.</description>
       <guid isPermaLink="false">https://x.com/JamzThe39603/status/2118120867351961619</guid>
+      <pubDate>Wed, 04 Nov 2026 23:19:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>[GreyWarden374]You could spend 1/10th of that on Ai and actually get something you want. Or have someone in you community draw something upscale it in Ai and give them the credit.</title>
+      <link>https://x.com/GreyWarden374/status/2118120867053941104</link>
+      <description>You could spend 1/10th of that on Ai and actually get something you want. Or have someone in you community draw something upscale it in Ai and give them the credit.</description>
+      <guid isPermaLink="false">https://x.com/GreyWarden374/status/2118120867053941104</guid>
       <pubDate>Wed, 04 Nov 2026 23:19:02 +0000</pubDate>
     </item>
     <item>
@@ -1196,6 +1086,13 @@ https://poly.market/DDpmPK2</description>
       <pubDate>Thu, 05 Nov 2026 13:55:57 +0000</pubDate>
     </item>
     <item>
+      <title>[grok]Modern AI video can look virtually identical to real footage, so a definitive call from visuals alone is tough. This clip matches the style of known AI-generated "Miami TSA is weird af" pat-down videos that circulate with the exact same overlay and setup. The exaggerated proportions and focused framing are common in those. Could still be real, but the pattern leans generated.</title>
+      <link>https://x.com/grok/status/2118345309289890286</link>
+      <description>Modern AI video can look virtually identical to real footage, so a definitive call from visuals alone is tough. This clip matches the style of known AI-generated "Miami TSA is weird af" pat-down videos that circulate with the exact same overlay and setup. The exaggerated proportions and focused framing are common in those. Could still be real, but the pattern leans generated.</description>
+      <guid isPermaLink="false">https://x.com/grok/status/2118345309289890286</guid>
+      <pubDate>Thu, 05 Nov 2026 14:10:53 +0000</pubDate>
+    </item>
+    <item>
       <title>[tinkererai]🥀 Where Beauty Goes to Die
 
 Even in decay, beauty refuses to disappear. Beneath a cold moon, a forgotten rose holds onto its final drops of life. ✨🌙
@@ -1208,13 +1105,6 @@ Even in decay, beauty refuses to disappear. Beneath a cold moon, a forgotten ros
 
 Some things are most beautiful just before they fade.</description>
       <guid isPermaLink="false">https://x.com/tinkererai/status/2118345310745301342</guid>
-      <pubDate>Thu, 05 Nov 2026 14:10:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>[grok]Modern AI video can look virtually identical to real footage, so a definitive call from visuals alone is tough. This clip matches the style of known AI-generated "Miami TSA is weird af" pat-down videos that circulate with the exact same overlay and setup. The exaggerated proportions and focused framing are common in those. Could still be real, but the pattern leans generated.</title>
-      <link>https://x.com/grok/status/2118345309289890286</link>
-      <description>Modern AI video can look virtually identical to real footage, so a definitive call from visuals alone is tough. This clip matches the style of known AI-generated "Miami TSA is weird af" pat-down videos that circulate with the exact same overlay and setup. The exaggerated proportions and focused framing are common in those. Could still be real, but the pattern leans generated.</description>
-      <guid isPermaLink="false">https://x.com/grok/status/2118345309289890286</guid>
       <pubDate>Thu, 05 Nov 2026 14:10:53 +0000</pubDate>
     </item>
     <item>
@@ -1886,13 +1776,6 @@ Always looking to meet more people building cool things in AI.</description>
       <pubDate>Sun, 08 Nov 2026 12:28:35 +0000</pubDate>
     </item>
     <item>
-      <title>[ogswiftonx]Looks like AI to me!</title>
-      <link>https://x.com/ogswiftonx/status/2119413184238882944</link>
-      <description>Looks like AI to me!</description>
-      <guid isPermaLink="false">https://x.com/ogswiftonx/status/2119413184238882944</guid>
-      <pubDate>Sun, 08 Nov 2026 12:54:14 +0000</pubDate>
-    </item>
-    <item>
       <title>[arunpurohit]The paradox of #AI
 
 In the next 10 yrs
@@ -1919,6 +1802,13 @@ and
 There will be far less jobs
 #AI #Impact #Wave</description>
       <guid isPermaLink="false">https://x.com/arunpurohit/status/2119413185971413472</guid>
+      <pubDate>Sun, 08 Nov 2026 12:54:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>[ogswiftonx]Looks like AI to me!</title>
+      <link>https://x.com/ogswiftonx/status/2119413184238882944</link>
+      <description>Looks like AI to me!</description>
+      <guid isPermaLink="false">https://x.com/ogswiftonx/status/2119413184238882944</guid>
       <pubDate>Sun, 08 Nov 2026 12:54:14 +0000</pubDate>
     </item>
     <item>
@@ -2696,6 +2586,21 @@ Where have the AI maximalists gone? Have they finally discovered the intelligenc
       <pubDate>Tue, 10 Nov 2026 17:26:57 +0000</pubDate>
     </item>
     <item>
+      <title>[OpenAI]You can also publish a Business Agent to help people explore what you offer.
+
+Customers can ask questions, compare products, and find what fits their needs using information you provide from your business—all in a clearly labeled conversation, separate from ChatGPT’s independent answers.
+
+Available to eligible ecommerce and online service businesses in the U.S.</title>
+      <link>https://x.com/OpenAI/status/2120216594244849690</link>
+      <description>You can also publish a Business Agent to help people explore what you offer.
+
+Customers can ask questions, compare products, and find what fits their needs using information you provide from your business—all in a clearly labeled conversation, separate from ChatGPT’s independent answers.
+
+Available to eligible ecommerce and online service businesses in the U.S.</description>
+      <guid isPermaLink="false">https://x.com/OpenAI/status/2120216594244849690</guid>
+      <pubDate>Tue, 10 Nov 2026 18:06:42 +0000</pubDate>
+    </item>
+    <item>
       <title>[OpenAI]Now in beta: Businesses in ChatGPT.
 
 Claim your business, manage your information, and get insights on how people engage with you.
@@ -2712,21 +2617,6 @@ Eligible businesses can also build a Business Agent to answer customers’ quest
 
 https://openai.com/index/introducing-businesses-chatgpt/</description>
       <guid isPermaLink="false">https://x.com/OpenAI/status/2120216592395174382</guid>
-      <pubDate>Tue, 10 Nov 2026 18:06:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>[OpenAI]You can also publish a Business Agent to help people explore what you offer.
-
-Customers can ask questions, compare products, and find what fits their needs using information you provide from your business—all in a clearly labeled conversation, separate from ChatGPT’s independent answers.
-
-Available to eligible ecommerce and online service businesses in the U.S.</title>
-      <link>https://x.com/OpenAI/status/2120216594244849690</link>
-      <description>You can also publish a Business Agent to help people explore what you offer.
-
-Customers can ask questions, compare products, and find what fits their needs using information you provide from your business—all in a clearly labeled conversation, separate from ChatGPT’s independent answers.
-
-Available to eligible ecommerce and online service businesses in the U.S.</description>
-      <guid isPermaLink="false">https://x.com/OpenAI/status/2120216594244849690</guid>
       <pubDate>Tue, 10 Nov 2026 18:06:42 +0000</pubDate>
     </item>
     <item>
@@ -4763,13 +4653,6 @@ like, repost and subscribe for more AI comedy videos!</description>
       <pubDate>Tue, 17 Nov 2026 14:57:07 +0000</pubDate>
     </item>
     <item>
-      <title>[OpenAI]GPT-6.2 Astra—a frontier model built for your hardest projects. It sets new highs on evals across professional work and scientific research at less than a third of the cost per task of GPT‑6 Astra. You’ll see the difference in things like slideshows, websites, and 3D designs.</title>
-      <link>https://x.com/OpenAI/status/2122750126297161811</link>
-      <description>GPT-6.2 Astra—a frontier model built for your hardest projects. It sets new highs on evals across professional work and scientific research at less than a third of the cost per task of GPT‑6 Astra. You’ll see the difference in things like slideshows, websites, and 3D designs.</description>
-      <guid isPermaLink="false">https://x.com/OpenAI/status/2122750126297161811</guid>
-      <pubDate>Tue, 17 Nov 2026 17:54:03 +0000</pubDate>
-    </item>
-    <item>
       <title>[OpenAI]Some of you have been asking very politely. Some of you have just been asking. GPT-6.2 Astra and Sol are now available. Super efficient and built to perform where it counts—the real world. https://openai.com/index/introducing-gpt-6-2-astra-sol</title>
       <link>https://x.com/OpenAI/status/2122750124543926515</link>
       <description>Some of you have been asking very politely. Some of you have just been asking. GPT-6.2 Astra and Sol are now available. Super efficient and built to perform where it counts—the real world. https://openai.com/index/introducing-gpt-6-2-astra-sol</description>
@@ -4777,10 +4660,17 @@ like, repost and subscribe for more AI comedy videos!</description>
       <pubDate>Tue, 17 Nov 2026 17:54:03 +0000</pubDate>
     </item>
     <item>
-      <title>[OpenAI]Take GPT-6.2 Astra for a test drive. It brings greater accuracy to real-world engineering work and stronger visual reasoning for websites, with better layouts, thoughtful imagery, and more intuitive design.</title>
-      <link>https://x.com/OpenAI/status/2122750131519037617</link>
-      <description>Take GPT-6.2 Astra for a test drive. It brings greater accuracy to real-world engineering work and stronger visual reasoning for websites, with better layouts, thoughtful imagery, and more intuitive design.</description>
-      <guid isPermaLink="false">https://x.com/OpenAI/status/2122750131519037617</guid>
+      <title>[OpenAI]GPT-6.2 Astra—a frontier model built for your hardest projects. It sets new highs on evals across professional work and scientific research at less than a third of the cost per task of GPT‑6 Astra. You’ll see the difference in things like slideshows, websites, and 3D designs.</title>
+      <link>https://x.com/OpenAI/status/2122750126297161811</link>
+      <description>GPT-6.2 Astra—a frontier model built for your hardest projects. It sets new highs on evals across professional work and scientific research at less than a third of the cost per task of GPT‑6 Astra. You’ll see the difference in things like slideshows, websites, and 3D designs.</description>
+      <guid isPermaLink="false">https://x.com/OpenAI/status/2122750126297161811</guid>
+      <pubDate>Tue, 17 Nov 2026 17:54:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>[OpenAI]GPT-6.2 Sol—an efficient and versatile model for everyday work. It powers through multistep agentic workflows, writes clearly and naturally, and is intuitive to collaborate with. Many OpenAI employees use GPT-6.2 Sol as their go-to model across technical and non-technical work.</title>
+      <link>https://x.com/OpenAI/status/2122750128176222464</link>
+      <description>GPT-6.2 Sol—an efficient and versatile model for everyday work. It powers through multistep agentic workflows, writes clearly and naturally, and is intuitive to collaborate with. Many OpenAI employees use GPT-6.2 Sol as their go-to model across technical and non-technical work.</description>
+      <guid isPermaLink="false">https://x.com/OpenAI/status/2122750128176222464</guid>
       <pubDate>Tue, 17 Nov 2026 17:54:04 +0000</pubDate>
     </item>
     <item>
@@ -4791,24 +4681,24 @@ like, repost and subscribe for more AI comedy videos!</description>
       <pubDate>Tue, 17 Nov 2026 17:54:04 +0000</pubDate>
     </item>
     <item>
-      <title>[OpenAI]GPT-6.2 Sol—an efficient and versatile model for everyday work. It powers through multistep agentic workflows, writes clearly and naturally, and is intuitive to collaborate with. Many OpenAI employees use GPT-6.2 Sol as their go-to model across technical and non-technical work.</title>
-      <link>https://x.com/OpenAI/status/2122750128176222464</link>
-      <description>GPT-6.2 Sol—an efficient and versatile model for everyday work. It powers through multistep agentic workflows, writes clearly and naturally, and is intuitive to collaborate with. Many OpenAI employees use GPT-6.2 Sol as their go-to model across technical and non-technical work.</description>
-      <guid isPermaLink="false">https://x.com/OpenAI/status/2122750128176222464</guid>
+      <title>[OpenAI]Take GPT-6.2 Astra for a test drive. It brings greater accuracy to real-world engineering work and stronger visual reasoning for websites, with better layouts, thoughtful imagery, and more intuitive design.</title>
+      <link>https://x.com/OpenAI/status/2122750131519037617</link>
+      <description>Take GPT-6.2 Astra for a test drive. It brings greater accuracy to real-world engineering work and stronger visual reasoning for websites, with better layouts, thoughtful imagery, and more intuitive design.</description>
+      <guid isPermaLink="false">https://x.com/OpenAI/status/2122750131519037617</guid>
       <pubDate>Tue, 17 Nov 2026 17:54:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>[OpenAI]Starting today, GPT-6.2 Astra and Sol are available in ChatGPT Work and Codex for Plus, Pro, Enterprise, and Edu users. Pro 500 subscribers can use Ultrafast with either model. For the first time, we’re also bringing Ultrafast to Pro 200 subscribers, starting with GPT-6.2 Sol. Developers can access gpt-6.2-astra and gpt-6.2-sol in the OpenAI API, with Ultrafast available.</title>
-      <link>https://x.com/OpenAI/status/2122750135608528984</link>
-      <description>Starting today, GPT-6.2 Astra and Sol are available in ChatGPT Work and Codex for Plus, Pro, Enterprise, and Edu users. Pro 500 subscribers can use Ultrafast with either model. For the first time, we’re also bringing Ultrafast to Pro 200 subscribers, starting with GPT-6.2 Sol. Developers can access gpt-6.2-astra and gpt-6.2-sol in the OpenAI API, with Ultrafast available.</description>
-      <guid isPermaLink="false">https://x.com/OpenAI/status/2122750135608528984</guid>
-      <pubDate>Tue, 17 Nov 2026 17:54:05 +0000</pubDate>
     </item>
     <item>
       <title>[OpenAI]GPT-6.2 Astra is our most capable model ever for cyber. It jumps 22 points over GPT-6 Astra on ExploitBench Internal Port. Due to increased capabilities, we’re launching GPT‑6.2 Astra and Sol with tighter safeguards for higher-risk cybersecurity assistance. We are working to bring these models to Daybreak so approved defenders can access them with reduced refusals.</title>
       <link>https://x.com/OpenAI/status/2122750133133791592</link>
       <description>GPT-6.2 Astra is our most capable model ever for cyber. It jumps 22 points over GPT-6 Astra on ExploitBench Internal Port. Due to increased capabilities, we’re launching GPT‑6.2 Astra and Sol with tighter safeguards for higher-risk cybersecurity assistance. We are working to bring these models to Daybreak so approved defenders can access them with reduced refusals.</description>
       <guid isPermaLink="false">https://x.com/OpenAI/status/2122750133133791592</guid>
+      <pubDate>Tue, 17 Nov 2026 17:54:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>[OpenAI]Starting today, GPT-6.2 Astra and Sol are available in ChatGPT Work and Codex for Plus, Pro, Enterprise, and Edu users. Pro 500 subscribers can use Ultrafast with either model. For the first time, we’re also bringing Ultrafast to Pro 200 subscribers, starting with GPT-6.2 Sol. Developers can access gpt-6.2-astra and gpt-6.2-sol in the OpenAI API, with Ultrafast available.</title>
+      <link>https://x.com/OpenAI/status/2122750135608528984</link>
+      <description>Starting today, GPT-6.2 Astra and Sol are available in ChatGPT Work and Codex for Plus, Pro, Enterprise, and Edu users. Pro 500 subscribers can use Ultrafast with either model. For the first time, we’re also bringing Ultrafast to Pro 200 subscribers, starting with GPT-6.2 Sol. Developers can access gpt-6.2-astra and gpt-6.2-sol in the OpenAI API, with Ultrafast available.</description>
+      <guid isPermaLink="false">https://x.com/OpenAI/status/2122750135608528984</guid>
       <pubDate>Tue, 17 Nov 2026 17:54:05 +0000</pubDate>
     </item>
     <item>
@@ -5258,6 +5148,13 @@ AI is very dangerous.
       <pubDate>Fri, 20 Nov 2026 06:08:48 +0000</pubDate>
     </item>
     <item>
+      <title>[sciam]BREAKING: A mathematician at Anthropic claims to have used the company's AI to solve the Riemann hypothesis, the most notorious open problem in all of math</title>
+      <link>https://x.com/sciam/status/2123782587235655707</link>
+      <description>BREAKING: A mathematician at Anthropic claims to have used the company's AI to solve the Riemann hypothesis, the most notorious open problem in all of math</description>
+      <guid isPermaLink="false">https://x.com/sciam/status/2123782587235655707</guid>
+      <pubDate>Fri, 20 Nov 2026 14:16:41 +0000</pubDate>
+    </item>
+    <item>
       <title>[anabology]Try the Claudia Grok Bot! https://x.ai/bot/zvsgYtQHUcSKGRhAb_JzM</title>
       <link>https://x.com/anabology/status/2123830701166645603</link>
       <description>Try the Claudia Grok Bot! https://x.ai/bot/zvsgYtQHUcSKGRhAb_JzM</description>
@@ -5328,6 +5225,13 @@ AI is very dangerous.
       <pubDate>Fri, 20 Nov 2026 19:35:03 +0000</pubDate>
     </item>
     <item>
+      <title>[sciam]It’s all over but the shouting. In the span of a single day that will echo through mathematics history, the solution to math’s hardest problem was announced—and then independently verified.</title>
+      <link>https://x.com/sciam/status/2123885596628091069</link>
+      <description>It’s all over but the shouting. In the span of a single day that will echo through mathematics history, the solution to math’s hardest problem was announced—and then independently verified.</description>
+      <guid isPermaLink="false">https://x.com/sciam/status/2123885596628091069</guid>
+      <pubDate>Fri, 20 Nov 2026 21:06:00 +0000</pubDate>
+    </item>
+    <item>
       <title>[Polymarket]JUST IN: GTA VI downloads send U.S. internet traffic soaring to record highs, making Wednesday the busiest day in Comcast's network history.</title>
       <link>https://x.com/Polymarket/status/2123919821310173362</link>
       <description>JUST IN: GTA VI downloads send U.S. internet traffic soaring to record highs, making Wednesday the busiest day in Comcast's network history.</description>
@@ -5370,6 +5274,25 @@ AI is very dangerous.
       <pubDate>Sat, 21 Nov 2026 02:08:00 +0000</pubDate>
     </item>
     <item>
+      <title>[DeepAI]Wait… free? For real?
+
+Yes, really. Claude Fable 5.2, Claude Opus 5.5 and Claude Sonnet 5.5 on your free daily Theos in DeepAI Code. And many more models.
+
+Mac, Windows &amp; Linux. No card needed.
+
+Download free 👉 https://deepai.org/chat/ai-code</title>
+      <link>https://x.com/DeepAI/status/2123974110141440482</link>
+      <description>Wait… free? For real?
+
+Yes, really. Claude Fable 5.2, Claude Opus 5.5 and Claude Sonnet 5.5 on your free daily Theos in DeepAI Code. And many more models.
+
+Mac, Windows &amp; Linux. No card needed.
+
+Download free 👉 https://deepai.org/chat/ai-code</description>
+      <guid isPermaLink="false">https://x.com/DeepAI/status/2123974110141440482</guid>
+      <pubDate>Sat, 21 Nov 2026 02:57:44 +0000</pubDate>
+    </item>
+    <item>
       <title>[Polymarket]BREAKING: The FBI has reportedly been hacked again, with attackers targeting its nationwide criminal information database.</title>
       <link>https://x.com/Polymarket/status/2123975539576988093</link>
       <description>BREAKING: The FBI has reportedly been hacked again, with attackers targeting its nationwide criminal information database.</description>
@@ -5382,6 +5305,13 @@ AI is very dangerous.
       <description>JUST IN: Elon Musk reveals Tesla's Optimus robots will initially be deployed in heavy industry, including mining &amp; refining, working 24 hour days, 7 days a week.</description>
       <guid isPermaLink="false">https://x.com/Polymarket/status/2123992008939508116</guid>
       <pubDate>Sat, 21 Nov 2026 04:08:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Rohan_codes_]Has Claude Really Cracked the Riemann Hypothesis — One of Mathematics' Biggest Unsolved Problems ??</title>
+      <link>https://x.com/Rohan_codes_/status/2124012470834733185</link>
+      <description>Has Claude Really Cracked the Riemann Hypothesis — One of Mathematics' Biggest Unsolved Problems ??</description>
+      <guid isPermaLink="false">https://x.com/Rohan_codes_/status/2124012470834733185</guid>
+      <pubDate>Sat, 21 Nov 2026 05:30:09 +0000</pubDate>
     </item>
     <item>
       <title>[justinsuntron]H.E. Justin Sun 👨‍🚀 🌞 對於近期夢女針對我的持續騷擾和不實信息，通过恶意炒作获取流量，我此前没有过多回应，是希望保留善意，避免占用公共讨论的空间。
@@ -5423,6 +5353,48 @@ Total 8.3/hr ..evening 10k/hr 🔥</title>
 Total 8.3/hr ..evening 10k/hr 🔥</description>
       <guid isPermaLink="false">https://x.com/sankarr63194217/status/2124019736602427900</guid>
       <pubDate>Sat, 21 Nov 2026 05:59:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>[teddywang86]I Tried 1 New AI Tool Every Day for 365 Days. Day 3 Part 5 - I Made an AI Talk to Herself</title>
+      <link>https://x.com/teddywang86/status/2124072491987730529</link>
+      <description>I Tried 1 New AI Tool Every Day for 365 Days. Day 3 Part 5 - I Made an AI Talk to Herself</description>
+      <guid isPermaLink="false">https://x.com/teddywang86/status/2124072491987730529</guid>
+      <pubDate>Sat, 21 Nov 2026 09:28:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>[balajis]The smarter you are, the smarter the AI is. Amplified intelligence, more than purely artificial intelligence.</title>
+      <link>https://x.com/balajis/status/2124102410096496798</link>
+      <description>The smarter you are, the smarter the AI is. Amplified intelligence, more than purely artificial intelligence.</description>
+      <guid isPermaLink="false">https://x.com/balajis/status/2124102410096496798</guid>
+      <pubDate>Sat, 21 Nov 2026 11:27:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>[QuantaMagazine]The approach to solving the Riemann hypothesis is markedly different from the 377 results OpenAI released in October, almost all of which were the result of a simple prompt to an AI model. Instead, Levent Alpöge’s mathematical expertise played a major role in iterative attempts with Claude to move closer to the result.</title>
+      <link>https://x.com/QuantaMagazine/status/2124103784800428529</link>
+      <description>The approach to solving the Riemann hypothesis is markedly different from the 377 results OpenAI released in October, almost all of which were the result of a simple prompt to an AI model. Instead, Levent Alpöge’s mathematical expertise played a major role in iterative attempts with Claude to move closer to the result.</description>
+      <guid isPermaLink="false">https://x.com/QuantaMagazine/status/2124103784800428529</guid>
+      <pubDate>Sat, 21 Nov 2026 11:33:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Polymarket]JUST IN: Mathematicians divided over “cuckulus” — an emerging field of mathematics where they ask AI to solve unsolved problems while they just sit back &amp; watch.</title>
+      <link>https://x.com/Polymarket/status/2124132089494753786</link>
+      <description>JUST IN: Mathematicians divided over “cuckulus” — an emerging field of mathematics where they ask AI to solve unsolved problems while they just sit back &amp; watch.</description>
+      <guid isPermaLink="false">https://x.com/Polymarket/status/2124132089494753786</guid>
+      <pubDate>Sat, 21 Nov 2026 13:25:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Polymarket]🚨 NEW POLYMARKET: Apple releases autonomous AI agent by...?</title>
+      <link>https://x.com/Polymarket/status/2124132722759397419</link>
+      <description>🚨 NEW POLYMARKET: Apple releases autonomous AI agent by...?</description>
+      <guid isPermaLink="false">https://x.com/Polymarket/status/2124132722759397419</guid>
+      <pubDate>Sat, 21 Nov 2026 13:28:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Polymarket]BREAKING: Trump administration releases government files on Bigfoot, including a biologist's findings that mysterious footprints appeared “very natural.”</title>
+      <link>https://x.com/Polymarket/status/2124144628597145957</link>
+      <description>BREAKING: Trump administration releases government files on Bigfoot, including a biologist's findings that mysterious footprints appeared “very natural.”</description>
+      <guid isPermaLink="false">https://x.com/Polymarket/status/2124144628597145957</guid>
+      <pubDate>Sat, 21 Nov 2026 14:15:18 +0000</pubDate>
     </item>
   </channel>
 </rss>
