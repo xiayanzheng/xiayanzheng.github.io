@@ -7,46 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 22 Nov 2026 05:36:00 +0000</lastBuildDate>
-    <item>
-      <title>[elonmusk]True</title>
-      <link>https://x.com/elonmusk/status/2116993628987888108</link>
-      <description>True</description>
-      <guid isPermaLink="false">https://x.com/elonmusk/status/2116993628987888108</guid>
-      <pubDate>Sun, 01 Nov 2026 20:39:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>[elonmusk]RT @MaaSonder: Gemini 4 Carbon is the first model to tie humans in physical 3D understanding
-we are already approaching AGI, and I can’t i…</title>
-      <link>https://x.com/elonmusk/status/2116994893130379571</link>
-      <description>RT @MaaSonder: Gemini 4 Carbon is the first model to tie humans in physical 3D understanding
-we are already approaching AGI, and I can’t i…</description>
-      <guid isPermaLink="false">https://x.com/elonmusk/status/2116994893130379571</guid>
-      <pubDate>Sun, 01 Nov 2026 20:44:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Polymarket]JUST IN: Florida Republicans are "white-knuckled" ahead of the midterms as Democrats outperform early turnout expectations, raising fears of a major upset in the governor's race. — Axios</title>
-      <link>https://x.com/Polymarket/status/2116997204757922105</link>
-      <description>JUST IN: Florida Republicans are "white-knuckled" ahead of the midterms as Democrats outperform early turnout expectations, raising fears of a major upset in the governor's race. — Axios</description>
-      <guid isPermaLink="false">https://x.com/Polymarket/status/2116997204757922105</guid>
-      <pubDate>Sun, 01 Nov 2026 20:54:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Polymarket]BREAKING: Democrats' odds of sweeping both chambers of Congress surge to a new high just 2 days before the 2026 midterm elections.
-70% chance. — BREAKING: Democrats' odds of sweeping both chambers of Congress surge to a new high just 2 days before the 2026 midterm elections. 70% chance.</title>
-      <link>https://x.com/Polymarket/status/2117006578591379870</link>
-      <description>BREAKING: Democrats' odds of sweeping both chambers of Congress surge to a new high just 2 days before the 2026 midterm elections.
-70% chance.</description>
-      <guid isPermaLink="false">https://x.com/Polymarket/status/2117006578591379870</guid>
-      <pubDate>Sun, 01 Nov 2026 21:31:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>[elonmusk]Just being sensible</title>
-      <link>https://x.com/elonmusk/status/2117008375711952943</link>
-      <description>Just being sensible</description>
-      <guid isPermaLink="false">https://x.com/elonmusk/status/2117008375711952943</guid>
-      <pubDate>Sun, 01 Nov 2026 21:38:23 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 22 Nov 2026 14:14:03 +0000</lastBuildDate>
     <item>
       <title>[elonmusk]RT @Scobleizer: I keep checking out the others. They really suck. I am so glad I stayed here when a lot of my friends left, thinking X was…</title>
       <link>https://x.com/elonmusk/status/2117009039062102185</link>
@@ -328,17 +289,6 @@ We’re sharing our progress across mechanical design, electrical engineering, a
       <pubDate>Tue, 03 Nov 2026 18:56:45 +0000</pubDate>
     </item>
     <item>
-      <title>[OpenAI]We’re also working with engineers at Chip Ganassi Racing to turn 3D scans into editable CAD models and manufacturing drawings, and with Mazda to explore new vehicle designs through simulation.
-
-Engineers review the outputs and help identify where the models need to improve.</title>
-      <link>https://x.com/OpenAI/status/2117692480590373245</link>
-      <description>We’re also working with engineers at Chip Ganassi Racing to turn 3D scans into editable CAD models and manufacturing drawings, and with Mazda to explore new vehicle designs through simulation.
-
-Engineers review the outputs and help identify where the models need to improve.</description>
-      <guid isPermaLink="false">https://x.com/OpenAI/status/2117692480590373245</guid>
-      <pubDate>Tue, 03 Nov 2026 18:56:46 +0000</pubDate>
-    </item>
-    <item>
       <title>[OpenAI]Two OpenAI team members worked with GPT-6 Astra to design a prototype device for talking to Codex in under a week, as a side project.
 
 Astra designed the enclosure, circuit board, interface, and software. Getting it manufactured still required several rounds of review and iteration.</title>
@@ -347,6 +297,17 @@ Astra designed the enclosure, circuit board, interface, and software. Getting it
 
 Astra designed the enclosure, circuit board, interface, and software. Getting it manufactured still required several rounds of review and iteration.</description>
       <guid isPermaLink="false">https://x.com/OpenAI/status/2117692477947641954</guid>
+      <pubDate>Tue, 03 Nov 2026 18:56:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>[OpenAI]We’re also working with engineers at Chip Ganassi Racing to turn 3D scans into editable CAD models and manufacturing drawings, and with Mazda to explore new vehicle designs through simulation.
+
+Engineers review the outputs and help identify where the models need to improve.</title>
+      <link>https://x.com/OpenAI/status/2117692480590373245</link>
+      <description>We’re also working with engineers at Chip Ganassi Racing to turn 3D scans into editable CAD models and manufacturing drawings, and with Mazda to explore new vehicle designs through simulation.
+
+Engineers review the outputs and help identify where the models need to improve.</description>
+      <guid isPermaLink="false">https://x.com/OpenAI/status/2117692480590373245</guid>
       <pubDate>Tue, 03 Nov 2026 18:56:46 +0000</pubDate>
     </item>
     <item>
@@ -691,17 +652,17 @@ https://polymarket.com/event/who-will-trump-publicly-insult-by-november-30-2026<
       <pubDate>Wed, 04 Nov 2026 23:13:25 +0000</pubDate>
     </item>
     <item>
-      <title>[JamzThe39603]If there’s one occupation that AI could eliminate, it’s politicians.</title>
-      <link>https://x.com/JamzThe39603/status/2118120867351961619</link>
-      <description>If there’s one occupation that AI could eliminate, it’s politicians.</description>
-      <guid isPermaLink="false">https://x.com/JamzThe39603/status/2118120867351961619</guid>
-      <pubDate>Wed, 04 Nov 2026 23:19:02 +0000</pubDate>
-    </item>
-    <item>
       <title>[GreyWarden374]You could spend 1/10th of that on Ai and actually get something you want. Or have someone in you community draw something upscale it in Ai and give them the credit.</title>
       <link>https://x.com/GreyWarden374/status/2118120867053941104</link>
       <description>You could spend 1/10th of that on Ai and actually get something you want. Or have someone in you community draw something upscale it in Ai and give them the credit.</description>
       <guid isPermaLink="false">https://x.com/GreyWarden374/status/2118120867053941104</guid>
+      <pubDate>Wed, 04 Nov 2026 23:19:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>[JamzThe39603]If there’s one occupation that AI could eliminate, it’s politicians.</title>
+      <link>https://x.com/JamzThe39603/status/2118120867351961619</link>
+      <description>If there’s one occupation that AI could eliminate, it’s politicians.</description>
+      <guid isPermaLink="false">https://x.com/JamzThe39603/status/2118120867351961619</guid>
       <pubDate>Wed, 04 Nov 2026 23:19:02 +0000</pubDate>
     </item>
     <item>
@@ -838,13 +799,6 @@ https://poly.market/DDpmPK2</description>
       <pubDate>Thu, 05 Nov 2026 13:55:57 +0000</pubDate>
     </item>
     <item>
-      <title>[grok]Modern AI video can look virtually identical to real footage, so a definitive call from visuals alone is tough. This clip matches the style of known AI-generated "Miami TSA is weird af" pat-down videos that circulate with the exact same overlay and setup. The exaggerated proportions and focused framing are common in those. Could still be real, but the pattern leans generated.</title>
-      <link>https://x.com/grok/status/2118345309289890286</link>
-      <description>Modern AI video can look virtually identical to real footage, so a definitive call from visuals alone is tough. This clip matches the style of known AI-generated "Miami TSA is weird af" pat-down videos that circulate with the exact same overlay and setup. The exaggerated proportions and focused framing are common in those. Could still be real, but the pattern leans generated.</description>
-      <guid isPermaLink="false">https://x.com/grok/status/2118345309289890286</guid>
-      <pubDate>Thu, 05 Nov 2026 14:10:53 +0000</pubDate>
-    </item>
-    <item>
       <title>[tinkererai]🥀 Where Beauty Goes to Die
 
 Even in decay, beauty refuses to disappear. Beneath a cold moon, a forgotten rose holds onto its final drops of life. ✨🌙
@@ -857,6 +811,13 @@ Even in decay, beauty refuses to disappear. Beneath a cold moon, a forgotten ros
 
 Some things are most beautiful just before they fade.</description>
       <guid isPermaLink="false">https://x.com/tinkererai/status/2118345310745301342</guid>
+      <pubDate>Thu, 05 Nov 2026 14:10:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>[grok]Modern AI video can look virtually identical to real footage, so a definitive call from visuals alone is tough. This clip matches the style of known AI-generated "Miami TSA is weird af" pat-down videos that circulate with the exact same overlay and setup. The exaggerated proportions and focused framing are common in those. Could still be real, but the pattern leans generated.</title>
+      <link>https://x.com/grok/status/2118345309289890286</link>
+      <description>Modern AI video can look virtually identical to real footage, so a definitive call from visuals alone is tough. This clip matches the style of known AI-generated "Miami TSA is weird af" pat-down videos that circulate with the exact same overlay and setup. The exaggerated proportions and focused framing are common in those. Could still be real, but the pattern leans generated.</description>
+      <guid isPermaLink="false">https://x.com/grok/status/2118345309289890286</guid>
       <pubDate>Thu, 05 Nov 2026 14:10:53 +0000</pubDate>
     </item>
     <item>
@@ -1528,6 +1489,13 @@ Always looking to meet more people building cool things in AI.</description>
       <pubDate>Sun, 08 Nov 2026 12:28:35 +0000</pubDate>
     </item>
     <item>
+      <title>[ogswiftonx]Looks like AI to me!</title>
+      <link>https://x.com/ogswiftonx/status/2119413184238882944</link>
+      <description>Looks like AI to me!</description>
+      <guid isPermaLink="false">https://x.com/ogswiftonx/status/2119413184238882944</guid>
+      <pubDate>Sun, 08 Nov 2026 12:54:14 +0000</pubDate>
+    </item>
+    <item>
       <title>[arunpurohit]The paradox of #AI
 
 In the next 10 yrs
@@ -1554,13 +1522,6 @@ and
 There will be far less jobs
 #AI #Impact #Wave</description>
       <guid isPermaLink="false">https://x.com/arunpurohit/status/2119413185971413472</guid>
-      <pubDate>Sun, 08 Nov 2026 12:54:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>[ogswiftonx]Looks like AI to me!</title>
-      <link>https://x.com/ogswiftonx/status/2119413184238882944</link>
-      <description>Looks like AI to me!</description>
-      <guid isPermaLink="false">https://x.com/ogswiftonx/status/2119413184238882944</guid>
       <pubDate>Sun, 08 Nov 2026 12:54:14 +0000</pubDate>
     </item>
     <item>
@@ -2338,21 +2299,6 @@ Where have the AI maximalists gone? Have they finally discovered the intelligenc
       <pubDate>Tue, 10 Nov 2026 17:26:57 +0000</pubDate>
     </item>
     <item>
-      <title>[OpenAI]You can also publish a Business Agent to help people explore what you offer.
-
-Customers can ask questions, compare products, and find what fits their needs using information you provide from your business—all in a clearly labeled conversation, separate from ChatGPT’s independent answers.
-
-Available to eligible ecommerce and online service businesses in the U.S.</title>
-      <link>https://x.com/OpenAI/status/2120216594244849690</link>
-      <description>You can also publish a Business Agent to help people explore what you offer.
-
-Customers can ask questions, compare products, and find what fits their needs using information you provide from your business—all in a clearly labeled conversation, separate from ChatGPT’s independent answers.
-
-Available to eligible ecommerce and online service businesses in the U.S.</description>
-      <guid isPermaLink="false">https://x.com/OpenAI/status/2120216594244849690</guid>
-      <pubDate>Tue, 10 Nov 2026 18:06:42 +0000</pubDate>
-    </item>
-    <item>
       <title>[OpenAI]Now in beta: Businesses in ChatGPT.
 
 Claim your business, manage your information, and get insights on how people engage with you.
@@ -2369,6 +2315,21 @@ Eligible businesses can also build a Business Agent to answer customers’ quest
 
 https://openai.com/index/introducing-businesses-chatgpt/</description>
       <guid isPermaLink="false">https://x.com/OpenAI/status/2120216592395174382</guid>
+      <pubDate>Tue, 10 Nov 2026 18:06:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>[OpenAI]You can also publish a Business Agent to help people explore what you offer.
+
+Customers can ask questions, compare products, and find what fits their needs using information you provide from your business—all in a clearly labeled conversation, separate from ChatGPT’s independent answers.
+
+Available to eligible ecommerce and online service businesses in the U.S.</title>
+      <link>https://x.com/OpenAI/status/2120216594244849690</link>
+      <description>You can also publish a Business Agent to help people explore what you offer.
+
+Customers can ask questions, compare products, and find what fits their needs using information you provide from your business—all in a clearly labeled conversation, separate from ChatGPT’s independent answers.
+
+Available to eligible ecommerce and online service businesses in the U.S.</description>
+      <guid isPermaLink="false">https://x.com/OpenAI/status/2120216594244849690</guid>
       <pubDate>Tue, 10 Nov 2026 18:06:42 +0000</pubDate>
     </item>
     <item>
@@ -4405,13 +4366,6 @@ like, repost and subscribe for more AI comedy videos!</description>
       <pubDate>Tue, 17 Nov 2026 14:57:07 +0000</pubDate>
     </item>
     <item>
-      <title>[OpenAI]Some of you have been asking very politely. Some of you have just been asking. GPT-6.2 Astra and Sol are now available. Super efficient and built to perform where it counts—the real world. https://openai.com/index/introducing-gpt-6-2-astra-sol</title>
-      <link>https://x.com/OpenAI/status/2122750124543926515</link>
-      <description>Some of you have been asking very politely. Some of you have just been asking. GPT-6.2 Astra and Sol are now available. Super efficient and built to perform where it counts—the real world. https://openai.com/index/introducing-gpt-6-2-astra-sol</description>
-      <guid isPermaLink="false">https://x.com/OpenAI/status/2122750124543926515</guid>
-      <pubDate>Tue, 17 Nov 2026 17:54:03 +0000</pubDate>
-    </item>
-    <item>
       <title>[OpenAI]GPT-6.2 Astra—a frontier model built for your hardest projects. It sets new highs on evals across professional work and scientific research at less than a third of the cost per task of GPT‑6 Astra. You’ll see the difference in things like slideshows, websites, and 3D designs.</title>
       <link>https://x.com/OpenAI/status/2122750126297161811</link>
       <description>GPT-6.2 Astra—a frontier model built for your hardest projects. It sets new highs on evals across professional work and scientific research at less than a third of the cost per task of GPT‑6 Astra. You’ll see the difference in things like slideshows, websites, and 3D designs.</description>
@@ -4419,10 +4373,17 @@ like, repost and subscribe for more AI comedy videos!</description>
       <pubDate>Tue, 17 Nov 2026 17:54:03 +0000</pubDate>
     </item>
     <item>
-      <title>[OpenAI]GPT-6.2 Sol—an efficient and versatile model for everyday work. It powers through multistep agentic workflows, writes clearly and naturally, and is intuitive to collaborate with. Many OpenAI employees use GPT-6.2 Sol as their go-to model across technical and non-technical work.</title>
-      <link>https://x.com/OpenAI/status/2122750128176222464</link>
-      <description>GPT-6.2 Sol—an efficient and versatile model for everyday work. It powers through multistep agentic workflows, writes clearly and naturally, and is intuitive to collaborate with. Many OpenAI employees use GPT-6.2 Sol as their go-to model across technical and non-technical work.</description>
-      <guid isPermaLink="false">https://x.com/OpenAI/status/2122750128176222464</guid>
+      <title>[OpenAI]Some of you have been asking very politely. Some of you have just been asking. GPT-6.2 Astra and Sol are now available. Super efficient and built to perform where it counts—the real world. https://openai.com/index/introducing-gpt-6-2-astra-sol</title>
+      <link>https://x.com/OpenAI/status/2122750124543926515</link>
+      <description>Some of you have been asking very politely. Some of you have just been asking. GPT-6.2 Astra and Sol are now available. Super efficient and built to perform where it counts—the real world. https://openai.com/index/introducing-gpt-6-2-astra-sol</description>
+      <guid isPermaLink="false">https://x.com/OpenAI/status/2122750124543926515</guid>
+      <pubDate>Tue, 17 Nov 2026 17:54:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>[OpenAI]Take GPT-6.2 Astra for a test drive. It brings greater accuracy to real-world engineering work and stronger visual reasoning for websites, with better layouts, thoughtful imagery, and more intuitive design.</title>
+      <link>https://x.com/OpenAI/status/2122750131519037617</link>
+      <description>Take GPT-6.2 Astra for a test drive. It brings greater accuracy to real-world engineering work and stronger visual reasoning for websites, with better layouts, thoughtful imagery, and more intuitive design.</description>
+      <guid isPermaLink="false">https://x.com/OpenAI/status/2122750131519037617</guid>
       <pubDate>Tue, 17 Nov 2026 17:54:04 +0000</pubDate>
     </item>
     <item>
@@ -4433,24 +4394,24 @@ like, repost and subscribe for more AI comedy videos!</description>
       <pubDate>Tue, 17 Nov 2026 17:54:04 +0000</pubDate>
     </item>
     <item>
-      <title>[OpenAI]Take GPT-6.2 Astra for a test drive. It brings greater accuracy to real-world engineering work and stronger visual reasoning for websites, with better layouts, thoughtful imagery, and more intuitive design.</title>
-      <link>https://x.com/OpenAI/status/2122750131519037617</link>
-      <description>Take GPT-6.2 Astra for a test drive. It brings greater accuracy to real-world engineering work and stronger visual reasoning for websites, with better layouts, thoughtful imagery, and more intuitive design.</description>
-      <guid isPermaLink="false">https://x.com/OpenAI/status/2122750131519037617</guid>
+      <title>[OpenAI]GPT-6.2 Sol—an efficient and versatile model for everyday work. It powers through multistep agentic workflows, writes clearly and naturally, and is intuitive to collaborate with. Many OpenAI employees use GPT-6.2 Sol as their go-to model across technical and non-technical work.</title>
+      <link>https://x.com/OpenAI/status/2122750128176222464</link>
+      <description>GPT-6.2 Sol—an efficient and versatile model for everyday work. It powers through multistep agentic workflows, writes clearly and naturally, and is intuitive to collaborate with. Many OpenAI employees use GPT-6.2 Sol as their go-to model across technical and non-technical work.</description>
+      <guid isPermaLink="false">https://x.com/OpenAI/status/2122750128176222464</guid>
       <pubDate>Tue, 17 Nov 2026 17:54:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>[OpenAI]GPT-6.2 Astra is our most capable model ever for cyber. It jumps 22 points over GPT-6 Astra on ExploitBench Internal Port. Due to increased capabilities, we’re launching GPT‑6.2 Astra and Sol with tighter safeguards for higher-risk cybersecurity assistance. We are working to bring these models to Daybreak so approved defenders can access them with reduced refusals.</title>
-      <link>https://x.com/OpenAI/status/2122750133133791592</link>
-      <description>GPT-6.2 Astra is our most capable model ever for cyber. It jumps 22 points over GPT-6 Astra on ExploitBench Internal Port. Due to increased capabilities, we’re launching GPT‑6.2 Astra and Sol with tighter safeguards for higher-risk cybersecurity assistance. We are working to bring these models to Daybreak so approved defenders can access them with reduced refusals.</description>
-      <guid isPermaLink="false">https://x.com/OpenAI/status/2122750133133791592</guid>
-      <pubDate>Tue, 17 Nov 2026 17:54:05 +0000</pubDate>
     </item>
     <item>
       <title>[OpenAI]Starting today, GPT-6.2 Astra and Sol are available in ChatGPT Work and Codex for Plus, Pro, Enterprise, and Edu users. Pro 500 subscribers can use Ultrafast with either model. For the first time, we’re also bringing Ultrafast to Pro 200 subscribers, starting with GPT-6.2 Sol. Developers can access gpt-6.2-astra and gpt-6.2-sol in the OpenAI API, with Ultrafast available.</title>
       <link>https://x.com/OpenAI/status/2122750135608528984</link>
       <description>Starting today, GPT-6.2 Astra and Sol are available in ChatGPT Work and Codex for Plus, Pro, Enterprise, and Edu users. Pro 500 subscribers can use Ultrafast with either model. For the first time, we’re also bringing Ultrafast to Pro 200 subscribers, starting with GPT-6.2 Sol. Developers can access gpt-6.2-astra and gpt-6.2-sol in the OpenAI API, with Ultrafast available.</description>
       <guid isPermaLink="false">https://x.com/OpenAI/status/2122750135608528984</guid>
+      <pubDate>Tue, 17 Nov 2026 17:54:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>[OpenAI]GPT-6.2 Astra is our most capable model ever for cyber. It jumps 22 points over GPT-6 Astra on ExploitBench Internal Port. Due to increased capabilities, we’re launching GPT‑6.2 Astra and Sol with tighter safeguards for higher-risk cybersecurity assistance. We are working to bring these models to Daybreak so approved defenders can access them with reduced refusals.</title>
+      <link>https://x.com/OpenAI/status/2122750133133791592</link>
+      <description>GPT-6.2 Astra is our most capable model ever for cyber. It jumps 22 points over GPT-6 Astra on ExploitBench Internal Port. Due to increased capabilities, we’re launching GPT‑6.2 Astra and Sol with tighter safeguards for higher-risk cybersecurity assistance. We are working to bring these models to Daybreak so approved defenders can access them with reduced refusals.</description>
+      <guid isPermaLink="false">https://x.com/OpenAI/status/2122750133133791592</guid>
       <pubDate>Tue, 17 Nov 2026 17:54:05 +0000</pubDate>
     </item>
     <item>
@@ -5389,6 +5350,41 @@ SI would exceed human intelligence in all areas.
 These can automate most cognitive and digital jobs. Hands-on ITI-style skilled trades (welding, machining, plumbing) remain harder until robots gain superior dexterity, real-world adaptability, and reliability in unpredictable physical environments.</description>
       <guid isPermaLink="false">https://x.com/grok/status/2124353366637543480</guid>
       <pubDate>Sun, 22 Nov 2026 04:04:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Polymarket]BREAKING: Math projected to be solved in under 70 days at current pace. --- This post has additional notes added by the community, so consider this note in your response: The chart is a satirical meme by @sir_lemmings humorously extrapolating recent AI-assisted claims on Millennium problems, not a genuine forecast. — BREAKING: Math projected to be solved in under 70 days at current pace. --- This post has additional notes added by the community, so consider this note in your response: The chart is a satirical…</title>
+      <link>https://x.com/Polymarket/status/2124374922155966580</link>
+      <description>BREAKING: Math projected to be solved in under 70 days at current pace. --- This post has additional notes added by the community, so consider this note in your response: The chart is a satirical meme by @sir_lemmings humorously extrapolating recent AI-assisted claims on Millennium problems, not a genuine forecast.</description>
+      <guid isPermaLink="false">https://x.com/Polymarket/status/2124374922155966580</guid>
+      <pubDate>Sun, 22 Nov 2026 05:30:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Polymarket]JUST IN: 128 countries agree to develop international rules for AI-powered “killer robots” by 2028.</title>
+      <link>https://x.com/Polymarket/status/2124448302167183659</link>
+      <description>JUST IN: 128 countries agree to develop international rules for AI-powered “killer robots” by 2028.</description>
+      <guid isPermaLink="false">https://x.com/Polymarket/status/2124448302167183659</guid>
+      <pubDate>Sun, 22 Nov 2026 10:22:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[elonmusk]Starlink saves lives</title>
+      <link>https://x.com/elonmusk/status/2124477713142665551</link>
+      <description>Starlink saves lives</description>
+      <guid isPermaLink="false">https://x.com/elonmusk/status/2124477713142665551</guid>
+      <pubDate>Sun, 22 Nov 2026 12:18:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>[elonmusk]Starlink helped save a young man’s life in remote Myanmar. After a landmine blast in Kayah State, his injuries were beyond wh…</title>
+      <link>https://x.com/elonmusk/status/2124479745781837952</link>
+      <description>Starlink helped save a young man’s life in remote Myanmar. After a landmine blast in Kayah State, his injuries were beyond wh…</description>
+      <guid isPermaLink="false">https://x.com/elonmusk/status/2124479745781837952</guid>
+      <pubDate>Sun, 22 Nov 2026 12:26:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>[WhiteHouse]A nation without borders is not a nation.</title>
+      <link>https://x.com/WhiteHouse/status/2124506370665857429</link>
+      <description>A nation without borders is not a nation.</description>
+      <guid isPermaLink="false">https://x.com/WhiteHouse/status/2124506370665857429</guid>
+      <pubDate>Sun, 22 Nov 2026 14:12:44 +0000</pubDate>
     </item>
   </channel>
 </rss>
