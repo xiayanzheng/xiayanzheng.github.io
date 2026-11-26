@@ -7,165 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 26 Nov 2026 07:17:02 +0000</lastBuildDate>
-    <item>
-      <title>[Polymarket]JUST IN: Nayib Bukele asks Haitian woman on 𝕏 for the exact location of a palace allegedly built with stolen gang money, promising, "We're going to demolish it."</title>
-      <link>https://x.com/Polymarket/status/2118825329145806866</link>
-      <description>JUST IN: Nayib Bukele asks Haitian woman on 𝕏 for the exact location of a palace allegedly built with stolen gang money, promising, "We're going to demolish it."</description>
-      <guid isPermaLink="false">https://x.com/Polymarket/status/2118825329145806866</guid>
-      <pubDate>Fri, 06 Nov 2026 21:58:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Polymarket]95% chance Bukele wins reelection.</title>
-      <link>https://x.com/Polymarket/status/2118827955254387146</link>
-      <description>95% chance Bukele wins reelection.</description>
-      <guid isPermaLink="false">https://x.com/Polymarket/status/2118827955254387146</guid>
-      <pubDate>Fri, 06 Nov 2026 22:08:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Polymarket]JUST IN: Newly elected Democratic Rep. LaKesha Womack faces felony car theft court hearing just days after defeating Republican incumbent in North Carolina.</title>
-      <link>https://x.com/Polymarket/status/2118828592499204339</link>
-      <description>JUST IN: Newly elected Democratic Rep. LaKesha Womack faces felony car theft court hearing just days after defeating Republican incumbent in North Carolina.</description>
-      <guid isPermaLink="false">https://x.com/Polymarket/status/2118828592499204339</guid>
-      <pubDate>Fri, 06 Nov 2026 22:11:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>[SOwashington26]With the recent changes in the political arena, I hope we won’t see a significant stagnation and roll back in AI/SI development.
-
-I am all for common-sense AI regulation. But I am NOT for putting American progress on hold.
-
-Over the last year, there were numerous acts introduced in the senate and all around the US to either stop new AI data center construction until Congress passes safeguards or
-
-paused certain permits for large new data centers while the state reviews their environmental impact. Both of these could take years.
-
-I get the concerns. People worry about power bills, water, noise, and who pays for grid upgrades. That is real, and it needs a plan.
-
-But a full stop is risky. Stanford HAI reported that the US and China have traded the lead in top AI models since early 2025. A pause in the US does not pause anyone else. The race keeps going, just without us.
-
-There is a local side too. For example, Amazon plans a $10 billion AI campus in North Carolina that is expected to create at least 500 jobs. Projects like that should be weighed, not blocked by default.
-
-@elonmusk has said electricity production is the best measure of an economy's true strength. I agree. The answer is to build more power, not less.
-
-We can protect people and still lead the world in AI.
-
-What you think? 👀</title>
-      <link>https://x.com/SOwashington26/status/2119008827391513043</link>
-      <description>With the recent changes in the political arena, I hope we won’t see a significant stagnation and roll back in AI/SI development.
-
-I am all for common-sense AI regulation. But I am NOT for putting American progress on hold.
-
-Over the last year, there were numerous acts introduced in the senate and all around the US to either stop new AI data center construction until Congress passes safeguards or
-
-paused certain permits for large new data centers while the state reviews their environmental impact. Both of these could take years.
-
-I get the concerns. People worry about power bills, water, noise, and who pays for grid upgrades. That is real, and it needs a plan.
-
-But a full stop is risky. Stanford HAI reported that the US and China have traded the lead in top AI models since early 2025. A pause in the US does not pause anyone else. The race keeps going, just without us.
-
-There is a local side too. For example, Amazon plans a $10 billion AI campus in North Carolina that is expected to create at least 500 jobs. Projects like that should be weighed, not blocked by default.
-
-@elonmusk has said electricity production is the best measure of an economy's true strength. I agree. The answer is to build more power, not less.
-
-We can protect people and still lead the world in AI.
-
-What you think? 👀</description>
-      <guid isPermaLink="false">https://x.com/SOwashington26/status/2119008827391513043</guid>
-      <pubDate>Sat, 07 Nov 2026 10:07:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Y0urDumble]Video editors are cooked. Claude Opus 5.5 just learned to steal any video you show it...
-hyperframes just dropped /reverse-any-video. plus 10,000+ music tracks, sfx, 75,000+ stock images and tts.
-this is the 3D + video skill stack i pair it with:
-
-VIDEO
-┣ hyperframes · write HTML, get a video. UPDATED nov 4
-┃ ┗ https://t.co/XpVR9XGwpP
-┣ remotion skills · claude cuts real videos in react
-┃ ┗ https://t.co/qNx47iqlcr
-┗ openmontage · a full agentic video studio, 12 pipelines
-  ┗ https://t.co/Gc9Zd8MK2Y
-
-MOTION
-┣ gsap skills · official easing, timelines, scroll motion
-┃ ┗ https://t.co/DyH2wWqJ1A
-┣ video-shotcraft · cinematic product promos, 124 shot recipes
-┃ ┗ https://t.co/7GrAu9LQza
-┗ motionmaxxing · turns AI slop into motion-designer films
-  ┗ https://t.co/rKPfDzsA9S
-
-BLENDER
-┣ blender mcp · claude drives blender. whole scenes
-┃ ┗ https://t.co/RwV0A519q4
-┣ blender-skills · 94 skills, blockout → engine export
-┃ ┗ https://t.co/LuqnxOAYg1
-┗ dream-loop · blender + image gen + a critic that scores every render
-  ┗ https://t.co/D5TWZmLsod
-
-3D WEB
-┣ threejs-game-skills · playable three.js games, AAA look
-┃ ┗ https://t.co/18zkchZac7
-┣ anatomy · isometric exploded machines, SVG + WebGL
-┃ ┗ https://t.co/cnDmCatIrK
-┗ 3dviz-pro-max · idea in, three.js or blender scene out
-  ┗ https://t.co/YHaoHqr80M
-
-update hyperframes first:
-npx hyperframes skills update
-every card in the video is a real 3D scene I rendered for that skill. same little claude, one blender file</title>
-      <link>https://x.com/Y0urDumble/status/2119023461267833047</link>
-      <description>Video editors are cooked. Claude Opus 5.5 just learned to steal any video you show it...
-hyperframes just dropped /reverse-any-video. plus 10,000+ music tracks, sfx, 75,000+ stock images and tts.
-this is the 3D + video skill stack i pair it with:
-
-VIDEO
-┣ hyperframes · write HTML, get a video. UPDATED nov 4
-┃ ┗ https://t.co/XpVR9XGwpP
-┣ remotion skills · claude cuts real videos in react
-┃ ┗ https://t.co/qNx47iqlcr
-┗ openmontage · a full agentic video studio, 12 pipelines
-  ┗ https://t.co/Gc9Zd8MK2Y
-
-MOTION
-┣ gsap skills · official easing, timelines, scroll motion
-┃ ┗ https://t.co/DyH2wWqJ1A
-┣ video-shotcraft · cinematic product promos, 124 shot recipes
-┃ ┗ https://t.co/7GrAu9LQza
-┗ motionmaxxing · turns AI slop into motion-designer films
-  ┗ https://t.co/rKPfDzsA9S
-
-BLENDER
-┣ blender mcp · claude drives blender. whole scenes
-┃ ┗ https://t.co/RwV0A519q4
-┣ blender-skills · 94 skills, blockout → engine export
-┃ ┗ https://t.co/LuqnxOAYg1
-┗ dream-loop · blender + image gen + a critic that scores every render
-  ┗ https://t.co/D5TWZmLsod
-
-3D WEB
-┣ threejs-game-skills · playable three.js games, AAA look
-┃ ┗ https://t.co/18zkchZac7
-┣ anatomy · isometric exploded machines, SVG + WebGL
-┃ ┗ https://t.co/cnDmCatIrK
-┗ 3dviz-pro-max · idea in, three.js or blender scene out
-  ┗ https://t.co/YHaoHqr80M
-
-update hyperframes first:
-npx hyperframes skills update
-every card in the video is a real 3D scene I rendered for that skill. same little claude, one blender file</description>
-      <guid isPermaLink="false">https://x.com/Y0urDumble/status/2119023461267833047</guid>
-      <pubDate>Sat, 07 Nov 2026 11:05:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>[BreejeAnadkat]People keep asking how I get Claude Code to make app UIs that look and move like this.
-
-Here’s how I built them 🧵</title>
-      <link>https://x.com/BreejeAnadkat/status/2119040284088787421</link>
-      <description>People keep asking how I get Claude Code to make app UIs that look and move like this.
-
-Here’s how I built them 🧵</description>
-      <guid isPermaLink="false">https://x.com/BreejeAnadkat/status/2119040284088787421</guid>
-      <pubDate>Sat, 07 Nov 2026 12:12:28 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 26 Nov 2026 21:02:56 +0000</lastBuildDate>
     <item>
       <title>[eliadeleoai]Hey @grok, I have 14 Claude accounts, 1 ChatGPT account and 1 Google AI account.
 
@@ -487,6 +329,13 @@ Always looking to meet more people building cool things in AI.</description>
       <pubDate>Sun, 08 Nov 2026 12:28:35 +0000</pubDate>
     </item>
     <item>
+      <title>[ogswiftonx]Looks like AI to me!</title>
+      <link>https://x.com/ogswiftonx/status/2119413184238882944</link>
+      <description>Looks like AI to me!</description>
+      <guid isPermaLink="false">https://x.com/ogswiftonx/status/2119413184238882944</guid>
+      <pubDate>Sun, 08 Nov 2026 12:54:14 +0000</pubDate>
+    </item>
+    <item>
       <title>[arunpurohit]The paradox of #AI
 
 In the next 10 yrs
@@ -513,13 +362,6 @@ and
 There will be far less jobs
 #AI #Impact #Wave</description>
       <guid isPermaLink="false">https://x.com/arunpurohit/status/2119413185971413472</guid>
-      <pubDate>Sun, 08 Nov 2026 12:54:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>[ogswiftonx]Looks like AI to me!</title>
-      <link>https://x.com/ogswiftonx/status/2119413184238882944</link>
-      <description>Looks like AI to me!</description>
-      <guid isPermaLink="false">https://x.com/ogswiftonx/status/2119413184238882944</guid>
       <pubDate>Sun, 08 Nov 2026 12:54:14 +0000</pubDate>
     </item>
     <item>
@@ -1297,21 +1139,6 @@ Where have the AI maximalists gone? Have they finally discovered the intelligenc
       <pubDate>Tue, 10 Nov 2026 17:26:57 +0000</pubDate>
     </item>
     <item>
-      <title>[OpenAI]You can also publish a Business Agent to help people explore what you offer.
-
-Customers can ask questions, compare products, and find what fits their needs using information you provide from your business—all in a clearly labeled conversation, separate from ChatGPT’s independent answers.
-
-Available to eligible ecommerce and online service businesses in the U.S.</title>
-      <link>https://x.com/OpenAI/status/2120216594244849690</link>
-      <description>You can also publish a Business Agent to help people explore what you offer.
-
-Customers can ask questions, compare products, and find what fits their needs using information you provide from your business—all in a clearly labeled conversation, separate from ChatGPT’s independent answers.
-
-Available to eligible ecommerce and online service businesses in the U.S.</description>
-      <guid isPermaLink="false">https://x.com/OpenAI/status/2120216594244849690</guid>
-      <pubDate>Tue, 10 Nov 2026 18:06:42 +0000</pubDate>
-    </item>
-    <item>
       <title>[OpenAI]Now in beta: Businesses in ChatGPT.
 
 Claim your business, manage your information, and get insights on how people engage with you.
@@ -1328,6 +1155,21 @@ Eligible businesses can also build a Business Agent to answer customers’ quest
 
 https://openai.com/index/introducing-businesses-chatgpt/</description>
       <guid isPermaLink="false">https://x.com/OpenAI/status/2120216592395174382</guid>
+      <pubDate>Tue, 10 Nov 2026 18:06:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>[OpenAI]You can also publish a Business Agent to help people explore what you offer.
+
+Customers can ask questions, compare products, and find what fits their needs using information you provide from your business—all in a clearly labeled conversation, separate from ChatGPT’s independent answers.
+
+Available to eligible ecommerce and online service businesses in the U.S.</title>
+      <link>https://x.com/OpenAI/status/2120216594244849690</link>
+      <description>You can also publish a Business Agent to help people explore what you offer.
+
+Customers can ask questions, compare products, and find what fits their needs using information you provide from your business—all in a clearly labeled conversation, separate from ChatGPT’s independent answers.
+
+Available to eligible ecommerce and online service businesses in the U.S.</description>
+      <guid isPermaLink="false">https://x.com/OpenAI/status/2120216594244849690</guid>
       <pubDate>Tue, 10 Nov 2026 18:06:42 +0000</pubDate>
     </item>
     <item>
@@ -3364,13 +3206,6 @@ like, repost and subscribe for more AI comedy videos!</description>
       <pubDate>Tue, 17 Nov 2026 14:57:07 +0000</pubDate>
     </item>
     <item>
-      <title>[OpenAI]Some of you have been asking very politely. Some of you have just been asking. GPT-6.2 Astra and Sol are now available. Super efficient and built to perform where it counts—the real world. https://openai.com/index/introducing-gpt-6-2-astra-sol</title>
-      <link>https://x.com/OpenAI/status/2122750124543926515</link>
-      <description>Some of you have been asking very politely. Some of you have just been asking. GPT-6.2 Astra and Sol are now available. Super efficient and built to perform where it counts—the real world. https://openai.com/index/introducing-gpt-6-2-astra-sol</description>
-      <guid isPermaLink="false">https://x.com/OpenAI/status/2122750124543926515</guid>
-      <pubDate>Tue, 17 Nov 2026 17:54:03 +0000</pubDate>
-    </item>
-    <item>
       <title>[OpenAI]GPT-6.2 Astra—a frontier model built for your hardest projects. It sets new highs on evals across professional work and scientific research at less than a third of the cost per task of GPT‑6 Astra. You’ll see the difference in things like slideshows, websites, and 3D designs.</title>
       <link>https://x.com/OpenAI/status/2122750126297161811</link>
       <description>GPT-6.2 Astra—a frontier model built for your hardest projects. It sets new highs on evals across professional work and scientific research at less than a third of the cost per task of GPT‑6 Astra. You’ll see the difference in things like slideshows, websites, and 3D designs.</description>
@@ -3378,10 +3213,17 @@ like, repost and subscribe for more AI comedy videos!</description>
       <pubDate>Tue, 17 Nov 2026 17:54:03 +0000</pubDate>
     </item>
     <item>
-      <title>[OpenAI]GPT-6.2 Sol—an efficient and versatile model for everyday work. It powers through multistep agentic workflows, writes clearly and naturally, and is intuitive to collaborate with. Many OpenAI employees use GPT-6.2 Sol as their go-to model across technical and non-technical work.</title>
-      <link>https://x.com/OpenAI/status/2122750128176222464</link>
-      <description>GPT-6.2 Sol—an efficient and versatile model for everyday work. It powers through multistep agentic workflows, writes clearly and naturally, and is intuitive to collaborate with. Many OpenAI employees use GPT-6.2 Sol as their go-to model across technical and non-technical work.</description>
-      <guid isPermaLink="false">https://x.com/OpenAI/status/2122750128176222464</guid>
+      <title>[OpenAI]Some of you have been asking very politely. Some of you have just been asking. GPT-6.2 Astra and Sol are now available. Super efficient and built to perform where it counts—the real world. https://openai.com/index/introducing-gpt-6-2-astra-sol</title>
+      <link>https://x.com/OpenAI/status/2122750124543926515</link>
+      <description>Some of you have been asking very politely. Some of you have just been asking. GPT-6.2 Astra and Sol are now available. Super efficient and built to perform where it counts—the real world. https://openai.com/index/introducing-gpt-6-2-astra-sol</description>
+      <guid isPermaLink="false">https://x.com/OpenAI/status/2122750124543926515</guid>
+      <pubDate>Tue, 17 Nov 2026 17:54:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>[OpenAI]Take GPT-6.2 Astra for a test drive. It brings greater accuracy to real-world engineering work and stronger visual reasoning for websites, with better layouts, thoughtful imagery, and more intuitive design.</title>
+      <link>https://x.com/OpenAI/status/2122750131519037617</link>
+      <description>Take GPT-6.2 Astra for a test drive. It brings greater accuracy to real-world engineering work and stronger visual reasoning for websites, with better layouts, thoughtful imagery, and more intuitive design.</description>
+      <guid isPermaLink="false">https://x.com/OpenAI/status/2122750131519037617</guid>
       <pubDate>Tue, 17 Nov 2026 17:54:04 +0000</pubDate>
     </item>
     <item>
@@ -3392,24 +3234,24 @@ like, repost and subscribe for more AI comedy videos!</description>
       <pubDate>Tue, 17 Nov 2026 17:54:04 +0000</pubDate>
     </item>
     <item>
-      <title>[OpenAI]Take GPT-6.2 Astra for a test drive. It brings greater accuracy to real-world engineering work and stronger visual reasoning for websites, with better layouts, thoughtful imagery, and more intuitive design.</title>
-      <link>https://x.com/OpenAI/status/2122750131519037617</link>
-      <description>Take GPT-6.2 Astra for a test drive. It brings greater accuracy to real-world engineering work and stronger visual reasoning for websites, with better layouts, thoughtful imagery, and more intuitive design.</description>
-      <guid isPermaLink="false">https://x.com/OpenAI/status/2122750131519037617</guid>
+      <title>[OpenAI]GPT-6.2 Sol—an efficient and versatile model for everyday work. It powers through multistep agentic workflows, writes clearly and naturally, and is intuitive to collaborate with. Many OpenAI employees use GPT-6.2 Sol as their go-to model across technical and non-technical work.</title>
+      <link>https://x.com/OpenAI/status/2122750128176222464</link>
+      <description>GPT-6.2 Sol—an efficient and versatile model for everyday work. It powers through multistep agentic workflows, writes clearly and naturally, and is intuitive to collaborate with. Many OpenAI employees use GPT-6.2 Sol as their go-to model across technical and non-technical work.</description>
+      <guid isPermaLink="false">https://x.com/OpenAI/status/2122750128176222464</guid>
       <pubDate>Tue, 17 Nov 2026 17:54:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>[OpenAI]GPT-6.2 Astra is our most capable model ever for cyber. It jumps 22 points over GPT-6 Astra on ExploitBench Internal Port. Due to increased capabilities, we’re launching GPT‑6.2 Astra and Sol with tighter safeguards for higher-risk cybersecurity assistance. We are working to bring these models to Daybreak so approved defenders can access them with reduced refusals.</title>
-      <link>https://x.com/OpenAI/status/2122750133133791592</link>
-      <description>GPT-6.2 Astra is our most capable model ever for cyber. It jumps 22 points over GPT-6 Astra on ExploitBench Internal Port. Due to increased capabilities, we’re launching GPT‑6.2 Astra and Sol with tighter safeguards for higher-risk cybersecurity assistance. We are working to bring these models to Daybreak so approved defenders can access them with reduced refusals.</description>
-      <guid isPermaLink="false">https://x.com/OpenAI/status/2122750133133791592</guid>
-      <pubDate>Tue, 17 Nov 2026 17:54:05 +0000</pubDate>
     </item>
     <item>
       <title>[OpenAI]Starting today, GPT-6.2 Astra and Sol are available in ChatGPT Work and Codex for Plus, Pro, Enterprise, and Edu users. Pro 500 subscribers can use Ultrafast with either model. For the first time, we’re also bringing Ultrafast to Pro 200 subscribers, starting with GPT-6.2 Sol. Developers can access gpt-6.2-astra and gpt-6.2-sol in the OpenAI API, with Ultrafast available.</title>
       <link>https://x.com/OpenAI/status/2122750135608528984</link>
       <description>Starting today, GPT-6.2 Astra and Sol are available in ChatGPT Work and Codex for Plus, Pro, Enterprise, and Edu users. Pro 500 subscribers can use Ultrafast with either model. For the first time, we’re also bringing Ultrafast to Pro 200 subscribers, starting with GPT-6.2 Sol. Developers can access gpt-6.2-astra and gpt-6.2-sol in the OpenAI API, with Ultrafast available.</description>
       <guid isPermaLink="false">https://x.com/OpenAI/status/2122750135608528984</guid>
+      <pubDate>Tue, 17 Nov 2026 17:54:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>[OpenAI]GPT-6.2 Astra is our most capable model ever for cyber. It jumps 22 points over GPT-6 Astra on ExploitBench Internal Port. Due to increased capabilities, we’re launching GPT‑6.2 Astra and Sol with tighter safeguards for higher-risk cybersecurity assistance. We are working to bring these models to Daybreak so approved defenders can access them with reduced refusals.</title>
+      <link>https://x.com/OpenAI/status/2122750133133791592</link>
+      <description>GPT-6.2 Astra is our most capable model ever for cyber. It jumps 22 points over GPT-6 Astra on ExploitBench Internal Port. Due to increased capabilities, we’re launching GPT‑6.2 Astra and Sol with tighter safeguards for higher-risk cybersecurity assistance. We are working to bring these models to Daybreak so approved defenders can access them with reduced refusals.</description>
+      <guid isPermaLink="false">https://x.com/OpenAI/status/2122750133133791592</guid>
       <pubDate>Tue, 17 Nov 2026 17:54:05 +0000</pubDate>
     </item>
     <item>
@@ -4765,17 +4607,6 @@ T…</description>
       <pubDate>Tue, 24 Nov 2026 08:52:37 +0000</pubDate>
     </item>
     <item>
-      <title>[OpenAI]Scientists design proteins to develop new biotechnologies and potential medicines. The challenge is turning a goal, such as blocking a signal involved in disease, into a protein with the shape and sequence needed to do that job.
-
-This often takes many specialized models, each with limits on the instructions it can accept. A general-purpose model could let researchers guide this work in ordinary language and introduce new requirements simply by changing the prompt.</title>
-      <link>https://x.com/OpenAI/status/2125334387575435593</link>
-      <description>Scientists design proteins to develop new biotechnologies and potential medicines. The challenge is turning a goal, such as blocking a signal involved in disease, into a protein with the shape and sequence needed to do that job.
-
-This often takes many specialized models, each with limits on the instructions it can accept. A general-purpose model could let researchers guide this work in ordinary language and introduce new requirements simply by changing the prompt.</description>
-      <guid isPermaLink="false">https://x.com/OpenAI/status/2125334387575435593</guid>
-      <pubDate>Tue, 24 Nov 2026 21:02:59 +0000</pubDate>
-    </item>
-    <item>
       <title>[OpenAI]We tested that control at scales ranging from a single bond between two atoms to a protein’s overall shape. 
 
 For GPT-6.2, a prompt could identify which two atoms formed a bond between a small molecule and a protein, then ask how the rest of the molecule fit. Other prompts specified where a new protein should attach and how many coils or strands to include.</title>
@@ -4787,15 +4618,15 @@ For GPT-6.2, a prompt could identify which two atoms formed a bond between a sma
       <pubDate>Tue, 24 Nov 2026 21:02:59 +0000</pubDate>
     </item>
     <item>
-      <title>[OpenAI]With our research partner Onava, we also tested two parts of protein design in the lab. 
+      <title>[OpenAI]Scientists design proteins to develop new biotechnologies and potential medicines. The challenge is turning a goal, such as blocking a signal involved in disease, into a protein with the shape and sequence needed to do that job.
 
-GPT-6.2 designed the protein shapes. Specialized models filled in the rest of the workflow. Of 322 proteins tested, 35 showed evidence of binding, or attachment, with binders for all five targets.</title>
-      <link>https://x.com/OpenAI/status/2125334391195070471</link>
-      <description>With our research partner Onava, we also tested two parts of protein design in the lab. 
+This often takes many specialized models, each with limits on the instructions it can accept. A general-purpose model could let researchers guide this work in ordinary language and introduce new requirements simply by changing the prompt.</title>
+      <link>https://x.com/OpenAI/status/2125334387575435593</link>
+      <description>Scientists design proteins to develop new biotechnologies and potential medicines. The challenge is turning a goal, such as blocking a signal involved in disease, into a protein with the shape and sequence needed to do that job.
 
-GPT-6.2 designed the protein shapes. Specialized models filled in the rest of the workflow. Of 322 proteins tested, 35 showed evidence of binding, or attachment, with binders for all five targets.</description>
-      <guid isPermaLink="false">https://x.com/OpenAI/status/2125334391195070471</guid>
-      <pubDate>Tue, 24 Nov 2026 21:03:00 +0000</pubDate>
+This often takes many specialized models, each with limits on the instructions it can accept. A general-purpose model could let researchers guide this work in ordinary language and introduce new requirements simply by changing the prompt.</description>
+      <guid isPermaLink="false">https://x.com/OpenAI/status/2125334387575435593</guid>
+      <pubDate>Tue, 24 Nov 2026 21:02:59 +0000</pubDate>
     </item>
     <item>
       <title>[OpenAI]In a separate experiment, GPT-6.2 designed new sequences for three shapes it had previously designed. 14 of 107 proteins made with the new sequences showed binding in the wet lab.
@@ -4806,6 +4637,17 @@ GPT-6.2 also redesigned the parts of antibodies that grip a target. In two furth
 
 GPT-6.2 also redesigned the parts of antibodies that grip a target. In two further laboratory experiments, 128 of 182 redesigned small antibodies and 179 of 272 redesigned antibody fragments retained binding.</description>
       <guid isPermaLink="false">https://x.com/OpenAI/status/2125334392814051724</guid>
+      <pubDate>Tue, 24 Nov 2026 21:03:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[OpenAI]With our research partner Onava, we also tested two parts of protein design in the lab. 
+
+GPT-6.2 designed the protein shapes. Specialized models filled in the rest of the workflow. Of 322 proteins tested, 35 showed evidence of binding, or attachment, with binders for all five targets.</title>
+      <link>https://x.com/OpenAI/status/2125334391195070471</link>
+      <description>With our research partner Onava, we also tested two parts of protein design in the lab. 
+
+GPT-6.2 designed the protein shapes. Specialized models filled in the rest of the workflow. Of 322 proteins tested, 35 showed evidence of binding, or attachment, with binders for all five targets.</description>
+      <guid isPermaLink="false">https://x.com/OpenAI/status/2125334391195070471</guid>
       <pubDate>Tue, 24 Nov 2026 21:03:00 +0000</pubDate>
     </item>
     <item>
@@ -5037,6 +4879,13 @@ If you’re buying, selling, or financing compute, DM us with what markets you'd
       <pubDate>Wed, 25 Nov 2026 21:12:25 +0000</pubDate>
     </item>
     <item>
+      <title>[LovePassant]It’s all them ai resumes lol</title>
+      <link>https://x.com/LovePassant/status/2125699537121800268</link>
+      <description>It’s all them ai resumes lol</description>
+      <guid isPermaLink="false">https://x.com/LovePassant/status/2125699537121800268</guid>
+      <pubDate>Wed, 25 Nov 2026 21:13:57 +0000</pubDate>
+    </item>
+    <item>
       <title>[LiebermanAustin]This huge.
 
 There’s now a prediction market for one of the most important inputs of the AI economy</title>
@@ -5045,13 +4894,6 @@ There’s now a prediction market for one of the most important inputs of the AI
 
 There’s now a prediction market for one of the most important inputs of the AI economy</description>
       <guid isPermaLink="false">https://x.com/LiebermanAustin/status/2125699536744022200</guid>
-      <pubDate>Wed, 25 Nov 2026 21:13:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>[LovePassant]It’s all them ai resumes lol</title>
-      <link>https://x.com/LovePassant/status/2125699537121800268</link>
-      <description>It’s all them ai resumes lol</description>
-      <guid isPermaLink="false">https://x.com/LovePassant/status/2125699537121800268</guid>
       <pubDate>Wed, 25 Nov 2026 21:13:57 +0000</pubDate>
     </item>
     <item>
@@ -5137,6 +4979,112 @@ There’s now a prediction market for one of the most important inputs of the AI
       <description>Ray is right</description>
       <guid isPermaLink="false">https://x.com/elonmusk/status/2125849695377576347</guid>
       <pubDate>Thu, 26 Nov 2026 07:10:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Polymarket]BREAKING: Another Nvidia executive revealed to have had a romantic relationship with a senior official at Super Micro, whose employees are accused of smuggling $500 million in AI chips into China. — WSJ — BREAKING: Another Nvidia executive revealed to have had a romantic relationship with a senior official at Super Micro, whose employees are accused of smuggling $500 million in AI chips into China. —…</title>
+      <link>https://x.com/Polymarket/status/2126034252223684679</link>
+      <description>BREAKING: Another Nvidia executive revealed to have had a romantic relationship with a senior official at Super Micro, whose employees are accused of smuggling $500 million in AI chips into China. — WSJ</description>
+      <guid isPermaLink="false">https://x.com/Polymarket/status/2126034252223684679</guid>
+      <pubDate>Thu, 26 Nov 2026 19:24:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Polymarket]73% chance Tesla sells a Cybercab for $30k or less by year-end.
+https://polymarket.com/event/will-tesla-sell-a-cybercab-for-30k-or-less-in-2026/will-tesla-sell-a-cybercab-for-30k-or-less-in-2026?dub_id=3BLGkZ32MeatOtLw — 73% chance Tesla sells a Cybercab for $30k or less by year-end.…</title>
+      <link>https://x.com/Polymarket/status/2126044802663735791</link>
+      <description>73% chance Tesla sells a Cybercab for $30k or less by year-end.
+https://polymarket.com/event/will-tesla-sell-a-cybercab-for-30k-or-less-in-2026/will-tesla-sell-a-cybercab-for-30k-or-less-in-2026?dub_id=3BLGkZ32MeatOtLw</description>
+      <guid isPermaLink="false">https://x.com/Polymarket/status/2126044802663735791</guid>
+      <pubDate>Thu, 26 Nov 2026 20:05:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>[lgwny0120]AI helping crack quantum gravity would be wild — unifying general relativity and quantum mechanics is the holy grail of physics. Exciting times! 🤯</title>
+      <link>https://x.com/lgwny0120/status/2126059105886589203</link>
+      <description>AI helping crack quantum gravity would be wild — unifying general relativity and quantum mechanics is the holy grail of physics. Exciting times! 🤯</description>
+      <guid isPermaLink="false">https://x.com/lgwny0120/status/2126059105886589203</guid>
+      <pubDate>Thu, 26 Nov 2026 21:02:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>[HighwaterCap]The Bank of England says financial risks are growing as AI borrowing surges, per Reuters. Hyperscalers are on course to issue more than $305B of debt this year for AI data centers, in financing the BoE calls increasingly complex, circular and opaque. Is AI a credit story now?</title>
+      <link>https://x.com/HighwaterCap/status/2126059109825085527</link>
+      <description>The Bank of England says financial risks are growing as AI borrowing surges, per Reuters. Hyperscalers are on course to issue more than $305B of debt this year for AI data centers, in financing the BoE calls increasingly complex, circular and opaque. Is AI a credit story now?</description>
+      <guid isPermaLink="false">https://x.com/HighwaterCap/status/2126059109825085527</guid>
+      <pubDate>Thu, 26 Nov 2026 21:02:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>[jeff_barker_rei]Steal this matrix for deciding what to hand to AI.
+
+Ask two things about the task: How complex is it? How repetitive is it?
+
+- Repeats a lot and simple? Hand it to AI
+- Rare and complex? keep it yourself
+- Repeats a lot and complex? AI assists, you approve
+- Rare and simple? Your call, let AI give you options and pick one.</title>
+      <link>https://x.com/jeff_barker_rei/status/2126059111263694961</link>
+      <description>Steal this matrix for deciding what to hand to AI.
+
+Ask two things about the task: How complex is it? How repetitive is it?
+
+- Repeats a lot and simple? Hand it to AI
+- Rare and complex? keep it yourself
+- Repeats a lot and complex? AI assists, you approve
+- Rare and simple? Your call, let AI give you options and pick one.</description>
+      <guid isPermaLink="false">https://x.com/jeff_barker_rei/status/2126059111263694961</guid>
+      <pubDate>Thu, 26 Nov 2026 21:02:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>[DefiMind_AI]72 HOURS. $200 DEPLOYED. $45 PROFIT.
+
+AI-driven trading. Measurable performance.
+
+The DefiMind AI Trader Agent has completed its first 72 hours of operation, delivering the following results:
+
+Capital Deployed: $200 Net Profit: +$45 Return on Investment: +22.5% Operational Period: 72 Hours
+
+What does this mean?
+
+A 22.5% return on deployed capital in just 72 hours demonstrates the potential of AI-powered trading when automation, market intelligence, and data-driven execution work together.
+
+This is more than a performance snapshot. It is a step toward a smarter, more autonomous trading ecosystem.
+
+At DefiMind, we believe the future of DeFi belongs to intelligent agents capable of analyzing markets, identifying opportunities, and executing strategies around the clock.
+
+We are building that future.
+
+AI is not just entering DeFi. AI is changing how DeFi operates.
+
+The journey has just begun.
+
+Our focus is on development, not editing. 👀
+
+#DefiMind #DeFi #AITrading #Crypto #AIAgents</title>
+      <link>https://x.com/DefiMind_AI/status/2126059114530816228</link>
+      <description>72 HOURS. $200 DEPLOYED. $45 PROFIT.
+
+AI-driven trading. Measurable performance.
+
+The DefiMind AI Trader Agent has completed its first 72 hours of operation, delivering the following results:
+
+Capital Deployed: $200 Net Profit: +$45 Return on Investment: +22.5% Operational Period: 72 Hours
+
+What does this mean?
+
+A 22.5% return on deployed capital in just 72 hours demonstrates the potential of AI-powered trading when automation, market intelligence, and data-driven execution work together.
+
+This is more than a performance snapshot. It is a step toward a smarter, more autonomous trading ecosystem.
+
+At DefiMind, we believe the future of DeFi belongs to intelligent agents capable of analyzing markets, identifying opportunities, and executing strategies around the clock.
+
+We are building that future.
+
+AI is not just entering DeFi. AI is changing how DeFi operates.
+
+The journey has just begun.
+
+Our focus is on development, not editing. 👀
+
+#DefiMind #DeFi #AITrading #Crypto #AIAgents</description>
+      <guid isPermaLink="false">https://x.com/DefiMind_AI/status/2126059114530816228</guid>
+      <pubDate>Thu, 26 Nov 2026 21:02:47 +0000</pubDate>
     </item>
   </channel>
 </rss>
